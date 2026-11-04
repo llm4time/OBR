@@ -1,0 +1,4074 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIRDA BRASILEIRA DE AROBOTICA 2020",
+      "bbox": [
+        414,
+        47,
+        650,
+        136
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "text",
+      "text": "OBR",
+      "bbox": [
+        818,
+        73,
+        898,
+        95
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "NIVEL 5 - FASE 2 - ENSINO MÉDIO E TÉCNICO",
+      "bbox": [
+        195,
+        311,
+        919,
+        337
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        48,
+        369,
+        925,
+        564
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        302,
+        586,
+        669,
+        608
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        56,
+        623,
+        314,
+        645
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "- España: 14 páginas e 20 questões;",
+      "bbox": [
+        85,
+        647,
+        635,
+        666
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Duração da prova: 4 horas;",
+      "bbox": [
+        86,
+        671,
+        429,
+        691
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova delve ser preenchida a caneta;",
+      "bbox": [
+        86,
+        694,
+        558,
+        713
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido ou uso de calculadoras;",
+      "bbox": [
+        86,
+        718,
+        560,
+        739
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        86,
+        741,
+        734,
+        761
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente.",
+      "bbox": [
+        86,
+        765,
+        611,
+        784
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        647,
+        734,
+        784
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "title",
+      "text": "ATENÇAÖ: Algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        93,
+        787,
+        873,
+        810
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        87,
+        834,
+        902,
+        932
+      ]
+    }
+  ],
+  [
+    {
+      "id": 15,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        61,
+        117,
+        230,
+        142
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "title",
+      "text": "Googlecamearatestedesroboquefazligaoes e interage comhumanos",
+      "bbox": [
+        247,
+        119,
+        942,
+        176
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "O service robÓlico de chamadas do Google, que pode fazer com os humanos para fazer uma reserva ou registrar um compromisso, está pronta para fazer seu erstenolvimento em很小ea escaça. AlugumasERPresas receberao liações do sistemas nasproximas semanas, annunciaram os desenvoladores. OGoogle,porém,não revelaantasobocaiasestariumenvolidasnessteste.Apresentado pela primarye ne em meio, ouDuplexe tse tornuuma das nividades maisesperadasdoano.Durante o evento depresentação, o robó Telefonou para um Restaurantante falando como um humano e conseguiu rescurvar mesa.",
+      "bbox": [
+        53,
+        192,
+        941,
+        311
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "\"Oi - eu estou liquando para fazer umareshira\", diz a voz feminina que começa o dialgo. \"Sou o服务于reservas automatizado do Google, por istou you gravar esta chamada.\"",
+      "bbox": [
+        54,
+        326,
+        941,
+        361
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "E aussi, en peu tempo, a réserve é conclusida. Cinco pessoas, 20h, sob o nome de Valérie. Immediamente, é perceptível que o Duplex arega se identificática como umsystema automatizado e diz que gravará a chamada - uma adaptação para fazer violar as leis da Califôria sobre monitoramento de chamadas Telefonicas. O destinativo da chamada tem a��ão de fazer \"Não quero ser gravado\", ou outras palavras com这事 efeito - o eSYSTEMA sera desativado.",
+      "bbox": [
+        53,
+        375,
+        941,
+        462
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "(Texto adaptado de https://www.bbc.com/Portugueses/Internacion/44636175)",
+      "bbox": [
+        55,
+        474,
+        526,
+        489
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "O Texto retrata um cenario de testes do novo Sistema robístico da Google que pode se passar para a persona, funzonando como assistente personal virtual, ou para obter informações para o site de buscas. Sobre a linguagem utilizada para aCommunication do robó com o(a)attendente, é correto affirmar que:",
+      "bbox": [
+        53,
+        539,
+        926,
+        608
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "a) O canal正常使用 para a comunicação foi uma chamada Telefonica, estando inserida em umcontexto deresherva de mesa em umrestaurante.",
+      "bbox": [
+        84,
+        610,
+        867,
+        640
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "text",
+      "text": "b) Durate a reserve da mesa, o Sistema da Google apenas escauta a mensagem, atuando apenas como um receptor, tendo em vista que não eque capaz de eslebarcer um dialogo.",
+      "bbox": [
+        84,
+        643,
+        903,
+        675
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "c) O documento utilisé para transmissão da@email eproprio da Tecnologia, dificuldando a comprehensão do receptor humano.",
+      "bbox": [
+        84,
+        678,
+        848,
+        710
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "d) Desativação do Sistema de forma verbal pelo receptor configura acriação de um novo \"canal\" na comunização.",
+      "bbox": [
+        84,
+        713,
+        926,
+        745
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "e) O Sistema atucou como um Assistente Virtual do restaurante e enviende um cliente que deseja fazer umaresherva para uma mesa.",
+      "bbox": [
+        84,
+        747,
+        938,
+        780
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        610,
+        938,
+        780
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        807,
+        913,
+        826,
+        930
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 30,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        65,
+        77,
+        231,
+        101
+      ]
+    },
+    {
+      "id": 31,
+      "page": 2,
+      "category": "text",
+      "text": "Um rob è fornutilizzato ad ajud agarodades fetebolo americano non seu treinamento de",
+      "bbox": [
+        249,
+        91,
+        694,
+        124
+      ]
+    },
+    {
+      "id": 32,
+      "page": 2,
+      "category": "text",
+      "text": "receção de passos de bola. Para calcular o volume do recipiente que vale armazenar as bolas, foi necessário primary fazer a modelagem 3D da bola. Uma das forma de realizar a modelagem consiste em Desenhar uma ellipse de两大 dimensionales e, em seguida, aplicar uma revolucao de \\(360^{\\circ}\\) a fim decriar o Modelo 3D.",
+      "bbox": [
+        54,
+        126,
+        692,
+        211
+      ]
+    },
+    {
+      "id": 33,
+      "page": 2,
+      "category": "text",
+      "text": "Imagem retirada de",
+      "bbox": [
+        57,
+        212,
+        183,
+        223
+      ]
+    },
+    {
+      "id": 34,
+      "page": 2,
+      "category": "text",
+      "text": "https://www.freepik.com/free-photo/robot-playing-american-foetalball_7528807.htm)",
+      "bbox": [
+        57,
+        224,
+        549,
+        237
+      ]
+    },
+    {
+      "id": 35,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        725,
+        105,
+        917,
+        263
+      ]
+    },
+    {
+      "id": 36,
+      "page": 2,
+      "category": "text",
+      "text": "Na imagem, é possivel ver o resultado da planificacao de uma bola de futebol americano. Qual o volume final do Modelo 3D da bola apso a revolunção no eixo de rotação x? (Considere pi = 3,14)",
+      "bbox": [
+        54,
+        254,
+        395,
+        357
+      ]
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "category": "text",
+      "text": "a) 473,26",
+      "bbox": [
+        85,
+        375,
+        177,
+        391
+      ]
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "category": "text",
+      "text": "b) 401,92",
+      "bbox": [
+        87,
+        394,
+        177,
+        408
+      ]
+    },
+    {
+      "id": 39,
+      "page": 2,
+      "category": "text",
+      "text": "c) 75,36",
+      "bbox": [
+        87,
+        410,
+        166,
+        425
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "text",
+      "text": "d) 301,44",
+      "bbox": [
+        87,
+        428,
+        176,
+        443
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "text",
+      "text": "e) 602,88",
+      "bbox": [
+        87,
+        445,
+        176,
+        460
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        375,
+        177,
+        460
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        410,
+        262,
+        918,
+        483
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        64,
+        525,
+        231,
+        548
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "No ano de 2000, um vexamento em duros de olho na baixa de Guanabara (RJ) causou um dos maioris acidentes ambientais do Brasil. Alémem de afantar a faina e a flora, o acidente abalou o equilibrio da caveia alimentar de toda baixa. O petrolé forma uma peculina na superficie da água, ou que prejudica as trocas gasas da",
+      "bbox": [
+        247,
+        513,
+        942,
+        581
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "text",
+      "text": "atmosfera com a agua e desfavorece a realizacao de fotossintese pelas algas, que estao na base da caedia alimentar hidrica. Allem disse, o derramamento de oleio contribuiu o envenementado das arvores e, consequentemente, para a intoxicacao da fauna e flora aquáticas, bem como conduzui a morte diversas espécies de animais, entre outras formas de vida, afetando tambo a atividade pesquera.",
+      "bbox": [
+        54,
+        582,
+        941,
+        651
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "text",
+      "text": "(Texto adaptado de LAUBIER. L. Diversidade da Mare Negra. In: Scientific American Brasil. 4(39), ago. 2005.)",
+      "bbox": [
+        55,
+        651,
+        719,
+        664
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "title",
+      "text": "Coreanocriaboboparalimpeza de petróleo no mar",
+      "bbox": [
+        55,
+        667,
+        564,
+        723
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "Bio-Cleaner funciona como um aspirador de pó marinho. O helicóptero lance也比较 equiporada na area atingida pelo vazamento, então, ele suga o oleo e comoça para agua.",
+      "bbox": [
+        54,
+        727,
+        603,
+        778
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "Hsu Sean, designer coreano, criou um robó capaz de limpar Areas atingidas por vazamento de petróleo. Segundo Sean, aopause é(PRática e segura.",
+      "bbox": [
+        54,
+        792,
+        603,
+        845
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "O Bio-Cleaner funciona como um aspirador de pó marinho. O helicópteroança o equipoamento na area atingida pelo vazamento. Então, ele suga o oleo e começa a limpar a água.",
+      "bbox": [
+        54,
+        845,
+        785,
+        896
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        614,
+        682,
+        971,
+        854
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        808,
+        892,
+        825,
+        909
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 55,
+      "page": 3,
+      "category": "text",
+      "text": "O Sistema é composto por um robé amareço que temTRS braços, àsolem de uma bomba embutida. O Sistema é composto por um robé amareço que temTRS braços do Estado das aigua. Ha sempre um compartmento com bacteriáce capazes de degradar o petróleo na Lua.",
+      "bbox": [
+        54,
+        60,
+        941,
+        109
+      ]
+    },
+    {
+      "id": 56,
+      "page": 3,
+      "category": "text",
+      "text": "(Texto e imagem adaptados de https://exame.com/mundo/coreano-cria-robo-para-limpeza-de-petroleo-no-mar/)",
+      "bbox": [
+        55,
+        110,
+        728,
+        123
+      ]
+    },
+    {
+      "id": 57,
+      "page": 3,
+      "category": "text",
+      "text": "Sobre autilização de robos para limpar bazamentos de petróleo em alto mar, é correto affirmar que:",
+      "bbox": [
+        55,
+        138,
+        932,
+        155
+      ]
+    },
+    {
+      "id": 58,
+      "page": 3,
+      "category": "text",
+      "text": "a) A Utilização de robos evita o��o humano com o material tóxico e acelerá o processo de limpeza, evitando um impacto ambiental maior.",
+      "bbox": [
+        84,
+        170,
+        940,
+        202
+      ]
+    },
+    {
+      "id": 59,
+      "page": 3,
+      "category": "text",
+      "text": "b) Os atuais métodos de limpeza que consistem no uso de detergentes são mais seguros do que robos devo a superviagem e o operationalização humana.",
+      "bbox": [
+        84,
+        204,
+        940,
+        237
+      ]
+    },
+    {
+      "id": 60,
+      "page": 3,
+      "category": "text",
+      "text": "c) Os robos não são necessários, País os peixes posuem alta capacidade de adapção e pode atruar para limpar o vazamento.",
+      "bbox": [
+        84,
+        239,
+        940,
+        272
+      ]
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "category": "text",
+      "text": "d) O uso de agulintadores e o posterior recolhimamento do oleo é umprocesso com baixa probabilitadede intoxicação por humanos.",
+      "bbox": [
+        84,
+        273,
+        940,
+        306
+      ]
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "category": "text",
+      "text": "e) O uso de chamas controladas offre um menor impacto ambiental quando comparado ao uso de robos.",
+      "bbox": [
+        84,
+        308,
+        940,
+        339
+      ]
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        170,
+        940,
+        339
+      ]
+    },
+    {
+      "id": 64,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        65,
+        369,
+        231,
+        392
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "Para dar aulas sobre o的功能ismo de capacitores en circuitos electricos, um professor de robotica deciduiar montar umPEGUENO circuito contentando una chave, um resistor, um capacitor de placas paraleas e uma bateria. Em um dos experimentos, uma bateria de 12V sei para testas. Porém, é",
+      "bbox": [
+        248,
+        357,
+        940,
+        424
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "text",
+      "text": "professor esqueceu de descarregar um capacitor que não está usado previamente em outo experimento e está Completely corregado. Ao connectar a bateria no circuito e fechar a chave de contato, quando é a corrente instantânnea que circulou no circuito ou quando a sua direção?",
+      "bbox": [
+        54,
+        426,
+        940,
+        477
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "a) 5A da bateria para o capacitor",
+      "bbox": [
+        83,
+        517,
+        371,
+        534
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "b) 11A do capacitor para a bateria",
+      "bbox": [
+        83,
+        536,
+        379,
+        551
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "c) 6A da bateria para o capacitor",
+      "bbox": [
+        84,
+        553,
+        370,
+        568
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "d) 5A do capacitor para a bateria",
+      "bbox": [
+        84,
+        569,
+        369,
+        585
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "e) 11A da bateria para o capacitor",
+      "bbox": [
+        84,
+        587,
+        380,
+        603
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        517,
+        380,
+        603
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        405,
+        505,
+        950,
+        639
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        65,
+        685,
+        231,
+        708
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "Robos seguidores de linhautilizar um array de senseores de luminosidade que medem a reflexao da superficie para a qual está apontando. Durante as competicaoes, como a superficie pode variar, é necessaria uma etapa de calibracao",
+      "bbox": [
+        248,
+        685,
+        940,
+        735
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "desses valoroes para o robo tenha uma base de comparacao. Em seguida é necessario realizar a normalização desses valoroes,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA, PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,PGA,",
+      "bbox": [
+        53,
+        737,
+        940,
+        788
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "Em uma competicao, um rob do some sensores realizou 5 amostragens, que foram armazenadas como uma matra de 5 linhas e 4 colunas, sentido cada LINHA um amostragem e cada coluna corresponde a um sensor. Sabendo que as funções getMaxValor(inteiro idSensor) e getMinValor(inteiro idSensor) returnao m oai e menor valor lido, respectively, por um sensor cui o numero de ID e passado como parametro, lia e oculo abiaox e response:",
+      "bbox": [
+        53,
+        806,
+        942,
+        893
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        807,
+        914,
+        825,
+        929
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 80,
+      "page": 4,
+      "category": "code",
+      "text": "qtdSensors=4  \nqtdAmmostras=5  \nsaidaMin=0  \nsaidaMax=1000  \ninteiros amostragens[qtdAmmostras][qtdSensors] = {  \n{20, 1001, 1040, 1002},  \n{22, 21, 1030, 1007},  \n{1000, 23, 31, 999},  \n{999, 1005, 32, 22},  \n{1002, 1008, 1000, 20}  \ninteiro价值观Lidos[qtdSensors] = {1002, 20, 31, 1010}  \ninteiro sensoresNormalizados[qtdSensors] = [0, 0, 0, 0]  \nInicio Principal  \npara sensor = 0 até sensor<4 coma:  \ninteiro maxValor = getMaxValor(sensor)  \ninteiro minValor = getMinValor(sensor)  \ninteiro valorLido =价值观Lido[sensor]  \ninteiro numeroer = {valorLido - minValor} * (saidaMax - saidaMin)  \ninteiro numeroinador = (maxValor - minValor)  \ninteiro valorNormalized = {(numerador/denominator) + saidaMin  \nvalorNormalized = 1000 - valorNormalized  \nse{s ValorNormalized<0} {  \n    sensoresNormalized[sensor] = 0  \n}senso se{s valorNormalized>1000} {  \n    sensoresNormalized[sensor] = 1000  \n}senso {  \n    sensoresNormalized[sensor] = valorNormalized  \n}  \nfim para  \nimprima(sensoresNormalized)  \nfim Principal",
+      "bbox": [
+        90,
+        79,
+        835,
+        655
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "text",
+      "text": "Apos a Execution do documento, qual sera o valor normalizzato obtido para os valuores lidos (1002, 20, 31, 1010) pelos 4 senores?",
+      "bbox": [
+        55,
+        674,
+        893,
+        709
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "text",
+      "text": "a) [0, 1000, 1001, 3]",
+      "bbox": [
+        85,
+        742,
+        267,
+        760
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "b) [1000, 546, 0, 1003]",
+      "bbox": [
+        85,
+        761,
+        285,
+        777
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "c) [1000, 0, 0, 1000]",
+      "bbox": [
+        86,
+        779,
+        264,
+        795
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "text",
+      "text": "d) [0, 1000, 1000, 0]",
+      "bbox": [
+        86,
+        796,
+        264,
+        812
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "text",
+      "text": "e) [1002, 20, 31, 1010]",
+      "bbox": [
+        86,
+        813,
+        285,
+        830
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        742,
+        285,
+        830
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        807,
+        911,
+        826,
+        929
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 90,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        64,
+        89,
+        231,
+        113
+      ]
+    },
+    {
+      "id": 91,
+      "page": 5,
+      "category": "title",
+      "text": "Read the following robotic quotes and answer as required",
+      "bbox": [
+        250,
+        89,
+        763,
+        105
+      ]
+    },
+    {
+      "id": 92,
+      "page": 5,
+      "category": "text",
+      "text": "\"When I was building robots in the early 1990s, the problems of voice recognition, image understanding, VOIP, even touchscreen technologies - these were robotics problems.\" - Colin Angle",
+      "bbox": [
+        53,
+        140,
+        936,
+        174
+      ]
+    },
+    {
+      "id": 93,
+      "page": 5,
+      "category": "text",
+      "text": "\"Today, billions of mobile devices with extraordinary power are uniting with advancements in robotics, artificial intelligence, nanotechnology, and so much more.\" - Steve Mollenkopf",
+      "bbox": [
+        54,
+        182,
+        937,
+        216
+      ]
+    },
+    {
+      "id": 94,
+      "page": 5,
+      "category": "text",
+      "text": "Analyzing both texts, it is possible to get a common conclusion from the authors. We can conclude that:",
+      "bbox": [
+        53,
+        224,
+        937,
+        257
+      ]
+    },
+    {
+      "id": 95,
+      "page": 5,
+      "category": "text",
+      "text": "a) In the early 1990s, robotics' technology was as advanced as today's mobile devices.",
+      "bbox": [
+        83,
+        268,
+        807,
+        284
+      ]
+    },
+    {
+      "id": 96,
+      "page": 5,
+      "category": "text",
+      "text": "b) Advances in technology are impactful for the development of mobile and robotic devices, since the applications of these resources are countless.",
+      "bbox": [
+        83,
+        285,
+        937,
+        317
+      ]
+    },
+    {
+      "id": 97,
+      "page": 5,
+      "category": "text",
+      "text": "c) There is no correlation between mobile devices and robots, as they were developed in different decades.",
+      "bbox": [
+        83,
+        320,
+        937,
+        352
+      ]
+    },
+    {
+      "id": 98,
+      "page": 5,
+      "category": "text",
+      "text": "d) Advances in technology are only impactful for the development of mobile devices, since the applications of these resources for robots are limited.",
+      "bbox": [
+        83,
+        355,
+        937,
+        387
+      ]
+    },
+    {
+      "id": 99,
+      "page": 5,
+      "category": "text",
+      "text": "e) Advances in mobile devices could not solve the robotic problems from the early 1990s.",
+      "bbox": [
+        83,
+        389,
+        825,
+        406
+      ]
+    },
+    {
+      "id": 100,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        268,
+        937,
+        406
+      ]
+    },
+    {
+      "id": 101,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        64,
+        425,
+        231,
+        448
+      ]
+    },
+    {
+      "id": 102,
+      "page": 5,
+      "category": "text",
+      "text": "Um drone de pesquisa foi designado para fazer a varredura nos principais desertos do mundo with a finalidade de coletar informações. O plano de voo foi criado por uma inteligência artificial que observou a relação entre a",
+      "bbox": [
+        248,
+        425,
+        938,
+        474
+      ]
+    },
+    {
+      "id": 103,
+      "page": 5,
+      "category": "text",
+      "text": "ocurrencia dos descertos e sua relatione com os paraleiros que dividem o globo terrestré troçando o caminho abixo. Sobre o caminho percorrido, assinale a afirmação correta.",
+      "bbox": [
+        53,
+        476,
+        937,
+        509
+      ]
+    },
+    {
+      "id": 104,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        220,
+        513,
+        838,
+        691
+      ]
+    },
+    {
+      "id": 105,
+      "page": 5,
+      "category": "image_caption",
+      "text": "(Imagem adaplada de https://pt.wikipedia.org/wiki/Deserto)",
+      "bbox": [
+        350,
+        692,
+        704,
+        704
+      ]
+    },
+    {
+      "id": 106,
+      "page": 5,
+      "category": "text",
+      "text": "a) A IA que projetou a rota errou ao considerar passar no Brasil, País não levou em conta a presence de grande umbidinha nas florestas tropicals.",
+      "bbox": [
+        83,
+        705,
+        924,
+        738
+      ]
+    },
+    {
+      "id": 107,
+      "page": 5,
+      "category": "text",
+      "text": "b) Ao passarPGA Oceania, o drone atravesso ou Deserto de Gobi com aproximadamente 1.125.000 \\(\\mathrm{km^2}\\)",
+      "bbox": [
+        83,
+        740,
+        920,
+        772
+      ]
+    },
+    {
+      "id": 108,
+      "page": 5,
+      "category": "text",
+      "text": "c) O deserto do Kalahari não foi visitado paisica na região Oeste dos Estados Unidos e fora da rota do drone.",
+      "bbox": [
+        83,
+        775,
+        921,
+        806
+      ]
+    },
+    {
+      "id": 109,
+      "page": 5,
+      "category": "text",
+      "text": "d) O deserto do Saara, localizado ao norte da China, não FOi visitado ao o Drone segua para a Oceania.",
+      "bbox": [
+        83,
+        809,
+        886,
+        840
+      ]
+    },
+    {
+      "id": 110,
+      "page": 5,
+      "category": "text",
+      "text": "e) A Antártida não pode ser considerada como um deserto devo ao seu clima frio, por isto fos deixada para o这对于o.",
+      "bbox": [
+        83,
+        842,
+        876,
+        875
+      ]
+    },
+    {
+      "id": 111,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        705,
+        924,
+        875
+      ]
+    },
+    {
+      "id": 112,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        807,
+        914,
+        825,
+        931
+      ]
+    },
+    {
+      "id": 113,
+      "page": 5,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 114,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        64,
+        77,
+        231,
+        101
+      ]
+    },
+    {
+      "id": 115,
+      "page": 6,
+      "category": "text",
+      "text": "Com o intuitu de fazer com que os drones danifiquem ospacedos durante a entrega, uma Empresa que pretende utilizeu thiservesto é produzindo embalagens mais resistentes, capazes de supportedorças de grande magnitude em seu Impacto com o chão. Sabendo disso, qual sera a velocidade de Impacto ao tocar o solo caso umpacote de 1,5kg, que está传送rgarado por um drone,sole jacancado com velocidade inicial nula de uma alta naque sua posse 294 Joules de energia potencial gravitational?",
+      "bbox": [
+        54,
+        128,
+        677,
+        265
+      ]
+    },
+    {
+      "id": 116,
+      "page": 6,
+      "category": "text",
+      "text": "(Considerg=9.8m/s²)",
+      "bbox": [
+        55,
+        266,
+        264,
+        284
+      ]
+    },
+    {
+      "id": 117,
+      "page": 6,
+      "category": "text",
+      "text": "Imagem retirada de",
+      "bbox": [
+        57,
+        285,
+        183,
+        297
+      ]
+    },
+    {
+      "id": 118,
+      "page": 6,
+      "category": "text",
+      "text": "https://theconversation.com/delivering-packages-with-drones-might-be-good-for-the-environment-90997",
+      "bbox": [
+        57,
+        297,
+        686,
+        310
+      ]
+    },
+    {
+      "id": 119,
+      "page": 6,
+      "category": "text",
+      "text": "a) Aproximadamente 18,7 m/s.",
+      "bbox": [
+        84,
+        324,
+        351,
+        339
+      ]
+    },
+    {
+      "id": 120,
+      "page": 6,
+      "category": "text",
+      "text": "b) Aproximadamente \\(19\\mathrm{m / s}\\)",
+      "bbox": [
+        85,
+        341,
+        337,
+        356
+      ]
+    },
+    {
+      "id": 121,
+      "page": 6,
+      "category": "text",
+      "text": "c) Aproximadamente 19,8 m/s.",
+      "bbox": [
+        86,
+        357,
+        351,
+        373
+      ]
+    },
+    {
+      "id": 122,
+      "page": 6,
+      "category": "text",
+      "text": "d) Aproximadamente \\(20,9\\mathrm{m / s}\\)",
+      "bbox": [
+        86,
+        375,
+        351,
+        391
+      ]
+    },
+    {
+      "id": 123,
+      "page": 6,
+      "category": "text",
+      "text": "e) Aproximadamente 21,5 m/s.",
+      "bbox": [
+        86,
+        393,
+        351,
+        409
+      ]
+    },
+    {
+      "id": 124,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        324,
+        351,
+        409
+      ]
+    },
+    {
+      "id": 125,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        688,
+        102,
+        941,
+        280
+      ]
+    },
+    {
+      "id": 126,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        64,
+        434,
+        231,
+        457
+      ]
+    },
+    {
+      "id": 127,
+      "page": 6,
+      "category": "text",
+      "text": "Umena engenhore resolvedu fazer a peaqueutilizando impressiono 3D para servir de carcaça para um Autonomous Underwater Vehicles (AUV) ou Veiculo Submarino Nao Tripulado. Um dos requisitos adotados no projeto foki de que ao considerar aspena a carcaça,elautheria 21%do seu volume submerso quando em agua e seu peso devera ser de 4.2 Kgs. Alémis não, para economiar material, a engenhore decidiu imprimir a peaque com aspenas 20% de preenchestu. Qual sera o complemento do filamentoutilizando para a peaque, sabindo que o filamento possessu 2 milimetros de diamétrso?",
+      "bbox": [
+        54,
+        490,
+        553,
+        695
+      ]
+    },
+    {
+      "id": 128,
+      "page": 6,
+      "category": "text",
+      "text": "(Considere a densidade da agua = 1 g/cm³)",
+      "bbox": [
+        55,
+        698,
+        428,
+        716
+      ]
+    },
+    {
+      "id": 129,
+      "page": 6,
+      "category": "text",
+      "text": "Imagem retirada de https://www.ecagroup.com/en/solutions/siltra-deep-water-ayu/",
+      "bbox": [
+        55,
+        717,
+        556,
+        731
+      ]
+    },
+    {
+      "id": 130,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        564,
+        505,
+        952,
+        678
+      ]
+    },
+    {
+      "id": 131,
+      "page": 6,
+      "category": "text",
+      "text": "a) \\(2^{*}10^{*} / \\pi \\mathrm{cm}\\)",
+      "bbox": [
+        85,
+        754,
+        216,
+        771
+      ]
+    },
+    {
+      "id": 132,
+      "page": 6,
+      "category": "text",
+      "text": "b) \\(2^{*}10^{4} / \\pi \\mathrm{cm}\\)",
+      "bbox": [
+        87,
+        773,
+        214,
+        788
+      ]
+    },
+    {
+      "id": 133,
+      "page": 6,
+      "category": "text",
+      "text": "c) \\(2^{*}10^{6} / \\pi \\mathrm{cm}\\)",
+      "bbox": [
+        87,
+        789,
+        215,
+        805
+      ]
+    },
+    {
+      "id": 134,
+      "page": 6,
+      "category": "text",
+      "text": "d) \\(4^{*}10^{7} / \\pi \\mathrm{cm}\\)",
+      "bbox": [
+        87,
+        807,
+        212,
+        823
+      ]
+    },
+    {
+      "id": 135,
+      "page": 6,
+      "category": "text",
+      "text": "e) \\(4^{*}10^{6} / \\pi \\mathrm{cm}\\)",
+      "bbox": [
+        87,
+        825,
+        215,
+        841
+      ]
+    },
+    {
+      "id": 136,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        754,
+        216,
+        841
+      ]
+    },
+    {
+      "id": 137,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        811,
+        911,
+        829,
+        928
+      ]
+    }
+  ],
+  [
+    {
+      "id": 138,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTão 10",
+      "bbox": [
+        49,
+        84,
+        231,
+        110
+      ]
+    },
+    {
+      "id": 139,
+      "page": 7,
+      "category": "text",
+      "text": "Em microcontroladores como o atmega328, microcontrolador usado no Arduino e muito",
+      "bbox": [
+        249,
+        77,
+        488,
+        144
+      ]
+    },
+    {
+      "id": 140,
+      "page": 7,
+      "category": "text",
+      "text": "aplicado en various propuestos de robotica, não posíce gerar un sinul puramente analogico.",
+      "bbox": [
+        55,
+        146,
+        487,
+        180
+      ]
+    },
+    {
+      "id": 141,
+      "page": 7,
+      "category": "text",
+      "text": "Durante a preparação para a OBR, uma equipe de estudantes descobriu que para abrir e fechar uma garra realizada para o resgate de vitlimas, era necessário utilizeu um sinal com tensão variante no tempo semelhente ao descriçar na imagem abixo. Analise as affirmativas e marque a(s) correta(s).",
+      "bbox": [
+        55,
+        182,
+        487,
+        301
+      ]
+    },
+    {
+      "id": 142,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        508,
+        95,
+        963,
+        275
+      ]
+    },
+    {
+      "id": 143,
+      "page": 7,
+      "category": "text",
+      "text": "a) Autilização da的技术ica de PWM não serautil,poisa onda gerada so possui bois valores,0V e 5V.",
+      "bbox": [
+        83,
+        319,
+        922,
+        335
+      ]
+    },
+    {
+      "id": 144,
+      "page": 7,
+      "category": "text",
+      "text": "b) As portas para transmissão serial podem ser realizadas, não que sua informação de saida pode variar no tempo.",
+      "bbox": [
+        83,
+        337,
+        933,
+        369
+      ]
+    },
+    {
+      "id": 145,
+      "page": 7,
+      "category": "text",
+      "text": "c) Utilizando a técnica de Modulação por Largura de Pulso é posível replicar a onda e controlar a abertura da garra.",
+      "bbox": [
+        83,
+        371,
+        903,
+        404
+      ]
+    },
+    {
+      "id": 146,
+      "page": 7,
+      "category": "text",
+      "text": "d) Utilizando as portas A0 a A5 do Arduino é possivel obter um tipo de onda semelhente, porque sem os degraus.",
+      "bbox": [
+        83,
+        406,
+        917,
+        439
+      ]
+    },
+    {
+      "id": 147,
+      "page": 7,
+      "category": "text",
+      "text": "e) Não sera possevel replicar o forma da onda sem'utilizar um.). voisto que todas as portas do arduino são digitais.",
+      "bbox": [
+        83,
+        440,
+        910,
+        473
+      ]
+    },
+    {
+      "id": 148,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        319,
+        933,
+        473
+      ]
+    },
+    {
+      "id": 149,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTão 11",
+      "bbox": [
+        50,
+        517,
+        228,
+        541
+      ]
+    },
+    {
+      "id": 150,
+      "page": 7,
+      "category": "text",
+      "text": "Actualmente, modelos de rede neurais tíme sidoutilizados en robos porayáduas-lo asolver这些问题complexos comoaclassificarobjectos emimagens.Ummodelofredere neuralfoliimplementadoformaque,paraclassificarseunobjeto pertenceounoumaunaica classe,são necessários",
+      "bbox": [
+        247,
+        510,
+        940,
+        578
+      ]
+    },
+    {
+      "id": 151,
+      "page": 7,
+      "category": "text",
+      "text": "4 parâmetros. Para cada nova classe de objetivos inserida no Modelo, a quantidade de parâmetros necessários dobra,consumindo mais memória. Qual o número máximo de classes que podem colocar no Modelo da rede neural de modo que a quantidade de parâmetros não ultrapasse 3000?",
+      "bbox": [
+        53,
+        580,
+        940,
+        631
+      ]
+    },
+    {
+      "id": 152,
+      "page": 7,
+      "category": "text",
+      "text": "(Imagem retirada de http://bilityOBR-RedeNeural)",
+      "bbox": [
+        56,
+        631,
+        364,
+        644
+      ]
+    },
+    {
+      "id": 153,
+      "page": 7,
+      "category": "text",
+      "text": "a) 8",
+      "bbox": [
+        85,
+        656,
+        131,
+        672
+      ]
+    },
+    {
+      "id": 154,
+      "page": 7,
+      "category": "text",
+      "text": "b) 9",
+      "bbox": [
+        85,
+        675,
+        131,
+        690
+      ]
+    },
+    {
+      "id": 155,
+      "page": 7,
+      "category": "text",
+      "text": "c) 11",
+      "bbox": [
+        85,
+        692,
+        140,
+        707
+      ]
+    },
+    {
+      "id": 156,
+      "page": 7,
+      "category": "text",
+      "text": "d) 10",
+      "bbox": [
+        85,
+        709,
+        142,
+        724
+      ]
+    },
+    {
+      "id": 157,
+      "page": 7,
+      "category": "text",
+      "text": "e) 12",
+      "bbox": [
+        85,
+        726,
+        142,
+        741
+      ]
+    },
+    {
+      "id": 158,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        656,
+        142,
+        741
+      ]
+    },
+    {
+      "id": 159,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        451,
+        643,
+        927,
+        827
+      ]
+    },
+    {
+      "id": 160,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        808,
+        895,
+        826,
+        914
+      ]
+    },
+    {
+      "id": 161,
+      "page": 7,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 162,
+      "page": 8,
+      "category": "header",
+      "text": "QUESTão 12",
+      "bbox": [
+        50,
+        78,
+        232,
+        102
+      ]
+    },
+    {
+      "id": 163,
+      "page": 8,
+      "category": "title",
+      "text": "My Friends Are Robots (Tradução)",
+      "bbox": [
+        65,
+        135,
+        374,
+        152
+      ]
+    },
+    {
+      "id": 164,
+      "page": 8,
+      "category": "text",
+      "text": "Arrested Youth",
+      "bbox": [
+        67,
+        155,
+        193,
+        167
+      ]
+    },
+    {
+      "id": 165,
+      "page": 8,
+      "category": "text",
+      "text": "Meu cellular",
+      "bbox": [
+        67,
+        188,
+        157,
+        200
+      ]
+    },
+    {
+      "id": 166,
+      "page": 8,
+      "category": "text",
+      "text": "Fundido com minha pele e meus ossos",
+      "bbox": [
+        67,
+        205,
+        362,
+        220
+      ]
+    },
+    {
+      "id": 167,
+      "page": 8,
+      "category": "text",
+      "text": "Hoje em dia eu me sinto como um drone",
+      "bbox": [
+        67,
+        220,
+        372,
+        233
+      ]
+    },
+    {
+      "id": 168,
+      "page": 8,
+      "category": "text",
+      "text": "Falando através do meu microfone",
+      "bbox": [
+        67,
+        236,
+        329,
+        248
+      ]
+    },
+    {
+      "id": 169,
+      "page": 8,
+      "category": "text",
+      "text": "Mas meus amigos não fazem como eu",
+      "bbox": [
+        67,
+        267,
+        359,
+        280
+      ]
+    },
+    {
+      "id": 170,
+      "page": 8,
+      "category": "text",
+      "text": "Meus amigos não vivem a vida ao ritmo",
+      "bbox": [
+        67,
+        283,
+        366,
+        297
+      ]
+    },
+    {
+      "id": 171,
+      "page": 8,
+      "category": "text",
+      "text": "Meus amigos não querem ver como eu",
+      "bbox": [
+        67,
+        299,
+        361,
+        312
+      ]
+    },
+    {
+      "id": 172,
+      "page": 8,
+      "category": "text",
+      "text": "Meus amigos podem estar",
+      "bbox": [
+        67,
+        314,
+        269,
+        327
+      ]
+    },
+    {
+      "id": 173,
+      "page": 8,
+      "category": "text",
+      "text": "Meus amigos podem estar",
+      "bbox": [
+        67,
+        330,
+        268,
+        343
+      ]
+    },
+    {
+      "id": 174,
+      "page": 8,
+      "category": "text",
+      "text": "Todoosmeusamigos sanoi robos",
+      "bbox": [
+        67,
+        362,
+        323,
+        375
+      ]
+    },
+    {
+      "id": 175,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        67,
+        377,
+        323,
+        390
+      ]
+    },
+    {
+      "id": 176,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        67,
+        392,
+        255,
+        406
+      ]
+    },
+    {
+      "id": 177,
+      "page": 8,
+      "category": "text",
+      "text": "Alguém me libertou",
+      "bbox": [
+        67,
+        409,
+        215,
+        422
+      ]
+    },
+    {
+      "id": 178,
+      "page": 8,
+      "category": "text",
+      "text": "Porque todos os meus'amigos são robos",
+      "bbox": [
+        67,
+        424,
+        375,
+        438
+      ]
+    },
+    {
+      "id": 179,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        67,
+        440,
+        324,
+        453
+      ]
+    },
+    {
+      "id": 180,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        67,
+        456,
+        255,
+        469
+      ]
+    },
+    {
+      "id": 181,
+      "page": 8,
+      "category": "text",
+      "text": "Eu conheci um leão dentro de um zoologico",
+      "bbox": [
+        67,
+        487,
+        397,
+        501
+      ]
+    },
+    {
+      "id": 182,
+      "page": 8,
+      "category": "text",
+      "text": "Ele olhou para mim easse: O que está acontecido cara",
+      "bbox": [
+        67,
+        503,
+        502,
+        516
+      ]
+    },
+    {
+      "id": 183,
+      "page": 8,
+      "category": "text",
+      "text": "Eu me lembro de uma epoca em que comparilhamos esta terra",
+      "bbox": [
+        67,
+        518,
+        548,
+        531
+      ]
+    },
+    {
+      "id": 184,
+      "page": 8,
+      "category": "text",
+      "text": "Agora nos doit temos algemas em nossas mao",
+      "bbox": [
+        67,
+        534,
+        432,
+        547
+      ]
+    },
+    {
+      "id": 185,
+      "page": 8,
+      "category": "text",
+      "text": "Eu disse: espere um minuto, eu não estou trancado",
+      "bbox": [
+        67,
+        551,
+        454,
+        563
+      ]
+    },
+    {
+      "id": 186,
+      "page": 8,
+      "category": "text",
+      "text": "Vocé é o einzel otras das grades, todos confinados",
+      "bbox": [
+        67,
+        566,
+        447,
+        579
+      ]
+    },
+    {
+      "id": 187,
+      "page": 8,
+      "category": "text",
+      "text": "Ele olhou para mim e quando ele pensou",
+      "bbox": [
+        67,
+        581,
+        376,
+        595
+      ]
+    },
+    {
+      "id": 188,
+      "page": 8,
+      "category": "text",
+      "text": "Através dele eleppe: Eu sou um prisioneiro assim como você",
+      "bbox": [
+        67,
+        598,
+        540,
+        611
+      ]
+    },
+    {
+      "id": 189,
+      "page": 8,
+      "category": "text",
+      "text": "Todos os meus amigos são robos",
+      "bbox": [
+        568,
+        137,
+        824,
+        151
+      ]
+    },
+    {
+      "id": 190,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        568,
+        153,
+        825,
+        166
+      ]
+    },
+    {
+      "id": 191,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        568,
+        168,
+        756,
+        182
+      ]
+    },
+    {
+      "id": 192,
+      "page": 8,
+      "category": "text",
+      "text": "Alguém me libertou",
+      "bbox": [
+        568,
+        184,
+        716,
+        197
+      ]
+    },
+    {
+      "id": 193,
+      "page": 8,
+      "category": "text",
+      "text": "Porque todos os meus'amigos sào robos",
+      "bbox": [
+        568,
+        200,
+        876,
+        214
+      ]
+    },
+    {
+      "id": 194,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        568,
+        216,
+        825,
+        229
+      ]
+    },
+    {
+      "id": 195,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        568,
+        231,
+        756,
+        245
+      ]
+    },
+    {
+      "id": 196,
+      "page": 8,
+      "category": "text",
+      "text": "Vocé pode me libertar, me libertar, me libertar",
+      "bbox": [
+        568,
+        262,
+        914,
+        276
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "text",
+      "text": "Se eu adormecer, adormeca, durma",
+      "bbox": [
+        568,
+        279,
+        841,
+        292
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "text",
+      "text": "Vocé vai me libertar, me libertar, me libertar",
+      "bbox": [
+        568,
+        294,
+        897,
+        307
+      ]
+    },
+    {
+      "id": 199,
+      "page": 8,
+      "category": "text",
+      "text": "A partir desses sonhos eu tenho",
+      "bbox": [
+        568,
+        310,
+        812,
+        323
+      ]
+    },
+    {
+      "id": 200,
+      "page": 8,
+      "category": "text",
+      "text": "Alguém me libertou",
+      "bbox": [
+        568,
+        340,
+        716,
+        354
+      ]
+    },
+    {
+      "id": 201,
+      "page": 8,
+      "category": "text",
+      "text": "Todoosmeusamigos sanoi robos",
+      "bbox": [
+        568,
+        372,
+        824,
+        386
+      ]
+    },
+    {
+      "id": 202,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        568,
+        388,
+        824,
+        401
+      ]
+    },
+    {
+      "id": 203,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        568,
+        404,
+        756,
+        418
+      ]
+    },
+    {
+      "id": 204,
+      "page": 8,
+      "category": "text",
+      "text": "Alguém me libertou",
+      "bbox": [
+        568,
+        435,
+        716,
+        449
+      ]
+    },
+    {
+      "id": 205,
+      "page": 8,
+      "category": "text",
+      "text": "Porque todos os meus'amigos são robos",
+      "bbox": [
+        568,
+        466,
+        876,
+        480
+      ]
+    },
+    {
+      "id": 206,
+      "page": 8,
+      "category": "text",
+      "text": "Eles conseguiram empregos reais",
+      "bbox": [
+        568,
+        483,
+        824,
+        496
+      ]
+    },
+    {
+      "id": 207,
+      "page": 8,
+      "category": "text",
+      "text": "Eles não podem desligar",
+      "bbox": [
+        568,
+        498,
+        756,
+        512
+      ]
+    },
+    {
+      "id": 208,
+      "page": 8,
+      "category": "text",
+      "text": "Bem, algoém me libertou",
+      "bbox": [
+        568,
+        530,
+        758,
+        543
+      ]
+    },
+    {
+      "id": 209,
+      "page": 8,
+      "category": "text",
+      "text": "Bem, algoém me libertou",
+      "bbox": [
+        568,
+        545,
+        758,
+        558
+      ]
+    },
+    {
+      "id": 210,
+      "page": 8,
+      "category": "text",
+      "text": "Bem, algoém me libertou",
+      "bbox": [
+        568,
+        561,
+        758,
+        574
+      ]
+    },
+    {
+      "id": 211,
+      "page": 8,
+      "category": "text",
+      "text": "Bem, algoém me libertou",
+      "bbox": [
+        568,
+        576,
+        758,
+        590
+      ]
+    },
+    {
+      "id": 212,
+      "page": 8,
+      "category": "text",
+      "text": "(Texto adaptado de https://www.lelras.mus.br/arrested-youth/my-friends-are-robots-2/traducao.htm)",
+      "bbox": [
+        58,
+        618,
+        657,
+        631
+      ]
+    },
+    {
+      "id": 213,
+      "page": 8,
+      "category": "title",
+      "text": "Na minha Musica My Friends Are Robots, e ou-lirico observes que a Tecnologia je se fundu com seuorro e sua vida. Qualique(s) a(s) reflexao(ses) que a musica faz a partir da integração da Tecnologia na vida.",
+      "bbox": [
+        54,
+        646,
+        931,
+        694
+      ]
+    },
+    {
+      "id": 214,
+      "page": 8,
+      "category": "text",
+      "text": "a) Os antes do eu-lirico levam o mesmo estilo de vida que ele e exergen os outros problemas de vivar a vida como um robó sem inteligênciapropriaria.",
+      "bbox": [
+        87,
+        697,
+        940,
+        731
+      ]
+    },
+    {
+      "id": 215,
+      "page": 8,
+      "category": "text",
+      "text": "A) partir de uma reflexão com o leião, o eu-lirico percebe que mesmo estando supostamente livre, ele permanece prisioneiro.",
+      "bbox": [
+        87,
+        733,
+        938,
+        764
+      ]
+    },
+    {
+      "id": 216,
+      "page": 8,
+      "category": "text",
+      "text": "c) É felita una criticà a procesos de更多ielas humanas, tornado os amigos do eu-lírico em series biónicos, daß que o cellular fosfundo com seu osso.",
+      "bbox": [
+        87,
+        767,
+        940,
+        799
+      ]
+    },
+    {
+      "id": 217,
+      "page": 8,
+      "category": "text",
+      "text": "d) O refração a música fala que os'amigos do eu-lirico, embora possuem empreços reais, são robos e não pode ser desiglar do seu trabalho.",
+      "bbox": [
+        87,
+        802,
+        940,
+        834
+      ]
+    },
+    {
+      "id": 218,
+      "page": 8,
+      "category": "text",
+      "text": "e) Os'amigos do eu-lirico passaram por una transformacao e se tornaram drones que se comunicam somente atraves de microfones.",
+      "bbox": [
+        87,
+        836,
+        940,
+        868
+      ]
+    },
+    {
+      "id": 219,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        697,
+        940,
+        868
+      ]
+    },
+    {
+      "id": 220,
+      "page": 8,
+      "category": "page_number",
+      "text": "9",
+      "bbox": [
+        809,
+        895,
+        827,
+        913
+      ]
+    },
+    {
+      "id": 221,
+      "page": 8,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 222,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 13",
+      "bbox": [
+        49,
+        78,
+        231,
+        101
+      ]
+    },
+    {
+      "id": 223,
+      "page": 9,
+      "category": "text",
+      "text": "Inspirada na organizacion de insetos sociales, como formigas, abelías e cupins, e na formación",
+      "bbox": [
+        249,
+        92,
+        669,
+        124
+      ]
+    },
+    {
+      "id": 224,
+      "page": 9,
+      "category": "text",
+      "text": "dos cardumes de peixes e de aves em voo, a robética de exenares é um Campo de estudo que procura os melhores caminhos computonais para que robos possam trocar informacoes entre si e agir en conjunto, de accordo um objetivo common para o qual foram programados. São soluções computonais que estno no Campo de estudo de various grupos de pesquisadores do mundo. Ànda sem problemas comerais, a robética de exame tem perspectiva de uso tanto em locais fechados quanto abeticos, como no mar, na inspeção e no reparo de plateformas submarinas, na vigilança maritima e no ar, com drones dotados de sistemas para vigiar fronteiras, por exemplo.",
+      "bbox": [
+        54,
+        125,
+        670,
+        297
+      ]
+    },
+    {
+      "id": 225,
+      "page": 9,
+      "category": "text",
+      "text": "(Texto e imagem adaplados de https://revistapesquisa.fapesp.br/enxames-de-robos/)",
+      "bbox": [
+        55,
+        297,
+        569,
+        310
+      ]
+    },
+    {
+      "id": 226,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        679,
+        90,
+        917,
+        336
+      ]
+    },
+    {
+      "id": 227,
+      "page": 9,
+      "category": "text",
+      "text": "A robética de exnance, embarba inspirada en comportimientos naturais, não suffe laumps de produits químicos Utilizados en",
+      "bbox": [
+        54,
+        324,
+        668,
+        358
+      ]
+    },
+    {
+      "id": 228,
+      "page": 9,
+      "category": "text",
+      "text": "lavours e grande plantations. Tais produits皆 alimenter de matur prags, causam efeits colaterais en tout o meo ambiente. Sobre exames e/ou usedo agrotoxicnes e INCORRETO affirmar que:",
+      "bbox": [
+        54,
+        360,
+        938,
+        394
+      ]
+    },
+    {
+      "id": 229,
+      "page": 9,
+      "category": "text",
+      "text": "a) O uso de agrotóxicos pode acrearter na perda de variabilité por externário de populações e espéciesalebem de submeterlabradores a exposión devenenos.",
+      "bbox": [
+        84,
+        408,
+        938,
+        440
+      ]
+    },
+    {
+      "id": 230,
+      "page": 9,
+      "category": "text",
+      "text": "b) Abelías, formiges e cupins são espécies de animais que aparecem comportamento de enxame collaborativo, ou soit, todos os participantes dacommunitye ajudam na Execution da tarefas.",
+      "bbox": [
+        84,
+        442,
+        938,
+        475
+      ]
+    },
+    {
+      "id": 231,
+      "page": 9,
+      "category": "text",
+      "text": "c) Comportamentos en enxames aplicados a robotica possum lo Campo de aplicacion restrito como e inviavel ter relationacion cooperativa entre robos visando a execuion de una tarea.",
+      "bbox": [
+        84,
+        478,
+        938,
+        510
+      ]
+    },
+    {
+      "id": 232,
+      "page": 9,
+      "category": "text",
+      "text": "d) Algorismos de envenque还是要 considerados��inarias bioinspirados e poder ser Utilizados na resolucao de problemas complexos. Aulimamente, aplicativos de maps e rotas utilizeam��inarias.",
+      "bbox": [
+        84,
+        511,
+        938,
+        560
+      ]
+    },
+    {
+      "id": 233,
+      "page": 9,
+      "category": "text",
+      "text": "e) Assim como nos animais que operam en enxames, a comunacion entre os componentes do enxame de roboscies precoa acontecer de forma direta ou indireta para que haja的合作acion.",
+      "bbox": [
+        84,
+        563,
+        938,
+        597
+      ]
+    },
+    {
+      "id": 234,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        408,
+        938,
+        597
+      ]
+    },
+    {
+      "id": 235,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        49,
+        631,
+        231,
+        654
+      ]
+    },
+    {
+      "id": 236,
+      "page": 9,
+      "category": "text",
+      "text": "Um a Empresa produz diversos moções para a construição de drones, estesesmodulos os tornam capazes de voar longas distancias e coletar informaçõesem differentes和地区. Um dos modelos de drones produzidos possú 3",
+      "bbox": [
+        248,
+        630,
+        940,
+        680
+      ]
+    },
+    {
+      "id": 237,
+      "page": 9,
+      "category": "text",
+      "text": "módulos cetteEmpresa: umódulo de senseores para obter os dados, umódulo de propulsión composto por 4 motores e oódulo de carenagem para proteção dos componentes. cada Mudão corresponde a \\(20\\%\\) \\(50\\%\\) e \\(30\\%\\) do praço total do drone, respectively. Em função de um.aumento de praços no mercado, o custo para produir oódulo de senseores AUGMENTOS \\(5\\%\\) ,á o módulo de propulsão teme um.aumento de \\(10\\%\\) .Quanto pode ser a reducao no Mudão de carenagem para que o praço final se mantenha inalterado?",
+      "bbox": [
+        53,
+        681,
+        942,
+        784
+      ]
+    },
+    {
+      "id": 238,
+      "page": 9,
+      "category": "text",
+      "text": "a) \\(20\\%\\)",
+      "bbox": [
+        85,
+        803,
+        157,
+        819
+      ]
+    },
+    {
+      "id": 239,
+      "page": 9,
+      "category": "text",
+      "text": "b) \\(15\\%\\)",
+      "bbox": [
+        85,
+        820,
+        157,
+        836
+      ]
+    },
+    {
+      "id": 240,
+      "page": 9,
+      "category": "text",
+      "text": "c) \\(6\\%\\)",
+      "bbox": [
+        85,
+        837,
+        149,
+        853
+      ]
+    },
+    {
+      "id": 241,
+      "page": 9,
+      "category": "text",
+      "text": "d) \\(24\\%\\)",
+      "bbox": [
+        85,
+        854,
+        157,
+        870
+      ]
+    },
+    {
+      "id": 242,
+      "page": 9,
+      "category": "text",
+      "text": "e) \\(30\\%\\)",
+      "bbox": [
+        85,
+        871,
+        157,
+        887
+      ]
+    },
+    {
+      "id": 243,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        803,
+        157,
+        887
+      ]
+    },
+    {
+      "id": 244,
+      "page": 9,
+      "category": "page_number",
+      "text": "10",
+      "bbox": [
+        811,
+        895,
+        840,
+        913
+      ]
+    },
+    {
+      "id": 245,
+      "page": 9,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 246,
+      "page": 10,
+      "category": "header",
+      "text": "QUESTão 15",
+      "bbox": [
+        49,
+        78,
+        234,
+        104
+      ]
+    },
+    {
+      "id": 247,
+      "page": 10,
+      "category": "text",
+      "text": "Em um laboratório de excélência, os chromatógrafos foram substitutos por robos, a fim de fazer erros durante a manipulação dos compostos. Para testar eles robos, os pesquiseiros o colocaram para fazer compostos formados por carbono e hidrogenio.",
+      "bbox": [
+        54,
+        128,
+        545,
+        213
+      ]
+    },
+    {
+      "id": 248,
+      "page": 10,
+      "category": "text",
+      "text": "Os robosutilizados possessem sensos que foram capazes de identitar dois compostos que entwickaram funções orgânicas oxygenadas. Tendo en vista que outros elementos podem fazer parte da estrutura química dessas substancias, quais dos segentes compostos possessem funções oxygenadas que poderão ser identificadas pelos sensores do robô?",
+      "bbox": [
+        54,
+        215,
+        546,
+        333
+      ]
+    },
+    {
+      "id": 249,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        558,
+        133,
+        963,
+        326
+      ]
+    },
+    {
+      "id": 250,
+      "page": 10,
+      "category": "text",
+      "text": "Imagem detre de htp:/ww.theverge.com/21317052/mobile-autonomous-robol-lab-assistant-research-speed",
+      "bbox": [
+        55,
+        334,
+        744,
+        347
+      ]
+    },
+    {
+      "id": 251,
+      "page": 10,
+      "category": "text",
+      "text": "a) Cloroformio e metanoato de etila.",
+      "bbox": [
+        107,
+        357,
+        417,
+        373
+      ]
+    },
+    {
+      "id": 252,
+      "page": 10,
+      "category": "text",
+      "text": "b) Propanol é acido propanóico.",
+      "bbox": [
+        109,
+        376,
+        384,
+        391
+      ]
+    },
+    {
+      "id": 253,
+      "page": 10,
+      "category": "text",
+      "text": "c) Eteno etanodiol.",
+      "bbox": [
+        110,
+        394,
+        294,
+        408
+      ]
+    },
+    {
+      "id": 254,
+      "page": 10,
+      "category": "text",
+      "text": "d) Etanamida e benzeno.",
+      "bbox": [
+        110,
+        410,
+        329,
+        425
+      ]
+    },
+    {
+      "id": 255,
+      "page": 10,
+      "category": "text",
+      "text": "e) Metanoato de metila e etano.",
+      "bbox": [
+        110,
+        428,
+        383,
+        443
+      ]
+    },
+    {
+      "id": 256,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        107,
+        357,
+        417,
+        443
+      ]
+    },
+    {
+      "id": 257,
+      "page": 10,
+      "category": "title",
+      "text": "QUESTAO 16",
+      "bbox": [
+        51,
+        496,
+        236,
+        519
+      ]
+    },
+    {
+      "id": 258,
+      "page": 10,
+      "category": "text",
+      "text": "Em Robos, por example, somos levados a um mundo construito, Habitado e administrado por macquinas dos mais differentes tips - e no quando presentados a Rodney Latoria, um jovem robóculosonho e tornar-se inventor e travaçar ao do lendo lendário Grande Soldador, responsavel por todas as ciações que faculdam a vida dos automatas. Porém,进驻 de viajar até Robopólicos, Rodney descobre que asERPAs das pessoas de seu idolgo aaaa éssistendados pelo inescropuloso Doam Aço, que decide parar de fabricar peças avulzas, necessarias para o reparo dos robos mais velhos ou danificados, a fimem a发觉er a vendao dos caros upgrades. Desiliudido e desempregado, o或其他ta-se amigo de um groupe de robos ultrapassados (os Enfermutados) - especially do trafqueiro Manvelia. Juntos, eles decidem encontrar o Grande Soldador e restaurar a harmonia de Robopólicos.",
+      "bbox": [
+        54,
+        547,
+        596,
+        805
+      ]
+    },
+    {
+      "id": 259,
+      "page": 10,
+      "category": "text",
+      "text": "(Texto e imagem adaptados de https://cinemaemcena.com.br/critical/filmel6747/robos)",
+      "bbox": [
+        55,
+        806,
+        574,
+        820
+      ]
+    },
+    {
+      "id": 260,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        607,
+        498,
+        943,
+        844
+      ]
+    },
+    {
+      "id": 261,
+      "page": 10,
+      "category": "page_number",
+      "text": "11",
+      "bbox": [
+        811,
+        895,
+        836,
+        913
+      ]
+    },
+    {
+      "id": 262,
+      "page": 10,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 263,
+      "page": 11,
+      "category": "text",
+      "text": "O fibre \"Robos\" (Blue Sky Studios, 2005) fo um grandeSuccesso. Eie fez uma comparacao com a sociedade atua em um universo paraleo onde robos possem tous ascharacteristicas humanas. Uma das principaliscriticas do fibre está em como tratamos os objetos e a melhoria dos dispositivos. Sobre ocontexto do fibre, asseina aalternativa correta.",
+      "bbox": [
+        54,
+        59,
+        942,
+        126
+      ]
+    },
+    {
+      "id": 264,
+      "page": 11,
+      "category": "text",
+      "text": "a) Rodney Latoria, ao conhecer o Grande Soldador é despreszado pela sua idemia, já que esta não poderia ser fácilmente substituida por modelos mais recentes e assim não renderia lucros para a Empresa.",
+      "bbox": [
+        83,
+        128,
+        940,
+        179
+      ]
+    },
+    {
+      "id": 265,
+      "page": 11,
+      "category": "text",
+      "text": "b) A atuacao do Grande Soldador em sua Empresainha como finalidade apenas gerar mais suca para que pudesse ser derretida no ferro velho da Madamé Junta.",
+      "bbox": [
+        83,
+        181,
+        940,
+        213
+      ]
+    },
+    {
+      "id": 266,
+      "page": 11,
+      "category": "text",
+      "text": "c) AsaidofRodneyLatariadeusaca,emumolocal bucolico,paraacidadee multidoferente do movimento de nordestinos que sairam de sus terras para buscar opportunitadosudeste do Brasil.",
+      "bbox": [
+        83,
+        215,
+        940,
+        264
+      ]
+    },
+    {
+      "id": 267,
+      "page": 11,
+      "category": "text",
+      "text": "d) O nome faz uma critica ao Modelo Fordista de producao, pos os robos ja possuiam um trabalho altoamente especializzato e não conhece um fim da LINHA de producao, evitando assimesarperdicio de tempo.",
+      "bbox": [
+        83,
+        267,
+        940,
+        317
+      ]
+    },
+    {
+      "id": 268,
+      "page": 11,
+      "category": "text",
+      "text": "e) O nomeapia sua contraposicao de ideia entre o Grande Soldador o Dom Aço, quando oprimeu que restuarar a sociedade e o segundo que apenas substitui por robos mais modernos.",
+      "bbox": [
+        83,
+        318,
+        940,
+        352
+      ]
+    },
+    {
+      "id": 269,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        128,
+        940,
+        352
+      ]
+    },
+    {
+      "id": 270,
+      "page": 11,
+      "category": "title",
+      "text": "QUESTão 17",
+      "bbox": [
+        51,
+        404,
+        236,
+        427
+      ]
+    },
+    {
+      "id": 271,
+      "page": 11,
+      "category": "text",
+      "text": "Read the text and answer correctly;",
+      "bbox": [
+        55,
+        465,
+        352,
+        482
+      ]
+    },
+    {
+      "id": 272,
+      "page": 11,
+      "category": "text",
+      "text": "\"I see robotic technology getting rid of the dangerous, the dirty, and the just plain boring jobs. Some people say, 'You can't. People won't have anything to do.' But we found things that were a lot easier than backbreaking labor in the sun and the fields. Let people rise to better things.\"",
+      "bbox": [
+        54,
+        489,
+        940,
+        539
+      ]
+    },
+    {
+      "id": 273,
+      "page": 11,
+      "category": "text",
+      "text": "- Rodney Brooks",
+      "bbox": [
+        783,
+        540,
+        938,
+        555
+      ]
+    },
+    {
+      "id": 274,
+      "page": 11,
+      "category": "title",
+      "text": "One of the biggest popular concerns in an era with major advances in robotics and automation is the reduction in the supply of jobs. The above text is opposite to the idea that:",
+      "bbox": [
+        54,
+        570,
+        938,
+        606
+      ]
+    },
+    {
+      "id": 275,
+      "page": 11,
+      "category": "text",
+      "text": "a) Using robots for different activities usually made by humans is positive when these activities are not safe or healthy for humans.",
+      "bbox": [
+        83,
+        636,
+        940,
+        668
+      ]
+    },
+    {
+      "id": 276,
+      "page": 11,
+      "category": "text",
+      "text": "b) New kinds of jobs and occupations grow as much as robots replace humans in boring and dangerous activities.",
+      "bbox": [
+        83,
+        670,
+        940,
+        703
+      ]
+    },
+    {
+      "id": 277,
+      "page": 11,
+      "category": "text",
+      "text": "c) Replacing humans for robots in activities that does only require physical effort saves workers from injuries and encourages them to qualify themselves for better jobs.",
+      "bbox": [
+        83,
+        705,
+        940,
+        737
+      ]
+    },
+    {
+      "id": 278,
+      "page": 11,
+      "category": "text",
+      "text": "d) As robots replace people, job opportunities are generally reduced and people naturally won't have anything to do.",
+      "bbox": [
+        83,
+        739,
+        940,
+        772
+      ]
+    },
+    {
+      "id": 279,
+      "page": 11,
+      "category": "text",
+      "text": "e) People will rise to do better things once robots do the dangerous and boring jobs.",
+      "bbox": [
+        83,
+        775,
+        783,
+        792
+      ]
+    },
+    {
+      "id": 280,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        636,
+        940,
+        792
+      ]
+    },
+    {
+      "id": 281,
+      "page": 11,
+      "category": "page_number",
+      "text": "12",
+      "bbox": [
+        811,
+        913,
+        842,
+        930
+      ]
+    },
+    {
+      "id": 282,
+      "page": 11,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ],
+  [
+    {
+      "id": 283,
+      "page": 12,
+      "category": "title",
+      "text": "QUESTAO 18",
+      "bbox": [
+        51,
+        77,
+        237,
+        102
+      ]
+    },
+    {
+      "id": 284,
+      "page": 12,
+      "category": "text",
+      "text": "Não, você não é um robó, accreditation.",
+      "bbox": [
+        55,
+        128,
+        369,
+        145
+      ]
+    },
+    {
+      "id": 285,
+      "page": 12,
+      "category": "text",
+      "text": "você não é uma boa aquina locomotiva",
+      "bbox": [
+        55,
+        146,
+        385,
+        162
+      ]
+    },
+    {
+      "id": 286,
+      "page": 12,
+      "category": "text",
+      "text": "correndo louca sobre trilhos.",
+      "bbox": [
+        55,
+        164,
+        316,
+        179
+      ]
+    },
+    {
+      "id": 287,
+      "page": 12,
+      "category": "text",
+      "text": "Não é uma descoberta CCTINfica, uma obra faraONica",
+      "bbox": [
+        55,
+        181,
+        525,
+        196
+      ]
+    },
+    {
+      "id": 288,
+      "page": 12,
+      "category": "text",
+      "text": "Uma invenção astronômica, um projeto de arquitetura, fruto da",
+      "bbox": [
+        55,
+        197,
+        615,
+        213
+      ]
+    },
+    {
+      "id": 289,
+      "page": 12,
+      "category": "text",
+      "text": "imaginação do homem, armada no tempo...",
+      "bbox": [
+        55,
+        215,
+        441,
+        231
+      ]
+    },
+    {
+      "id": 290,
+      "page": 12,
+      "category": "text",
+      "text": "Você não foi feito de lata e ferro,",
+      "bbox": [
+        55,
+        232,
+        348,
+        247
+      ]
+    },
+    {
+      "id": 291,
+      "page": 12,
+      "category": "text",
+      "text": "Seus membros não funciona am por meio de fios electrolycos",
+      "bbox": [
+        55,
+        249,
+        558,
+        266
+      ]
+    },
+    {
+      "id": 292,
+      "page": 12,
+      "category": "text",
+      "text": "ligados à unaTomada como umcomputador...",
+      "bbox": [
+        55,
+        268,
+        470,
+        283
+      ]
+    },
+    {
+      "id": 293,
+      "page": 12,
+      "category": "text",
+      "text": "Seu pulmao nao é uma bateria,",
+      "bbox": [
+        55,
+        285,
+        334,
+        299
+      ]
+    },
+    {
+      "id": 294,
+      "page": 12,
+      "category": "text",
+      "text": "seu coração não é movido à combustivel",
+      "bbox": [
+        55,
+        302,
+        427,
+        317
+      ]
+    },
+    {
+      "id": 295,
+      "page": 12,
+      "category": "text",
+      "text": "como um motor de carro.",
+      "bbox": [
+        55,
+        319,
+        283,
+        333
+      ]
+    },
+    {
+      "id": 296,
+      "page": 12,
+      "category": "text",
+      "text": "Não é uma nave espacial, flutuando no espaço infinito",
+      "bbox": [
+        55,
+        335,
+        543,
+        351
+      ]
+    },
+    {
+      "id": 297,
+      "page": 12,
+      "category": "text",
+      "text": "nem tampouco um astro ou asteroide que se despendeu da orbita",
+      "bbox": [
+        55,
+        354,
+        647,
+        370
+      ]
+    },
+    {
+      "id": 298,
+      "page": 12,
+      "category": "text",
+      "text": "de algoqum sIgema solar.",
+      "bbox": [
+        55,
+        371,
+        270,
+        387
+      ]
+    },
+    {
+      "id": 299,
+      "page": 12,
+      "category": "text",
+      "text": "Vocé é mais, muito mais que isso...",
+      "bbox": [
+        55,
+        388,
+        373,
+        404
+      ]
+    },
+    {
+      "id": 300,
+      "page": 12,
+      "category": "text",
+      "text": "(Texto adaptado de http://poesiasecronicas.com.br/index.php/poesiasitem404-voce-e-um-robo)",
+      "bbox": [
+        55,
+        405,
+        635,
+        418
+      ]
+    },
+    {
+      "id": 301,
+      "page": 12,
+      "category": "text",
+      "text": "No trocho da poesia acima, ou autor faz uso de elementos de fonções da linguagem para transmitir uma pessoas ao leitor. Quanto às fonções da linguagem realizadas em sua construição, qual|(is) alternatively(s) está(aí) corretrá(s)?",
+      "bbox": [
+        53,
+        435,
+        922,
+        486
+      ]
+    },
+    {
+      "id": 302,
+      "page": 12,
+      "category": "text",
+      "text": "a) Predominna, no textual, aensa Referencial, ja que o autor busca fazer referencia a elementos que fazer parte do processo de construição de robos.",
+      "bbox": [
+        82,
+        503,
+        938,
+        536
+      ]
+    },
+    {
+      "id": 303,
+      "page": 12,
+      "category": "text",
+      "text": "b) No texto, predomina o uso de recursos linguisticos da：<sup>1</sup>ção Fática da linguagem, caracterizada pela exposação das dificências entre o leitér e os robés.",
+      "bbox": [
+        82,
+        539,
+        938,
+        571
+      ]
+    },
+    {
+      "id": 304,
+      "page": 12,
+      "category": "text",
+      "text": "c) O texto informa ao leitor que ele é mais do que um robó, caracterizing a predominança do uso da funcão Denotativa.",
+      "bbox": [
+        82,
+        573,
+        940,
+        604
+      ]
+    },
+    {
+      "id": 305,
+      "page": 12,
+      "category": "text",
+      "text": "d) O author deixa claro as suas emoções e sentimientos quanto a Tecnologia e seu impactos no dia a dia com resursos da função Emoliva.",
+      "bbox": [
+        82,
+        608,
+        940,
+        640
+      ]
+    },
+    {
+      "id": 306,
+      "page": 12,
+      "category": "text",
+      "text": "e) O autor faz uso de elementos da categoria Poética da linguagem para transmitir a mensagem atraves de recursos estelícticos e提供优质as de linguagem.",
+      "bbox": [
+        82,
+        642,
+        940,
+        676
+      ]
+    },
+    {
+      "id": 307,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        503,
+        940,
+        676
+      ]
+    },
+    {
+      "id": 308,
+      "page": 12,
+      "category": "title",
+      "text": "QUESTão 19",
+      "bbox": [
+        51,
+        702,
+        233,
+        726
+      ]
+    },
+    {
+      "id": 309,
+      "page": 12,
+      "category": "text",
+      "text": "O Arduino possui um Conjunto bem definindo de portas de entrada e��u, sobre estas portas avalie as affirmativas abaixo e assiminale a alternativa correta.",
+      "bbox": [
+        250,
+        694,
+        942,
+        744
+      ]
+    },
+    {
+      "id": 310,
+      "page": 12,
+      "category": "text",
+      "text": "I - O Arduino poderoon motores e luzes com corrente maior que 1 ampear a partir das suas portas de salda,sem necessitar de circuitos extras.",
+      "bbox": [
+        53,
+        763,
+        938,
+        795
+      ]
+    },
+    {
+      "id": 311,
+      "page": 12,
+      "category": "text",
+      "text": "II - E possivel realizar uma medicacao de tensao numa escalae de 0 a 1024utilizing a porta D4 do Arduino.",
+      "bbox": [
+        53,
+        797,
+        926,
+        813
+      ]
+    },
+    {
+      "id": 312,
+      "page": 12,
+      "category": "text",
+      "text": "III - A partir das portas analógicas é possevel obter valore discretos para um sinal analógico.",
+      "bbox": [
+        53,
+        815,
+        821,
+        830
+      ]
+    },
+    {
+      "id": 313,
+      "page": 12,
+      "category": "text",
+      "text": "IV - Para controlar a velocidade de rotação de um motor DC con Arduino e necessario connectar o motor em série com um transistor. O Arduino controla o transistor e o transistor controla a velocidade do motor.",
+      "bbox": [
+        53,
+        832,
+        938,
+        864
+      ]
+    },
+    {
+      "id": 314,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        53,
+        763,
+        938,
+        864
+      ]
+    },
+    {
+      "id": 315,
+      "page": 12,
+      "category": "text",
+      "text": "(Atença: Opções está na páginasingletone)",
+      "bbox": [
+        55,
+        866,
+        451,
+        883
+      ]
+    },
+    {
+      "id": 316,
+      "page": 12,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    },
+    {
+      "id": 317,
+      "page": 12,
+      "category": "page_number",
+      "text": "13",
+      "bbox": [
+        811,
+        912,
+        840,
+        930
+      ]
+    }
+  ],
+  [
+    {
+      "id": 318,
+      "page": 13,
+      "category": "text",
+      "text": "a) Apenas I e II estao corretas.",
+      "bbox": [
+        85,
+        59,
+        352,
+        75
+      ]
+    },
+    {
+      "id": 319,
+      "page": 13,
+      "category": "text",
+      "text": "b) I, III e IV está corretras.",
+      "bbox": [
+        87,
+        77,
+        316,
+        93
+      ]
+    },
+    {
+      "id": 320,
+      "page": 13,
+      "category": "text",
+      "text": "c) Apenas III e IV estao corretas.",
+      "bbox": [
+        87,
+        95,
+        369,
+        110
+      ]
+    },
+    {
+      "id": 321,
+      "page": 13,
+      "category": "text",
+      "text": "d) I e iii estao corretas.",
+      "bbox": [
+        87,
+        111,
+        290,
+        127
+      ]
+    },
+    {
+      "id": 322,
+      "page": 13,
+      "category": "text",
+      "text": "e) I, II e III está corretas.",
+      "bbox": [
+        87,
+        129,
+        310,
+        145
+      ]
+    },
+    {
+      "id": 323,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        59,
+        369,
+        145
+      ]
+    },
+    {
+      "id": 324,
+      "page": 13,
+      "category": "title",
+      "text": "QUESTão 20",
+      "bbox": [
+        51,
+        185,
+        236,
+        209
+      ]
+    },
+    {
+      "id": 325,
+      "page": 13,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        61,
+        230,
+        469,
+        432
+      ]
+    },
+    {
+      "id": 326,
+      "page": 13,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        476,
+        231,
+        981,
+        432
+      ]
+    },
+    {
+      "id": 327,
+      "page": 13,
+      "category": "text",
+      "text": "(imarreterradedsathtodtoTofotamalemaibro/revoluciaindustriae/et al.https://blog.cimauromacao.com.br/beneficiaries-importantes-de-robos-industrias/）",
+      "bbox": [
+        55,
+        442,
+        538,
+        469
+      ]
+    },
+    {
+      "id": 328,
+      "page": 13,
+      "category": "text",
+      "text": "Com as revolucções industriais e os avanços Tecnologicos impostos à linhas de Produção dos mais diversos produits, o chao das fibricas passou por diversas 修改as. As comunidades que residiam no entorno das industrias mudaramisas sus caracteristicas. Entretanto, como é posseivodovar na imagem, existem elementos que demonstram a continuitye de um objetivo principalnas revolucções industriais. Qual é esse objetivo?",
+      "bbox": [
+        54,
+        482,
+        935,
+        569
+      ]
+    },
+    {
+      "id": 329,
+      "page": 13,
+      "category": "text",
+      "text": "a) Manutenção da fonte de energia principal utilizes para abastecimento da indústria.",
+      "bbox": [
+        83,
+        583,
+        805,
+        598
+      ]
+    },
+    {
+      "id": 330,
+      "page": 13,
+      "category": "text",
+      "text": "b) Maximização lucro a partir dautilização de novas technologias para diminuição dos custos.",
+      "bbox": [
+        83,
+        600,
+        855,
+        616
+      ]
+    },
+    {
+      "id": 331,
+      "page": 13,
+      "category": "text",
+      "text": "c) Aumento no tempo de producao para tambem augmentar a qualidade do produits.",
+      "bbox": [
+        83,
+        618,
+        780,
+        633
+      ]
+    },
+    {
+      "id": 332,
+      "page": 13,
+      "category": "text",
+      "text": "d) Manutenção da mão de obra humana não especializada para diminuição de custos com treinamento.",
+      "bbox": [
+        83,
+        635,
+        938,
+        666
+      ]
+    },
+    {
+      "id": 333,
+      "page": 13,
+      "category": "text",
+      "text": "e) Otimização dos métodos de produção gerando cada vez mais produits personalizáveis.",
+      "bbox": [
+        83,
+        669,
+        841,
+        686
+      ]
+    },
+    {
+      "id": 334,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        583,
+        938,
+        686
+      ]
+    },
+    {
+      "id": 335,
+      "page": 13,
+      "category": "page_number",
+      "text": "14",
+      "bbox": [
+        809,
+        913,
+        839,
+        931
+      ]
+    },
+    {
+      "id": 336,
+      "page": 13,
+      "category": "footer",
+      "text": "ODR",
+      "bbox": [
+        454,
+        934,
+        543,
+        991
+      ]
+    }
+  ]
+]

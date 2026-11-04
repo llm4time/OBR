@@ -1,0 +1,1652 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        80,
+        80,
+        626,
+        105
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBOTICA 2015",
+      "bbox": [
+        82,
+        107,
+        623,
+        191
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "text",
+      "text": "1°culo dos PCN- \\(1^{\\circ}\\) e \\(2^{\\circ}\\) série ou \\(2^{\\circ}\\) e \\(3^{\\circ}\\) ano do novo regime do ensino fundamental",
+      "bbox": [
+        91,
+        215,
+        559,
+        253
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        660,
+        68,
+        938,
+        245
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 1",
+      "bbox": [
+        765,
+        269,
+        919,
+        299
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SERIE/ANO:</td><td>NOTA DA PROVA (G-100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        45,
+        327,
+        958,
+        519
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        296,
+        572,
+        676,
+        593
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        82,
+        616,
+        256,
+        632
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "-Esta prova content 8 páginas",
+      "bbox": [
+        85,
+        640,
+        340,
+        656
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas",
+      "bbox": [
+        84,
+        660,
+        321,
+        675
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        85,
+        679,
+        419,
+        693
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        85,
+        698,
+        549,
+        713
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Apenas se necessario, leia a question para o aluno",
+      "bbox": [
+        85,
+        718,
+        513,
+        732
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        85,
+        736,
+        456,
+        750
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "- Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        85,
+        755,
+        609,
+        770
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        640,
+        609,
+        770
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "ORGANIZACAO",
+      "bbox": [
+        73,
+        854,
+        88,
+        916
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "E APO10",
+      "bbox": [
+        90,
+        861,
+        105,
+        916
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        125,
+        861,
+        201,
+        902
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "text",
+      "text": "",
+      "bbox": [
+        117,
+        902,
+        207,
+        907
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        224,
+        858,
+        275,
+        904
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "text",
+      "text": "#",
+      "bbox": [
+        230,
+        904,
+        270,
+        908
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        315,
+        855,
+        339,
+        886
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        341,
+        859,
+        397,
+        875
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "常",
+      "bbox": [
+        342,
+        875,
+        367,
+        881
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        369,
+        893,
+        423,
+        911
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        439,
+        852,
+        490,
+        886
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        479,
+        888,
+        556,
+        918
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        633,
+        854,
+        677,
+        884
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        663,
+        893,
+        730,
+        912
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        742,
+        855,
+        780,
+        883
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "text",
+      "text": "Minkindu-dia  \nCidende e Tecnologia  \nMinkindu-dia  \nMinkindu-dia",
+      "bbox": [
+        829,
+        858,
+        906,
+        884
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        804,
+        888,
+        906,
+        912
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        371,
+        956,
+        628,
+        968
+      ]
+    }
+  ],
+  [
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "1. O nome do robb abixo é MAX-362. El adora es olhar no espeço e sempre se espanca com umaquevelIsssoqueursoqnasepareo espeçode umjeito差别ico.",
+      "bbox": [
+        91,
+        65,
+        908,
+        99
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        313,
+        111,
+        685,
+        372
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(Fonte: Modificado de https://openclipart.org/detail/191072/blue-robot)",
+      "bbox": [
+        283,
+        377,
+        714,
+        390
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "Qual das alternativas apareça a imagem do nome que MAX-362 não espalho?",
+      "bbox": [
+        124,
+        414,
+        777,
+        432
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "a.",
+      "bbox": [
+        125,
+        484,
+        143,
+        496
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        459,
+        278,
+        498
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "b.",
+      "bbox": [
+        125,
+        549,
+        144,
+        562
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        526,
+        277,
+        564
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "C.",
+      "bbox": [
+        125,
+        617,
+        142,
+        629
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        595,
+        274,
+        631
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "d.",
+      "bbox": [
+        125,
+        681,
+        144,
+        695
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        658,
+        277,
+        697
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "e.",
+      "bbox": [
+        125,
+        750,
+        143,
+        762
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        725,
+        277,
+        763
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/8",
+      "bbox": [
+        895,
+        945,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "2. O robó R2D3PO aparecido problemas en su的整体 de memoria. Para resolver o problema, seu criador Joaquin, resolvev desmonta-lo. Ajudo Joaquin a remontar R2D3PO, circulando a replya que liga as pecas nos locals当你 devilam ser colocadas.",
+      "bbox": [
+        90,
+        65,
+        908,
+        117
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        152,
+        125,
+        870,
+        359
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "image_footnote",
+      "text": "(Fonte: Modificado de http://opencipart.org/detail/174780/open-mouthed-robot-by-ruthirsty-174780)",
+      "bbox": [
+        194,
+        377,
+        802,
+        393
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "a. 1-B, 2-E, 3-D, 4-C, 5-A",
+      "bbox": [
+        123,
+        430,
+        345,
+        448
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "b. 1-E, 2-D, 3-B, 4-A, 5-C",
+      "bbox": [
+        126,
+        453,
+        344,
+        470
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "c. 1-C, 2-D, 3-E, 4-A, 5-B",
+      "bbox": [
+        126,
+        477,
+        344,
+        494
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "d. 1-B, 2-E, 3-D, 4-A, 5-C",
+      "bbox": [
+        126,
+        501,
+        344,
+        518
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "e. 1-C, 2-E, 3-D, 4-A, 5-B",
+      "bbox": [
+        126,
+        525,
+        344,
+        541
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        430,
+        345,
+        541
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "3. Vamos colorir o rob? Siga as orientacoes:",
+      "bbox": [
+        90,
+        574,
+        463,
+        591
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "- Braço esquerdo do robô → AZUL",
+      "bbox": [
+        125,
+        608,
+        428,
+        624
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "- Braço direito do robão \\(\\rightarrow\\) VERMELHO",
+      "bbox": [
+        126,
+        625,
+        455,
+        641
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "- Perna esquerda do robão → AMARELO",
+      "bbox": [
+        126,
+        643,
+        465,
+        658
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "- Perna direita do robô → VERDE",
+      "bbox": [
+        127,
+        660,
+        414,
+        674
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "Pés do robo → MARROM",
+      "bbox": [
+        127,
+        676,
+        371,
+        691
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        608,
+        465,
+        691
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        396,
+        581,
+        828,
+        932
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        356,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/8",
+      "bbox": [
+        894,
+        944,
+        925,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "4. Os robés utilizez SENSORES para perceber o ambienteonde está. Por exemplo, uma camera para ver o lugar, um sensor de toque para saber que encostou em um objeto ou um microfone para escurar os sons.",
+      "bbox": [
+        90,
+        65,
+        907,
+        116
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "Os seres humanosmaybeposuemSSENSOREs,osrgadoso sentido.Circueta na figuraabaixoos 5 SENSOREs da Ana.",
+      "bbox": [
+        122,
+        132,
+        907,
+        166
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        107,
+        171,
+        893,
+        676
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "Funte: Modificado de www.smartkids.com.br",
+      "bbox": [
+        365,
+        723,
+        632,
+        736
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        356,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/8",
+      "bbox": [
+        894,
+        945,
+        925,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 75,
+      "page": 4,
+      "category": "text",
+      "text": "5. Encontre no Caça-Palavras o nome das partes do robô maluco.",
+      "bbox": [
+        90,
+        64,
+        624,
+        81
+      ]
+    },
+    {
+      "id": 76,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        302,
+        89,
+        671,
+        495
+      ]
+    },
+    {
+      "id": 77,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>C</td><td>R</td><td>V</td><td>I</td><td>D</td><td>S</td><td>E</td><td>F</td><td>W</td><td>Q</td><td>U</td><td>S</td><td>A</td></tr><tr><td>A</td><td>H</td><td>G</td><td>M</td><td>U</td><td>C</td><td>O</td><td>R</td><td>P</td><td>O</td><td>B</td><td>R</td><td>C</td></tr><tr><td>X</td><td>G</td><td>A</td><td>R</td><td>R</td><td>A</td><td>F</td><td>J</td><td>E</td><td>S</td><td>A</td><td>C</td><td>E</td></tr><tr><td>B</td><td>K</td><td>N</td><td>W</td><td>A</td><td>B</td><td>T</td><td>I</td><td>R</td><td>A</td><td>M</td><td>F</td><td>J</td></tr><tr><td>T</td><td>R</td><td>F</td><td>O</td><td>P</td><td>E</td><td>H</td><td>A</td><td>N</td><td>T</td><td>E</td><td>N</td><td>A</td></tr><tr><td>I</td><td>H</td><td>B</td><td>R</td><td>A</td><td>C</td><td>O</td><td>B</td><td>A</td><td>Q</td><td>Y</td><td>V</td><td>U</td></tr><tr><td>E</td><td>D</td><td>Q</td><td>O</td><td>J</td><td>A</td><td>E</td><td>X</td><td>N</td><td>L</td><td>O</td><td>H</td><td>F</td></tr><tr><td>Y</td><td>P</td><td>K</td><td>D</td><td>U</td><td>R</td><td>S</td><td>T</td><td>I</td><td>P</td><td>W</td><td>G</td><td>K</td></tr><tr><td>L</td><td>E</td><td>C</td><td>A</td><td>S</td><td>I</td><td>D</td><td>P</td><td>A</td><td>N</td><td>R</td><td>E</td><td>L</td></tr></table>",
+      "bbox": [
+        92,
+        506,
+        905,
+        844
+      ]
+    },
+    {
+      "id": 78,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/8",
+      "bbox": [
+        895,
+        945,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 80,
+      "page": 5,
+      "category": "text",
+      "text": "6. LX35 e um robé que adora números. Seus passatemtempo preferido é colocá-los em ordem crescente, do menor para o maior. Ajude LX35 a organizeçar os números do quadro na fila.",
+      "bbox": [
+        91,
+        65,
+        908,
+        100
+      ]
+    },
+    {
+      "id": 81,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        104,
+        710,
+        297
+      ]
+    },
+    {
+      "id": 82,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        722,
+        106,
+        903,
+        282
+      ]
+    },
+    {
+      "id": 83,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Fonte: www.smartkids.com.br",
+      "bbox": [
+        728,
+        285,
+        905,
+        297
+      ]
+    },
+    {
+      "id": 84,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        93,
+        314,
+        905,
+        368
+      ]
+    },
+    {
+      "id": 85,
+      "page": 5,
+      "category": "title",
+      "text": "MENOR",
+      "bbox": [
+        94,
+        373,
+        171,
+        388
+      ]
+    },
+    {
+      "id": 86,
+      "page": 5,
+      "category": "title",
+      "text": "MAIOR",
+      "bbox": [
+        832,
+        373,
+        905,
+        388
+      ]
+    },
+    {
+      "id": 87,
+      "page": 5,
+      "category": "text",
+      "text": "7. Um time de fubol de robos, no camponato很正常 na figura abaixo, é composto por 3 robos.  \n7. Cada robó utilizes quatre pilas de 3V para jogar a partir de在这ina.",
+      "bbox": [
+        91,
+        433,
+        905,
+        466
+      ]
+    },
+    {
+      "id": 88,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        114,
+        471,
+        885,
+        776
+      ]
+    },
+    {
+      "id": 89,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Fonte: Wikipédia",
+      "bbox": [
+        780,
+        778,
+        881,
+        790
+      ]
+    },
+    {
+      "id": 90,
+      "page": 5,
+      "category": "text",
+      "text": "Quantas pilhas de 3V são necessarias para que o jogo aconteça?",
+      "bbox": [
+        116,
+        799,
+        631,
+        817
+      ]
+    },
+    {
+      "id": 91,
+      "page": 5,
+      "category": "text",
+      "text": "a. 30 pilhas",
+      "bbox": [
+        127,
+        823,
+        229,
+        839
+      ]
+    },
+    {
+      "id": 92,
+      "page": 5,
+      "category": "text",
+      "text": "b. 12 pilhas",
+      "bbox": [
+        127,
+        846,
+        228,
+        862
+      ]
+    },
+    {
+      "id": 93,
+      "page": 5,
+      "category": "text",
+      "text": "c. 6 pilhas",
+      "bbox": [
+        128,
+        871,
+        218,
+        886
+      ]
+    },
+    {
+      "id": 94,
+      "page": 5,
+      "category": "text",
+      "text": "d. 10 pilhas",
+      "bbox": [
+        128,
+        893,
+        228,
+        908
+      ]
+    },
+    {
+      "id": 95,
+      "page": 5,
+      "category": "text",
+      "text": "e. 24 pilhas",
+      "bbox": [
+        128,
+        916,
+        228,
+        932
+      ]
+    },
+    {
+      "id": 96,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        127,
+        823,
+        229,
+        932
+      ]
+    },
+    {
+      "id": 97,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 98,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/8",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 99,
+      "page": 6,
+      "category": "text",
+      "text": "8. O robô LX35 deve executar as tarefas na ordem da lista a seguir:",
+      "bbox": [
+        90,
+        65,
+        643,
+        83
+      ]
+    },
+    {
+      "id": 100,
+      "page": 6,
+      "category": "table",
+      "text": "<table><tr><td>TAREFAS</td><td>TEMPO GASTO</td><td rowspan=\"7\"><img src=\"data:image/jpeg;base64,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\"/> \nFonte: www.smartkids.com.br</td></tr><tr><td>1. Procurar uma bola(PCQUENCA)</td><td>5 minutos</td></tr><tr><td>2. Pegar a bola(PCQUENCA)</td><td>1 minuto</td></tr><tr><td>3. Guardar a bola(PCQUENCA)</td><td>3 minutos</td></tr><tr><td>4. Procurar um livre grande</td><td>2 minutos</td></tr><tr><td>5. Pegar o livre grande</td><td>1 minuto</td></tr><tr><td>6. Guardar o livre grande na estante</td><td>4 minutos</td></tr></table>",
+      "bbox": [
+        92,
+        114,
+        905,
+        334
+      ]
+    },
+    {
+      "id": 101,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonte: www.smartkids.com.br",
+      "bbox": [
+        710,
+        298,
+        886,
+        310
+      ]
+    },
+    {
+      "id": 102,
+      "page": 6,
+      "category": "text",
+      "text": "O robó LX35 repete a lista quevas para preciso cuando existir uma coisa para fazer. No quarto da figura abiaixo, circuno os objetivos que o robó delve guarde e calculque quando tempo LX35 vai gastrar para realizar todas as tarefas.",
+      "bbox": [
+        122,
+        381,
+        907,
+        432
+      ]
+    },
+    {
+      "id": 103,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        461,
+        907,
+        713
+      ]
+    },
+    {
+      "id": 104,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonte: Modificado www.smartkids.com.br",
+      "bbox": [
+        658,
+        715,
+        907,
+        728
+      ]
+    },
+    {
+      "id": 105,
+      "page": 6,
+      "category": "text",
+      "text": "a. 10 Minutes",
+      "bbox": [
+        122,
+        764,
+        246,
+        779
+      ]
+    },
+    {
+      "id": 106,
+      "page": 6,
+      "category": "text",
+      "text": "b. 6 minutes",
+      "bbox": [
+        126,
+        788,
+        235,
+        802
+      ]
+    },
+    {
+      "id": 107,
+      "page": 6,
+      "category": "text",
+      "text": "c. 32 minutes",
+      "bbox": [
+        126,
+        811,
+        245,
+        825
+      ]
+    },
+    {
+      "id": 108,
+      "page": 6,
+      "category": "text",
+      "text": "d. 48 minutos",
+      "bbox": [
+        126,
+        835,
+        245,
+        849
+      ]
+    },
+    {
+      "id": 109,
+      "page": 6,
+      "category": "text",
+      "text": "e. 16 minutos",
+      "bbox": [
+        126,
+        859,
+        245,
+        872
+      ]
+    },
+    {
+      "id": 110,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        764,
+        246,
+        872
+      ]
+    },
+    {
+      "id": 111,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 112,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/8",
+      "bbox": [
+        901,
+        944,
+        931,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 113,
+      "page": 7,
+      "category": "text",
+      "text": "9. Paulo precise que seu robô siga o caminho mais curto para chegar às sua amiga Luiza.",
+      "bbox": [
+        90,
+        64,
+        817,
+        83
+      ]
+    },
+    {
+      "id": 114,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        99,
+        100,
+        165,
+        202
+      ]
+    },
+    {
+      "id": 115,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        158,
+        167,
+        884,
+        600
+      ]
+    },
+    {
+      "id": 116,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        810,
+        578,
+        902,
+        682
+      ]
+    },
+    {
+      "id": 117,
+      "page": 7,
+      "category": "text",
+      "text": "No caminho, cada vez que o robô encontrar a uma roda e sua luz verde. Não quando o robô passava por um martelo e eu pisa sua luz azul. Qual sequência de Luzes o robô vai realizar se fazer o caminho mais curto? Circule sua resposa.",
+      "bbox": [
+        122,
+        713,
+        909,
+        763
+      ]
+    },
+    {
+      "id": 118,
+      "page": 7,
+      "category": "text",
+      "text": "a. azul - azul - verde - verde",
+      "bbox": [
+        124,
+        770,
+        365,
+        786
+      ]
+    },
+    {
+      "id": 119,
+      "page": 7,
+      "category": "text",
+      "text": "b. azul - azul - verde - verde - azul verde",
+      "bbox": [
+        124,
+        793,
+        468,
+        810
+      ]
+    },
+    {
+      "id": 120,
+      "page": 7,
+      "category": "text",
+      "text": "c. azul - verd - azul - verd - verd",
+      "bbox": [
+        125,
+        816,
+        425,
+        833
+      ]
+    },
+    {
+      "id": 121,
+      "page": 7,
+      "category": "text",
+      "text": "d. azul - verd - verd - azul",
+      "bbox": [
+        125,
+        839,
+        363,
+        856
+      ]
+    },
+    {
+      "id": 122,
+      "page": 7,
+      "category": "text",
+      "text": "e. verde - azul - azul - verde - verde",
+      "bbox": [
+        125,
+        864,
+        424,
+        880
+      ]
+    },
+    {
+      "id": 123,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        770,
+        468,
+        880
+      ]
+    },
+    {
+      "id": 124,
+      "page": 7,
+      "category": "footer",
+      "text": "Olimplada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        640,
+        962
+      ]
+    },
+    {
+      "id": 125,
+      "page": 7,
+      "category": "page_number",
+      "text": "7/8",
+      "bbox": [
+        900,
+        944,
+        931,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 126,
+      "page": 8,
+      "category": "text",
+      "text": "10. Alguns robos foram feitos paraimar a forma de se movimentar dos animais. Preencha aanela com o nome de um dos animais abixo que tem o mesmo tipo de sistemas de locomaggio do robó.",
+      "bbox": [
+        90,
+        65,
+        904,
+        99
+      ]
+    },
+    {
+      "id": 127,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        89,
+        121,
+        911,
+        219
+      ]
+    },
+    {
+      "id": 128,
+      "page": 8,
+      "category": "image_caption",
+      "text": "ROBOS",
+      "bbox": [
+        460,
+        309,
+        534,
+        327
+      ]
+    },
+    {
+      "id": 129,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        109,
+        351,
+        291,
+        491
+      ]
+    },
+    {
+      "id": 130,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        306,
+        352,
+        484,
+        481
+      ]
+    },
+    {
+      "id": 131,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        503,
+        411,
+        694,
+        450
+      ]
+    },
+    {
+      "id": 132,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        715,
+        374,
+        895,
+        456
+      ]
+    },
+    {
+      "id": 133,
+      "page": 8,
+      "category": "image_caption",
+      "text": "ANIMAIS",
+      "bbox": [
+        452,
+        511,
+        542,
+        527
+      ]
+    },
+    {
+      "id": 134,
+      "page": 8,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 135,
+      "page": 8,
+      "category": "page_number",
+      "text": "8/8",
+      "bbox": [
+        897,
+        947,
+        927,
+        960
+      ]
+    }
+  ]
+]

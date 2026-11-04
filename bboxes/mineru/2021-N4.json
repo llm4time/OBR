@@ -1,0 +1,3528 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        54,
+        783,
+        273
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 4 - 8° E 9° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        185,
+        284,
+        926,
+        309
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        62,
+        338,
+        935,
+        530
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        316,
+        553,
+        680,
+        575
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        70,
+        584,
+        310,
+        604
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- España: Prove contém 11 páginas e 15 pergues;",
+      "bbox": [
+        72,
+        617,
+        576,
+        637
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas;",
+      "bbox": [
+        72,
+        638,
+        381,
+        656
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova delve ser preenchida a caneta;",
+      "bbox": [
+        72,
+        657,
+        500,
+        675
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        72,
+        676,
+        503,
+        693
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        72,
+        694,
+        666,
+        713
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente;",
+      "bbox": [
+        72,
+        714,
+        553,
+        731
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Permita que seu-aluno demonstré apenas o OWNico��ecimento. Nao o auxilie na resolucao das quostes.",
+      "bbox": [
+        71,
+        732,
+        860,
+        770
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        71,
+        617,
+        860,
+        770
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image_caption",
+      "text": "ATENÇA: Algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        109,
+        790,
+        885,
+        813
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Realização",
+      "bbox": [
+        113,
+        869,
+        199,
+        885
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        66,
+        894,
+        157,
+        953
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNICAMP",
+      "bbox": [
+        67,
+        956,
+        155,
+        969
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        897,
+        245,
+        951
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image_caption",
+      "text": "COTUCA",
+      "bbox": [
+        159,
+        956,
+        251,
+        970
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Apoio",
+      "bbox": [
+        297,
+        870,
+        346,
+        884
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        278,
+        896,
+        307,
+        923
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "text",
+      "text": "INSTITUTO FEDERAL",
+      "bbox": [
+        311,
+        897,
+        412,
+        919
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "text",
+      "text": "18",
+      "bbox": [
+        311,
+        919,
+        387,
+        923
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        421,
+        903,
+        495,
+        922
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        510,
+        887,
+        556,
+        930
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        892,
+        657,
+        927
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        668,
+        892,
+        750,
+        927
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        761,
+        883,
+        808,
+        933
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        824,
+        899,
+        850,
+        929
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        852,
+        903,
+        911,
+        929
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        281,
+        953,
+        367,
+        973
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        382,
+        936,
+        460,
+        976
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        476,
+        935,
+        516,
+        973
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        520,
+        953,
+        595,
+        974
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        620,
+        949,
+        707,
+        974
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "text",
+      "text": "ENGLISH THERMICS AND GECOMICS TECHNOLOGY ENGLISH ANALYSES",
+      "bbox": [
+        715,
+        954,
+        792,
+        972
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        801,
+        949,
+        842,
+        972
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "text",
+      "text": "INTHA ANADA BRASIL",
+      "bbox": [
+        846,
+        949,
+        914,
+        972
+      ]
+    }
+  ],
+  [
+    {
+      "id": 38,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        33,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "Nano robés são disposíticos robéticos construções em escalá nanometrística. Uma equipe de pesquisadores da Cornell University, nos Estados Unidos, criou robés microscópicos que poder ser controlados a distácnia. Umaunities é peculiaro a",
+      "bbox": [
+        200,
+        42,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "sufficiente para passar por Dentra de una igulá y e ser injetado no corpo humano, tendo aproximamente \\(100\\mu \\mathrm{m}\\) . UmaUNCHA de silição de dez centimetreitos de ser可达 de matéria",
+      "bbox": [
+        54,
+        93,
+        942,
+        126
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "prima para minihuedes robos microscopicos, que possessuinmuñulos circuitos sensives à luz. Quando estimulados por um laser, eles mecanismos impulsionam como quasPEGnos dos robos pararente.",
+      "bbox": [
+        54,
+        126,
+        545,
+        192
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "O tamanho dos nano robos pode ser%Xeretos, em otatologiacientifica, da segunte forma:",
+      "bbox": [
+        54,
+        198,
+        545,
+        232
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "a) \\(1 \\times 10^{-4} \\mathrm{~m}\\)",
+      "bbox": [
+        54,
+        236,
+        175,
+        254
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "b) \\(100 \\times 10^{-4} \\mathrm{~m}\\)",
+      "bbox": [
+        57,
+        254,
+        197,
+        270
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "c) \\(10 \\times 10^{-6} \\mathrm{~m}\\)",
+      "bbox": [
+        58,
+        270,
+        183,
+        287
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "d) \\(10 \\times 10^{6} \\mathrm{~m}\\)",
+      "bbox": [
+        58,
+        287,
+        181,
+        304
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "e) \\(1 \\times 10^{4} \\mathrm{~m}\\)",
+      "bbox": [
+        58,
+        304,
+        170,
+        321
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        236,
+        197,
+        321
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        556,
+        128,
+        943,
+        282
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "image_caption",
+      "text": "[Fonte: https://olhardigital.com.br/2020/08/27/",
+      "bbox": [
+        612,
+        282,
+        882,
+        294
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "image_caption",
+      "text": "noticias/clentistas-cram-micro-robos-que",
+      "bbox": [
+        628,
+        294,
+        865,
+        304
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "image_caption",
+      "text": "passam-por-dentro-de-uma-agulha/)",
+      "bbox": [
+        644,
+        305,
+        850,
+        317
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        31,
+        349,
+        191,
+        372
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "A utilização de robões moveris e drones na area de topografia encontrar-se em expansão. Periodicamente sãoPRESENTados novelasistemas rotéticosná principalas feiras e exospécções daarea. Ao realizaruma medicação, um robó",
+      "bbox": [
+        198,
+        335,
+        942,
+        386
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "autonomo utilizado para mapeamento do solo constatuo que o terreno possuía 12000 cm de comprimento e 9000 cm de largura em��amento de um retrangão. Quial o了一场 mapeamento de 12000 cm de robé e aarea de terreno, e metros e metros quadrados?",
+      "bbox": [
+        53,
+        386,
+        579,
+        468
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "a) \\(420\\mathrm{m}\\mathrm{e}1080\\mathrm{m}^2\\)",
+      "bbox": [
+        54,
+        474,
+        241,
+        491
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "b) \\(258\\mathrm{m}e10080\\mathrm{m}^2\\)",
+      "bbox": [
+        57,
+        491,
+        250,
+        507
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "text",
+      "text": "c) \\(420\\mathrm{m}e10800\\mathrm{m}^2\\)",
+      "bbox": [
+        57,
+        508,
+        250,
+        523
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "d) 2580 m e 10800 m²",
+      "bbox": [
+        57,
+        523,
+        261,
+        540
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "e) \\(4200\\mathrm{m}\\mathrm{e}1080\\mathrm{m}^2\\)",
+      "bbox": [
+        57,
+        540,
+        250,
+        557
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        474,
+        261,
+        557
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        588,
+        390,
+        933,
+        513
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Fonte: (https://anileleguedes.blogspot.com.br/",
+      "bbox": [
+        608,
+        513,
+        902,
+        524
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "image_caption",
+      "text": "2019/05/23/robos-contra-a-fome-a-agricultura-4-0/",
+      "bbox": [
+        610,
+        524,
+        900,
+        535
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        31,
+        586,
+        191,
+        607
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "text",
+      "text": "Segundo o relatão da Federação Internacional de Robotica de 2017, a utilização de robos pelo mundo vem crescem muito, como demonstrado no graço ao lado. As vendas de robos nãoworlden2017fiverem um aumento de aproximadamente",
+      "bbox": [
+        198,
+        571,
+        942,
+        622
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "text",
+      "text": "\\(30\\%\\) en comparación à 2016. Essa taxa de crecimiento é muito acima da identificación nos últimos decades. En 2016, a total de 1.000 millones de euros de operación de los procesos industriales e, a projección de crecimiento para osproximos 5anos é de \\(15\\%\\) ao an.",
+      "bbox": [
+        53,
+        622,
+        942,
+        671
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "text",
+      "text": "Baseado nas informacoespresentadas, qual a previsao de vendas, em milhares de unidas, de",
+      "bbox": [
+        53,
+        671,
+        941,
+        688
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "text",
+      "text": "robos industriais em 2019?",
+      "bbox": [
+        54,
+        688,
+        304,
+        704
+      ]
+    },
+    {
+      "id": 70,
+      "page": 1,
+      "category": "text",
+      "text": "a) 438",
+      "bbox": [
+        54,
+        710,
+        120,
+        728
+      ]
+    },
+    {
+      "id": 71,
+      "page": 1,
+      "category": "text",
+      "text": "b) 504",
+      "bbox": [
+        57,
+        729,
+        120,
+        746
+      ]
+    },
+    {
+      "id": 72,
+      "page": 1,
+      "category": "text",
+      "text": "c) 324",
+      "bbox": [
+        57,
+        747,
+        119,
+        762
+      ]
+    },
+    {
+      "id": 73,
+      "page": 1,
+      "category": "text",
+      "text": "d) 480",
+      "bbox": [
+        57,
+        763,
+        119,
+        779
+      ]
+    },
+    {
+      "id": 74,
+      "page": 1,
+      "category": "text",
+      "text": "e) 554",
+      "bbox": [
+        57,
+        779,
+        120,
+        796
+      ]
+    },
+    {
+      "id": 75,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        710,
+        120,
+        796
+      ]
+    },
+    {
+      "id": 76,
+      "page": 1,
+      "category": "image_caption",
+      "text": "VENDAS ANUAIS",
+      "bbox": [
+        544,
+        694,
+        671,
+        706
+      ]
+    },
+    {
+      "id": 77,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(milhares de unidas)",
+      "bbox": [
+        520,
+        707,
+        686,
+        720
+      ]
+    },
+    {
+      "id": 78,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        432,
+        715,
+        802,
+        837
+      ]
+    },
+    {
+      "id": 79,
+      "page": 1,
+      "category": "image_caption",
+      "text": "fntbe International Federation of Robotics (https://mr.org/)",
+      "bbox": [
+        488,
+        839,
+        719,
+        849
+      ]
+    },
+    {
+      "id": 80,
+      "page": 1,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        51,
+        917,
+        148,
+        978
+      ]
+    },
+    {
+      "id": 81,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        895,
+        929,
+        910,
+        943
+      ]
+    }
+  ],
+  [
+    {
+      "id": 82,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        33,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "*Emerging in the 1980s, the first robots in the medical field offered surgical assistance via robotic arm technologies. Over the",
+      "bbox": [
+        200,
+        42,
+        591,
+        95
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "years, artificial intelligence (AI)-enabled computer vision and data analytics have transformed health robotics, expanding capabilities into many other areas of healthcare. Robots are now used not only in the operating room, but also in clinical settings to support health workers and enhance patient care. During the COVID-19 pandemic, hospitals and clinics began deploying robots for a much wider range of tasks to help reduce exposure to pathogens.",
+      "bbox": [
+        54,
+        96,
+        591,
+        231
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        599,
+        43,
+        940,
+        223
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "It's become clear that the operational efficiencies and risk reduction provided by health robotics offer value in many areas.",
+      "bbox": [
+        54,
+        232,
+        940,
+        264
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "For example, robots can clean and prep patient rooms independently, helping limit person-to-person contact in infectious disease wards. Robots with AI-enabled medicine identifier software reduce the time it takes to identify, match, and distribute medicine to patients in hospitals.",
+      "bbox": [
+        54,
+        264,
+        940,
+        313
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "As technologies evolve, robots will function more autonomously, eventually performing certain tasks that require the cooperation of nurses, nurses, and other healthcare workers can focus on providing more empathy in patient care.\"",
+      "bbox": [
+        54,
+        314,
+        940,
+        362
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "(Texto extra/da de: https://www.intel.com/content/www/us/en/healthcare-it/robotics-in-healthcare.html)",
+      "bbox": [
+        55,
+        362,
+        651,
+        373
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "text",
+      "text": "Considerando o trecho acima, retirado do artigo \"Robotics in Health Care\", é correto affirmar:",
+      "bbox": [
+        55,
+        381,
+        886,
+        398
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "text",
+      "text": "a) Os robos na medicina está limitados ao uso de braços robéticos.",
+      "bbox": [
+        55,
+        405,
+        675,
+        420
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "text",
+      "text": "b) Os robos não podem ser realizados para limpeza e preparação dos quartos.",
+      "bbox": [
+        55,
+        420,
+        757,
+        437
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "c) Com o avanco das technologias, os robos tendem a delear de ser cada vez mais autônomos.",
+      "bbox": [
+        55,
+        437,
+        903,
+        453
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "text",
+      "text": "d) Como resultado da implantação de robos, médicos e enfermeiros podem se concentrar mais na profissão e não demonstrar empatica os pacientes.",
+      "bbox": [
+        54,
+        454,
+        938,
+        486
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "text",
+      "text": "e) Durante a pandemia de COVID-19, hospitales e clinicas passaram a'utilizar robos em uma moda de tarefas e com inuito de diminuir a exposacao ao virus.",
+      "bbox": [
+        54,
+        486,
+        938,
+        519
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        405,
+        938,
+        519
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTAO5",
+      "bbox": [
+        33,
+        547,
+        191,
+        568
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "Estação meteorológica é um Conjunto de instrumentos ou sensores que recolhem dados paraanalise do tempo. Esses instrumentos ou sensores são capazes de registrar a temperatura do ar, velocidade e direção do vento, umbidade do ar,",
+      "bbox": [
+        200,
+        535,
+        940,
+        588
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "radioisolaro, chuva, pressao atmosfotrico entre variousvariis. Um robo pote ter acoplado um estado meteorologica, como o robo explorator Perseverance, da Nasa, que foi enviado a Mante.",
+      "bbox": [
+        54,
+        589,
+        940,
+        624
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "text",
+      "text": "permuito que realize a medicacao da velocidade e direciondo vento, temperatura do solo e do ar, umbidade relativa, pressao atmosfetica, dentro及其他 possibilidades de medicacao.",
+      "bbox": [
+        54,
+        624,
+        613,
+        675
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "text",
+      "text": "Um rob docketo de uma estação meteorologica foi utilizes por avaliação do clima de uma determinada regione do Brasil. As principais CHARACTERisticas obditas do rob foram: região bastante se仅为 a escazesse de chuvas, que acontecem a chuance de chuvas. O estação do estação, a temperatura与此 região é alta, com média de \\(27^{\\circ}\\mathrm{C}\\) e amplitude tímerica de \\(5^{\\circ}\\mathrm{C}\\). Qua clima, ou rob está analisando?",
+      "bbox": [
+        54,
+        676,
+        613,
+        791
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "text",
+      "text": "a) Equatorial",
+      "bbox": [
+        55,
+        799,
+        177,
+        816
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "text",
+      "text": "b) Tropical",
+      "bbox": [
+        55,
+        816,
+        157,
+        832
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "text",
+      "text": "c) Tropical de Altitude ou Tropical Atlantico",
+      "bbox": [
+        55,
+        832,
+        445,
+        848
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "text",
+      "text": "d) Semiarido",
+      "bbox": [
+        55,
+        848,
+        176,
+        864
+      ]
+    },
+    {
+      "id": 106,
+      "page": 2,
+      "category": "text",
+      "text": "e) Subtropical",
+      "bbox": [
+        55,
+        865,
+        186,
+        881
+      ]
+    },
+    {
+      "id": 107,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        55,
+        799,
+        445,
+        881
+      ]
+    },
+    {
+      "id": 108,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        621,
+        637,
+        925,
+        862
+      ]
+    },
+    {
+      "id": 109,
+      "page": 2,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        51,
+        917,
+        148,
+        978
+      ]
+    },
+    {
+      "id": 110,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        895,
+        930,
+        909,
+        943
+      ]
+    }
+  ],
+  [
+    {
+      "id": 111,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        33,
+        54,
+        191,
+        75
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "\"Perseverance was put down in a near-equatorial crater called Jezero, to search for evidence of past life. This will involve roving some 15km over the coming Martian year (roughly two Earth years). Scientists want to reach a number of enticing rock",
+      "bbox": [
+        200,
+        42,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "formations in the crater that might retain a record of ancient biological activity.",
+      "bbox": [
+        55,
+        93,
+        751,
+        109
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "Among these is what looks in satellite imagery to be a delta - a structure built up from the silt and sand dumped by a river as it enters a wider body of water. In Jezeiro's case, this wider body was very likely a crater-wide lake that existed billions of years ago. The mission team is considering two options: the delta, one of which would give scientists a preview by taking the robot past the isolated remnant.",
+      "bbox": [
+        53,
+        109,
+        942,
+        189
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "\"This (mound) is about a mile-and-a-half away from the rover. You can actually resolve layering within the rocks,\" said Dr Stack Morgan. \"In this outcrop, these resistant layered rocks were likely deposited by rivers flowing into the ancient Lake Jezero, and the most likely explanation for these team are hard at work trying to understand the significance and origin of rocks like this.\"",
+      "bbox": [
+        55,
+        191,
+        474,
+        336
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "An immediate goal for Perseverance is its helicopter experiment. The rover brought a small chopper with it from Earth. The vehicle will spend the next few weeks driving from its present location to a suitable stretch of terrain where the 2kg device called Ingenuity can be put safely on the ground. At present, the aircraft is slung beneath Perseverance's belly.",
+      "bbox": [
+        55,
+        338,
+        474,
+        468
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Mars Rover Perseverance",
+      "bbox": [
+        488,
+        189,
+        736,
+        204
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        485,
+        206,
+        938,
+        442
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "image_footnote",
+      "text": "Source: Nasa",
+      "bbox": [
+        487,
+        443,
+        559,
+        453
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "image_footnote",
+      "text": "BCC",
+      "bbox": [
+        894,
+        443,
+        935,
+        453
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "text",
+      "text": "\"We're still figuring out the possible flight zones,\" said Robert Hogg, Perseverance's deputy mission manager. \"We're taking navigation camera images, stereo images, to be able to analyse the terrain. And also the team's been looking at orbital images looking at possible flight zones. Long story short, we're still aiming for getting that done in the spring,\" he told reporters.",
+      "bbox": [
+        53,
+        469,
+        942,
+        535
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "text",
+      "text": "Perseverance is the fastest rover Nasa has ever put on Mars. This is not so much because of the rate at which the wheels can turn (about \\( 5\\mathrm{cm} / \\mathrm{s} \\)), but rather because of advances in autonomous navigation. The robot takes pictures to assess the road ahead. Previous vehicles had to stop while the robot was walking, and the robot would have to do this on the fly. \"Perseverance can walk and chew gum at the same time,\" said Anais Zarifian.",
+      "bbox": [
+        53,
+        535,
+        942,
+        616
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "text",
+      "text": "Nasa announced on Friday that it had named Perseverance's landing site in Jezezo Crater after the celebrated American science fiction writer Octavia E. Butler. The same honour was given to scifi author Ray Bradbury in 2012. His name will forever be associated with the touchdown location of the US space agency's previous rover, Curiosity.\"",
+      "bbox": [
+        53,
+        616,
+        942,
+        682
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "text",
+      "text": "[Texto extraidoe: https://www.bbc.com/news/science-environment-56297996]",
+      "bbox": [
+        55,
+        682,
+        506,
+        694
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "text",
+      "text": "Considerando o trecho acima, retradir do Arteo \"Nasa's Perseverance rover begins its exploration of Mars\", correto affirmar:",
+      "bbox": [
+        53,
+        700,
+        941,
+        734
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "text",
+      "text": "a) O rover Perseverance foI retirado de una cratera chamada Jezero.",
+      "bbox": [
+        55,
+        740,
+        682,
+        756
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "text",
+      "text": "b) O Ingenuity é um bloco de 2kg de rocha marciana.",
+      "bbox": [
+        55,
+        757,
+        535,
+        773
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "text",
+      "text": "c) O rover Perseverance e o veiculo mais lento que a NASA ja enviou para Marte.",
+      "bbox": [
+        55,
+        774,
+        790,
+        789
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "text",
+      "text": "d) Uma meta do rover Perseverance é testar o helicóptero que levou da Terra.",
+      "bbox": [
+        55,
+        790,
+        759,
+        806
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "text",
+      "text": "e) O rover Perseverance tiraotos,mas precisa parar enquanto as imagens sano processadas.",
+      "bbox": [
+        55,
+        806,
+        898,
+        824
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        55,
+        740,
+        898,
+        824
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        894,
+        929,
+        909,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 134,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        33,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 135,
+      "page": 4,
+      "category": "title",
+      "text": "TERCEIRA REVOLUÇÃO INDUSTRIAL",
+      "bbox": [
+        261,
+        40,
+        502,
+        74
+      ]
+    },
+    {
+      "id": 136,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        43,
+        939,
+        216
+      ]
+    },
+    {
+      "id": 137,
+      "page": 4,
+      "category": "text",
+      "text": "\"A Terceira Revolução Industrial, también conheça como Revolução Tecnico-identificía, inociu-se em meados do século XX, no periodo Póss-Segunda Guerra Mundial. Comprende omomento de maior avanco technologicalo, que passou a abranger não so o Sistema produto, mas quando se voltou para o Campo网站首页, transformando as relações sociais e o dia a dia da société.",
+      "bbox": [
+        54,
+        82,
+        564,
+        213
+      ]
+    },
+    {
+      "id": 138,
+      "page": 4,
+      "category": "text",
+      "text": "Iniciada na decada de 1950,essa fase da Revolucao",
+      "bbox": [
+        55,
+        213,
+        563,
+        230
+      ]
+    },
+    {
+      "id": 139,
+      "page": 4,
+      "category": "text",
+      "text": "Industrial corporaiza-se especially para la inserencia de的技术ologia nocampoactual, artelando, y enfores, y enfores y enfores. Alcançou-se, nelle这段时间, avances e aprimarimentos de technologicos atéinnacle numerous vezes",
+      "bbox": [
+        54,
+        230,
+        941,
+        279
+      ]
+    },
+    {
+      "id": 140,
+      "page": 4,
+      "category": "text",
+      "text": "Anteriormente, destabilavam-se as industrias de metalurgia, siderurgia e a industriia mobilitaria.   \nAnteriormente, estavam-se a quinca de metalurgia, siderurgia e a quinca de metalurgia.   \nAnteriormente, estavam-se das superficies de metalurgia, siderurgia e a superficies de metalurgia.   \nAnteriormente, estavam-se das superficies de metalurgia, informatica, telecomunicacoes, elettronica, entre除外.",
+      "bbox": [
+        54,
+        280,
+        941,
+        328
+      ]
+    },
+    {
+      "id": 141,
+      "page": 4,
+      "category": "text",
+      "text": "Ao ciar una punto entre o acontecimientocio e o sistemas produtivo, modificui-se a producao, pos passou-se a producao-se mais en menos tempo, como también a produir-se bens e produits antes nao imaginados. A mao de obra, esta fase, qualifica-se e passa a siderar as etapas de producao, commercialização e a gestao das entreprises\".",
+      "bbox": [
+        54,
+        329,
+        941,
+        393
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "[Texto e figura extraiados de: https://mundoeducacao.uol.com.br/geografia/terceira-revolacao-industrial.html]",
+      "bbox": [
+        55,
+        393,
+        663,
+        405
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "text",
+      "text": "Baseado no txtto presentado, assinale a alternatively que NAO indica corretamente uma dessas mudangas Tecnico-científico pertententes à Terceira Revolução Industrial.",
+      "bbox": [
+        54,
+        412,
+        938,
+        448
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "text",
+      "text": "a) A transmissão das informações é realizada de forma instantânea e a'utilisation de redes de propaganda industrialia está presentes.",
+      "bbox": [
+        54,
+        457,
+        938,
+        490
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "b) Grande anvao na utilização de sistemas robéticos que demandam calculos complexos em tempo cada vez menor.",
+      "bbox": [
+        54,
+        490,
+        938,
+        523
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "c) Maior emprego e integração entre páquinas de producao e robos.",
+      "bbox": [
+        54,
+        523,
+        675,
+        540
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "d) Utilização de sistemas de transporte, como robos moleiros, para movolvimento de cargo de forma mais eficiente accelerando o tempo e a capacidade de cargo do processo de produção.",
+      "bbox": [
+        54,
+        540,
+        938,
+        572
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "text",
+      "text": "e) Incentiva o surgimento de novos materiais e adoção de novas ferras de produção como a siderurgia.",
+      "bbox": [
+        54,
+        572,
+        938,
+        606
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        457,
+        938,
+        606
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        29,
+        631,
+        187,
+        652
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "text",
+      "text": "Motores communese operam a una velocidade fixa. O uso de engrenagens permille que a velocidade original do motor sera modifica a depender de aplicacion.",
+      "bbox": [
+        196,
+        622,
+        940,
+        654
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "text",
+      "text": "Consider que um robó é construídoutilizando o segunte Conjunto de",
+      "bbox": [
+        196,
+        654,
+        938,
+        671
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "text",
+      "text": "engrenagens. O motor do robó é connectado à engrenagem indicada com uma seta (engrenagem",
+      "bbox": [
+        54,
+        671,
+        938,
+        688
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "movida 2), e a roda do robo é connectada à ultima engrenagem (engrenagem motora 1). Qual das segentes affirmações é verdadeira?",
+      "bbox": [
+        54,
+        688,
+        613,
+        737
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "a) A roda irá girar com uma velocidade angular menor do que a do motor.",
+      "bbox": [
+        54,
+        743,
+        613,
+        775
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "text",
+      "text": "b) A roda e o motor terao a mesma velocidade angular.",
+      "bbox": [
+        54,
+        776,
+        553,
+        793
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "text",
+      "text": "c) Se o motor girar para sentido horario, a roda irá girar para o mesmo sentido.",
+      "bbox": [
+        54,
+        793,
+        613,
+        825
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "text",
+      "text": "d) O tamanho das engrenhas intermediarias não alteram a relatione as velocidades do motor e a roda.",
+      "bbox": [
+        54,
+        825,
+        613,
+        857
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "text",
+      "text": "e) Se todas as enegangens tivessem o mesmo fazer, não sera posível indicar a direção do movimento.",
+      "bbox": [
+        54,
+        858,
+        613,
+        891
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        743,
+        613,
+        891
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        626,
+        690,
+        938,
+        828
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Fonte.https://www.tedesreiresoft.com.br/notice/ como-se-calcula-a-rp-em-polas-e-engengenere",
+      "bbox": [
+        637,
+        831,
+        916,
+        856
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        895,
+        930,
+        908,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 165,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        33,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "text",
+      "text": "\"Se no segmento militar o uso de drones é uma realidade, no mercado civil as aeronaves não tripuladas ainda arriscam seuicos primeiros sobrevivos. Atualmente,",
+      "bbox": [
+        198,
+        42,
+        697,
+        93
+      ]
+    },
+    {
+      "id": 167,
+      "page": 5,
+      "category": "text",
+      "text": "puco se fala no emploi en长大a escala dos veloculos aéros não tripulados, ouvant, na evaciao civil. O uso desses robos voadores se restringe basicallyPEGueasarefotadascinfetantes equeproveitam a versatilitydo voo para situações espécicas.",
+      "bbox": [
+        54,
+        93,
+        697,
+        158
+      ]
+    },
+    {
+      "id": 168,
+      "page": 5,
+      "category": "text",
+      "text": "Apesar de incipiente, o mercado civil ja demonstra o desejo de ir além",
+      "bbox": [
+        54,
+        158,
+        697,
+        175
+      ]
+    },
+    {
+      "id": 169,
+      "page": 5,
+      "category": "text",
+      "text": "do lavoro de drones con Cameras para filmagens ou levantanimentos. En Dezembro de 2013, a multinacional Amazon.com annunciou que找工作 pinto pioneiro para usar些 drones nos serviços de entreprises expressas em diversas americanas. Batizada de \"Amazon Prime Air\" e originalamentepresentado noprograma norte-americo \"60 Minutes\", o projeto acabou amplamente ridiculazado poranalistas por não terpresentado ummodelo denegóciosviavel nem exposto como ser feito o controle de voo ou de entregas. Meses defeats, no entanto, o Google annunciou que找工作 numolprio similar, visandoutilizar drones paraentarpequasenas encomendas. Nomeado Project Wing, oprograma esenvioludo por Google X, o Laboratórioexperimentalsthedeigante da technologia, quesemembemetrabeworking em carrosautônomas.Ainda que reconheça que oprograma está longe de serfinalizado, o Google affirmacuem dos protétotos em tente na Australya entregou um kit de primeiros socorros,alguns doces, comidas para animas deestrutura e a dois fazendeiros. O voo percorreu aproximately 1 km e foinduciado de forma autonoma.\"",
+      "bbox": [
+        53,
+        175,
+        943,
+        403
+      ]
+    },
+    {
+      "id": 170,
+      "page": 5,
+      "category": "text",
+      "text": "(Texto adaptado e figura extraloides de https://aeromagazine.uol.com.br/artigo/robos-voadores-nos-negocios_1908.html)",
+      "bbox": [
+        54,
+        404,
+        724,
+        418
+      ]
+    },
+    {
+      "id": 171,
+      "page": 5,
+      "category": "text",
+      "text": "Considerando um VANT's sido让人们ized para realizar o transporte de produits do ponto localizado na latitude \\(10^{\\circ}\\mathrm{S}\\) e longitude \\(20^{\\circ}\\mathrm{L}\\) at e o ponto latitude \\(20^{\\circ}\\mathrm{S}\\) e longitude \\(60^{\\circ}\\mathrm{O}\\) ,este VANT está realizando o transporte entre quais continentes?",
+      "bbox": [
+        53,
+        423,
+        943,
+        473
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        706,
+        42,
+        953,
+        171
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        99,
+        478,
+        898,
+        754
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Fante: IBGE",
+      "bbox": [
+        456,
+        756,
+        524,
+        767
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "text",
+      "text": "a) Afrika e América do Sul",
+      "bbox": [
+        55,
+        786,
+        297,
+        805
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "text",
+      "text": "b) América do Norte e Europa",
+      "bbox": [
+        55,
+        806,
+        329,
+        822
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "c) América do Sul e Europa",
+      "bbox": [
+        55,
+        823,
+        309,
+        838
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "text",
+      "text": "d) Ásia e América do Sul",
+      "bbox": [
+        55,
+        838,
+        283,
+        855
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "text",
+      "text": "e) Oceania e Europa",
+      "bbox": [
+        55,
+        855,
+        247,
+        871
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        55,
+        786,
+        329,
+        871
+      ]
+    },
+    {
+      "id": 181,
+      "page": 5,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        51,
+        917,
+        150,
+        978
+      ]
+    },
+    {
+      "id": 182,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        895,
+        930,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 183,
+      "page": 6,
+      "category": "header",
+      "text": "QUESTAO 10",
+      "bbox": [
+        19,
+        48,
+        190,
+        71
+      ]
+    },
+    {
+      "id": 184,
+      "page": 6,
+      "category": "title",
+      "text": "Cientistas criam menor robómedicalo mundo O eletrónico não pod ser visto o olho nu, mas é capaz de interagir com celulas biologicas e é uma grande promessa para a medicina",
+      "bbox": [
+        220,
+        42,
+        920,
+        96
+      ]
+    },
+    {
+      "id": 185,
+      "page": 6,
+      "category": "text",
+      "text": "*Medindo apenas 120 nanometers, o micro robómedicalsenvolvimento pelhengenéleira e mecanica, e mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica de mecanica",
+      "bbox": [
+        54,
+        103,
+        942,
+        152
+      ]
+    },
+    {
+      "id": 186,
+      "page": 6,
+      "category": "text",
+      "text": "Betal criu o aparato durante sua pesquita de dourado sob orientacion de seu professor Amar S. de Carvalho, docentes do Departamento de Engenharia Eléctrica e Computación do Instituição de ensino.",
+      "bbox": [
+        54,
+        153,
+        941,
+        201
+      ]
+    },
+    {
+      "id": 187,
+      "page": 6,
+      "category": "text",
+      "text": "Os robês não poder ser visitos à olho eu não sera nada perecidos com os famícosmos C-3PO ou R2-Da saga Star Wars, mas não recordistas mundiais e tíme grande potencial de revolucão.",
+      "bbox": [
+        54,
+        202,
+        942,
+        250
+      ]
+    },
+    {
+      "id": 188,
+      "page": 6,
+      "category": "text",
+      "text": "\"Resumidamente,{nós desenvolimos particulas de nanocompósitos que poder ser controlados remotamente por un camino electromagnétrico. Elas relacionam como robos extremamente(PCsequenos que interagem concelas biológicas\", explicá o professor Guo.",
+      "bbox": [
+        54,
+        250,
+        941,
+        300
+      ]
+    },
+    {
+      "id": 189,
+      "page": 6,
+      "category": "text",
+      "text": "Os nanocomposítos são estruturas criadas a partir de dois différentes materiais óxidos multifunçionais: core e shell o centro e a casa). O��e magnétique e muda seu formaço而成e aança de Campos magnéticos.À ja casca é ferroelétrica e capaz de converter pressão em potenciélés electricos.",
+      "bbox": [
+        54,
+        300,
+        942,
+        365
+      ]
+    },
+    {
+      "id": 190,
+      "page": 6,
+      "category": "text",
+      "text": "O èliteón agnético-élétrico-élástico nos nanocomposítios funciona como braços e pernas que movimentam sus nanoparticidas e youazem interagir com celáulas biologicas. Ou está, os nanorobros tornam-se capazes de movimentar, alinhar e empurar celáulas para differentes locals. Positamente, también pode ser usados para distribuiar medicacao para uma celáula específica.",
+      "bbox": [
+        54,
+        365,
+        942,
+        429
+      ]
+    },
+    {
+      "id": 191,
+      "page": 6,
+      "category": "text",
+      "text": "Umadoraestrackationexperimentalremotodobrofoi realizedazem2016porBetal，queanocasionestavacuidzingusesquispasiaodoutadoraninstuicao.EnquantoaequipeimportataveiarmateriaisdecoreeshelldoBrasilparrcriarorobob，aengenhariapercebeueosnanocomcompositosermepreaveisnepe.",
+      "bbox": [
+        54,
+        431,
+        942,
+        496
+      ]
+    },
+    {
+      "id": 192,
+      "page": 6,
+      "category": "text",
+      "text": "\"Ficamos intrigados e inicialmente confusos com o fato de que as nanoparticulasraisedo que os canais de abertura de membranas poderiam adentrar nas celulas\", disse Guo.",
+      "bbox": [
+        54,
+        496,
+        941,
+        529
+      ]
+    },
+    {
+      "id": 193,
+      "page": 6,
+      "category": "text",
+      "text": "Mas isso ainda e o comeo.",
+      "bbox": [
+        55,
+        530,
+        314,
+        546
+      ]
+    },
+    {
+      "id": 194,
+      "page": 6,
+      "category": "text",
+      "text": "\"As habilidades [desses robos] nos fazem ter muda esperança\", disse Guo. \"Acreditamos que celulas cancerigpenas podem ser especulamente direcionadas para um tratamento, eliminando a necessidade de quimioterapia. As ultimas de Alzheimer muitamente poderiam receber tratamento de um tratamento para工作的ar a ser feito, mas estamos muito felizes por esse reconhecemec e pelo futuro potencial.\"",
+      "bbox": [
+        54,
+        546,
+        942,
+        627
+      ]
+    },
+    {
+      "id": 195,
+      "page": 6,
+      "category": "text",
+      "text": "[Texto extraldo e adaptado de https://revistagallie.globo.com/Ciencia/noticia/2018/08/cientistas-cram-menor-robo-medico-do-mundo.html]",
+      "bbox": [
+        54,
+        627,
+        843,
+        640
+      ]
+    },
+    {
+      "id": 196,
+      "page": 6,
+      "category": "text",
+      "text": "Baseado no texto aparecido, é correto affirmar que:",
+      "bbox": [
+        55,
+        647,
+        540,
+        664
+      ]
+    },
+    {
+      "id": 197,
+      "page": 6,
+      "category": "text",
+      "text": "a) Os micro robos são robos criados para ficcao@cientifica como os robos do Star Wars.",
+      "bbox": [
+        54,
+        669,
+        842,
+        686
+      ]
+    },
+    {
+      "id": 198,
+      "page": 6,
+      "category": "text",
+      "text": "b) Os micro robos poder serutilizados no combate ao cancer.",
+      "bbox": [
+        54,
+        686,
+        624,
+        702
+      ]
+    },
+    {
+      "id": 199,
+      "page": 6,
+      "category": "text",
+      "text": "c) Os micro robos se movementam atraves de braços e pernas movimentados pelo科技园 electromagnétrico germado pelas XLéticas biológicas.",
+      "bbox": [
+        54,
+        702,
+        941,
+        736
+      ]
+    },
+    {
+      "id": 200,
+      "page": 6,
+      "category": "text",
+      "text": "d) Os micro robos não podem se moventar quando não está capaz e sufficiente para insertarelements para movimentação.",
+      "bbox": [
+        54,
+        736,
+        941,
+        768
+      ]
+    },
+    {
+      "id": 201,
+      "page": 6,
+      "category": "text",
+      "text": "e) Os micro robos não podem interagir com célicas biológicas, portanto soit servem para estudos académicos.",
+      "bbox": [
+        54,
+        768,
+        941,
+        802
+      ]
+    },
+    {
+      "id": 202,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        669,
+        941,
+        802
+      ]
+    },
+    {
+      "id": 203,
+      "page": 6,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 204,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        893,
+        929,
+        908,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 205,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTAO 11",
+      "bbox": [
+        19,
+        52,
+        189,
+        74
+      ]
+    },
+    {
+      "id": 206,
+      "page": 7,
+      "category": "text",
+      "text": "\\(^{\\circ}O\\) Envirobot e o projet de equipe siderada pelo robotistica sueco Auke Iuspeert, professor na Ecole Polytechnique Fédérale de Lausanne (EPFL). Eie travaçam in biorobbétique, que se inspira no mundo animal para desenvolver novos robos e usa",
+      "bbox": [
+        200,
+        42,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 207,
+      "page": 7,
+      "category": "text",
+      "text": "esses robos como una maneira de entender melhor os organismos vivos.",
+      "bbox": [
+        55,
+        93,
+        722,
+        109
+      ]
+    },
+    {
+      "id": 208,
+      "page": 7,
+      "category": "text",
+      "text": "Ijesperf ficou fascinadoPGA manica em que a empandreia e enguas das. Eonodulam,   \nEosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam, Eosolam,",
+      "bbox": [
+        54,
+        109,
+        939,
+        158
+      ]
+    },
+    {
+      "id": 209,
+      "page": 7,
+      "category": "text",
+      "text": "as onduclaciones de enguis y lampreias germ zonas de baixa pressea nas curvas de seu corpos, ciando una sueccion que os empuru con um minimo de esforgo. Allem disto,uma enguia eléctrica podec chegar at 2.5 m de compositio e 25 cm de diametro. Na cauda,que ocupaoca de 4/5 do seu compositio, esta situada a sua fonte de tensão -as eletroplacas. Dependendo do tamanho a sua vitalidad.",
+      "bbox": [
+        55,
+        158,
+        437,
+        321
+      ]
+    },
+    {
+      "id": 210,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        446,
+        164,
+        939,
+        320
+      ]
+    },
+    {
+      "id": 211,
+      "page": 7,
+      "category": "text",
+      "text": "do animal, essais电梯olapies serontegera tenacion de 300V a 860V e sua corrente de 0.5A.   \n10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        54,
+        322,
+        939,
+        370
+      ]
+    },
+    {
+      "id": 212,
+      "page": 7,
+      "category": "text",
+      "text": "O Environbot tem poque mayor de um metro de comprimento e pode ser controlado por pesquasordores da costa ou programado para se mover por contapropria para identicular a fonte de poluição.",
+      "bbox": [
+        54,
+        371,
+        939,
+        404
+      ]
+    },
+    {
+      "id": 213,
+      "page": 7,
+      "category": "text",
+      "text": "Omericano. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O&Mópolo. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MoIPO. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOPI. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MOIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO. O'MoIIPO.",
+      "bbox": [
+        54,
+        404,
+        939,
+        437
+      ]
+    },
+    {
+      "id": 214,
+      "page": 7,
+      "category": "text",
+      "text": "A.), que qu'a su magnificade a um dos inermisagem e enviam dados em tempo real para um computador, o que para a coleta de dados um processo mais rápido do que o mego oficial de configurar asistências de amostragem em localis dispersos. O Envirobot não pode colocar atéTRS amostrados de água em differentes pontos.\"",
+      "bbox": [
+        54,
+        437,
+        940,
+        501
+      ]
+    },
+    {
+      "id": 215,
+      "page": 7,
+      "category": "text",
+      "text": "( Texto adaptado e foto extralos de http://www.observatorioco.com.br/index.php/2018/02/este-incrivel-robo-nada como-uma-engua-e-detecta-a-pulicaoas-agus/)",
+      "bbox": [
+        54,
+        501,
+        940,
+        526
+      ]
+    },
+    {
+      "id": 216,
+      "page": 7,
+      "category": "text",
+      "text": "Considerando o Sistema de defesa e ataque das enguias electrolyicas, pode-se affirmar que a(s) alternativa(s) correta(s) é(só):",
+      "bbox": [
+        54,
+        532,
+        940,
+        566
+      ]
+    },
+    {
+      "id": 217,
+      "page": 7,
+      "category": "text",
+      "text": "a) V, no term 300V, se refire a tension eléctrica e é uma unida de medica da quantidade de energia transferida da fonte de energia para cada unida de cargo.",
+      "bbox": [
+        54,
+        572,
+        939,
+        605
+      ]
+    },
+    {
+      "id": 218,
+      "page": 7,
+      "category": "text",
+      "text": "b) V e A, nos termos 300V e 3,0A, se referem a unidades de medida de grandezas fisicas.",
+      "bbox": [
+        54,
+        605,
+        867,
+        621
+      ]
+    },
+    {
+      "id": 219,
+      "page": 7,
+      "category": "text",
+      "text": "c) V, no numero 860V, se refere à tensions da corrente e é uma unida de media da quantidade de elétrons que passam por a些什么 parte de um fico a cada segundo.",
+      "bbox": [
+        54,
+        621,
+        939,
+        654
+      ]
+    },
+    {
+      "id": 220,
+      "page": 7,
+      "category": "text",
+      "text": "d) A, no terme 3,0A, se refere à intensité da presente et é umaunities de medita de quantidade de prôtons que passam para uma coisa reta de um fio à cada segundo.",
+      "bbox": [
+        54,
+        654,
+        939,
+        687
+      ]
+    },
+    {
+      "id": 221,
+      "page": 7,
+      "category": "text",
+      "text": "e) A, no termo 0,Se refere a amperagem e e uma unidura de meda da quantidade de energia transfada da fonte de energia para each unida de carga em um intervalo de tempo.",
+      "bbox": [
+        54,
+        687,
+        939,
+        720
+      ]
+    },
+    {
+      "id": 222,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        572,
+        939,
+        720
+      ]
+    },
+    {
+      "id": 223,
+      "page": 7,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        978
+      ]
+    },
+    {
+      "id": 224,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        895,
+        930,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 225,
+      "page": 8,
+      "category": "title",
+      "text": "QUESTAO 12",
+      "bbox": [
+        19,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 226,
+      "page": 8,
+      "category": "text",
+      "text": "A OBR Modalityde Prática Virtual 2021 - Modalityde Apresentación traz en每人manual de regras da modalidad. Na seção que tratate da submissión è descrito:",
+      "bbox": [
+        200,
+        42,
+        942,
+        76
+      ]
+    },
+    {
+      "id": 227,
+      "page": 8,
+      "category": "text",
+      "text": "“Caida equipo poder participar da modalidade Simunologia e uma categorias da modalidade Apresentacao. Todais as participações nas categorias da modalidade Apresentacao se darao por meio do preenchimento de um dos componentes de a modalidade Simunologia e a modalidade Apresentacao e o video producido pela equipe de acordo com as regras aplicadas da categoria.",
+      "bbox": [
+        54,
+        82,
+        799,
+        165
+      ]
+    },
+    {
+      "id": 228,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        813,
+        73,
+        936,
+        166
+      ]
+    },
+    {
+      "id": 229,
+      "page": 8,
+      "category": "text",
+      "text": "Os videosdeferre tono maximos 5mnos, e incluimimagens,filmingos,audio,links,ouroboprogramacao,equipe (dependendo catdategoriasocelldha) e contratorigamente o nome daequipe e amention ao evento OBR Modalidade Praticla Virtual 2021. O videos produzidos deferreenviadoo y O YouTube con a funcionalidade de coprocura atvida. O link a ser submetido na inscrição no Sistema Olimpo,deverar o link curto. O link curto pode ser obitido clicando noicone compatilhar que fica abaxo do video jasta postado no YouTube, e copiar esse link. O link do video deferre ser enviadojuntamente com otheras informacoes que acompanham o formulario deenvio no Sistema Olimpo atae as23h50do dia 16 de junho de 2021.",
+      "bbox": [
+        53,
+        166,
+        941,
+        296
+      ]
+    },
+    {
+      "id": 230,
+      "page": 8,
+      "category": "text",
+      "text": "Osaultodopemorferencsupouraonlogistica,masa ciaçãoaea Rapidsao do conteudo emvideoveedemestrabaltocereladosaluesalos.",
+      "bbox": [
+        54,
+        296,
+        940,
+        328
+      ]
+    },
+    {
+      "id": 231,
+      "page": 8,
+      "category": "text",
+      "text": "Os videos seront avaliados levando en consideración tempo do video (5 Minutes), corretas para la interpretación, y para la interpretación en elcontextual, creatividad, assertividad communicacional, conteudo e coexistence à catégorie de inscrizione.",
+      "bbox": [
+        54,
+        329,
+        940,
+        378
+      ]
+    },
+    {
+      "id": 232,
+      "page": 8,
+      "category": "text",
+      "text": "Equipes que, sobrial alegação, não preencherem o formulário com as informações solicitadas ou enviram video que não for do conteudo de sua inscrição efetivizou no Sistema Olimpo, está passiveis de desclassificacao da competicao a critério do comite organizador.",
+      "bbox": [
+        54,
+        378,
+        940,
+        427
+      ]
+    },
+    {
+      "id": 233,
+      "page": 8,
+      "category": "text",
+      "text": "Informacoes de como inscrever as equipes estao disponiveis no website da OBR.",
+      "bbox": [
+        55,
+        427,
+        792,
+        444
+      ]
+    },
+    {
+      "id": 234,
+      "page": 8,
+      "category": "text",
+      "text": "IMPORTANTE: Lembre-se que dentro do tempo total do video (5 Minutes) deverá obrigatoriamente dar-se a home deixa equipe e a minha axo evento OBR Modalidade Prática Virtual 2021 (ínto o não paração).",
+      "bbox": [
+        54,
+        444,
+        940,
+        493
+      ]
+    },
+    {
+      "id": 235,
+      "page": 8,
+      "category": "text",
+      "text": "Considerando as regras aparecas, é correto affirmar que:",
+      "bbox": [
+        55,
+        500,
+        608,
+        516
+      ]
+    },
+    {
+      "id": 236,
+      "page": 8,
+      "category": "text",
+      "text": "a) As equipes podem se inscrever em mais de uma categoria da modalidade aparecao.",
+      "bbox": [
+        54,
+        524,
+        879,
+        540
+      ]
+    },
+    {
+      "id": 237,
+      "page": 8,
+      "category": "text",
+      "text": "b) As espíei们都 insertir no video a identificacao e a coisa ao evento e considerar mesmo o roteiro, a coerência com a categoria e domino do conteudo.",
+      "bbox": [
+        54,
+        540,
+        938,
+        571
+      ]
+    },
+    {
+      "id": 238,
+      "page": 8,
+      "category": "text",
+      "text": "c) As espaces podem estar com a ajuda de adultos em todas as etapas decrição do video, incluindo a aparecença deleis.",
+      "bbox": [
+        54,
+        572,
+        938,
+        604
+      ]
+    },
+    {
+      "id": 239,
+      "page": 8,
+      "category": "text",
+      "text": "d) As eles estao passaves de desclassificacao se levar em consideracao o roteiro, aargumentacao e se insertar a identificacao da equipe no video.",
+      "bbox": [
+        54,
+        605,
+        938,
+        638
+      ]
+    },
+    {
+      "id": 240,
+      "page": 8,
+      "category": "text",
+      "text": "e) Às eles está passíveis de desclassificacao caso um adulto não interira nacriação eaquepçationode conteudo e o tempo total do video não para superior à 5 minutos.",
+      "bbox": [
+        54,
+        638,
+        938,
+        670
+      ]
+    },
+    {
+      "id": 241,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        524,
+        938,
+        670
+      ]
+    },
+    {
+      "id": 242,
+      "page": 8,
+      "category": "title",
+      "text": "QUESTão 13",
+      "bbox": [
+        19,
+        698,
+        191,
+        719
+      ]
+    },
+    {
+      "id": 243,
+      "page": 8,
+      "category": "text",
+      "text": "Muito robos são equipados com senseores ultrassonicos, que são semelhantes ao sonar dos morcegos, tendo como princípio de functimento a emissão de uma onda sonora de alta frequência.",
+      "bbox": [
+        200,
+        689,
+        940,
+        740
+      ]
+    },
+    {
+      "id": 244,
+      "page": 8,
+      "category": "text",
+      "text": "Sobre o uso deste sensor, marque a alternativa INCORRETA:",
+      "bbox": [
+        55,
+        745,
+        618,
+        762
+      ]
+    },
+    {
+      "id": 245,
+      "page": 8,
+      "category": "text",
+      "text": "a) Diferentes Senseores ultrasónicos posuem diferentes temporos de reply, o que faz com que sera necessario um estado sobre o senso que está sendo utilizado.",
+      "bbox": [
+        54,
+        769,
+        938,
+        802
+      ]
+    },
+    {
+      "id": 246,
+      "page": 8,
+      "category": "text",
+      "text": "b) Sensors ultrasonicos são amplamente realizados para detectar um objerto sem a necessidade de um conta direto.",
+      "bbox": [
+        54,
+        802,
+        938,
+        834
+      ]
+    },
+    {
+      "id": 247,
+      "page": 8,
+      "category": "text",
+      "text": "c) Sensores ultrassónicos podem ser realizados para detectar objetos independente de sua区内.",
+      "bbox": [
+        54,
+        834,
+        921,
+        851
+      ]
+    },
+    {
+      "id": 248,
+      "page": 8,
+      "category": "text",
+      "text": "d) Materiais de differentes texturas, como tecidos de pelucía e metal, poder refletir as ondas sonoras de formas différentes.",
+      "bbox": [
+        54,
+        851,
+        938,
+        883
+      ]
+    },
+    {
+      "id": 249,
+      "page": 8,
+      "category": "text",
+      "text": "e) Sensores ultrassónicos podem ser realizados para registrar a posão de objetos proxies.",
+      "bbox": [
+        54,
+        884,
+        890,
+        902
+      ]
+    },
+    {
+      "id": 250,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        769,
+        938,
+        902
+      ]
+    },
+    {
+      "id": 251,
+      "page": 8,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 252,
+      "page": 8,
+      "category": "page_number",
+      "text": "9",
+      "bbox": [
+        894,
+        930,
+        908,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 253,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        17,
+        50,
+        191,
+        73
+      ]
+    },
+    {
+      "id": 254,
+      "page": 9,
+      "category": "text",
+      "text": "Para se moverem livamente, os robos aspiradores de pô utilizez um Conjunto de senseores que os permitem detectar obstáculos e perigos, e medir as distáncias que percorrim. Os típos de senseores normalmente dependem das fabricantes, mais",
+      "bbox": [
+        198,
+        42,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 255,
+      "page": 9,
+      "category": "text",
+      "text": "normalmente incluem sensores de obstáculos, escalas e paredes.",
+      "bbox": [
+        55,
+        93,
+        657,
+        109
+      ]
+    },
+    {
+      "id": 256,
+      "page": 9,
+      "category": "text",
+      "text": "Os Senseiros de obstaculos são usados para disvier de objetivos como cadeiras e mesas, e em各类icos permittem empurrar objetos leves como cortinas. Os senseiros de escaça existem para garantir a segurancdo robó, composto por senseiros infrarvehmelhos que identificam superficies. Por fim, os senseiros de paredes não na verde senseiros infrarvehmelhosutilizados para garantir que o robó limpe bem as cordas das paredes e siga o caminho correto de limpeza.",
+      "bbox": [
+        53,
+        109,
+        941,
+        193
+      ]
+    },
+    {
+      "id": 257,
+      "page": 9,
+      "category": "text",
+      "text": "Qual dos seguintes@códigos pode serutilizzato para programar um robó aspirador de pó?",
+      "bbox": [
+        55,
+        197,
+        853,
+        216
+      ]
+    },
+    {
+      "id": 258,
+      "page": 9,
+      "category": "text",
+      "text": "a)",
+      "bbox": [
+        57,
+        226,
+        80,
+        245
+      ]
+    },
+    {
+      "id": 259,
+      "page": 9,
+      "category": "code",
+      "text": "inicio  \nse (encontrar obstaculo() ento  \ncontraone()  \nfin se  \nse (encontrar parede() ento  \nimpar_bordas()  \nfin se  \nse (encontrar escalada() ento  \ndar_valla()  \nfin se  \nfin se",
+      "bbox": [
+        92,
+        228,
+        430,
+        365
+      ]
+    },
+    {
+      "id": 260,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        668,
+        233,
+        955,
+        410
+      ]
+    },
+    {
+      "id": 261,
+      "page": 9,
+      "category": "text",
+      "text": "b)",
+      "bbox": [
+        57,
+        375,
+        80,
+        394
+      ]
+    },
+    {
+      "id": 262,
+      "page": 9,
+      "category": "code",
+      "text": "inicio  \nenquanto (caminho restante( \\(\\mathbf{\\mathbb{I}} > 0\\) ) facs  \nenquanto (encontrar_subrado( \\(\\mathbf{\\mathbb{I}}\\) ) facs  \ncontrafaro(）  \nfim enquanto  \nenquanto (encontrar_parede( \\(\\mathbf{\\mathbb{I}}\\) e encontrar_escada( \\(\\mathbf{\\mathbb{I}}\\) ) facs  \ndar volta(）  \nfim enquanto  \nfim enquanto  \nfim",
+      "bbox": [
+        97,
+        376,
+        662,
+        496
+      ]
+    },
+    {
+      "id": 263,
+      "page": 9,
+      "category": "text",
+      "text": "c)",
+      "bbox": [
+        57,
+        508,
+        77,
+        525
+      ]
+    },
+    {
+      "id": 264,
+      "page": 9,
+      "category": "code",
+      "text": "inicio  \nse (encontrar obstaculo()) então  \nconcontrar()  \nfim se  \nse (encontrar_parede() ou encontrarEscada()) então  \ndar_volta()  \nfim se  \nfim",
+      "bbox": [
+        97,
+        516,
+        601,
+        614
+      ]
+    },
+    {
+      "id": 265,
+      "page": 9,
+      "category": "text",
+      "text": "d)",
+      "bbox": [
+        57,
+        637,
+        79,
+        655
+      ]
+    },
+    {
+      "id": 266,
+      "page": 9,
+      "category": "code",
+      "text": "inicio   \nenquanto (caminho restante(）>0）faça   \nse (encontrar abstracoulo(））então   \ncontrar(）   \nfim_se   \nse (encontrar_parede(））entso   \nlinpar_bordas(）   \nfim_se   \nse (encontrar_escada(））entso   \ndar_volta(）   \nfim_se   \nfim_enquanto   \nfim",
+      "bbox": [
+        97,
+        631,
+        483,
+        790
+      ]
+    },
+    {
+      "id": 267,
+      "page": 9,
+      "category": "text",
+      "text": "e)",
+      "bbox": [
+        57,
+        802,
+        79,
+        819
+      ]
+    },
+    {
+      "id": 268,
+      "page": 9,
+      "category": "code",
+      "text": "inicio   \nenquanto (ndo encontrar obstaculo()) faca   \nse (enconectar parede() ou encontrar escalada)) faca   \ndar volta()   \nfim_se   \nfim_enquanto   \ndar volta()   \nfim",
+      "bbox": [
+        96,
+        805,
+        615,
+        904
+      ]
+    },
+    {
+      "id": 269,
+      "page": 9,
+      "category": "footer",
+      "text": "ORF",
+      "bbox": [
+        58,
+        917,
+        148,
+        977
+      ]
+    },
+    {
+      "id": 270,
+      "page": 9,
+      "category": "page_number",
+      "text": "10",
+      "bbox": [
+        890,
+        929,
+        914,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 271,
+      "page": 10,
+      "category": "title",
+      "text": "QUESTAO 15",
+      "bbox": [
+        17,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 272,
+      "page": 10,
+      "category": "text",
+      "text": "O Trombia Free é um robó varredor totalmente elétrico capaz de击vil obstáculos de forma",
+      "bbox": [
+        200,
+        42,
+        510,
+        91
+      ]
+    },
+    {
+      "id": 273,
+      "page": 10,
+      "category": "text",
+      "text": "independente sem gerar emissões de poluentes, e com umconsumo muito bajo de energia,alem de ter umconsumo minimo de agua para realizar a limpeza.",
+      "bbox": [
+        54,
+        93,
+        509,
+        158
+      ]
+    },
+    {
+      "id": 274,
+      "page": 10,
+      "category": "text",
+      "text": "Ele vem sentido na Finlandia desde 2020, e se move a uma velocidade medina de no maximo 6 km/h durante o dia, e 10 km/h a noite, com a bateria que armazena até 90kW.",
+      "bbox": [
+        54,
+        157,
+        509,
+        222
+      ]
+    },
+    {
+      "id": 275,
+      "page": 10,
+      "category": "text",
+      "text": "O robô consome 6kW/km.",
+      "bbox": [
+        55,
+        223,
+        293,
+        239
+      ]
+    },
+    {
+      "id": 276,
+      "page": 10,
+      "category": "text",
+      "text": "Sabenfo: que est robó sau die base绝大部分 corregado, e está fazendo um percùo à noite; elle jiàandinou por 1 hora e se encontrar a 4 km de distança da sua base; e se aïnda fallam 9 km para",
+      "bbox": [
+        54,
+        246,
+        510,
+        312
+      ]
+    },
+    {
+      "id": 277,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        522,
+        41,
+        948,
+        268
+      ]
+    },
+    {
+      "id": 278,
+      "page": 10,
+      "category": "image_caption",
+      "text": "Fotio: https://somusmapo.com/ global/energies/2021/05/18/  \n/automono-e-electroico/risiko/2021/05/18/  \n/risiko-variado/risiko/  \n/finanamento.gini)",
+      "bbox": [
+        543,
+        268,
+        925,
+        303
+      ]
+    },
+    {
+      "id": 279,
+      "page": 10,
+      "category": "text",
+      "text": "finalizar a rota, que programação o robo delve seguir para finalizar seu percorso sem que sua bateria descarregue?",
+      "bbox": [
+        54,
+        312,
+        940,
+        345
+      ]
+    },
+    {
+      "id": 280,
+      "page": 10,
+      "category": "text",
+      "text": "a)",
+      "bbox": [
+        57,
+        347,
+        78,
+        362
+      ]
+    },
+    {
+      "id": 281,
+      "page": 10,
+      "category": "code",
+      "text": "inicio  \nFinalizar percus  \nReturnar & base  \ncorresp  \nfim",
+      "bbox": [
+        92,
+        352,
+        300,
+        414
+      ]
+    },
+    {
+      "id": 282,
+      "page": 10,
+      "category": "text",
+      "text": "b)",
+      "bbox": [
+        57,
+        444,
+        78,
+        461
+      ]
+    },
+    {
+      "id": 283,
+      "page": 10,
+      "category": "code",
+      "text": "inicio  \nAndar 5km  \nCarregar  \nReturnar ao punto anterior  \nFinalizar percusro  \nReturnar a base  \nfim",
+      "bbox": [
+        93,
+        442,
+        371,
+        527
+      ]
+    },
+    {
+      "id": 284,
+      "page": 10,
+      "category": "text",
+      "text": "c)",
+      "bbox": [
+        57,
+        559,
+        78,
+        574
+      ]
+    },
+    {
+      "id": 285,
+      "page": 10,
+      "category": "code",
+      "text": "inizio  \nReturnar a base  \nCarregar  \nReturnar ao punto anterior  \nReturnar a base  \nfin",
+      "bbox": [
+        93,
+        560,
+        370,
+        634
+      ]
+    },
+    {
+      "id": 286,
+      "page": 10,
+      "category": "text",
+      "text": "d)",
+      "bbox": [
+        57,
+        658,
+        78,
+        673
+      ]
+    },
+    {
+      "id": 287,
+      "page": 10,
+      "category": "code",
+      "text": "inicio  \nAndar 2km  \nReturnar a base  \nCarregar  \nReturnar ao punto anterior  \nFinalizar percuto  \nfim",
+      "bbox": [
+        93,
+        653,
+        370,
+        739
+      ]
+    },
+    {
+      "id": 288,
+      "page": 10,
+      "category": "text",
+      "text": "e)",
+      "bbox": [
+        57,
+        757,
+        78,
+        772
+      ]
+    },
+    {
+      "id": 289,
+      "page": 10,
+      "category": "code",
+      "text": "inizio  \nReturnar à base  \nCorreer  \nReturnar ao punto anterior  \nFinalizar peruso  \nfin",
+      "bbox": [
+        93,
+        761,
+        370,
+        836
+      ]
+    },
+    {
+      "id": 290,
+      "page": 10,
+      "category": "footer",
+      "text": "ORF",
+      "bbox": [
+        57,
+        916,
+        148,
+        978
+      ]
+    },
+    {
+      "id": 291,
+      "page": 10,
+      "category": "page_number",
+      "text": "11",
+      "bbox": [
+        890,
+        929,
+        913,
+        942
+      ]
+    }
+  ]
+]

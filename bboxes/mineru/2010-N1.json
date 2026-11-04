@@ -1,0 +1,2486 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        93,
+        99,
+        172,
+        166
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        258,
+        150,
+        697,
+        174
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "2010",
+      "bbox": [
+        463,
+        177,
+        535,
+        198
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        772,
+        117,
+        905,
+        169
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "Modalidade: Teorica Nivel 1 (1° a 3° anos ensino fundamental) Duração: 2 horas",
+      "bbox": [
+        90,
+        215,
+        914,
+        234
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Nome do Aluno: Matr:",
+      "bbox": [
+        90,
+        234,
+        907,
+        250
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Escola: Cidade: Estado:",
+      "bbox": [
+        90,
+        251,
+        907,
+        267
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        91,
+        320,
+        192,
+        337
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        97,
+        357,
+        165,
+        405
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        166,
+        366,
+        311,
+        404
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Censoal Nacional de Desenvolvimento Científico e Tecnológico",
+      "bbox": [
+        107,
+        405,
+        312,
+        424
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        342,
+        378,
+        515,
+        419
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        365,
+        557,
+        395
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        568,
+        352,
+        652,
+        424
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        657,
+        360,
+        830,
+        429
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "Patrocinio:",
+      "bbox": [
+        91,
+        462,
+        185,
+        478
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        93,
+        507,
+        162,
+        559
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "education",
+      "bbox": [
+        173,
+        515,
+        381,
+        544
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        91,
+        591,
+        152,
+        607
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        102,
+        635,
+        223,
+        702
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        235,
+        641,
+        376,
+        700
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        391,
+        638,
+        487,
+        701
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        501,
+        665,
+        625,
+        701
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "title",
+      "text": "Aviso",
+      "bbox": [
+        472,
+        737,
+        526,
+        751
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        91,
+        752,
+        267,
+        769
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "text",
+      "text": "- Caso seu aluno não consigna ler sozinho a prova, é permitido e recomendao que você leia a prova para ele.",
+      "bbox": [
+        90,
+        785,
+        895,
+        818
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        91,
+        819,
+        417,
+        835
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta",
+      "bbox": [
+        91,
+        835,
+        324,
+        851
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        785,
+        895,
+        851
+      ]
+    }
+  ],
+  [
+    {
+      "id": 29,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        857,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "title",
+      "text": "Parte I - Matemática",
+      "bbox": [
+        91,
+        102,
+        310,
+        120
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "title",
+      "text": "1-Questao",
+      "bbox": [
+        90,
+        140,
+        217,
+        158
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomenos. Area: Matematica. Descri性别: Espano e forma.",
+      "bbox": [
+        90,
+        157,
+        633,
+        171
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        144,
+        774,
+        160
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "Ligue com uma LINHA cada robo ao lugar em que ele vive.",
+      "bbox": [
+        90,
+        185,
+        561,
+        203
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        169,
+        219,
+        291,
+        344
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(a)",
+      "bbox": [
+        233,
+        382,
+        262,
+        398
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        318,
+        222,
+        413,
+        340
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(b)",
+      "bbox": [
+        359,
+        382,
+        387,
+        397
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        420,
+        241,
+        575,
+        322
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(c)",
+      "bbox": [
+        486,
+        382,
+        513,
+        397
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        587,
+        220,
+        676,
+        345
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(d)",
+      "bbox": [
+        607,
+        382,
+        639,
+        398
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        679,
+        260,
+        829,
+        302
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        157,
+        407,
+        293,
+        477
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        329,
+        402,
+        415,
+        485
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        455,
+        411,
+        557,
+        480
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        582,
+        408,
+        690,
+        485
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(e)",
+      "bbox": [
+        738,
+        382,
+        765,
+        398
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        726,
+        404,
+        795,
+        486
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "title",
+      "text": "2-Questao",
+      "bbox": [
+        90,
+        530,
+        214,
+        547
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        535,
+        774,
+        550
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomenos. Area: Matematica. Descriratores: Espaço e forma.",
+      "bbox": [
+        90,
+        547,
+        633,
+        561
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "Qual dos tips de mao é o melhor para que o robo pegue 4 dos bloquinhos que esta sobre a mesa de uma boa vez sem deixao las cair?",
+      "bbox": [
+        88,
+        576,
+        908,
+        608
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        241,
+        621,
+        404,
+        768
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(a)",
+      "bbox": [
+        253,
+        789,
+        280,
+        806
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        445,
+        639,
+        724,
+        778
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(c)",
+      "bbox": [
+        462,
+        789,
+        490,
+        806
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(d)",
+      "bbox": [
+        567,
+        789,
+        595,
+        806
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(e)",
+      "bbox": [
+        671,
+        789,
+        698,
+        806
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        221,
+        826,
+        309,
+        913
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        317,
+        826,
+        412,
+        913
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        414,
+        825,
+        525,
+        914
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        530,
+        826,
+        626,
+        915
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        640,
+        829,
+        724,
+        917
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        891,
+        942,
+        906,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 68,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        858,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "title",
+      "text": "3 - Questão",
+      "bbox": [
+        90,
+        118,
+        214,
+        136
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfrentar situações-problema. Área: Matemática. Descrições: Grandezas e medidas/Operações.",
+      "bbox": [
+        90,
+        136,
+        758,
+        149
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        126,
+        773,
+        139
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "text",
+      "text": "Um mesmo quer comprar refrigerante do robó. Cada Fiona vale em Reais ou mesmo valor do número estimpado nela. Quais fíchas eles praticçao colocar na(CCUNA para comprar um refrigerante de RS7? Marque todas as respostas corretas.",
+      "bbox": [
+        88,
+        171,
+        908,
+        222
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "(a)",
+      "bbox": [
+        90,
+        269,
+        120,
+        288
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        130,
+        260,
+        187,
+        300
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        260,
+        255,
+        300
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "(b)",
+      "bbox": [
+        91,
+        317,
+        120,
+        335
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        308,
+        187,
+        348
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        309,
+        255,
+        348
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        267,
+        309,
+        324,
+        348
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        336,
+        309,
+        393,
+        348
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "(c)",
+      "bbox": [
+        91,
+        367,
+        120,
+        385
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        360,
+        187,
+        399
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        200,
+        360,
+        257,
+        399
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        271,
+        360,
+        327,
+        399
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        339,
+        360,
+        395,
+        399
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        407,
+        362,
+        462,
+        401
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "(d)",
+      "bbox": [
+        91,
+        416,
+        120,
+        434
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        409,
+        187,
+        447
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        201,
+        409,
+        256,
+        447
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        272,
+        409,
+        327,
+        447
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        339,
+        409,
+        394,
+        447
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        407,
+        409,
+        462,
+        449
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "text",
+      "text": "(e)",
+      "bbox": [
+        91,
+        467,
+        120,
+        485
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        458,
+        187,
+        495
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        201,
+        458,
+        257,
+        496
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        272,
+        458,
+        328,
+        496
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        575,
+        233,
+        848,
+        513
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "title",
+      "text": "4-Questao",
+      "bbox": [
+        90,
+        531,
+        214,
+        548
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        710,
+        537,
+        774,
+        550
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfantar situações-problema. Área: Matemática. Descrições: Números e operações/algebra e funções",
+      "bbox": [
+        90,
+        549,
+        787,
+        561
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "text",
+      "text": "O robozinho da figura precise chegar a lata de oleo. Marque todos os programas que o levam até lá.",
+      "bbox": [
+        88,
+        576,
+        898,
+        594
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        215,
+        615,
+        728,
+        807
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "text",
+      "text": "(a) Subir 2 degraus, Subir 5 degraus, Descer 1 degrau.",
+      "bbox": [
+        119,
+        838,
+        565,
+        856
+      ]
+    },
+    {
+      "id": 106,
+      "page": 2,
+      "category": "text",
+      "text": "(b) Subir 5 degraus, Subir 3 degraus.",
+      "bbox": [
+        120,
+        857,
+        425,
+        875
+      ]
+    },
+    {
+      "id": 107,
+      "page": 2,
+      "category": "text",
+      "text": "(c) Subir 1dezena de degraus,Descer 2 degraus, Subir 1 degrau, Descer 3 degraus.",
+      "bbox": [
+        120,
+        876,
+        799,
+        894
+      ]
+    },
+    {
+      "id": 108,
+      "page": 2,
+      "category": "text",
+      "text": "(d) Subir meia duzia de degraus.",
+      "bbox": [
+        121,
+        895,
+        390,
+        911
+      ]
+    },
+    {
+      "id": 109,
+      "page": 2,
+      "category": "text",
+      "text": "(e) Subir 7 degraus, Descer 2 degraus.",
+      "bbox": [
+        120,
+        913,
+        436,
+        931
+      ]
+    },
+    {
+      "id": 110,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        119,
+        838,
+        799,
+        931
+      ]
+    },
+    {
+      "id": 111,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        892,
+        942,
+        906,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 112,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        857,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "title",
+      "text": "5-Questao",
+      "bbox": [
+        90,
+        118,
+        214,
+        137
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        124,
+        773,
+        138
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfantar situações-problema. Area: Matemática. Descrições: Númos e operações/algébra e funções",
+      "bbox": [
+        90,
+        137,
+        788,
+        150
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "Um robé aspirador de pó limpou metade de uma casa com 10 quartos iguais. O que PODemos fazer? Marque todas as respostas correitas.",
+      "bbox": [
+        89,
+        180,
+        905,
+        216
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        279,
+        244,
+        720,
+        364
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "text",
+      "text": "(a) O robó deixou metade da casa limpa",
+      "bbox": [
+        120,
+        379,
+        452,
+        396
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "text",
+      "text": "(b) O robô limpou 3 quartos",
+      "bbox": [
+        121,
+        398,
+        356,
+        415
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "text",
+      "text": "(c) \\( \\frac{1}{2} \\) casa está limpa",
+      "bbox": [
+        121,
+        417,
+        300,
+        433
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "text",
+      "text": "(d) 5 quartos da casa está sujos",
+      "bbox": [
+        120,
+        436,
+        388,
+        453
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "text",
+      "text": "(e) 10/30 da casa está limpa",
+      "bbox": [
+        120,
+        454,
+        354,
+        471
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        120,
+        379,
+        452,
+        471
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "title",
+      "text": "6-Questao",
+      "bbox": [
+        90,
+        535,
+        214,
+        553
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        541,
+        774,
+        556
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: II-Comprender Fenomenos. Area: Matemática. Descririmentos: Espaço e forma.",
+      "bbox": [
+        89,
+        551,
+        632,
+        565
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "text",
+      "text": "Uma casquinha de solvete tem forma de cone. Se o rob do limar a casquinha com a瘴adas, de que formato serao as sombras que aparecerao ou das telas? Marque todas as respostas corretas.",
+      "bbox": [
+        89,
+        597,
+        908,
+        632
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        137,
+        639,
+        517,
+        844
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "text",
+      "text": "(a)",
+      "bbox": [
+        599,
+        678,
+        631,
+        696
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        664,
+        677,
+        713,
+        707
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        675,
+        837,
+        708
+      ]
+    },
+    {
+      "id": 134,
+      "page": 3,
+      "category": "text",
+      "text": "(b)",
+      "bbox": [
+        599,
+        712,
+        631,
+        729
+      ]
+    },
+    {
+      "id": 135,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        661,
+        709,
+        712,
+        737
+      ]
+    },
+    {
+      "id": 136,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        785,
+        709,
+        854,
+        737
+      ]
+    },
+    {
+      "id": 137,
+      "page": 3,
+      "category": "text",
+      "text": "(c)",
+      "bbox": [
+        599,
+        745,
+        631,
+        762
+      ]
+    },
+    {
+      "id": 138,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        661,
+        741,
+        730,
+        763
+      ]
+    },
+    {
+      "id": 139,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        791,
+        739,
+        831,
+        763
+      ]
+    },
+    {
+      "id": 140,
+      "page": 3,
+      "category": "text",
+      "text": "(d)",
+      "bbox": [
+        599,
+        776,
+        631,
+        794
+      ]
+    },
+    {
+      "id": 141,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        661,
+        772,
+        712,
+        798
+      ]
+    },
+    {
+      "id": 142,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        794,
+        771,
+        834,
+        798
+      ]
+    },
+    {
+      "id": 143,
+      "page": 3,
+      "category": "text",
+      "text": "(e)",
+      "bbox": [
+        600,
+        811,
+        631,
+        828
+      ]
+    },
+    {
+      "id": 144,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        664,
+        803,
+        732,
+        827
+      ]
+    },
+    {
+      "id": 145,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        802,
+        834,
+        827
+      ]
+    },
+    {
+      "id": 146,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        891,
+        942,
+        907,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 147,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        858,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "title",
+      "text": "Parte II - Lingua Portuguesa",
+      "bbox": [
+        91,
+        128,
+        393,
+        148
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        130,
+        774,
+        146
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        784,
+        126,
+        905,
+        153
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "text",
+      "text": "Leia a historia abaixo e(beforea as perguntas.",
+      "bbox": [
+        90,
+        179,
+        531,
+        197
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        216,
+        359,
+        435
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        367,
+        216,
+        631,
+        434
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        639,
+        216,
+        902,
+        434
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        439,
+        359,
+        658
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        367,
+        439,
+        631,
+        658
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        639,
+        439,
+        902,
+        658
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "title",
+      "text": "7-Questao",
+      "bbox": [
+        90,
+        693,
+        214,
+        711
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        698,
+        774,
+        712
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        785,
+        694,
+        905,
+        721
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Área: Lingua Portuguesa. Descrições: Procedimentos de Leitura",
+      "bbox": [
+        90,
+        711,
+        693,
+        725
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "text",
+      "text": "Marque as ideias que está de accordo com o que você leu da historirinha.  \nMarque todas as respostas corretas.",
+      "bbox": [
+        149,
+        755,
+        735,
+        790
+      ]
+    },
+    {
+      "id": 165,
+      "page": 4,
+      "category": "text",
+      "text": "(a) O pai da minha estava lendo um livre sobre animais",
+      "bbox": [
+        149,
+        805,
+        611,
+        822
+      ]
+    },
+    {
+      "id": 166,
+      "page": 4,
+      "category": "text",
+      "text": "(b) O pai da minha não gosta de animais",
+      "bbox": [
+        152,
+        823,
+        491,
+        838
+      ]
+    },
+    {
+      "id": 167,
+      "page": 4,
+      "category": "text",
+      "text": "(c) Cuidar de bichinhos como caes, gatos e coelhos da bastante trabajo",
+      "bbox": [
+        153,
+        838,
+        734,
+        855
+      ]
+    },
+    {
+      "id": 168,
+      "page": 4,
+      "category": "text",
+      "text": "(d) Amina prometeu que cuidaria sozinha de seu bichinho",
+      "bbox": [
+        153,
+        856,
+        647,
+        872
+      ]
+    },
+    {
+      "id": 169,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        149,
+        805,
+        734,
+        872
+      ]
+    },
+    {
+      "id": 170,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        892,
+        942,
+        906,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 171,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        857,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "title",
+      "text": "8-Questao",
+      "bbox": [
+        90,
+        118,
+        214,
+        136
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        118,
+        773,
+        133
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Avenida: Lingua Portuguesa. Implicações do Suporte, do Généro e/ou do enunciador na comprehensão do Texto.",
+      "bbox": [
+        90,
+        136,
+        901,
+        158
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "Um cachorro-robo é como um brinqueado. O que um cachorroinho de Verdade faz se comparado ao que o R-REX não faz? Marque todas as ideias que você acha que está corretras.",
+      "bbox": [
+        147,
+        174,
+        907,
+        224
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        371,
+        228,
+        471,
+        315
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        499,
+        227,
+        624,
+        322
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Sujeira",
+      "bbox": [
+        150,
+        324,
+        242,
+        339
+      ]
+    },
+    {
+      "id": 181,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Come",
+      "bbox": [
+        151,
+        340,
+        234,
+        355
+      ]
+    },
+    {
+      "id": 182,
+      "page": 5,
+      "category": "text",
+      "text": "(c)Anda",
+      "bbox": [
+        151,
+        357,
+        227,
+        372
+      ]
+    },
+    {
+      "id": 183,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Abana o rabo",
+      "bbox": [
+        151,
+        373,
+        292,
+        388
+      ]
+    },
+    {
+      "id": 184,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        150,
+        324,
+        292,
+        388
+      ]
+    },
+    {
+      "id": 185,
+      "page": 5,
+      "category": "title",
+      "text": "9-Questao",
+      "bbox": [
+        90,
+        422,
+        214,
+        440
+      ]
+    },
+    {
+      "id": 186,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        423,
+        773,
+        437
+      ]
+    },
+    {
+      "id": 187,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. Descririmentos: Coerencia e Coesão no Processamento do Texto.",
+      "bbox": [
+        90,
+        440,
+        820,
+        452
+      ]
+    },
+    {
+      "id": 188,
+      "page": 5,
+      "category": "text",
+      "text": "O que amina queria dizer com estaapiaquia? Marque todas as respostas corretas.",
+      "bbox": [
+        149,
+        500,
+        556,
+        535
+      ]
+    },
+    {
+      "id": 189,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Que o R-REX não dava trabajo nenhum",
+      "bbox": [
+        150,
+        550,
+        517,
+        566
+      ]
+    },
+    {
+      "id": 190,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Que elainha uma opinião diferente da do pai",
+      "bbox": [
+        150,
+        567,
+        554,
+        583
+      ]
+    },
+    {
+      "id": 191,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Que o R-REX nao造血 capaz de morder ninguem",
+      "bbox": [
+        150,
+        583,
+        588,
+        599
+      ]
+    },
+    {
+      "id": 192,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Que o R-REX é docil",
+      "bbox": [
+        150,
+        599,
+        358,
+        615
+      ]
+    },
+    {
+      "id": 193,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        150,
+        550,
+        588,
+        615
+      ]
+    },
+    {
+      "id": 194,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        649,
+        466,
+        868,
+        643
+      ]
+    },
+    {
+      "id": 195,
+      "page": 5,
+      "category": "title",
+      "text": "10 - Questão",
+      "bbox": [
+        91,
+        681,
+        226,
+        700
+      ]
+    },
+    {
+      "id": 196,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        683,
+        773,
+        697
+      ]
+    },
+    {
+      "id": 197,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. DescriiTores: RelaToes entre Recursos Expressivos e Efeitos de Sentido.",
+      "bbox": [
+        90,
+        699,
+        874,
+        712
+      ]
+    },
+    {
+      "id": 198,
+      "page": 5,
+      "category": "text",
+      "text": "Por que una生涯 fea a promessa ao pail Marque todas as respostas corretas.",
+      "bbox": [
+        149,
+        760,
+        485,
+        794
+      ]
+    },
+    {
+      "id": 199,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Porque ela queria limpar a sujeira do cachorro",
+      "bbox": [
+        149,
+        809,
+        555,
+        826
+      ]
+    },
+    {
+      "id": 200,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Porque ela queria comprar o controle remoto",
+      "bbox": [
+        150,
+        827,
+        546,
+        842
+      ]
+    },
+    {
+      "id": 201,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Porque nautersda ela jainha comprado o R-REX",
+      "bbox": [
+        150,
+        843,
+        591,
+        859
+      ]
+    },
+    {
+      "id": 202,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Porque ela queria autorização para comprar o robô",
+      "bbox": [
+        150,
+        860,
+        591,
+        876
+      ]
+    },
+    {
+      "id": 203,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        149,
+        809,
+        591,
+        876
+      ]
+    },
+    {
+      "id": 204,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        652,
+        725,
+        862,
+        897
+      ]
+    },
+    {
+      "id": 205,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        891,
+        942,
+        906,
+        955
+      ]
+    }
+  ]
+]

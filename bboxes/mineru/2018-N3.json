@@ -1,0 +1,2212 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        32,
+        952,
+        313
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        53,
+        319,
+        961,
+        495
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "Instruções aos Professores",
+      "bbox": [
+        320,
+        532,
+        676,
+        553
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        53,
+        592,
+        280,
+        612
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\)Esta prova content 6 páginas;",
+      "bbox": [
+        85,
+        620,
+        391,
+        639
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Duração da prova: 2 horas;",
+      "bbox": [
+        85,
+        645,
+        373,
+        663
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Não é permitido o uso de calculadoras;",
+      "bbox": [
+        84,
+        669,
+        474,
+        687
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        84,
+        694,
+        613,
+        712
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "Apenas se necessario, leia a question para o aluno;",
+      "bbox": [
+        84,
+        719,
+        580,
+        737
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        84,
+        743,
+        512,
+        760
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        620,
+        613,
+        760
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "Atenção: Algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        196,
+        784,
+        799,
+        803
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        851,
+        950,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 13,
+      "page": 1,
+      "category": "title",
+      "text": "1. Robotica: estudiantes desenvolvem oculos que facilita vida de pessoas com dificencia visual",
+      "bbox": [
+        73,
+        59,
+        930,
+        74
+      ]
+    },
+    {
+      "id": 14,
+      "page": 1,
+      "category": "text",
+      "text": "(Fonte:http://www.educacao.sp.gov.br/noticia/baos-praticas/robotica-estudantes-desenvolvimento-oculos-que-facilita-a-vida-de-pessoas-com-deficiencia-visual/)",
+      "bbox": [
+        102,
+        75,
+        898,
+        97
+      ]
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "Na E.E. Dr. José Marcondes de Mattos, en Taubate, orientados el professor de Fisica, trescales de classe, que casura a 2<sup>th</sup>~-<sup>2</sup>~-<sup>3</sup>~-<sup>4</sup>~-<sup>5</sup>~-<sup>6</sup>~-<sup>7</sup>~-<sup>8</sup>~-<sup>9</sup>~-<sup>10</sup>~-<sup>11</sup>~-<sup>12</sup>~-<sup>13</sup>~-<sup>14</sup>~-<sup>15</sup>~-<sup>16</sup>~-<sup>17</sup>~-<sup>18</sup>~-<sup>19</sup>~-<sup>20</sup>~-<sup>21</sup>~-<sup>22</sup>~-<sup>23</sup>~-<sup>24</sup>~-<sup>25</sup>~-<sup>26</sup>~-<sup>27</sup>~-<sup>28</sup>~-<sup>29</sup>~-<sup>30</sup>~-<sup>31</sup>~-<sup>32</sup>~-<sup>33</sup>~-<sup>34</sup>~-<sup>35</sup>~-<sup>36</sup>~-<sup>37</sup>~-<sup>38</sup>~-<sup>39</sup>~-<sup>40</sup>~-<sup>41</sup>~-<sup>42</sup>~-<sup>43</sup>~-<sup>44</sup>~-<sup>45</sup>~-<sup>46</sup>~-<sup>47</sup>~-<sup>48</sup>~-<sup>49</sup>~-<sup>50</sup>~-<sup>51</sup>~-<sup>52</sup>~-<sup>53</sup>~-<sup>54</sup>~-<sup>55</sup>~-<sup>56</sup>~-<sup>57</sup>~-<sup>58</sup>~-<sup>59</sup>~-<sup>60</sup>~-<sup>61</sup>~-<sup>62</sup>~-<sup>63</sup>~-<sup>64</sup>~-<sup>65</sup>~-<sup>66</sup>~-<sup>67</sup>~-<sup>68</sup>~-<sup>69</sup>~-<sup>70</sup>~-<sup>71</sup>~-<sup>72</sup>~-<sup>73</sup>~-<sup>74</sup>~-<sup>75</sup>~-<sup>76</sup>~-<sup>77</sup>~-<sup>78</sup>~-<sup>79</sup>~-<sup>80</sup>~-<sup>81</sup>~-<sup>82</sup>~-<sup>83</sup>~-<sup>84</sup>~-<sup>85</sup>~-<sup>86</sup>~-<sup>87</sup>~-<sup>88</sup>~-<sup>89</sup>~-<sup>90</sup>~-<sup>91</sup>~-<sup>92</sup>~-<sup>93</sup>~-<sup>94</sup>~-<sup>95</sup>~-<sup>96</sup>~-<sup>97</sup>~-<sup>98</sup>~-<sup>99</sup>~-<sup>100</sup>~-<sup>101</sup>~-<sup>102</sup>~-<sup>103</sup>~-<sup>104</sup>~-<sup>105</sup>~-<sup>106</sup>~-<sup>107</sup>~-<sup>108</sup>~-<sup>109</sup>~-<sup>110</sup>~-<sup>111</sup>~-<sup>112</sup>~-<sup>113</sup>~-<sup>114</sup>~-<sup>115</sup>~-<sup>116</sup>~-<sup>117</sup>~-<sup>118</sup>~-<sup>119</sup>~-<sup>120</sup>~-<sup>121</sup>~-<sup>122</sup>~-<sup>123</sup>~-<sup>124</sup>~-<sup>125</sup>~-<sup>126</sup>~-<sup>127</sup>~-<sup>128</sup>~-<sup>129</sup>~-<sup>130</sup>~-<sup>131</sup>~-<sup>132</sup>~-<sup>133</sup>~-<sup>134</sup>~-<sup>135</sup>~-<sup>136</sup>~-<sup>137</sup>~-<sup>138</sup>~-<sup>139</sup>~-<sup>140</sup>~-<sup>141</sup>~-<sup>142</sup>~-<sup>143</sup>~-<sup>144</sup>~-<sup>145</sup>~-<sup>146</sup>~-<sup>147</sup>~-<sup>148</sup>~-<sup>149</sup>~-<sup>150</sup>~-<sup>151</sup>~-<sup>152</sup>~-<sup>153</sup>~-<sup>154</sup>~-<sup>155</sup>~-<sup>156</sup>~-<sup>157</sup>~-<sup>158</sup>~-<sup>159</sup>~-<sup>160</sup>~-<sup>161</sup>~-<sup>162</sup>~-<sup>163</sup>~-<sup>164</sup>~-<sup>165</sup>~-<sup>166</sup>~-<sup>167</sup>~-<sup>168</sup>~-<sup>169</sup>~-<sup>170</sup>~-<sup>171</sup>~-<sup>172</sup>~-<sup>173</sup>~-<sup>174</sup>~-<sup>175</sup>~-<sup>176</sup>~-<sup>177</sup>~-<sup>178</sup>~-<sup>179</sup>~-<sup>180</sup>~-<sup>181</sup>~-<sup>182</sup>~-<sup>183</sup>~-<sup>184</sup>~-<sup>185</sup>~-<sup>186</sup>~-<sup>187</sup>~-<sup>188</sup>~-<sup>189</sup>~-<sup>190</sup>~-<sup>191</sup>~-<sup>192</sup>~-<sup>193</sup>~-<sup>194</sup>~-<sup>195</sup>~-<sup>196</sup>~-<sup>197</sup>~-<sup>198</sup>~-<sup>199</sup>~-<sup>200</sup>~-<sup>201</sup>~-<sup>202</sup>~-<sup>203</sup>~-<sup>204</sup>~-<sup>205</sup>~-<sup>206</sup>~-<sup>207</sup>~-<sup>208</sup>~-<sup>209</sup>~-<sup>210</sup>~-<sup>211</sup>~-<sup>212</sup>~-<sup>213</sup>~-<sup>214</sup>~-<sup>215</sup>~-<sup>216</sup>~-<sup>217</sup>~-<sup>218</sup>~-<sup>219</sup>~-<sup>220</sup>~-<sup>221</sup>~-<sup>222</sup>~-<sup>223</sup>~-<sup>224</sup>~-<sup>225</sup>~-<sup>226</sup>~-<sup>227</sup>~-<sup>228</sup>~-<sup>229</sup>~-<sup>230</sup>~-<sup>231</sup>~-<sup>232</sup>~-<sup>233</sup>~-<sup>234</sup>~-<sup>235</sup>~-<sup>236</sup>~-<sup>237</sup>~-<sup>238</sup>~-<sup>239</sup>~-<sup>240</sup>~-<sup>241</sup>~-<sup>242</sup>~-<sup>243</sup>~-<sup>244</sup>~-<sup>245</sup>~-<sup>246</sup>~-<sup>247</sup>~-<sup>248</sup>~-<sup>249</sup>~-<sup>250</sup>~-<sup>251</sup>~-<sup>252</sup>~-<sup>253</sup>~-<sup>254</sup>~-<sup>255</sup>~-<sup>256</sup>~-<sup>257</sup>~-<sup>258</sup>~-<sup>259</sup>~-<sup>260</sup>~-<sup>261</sup>~-<sup>262</sup>~-<sup>263</sup>~-<sup>264</sup>~-<sup>265</sup>~-<sup>266</sup>~-<sup>267</sup>~-<sup>268</sup>~-<sup>269</sup>~-<sup>270</sup>~-<sup>271</sup>~-<sup>272</sup>~-<sup>273</sup>~-<sup>274</sup>~-<sup>275</sup>~-<sup>276</sup>~-<sup>277</sup>~-<sup>278</sup>~-<sup>279</sup>~-<sup>280</sup>~-<sup>281</sup>~-<sup>282</sup>~-<sup>283</sup>~-<sup>284</sup>~-<sup>285</sup>~-<sup>286</sup>~-<sup>287</sup>~-<sup>288</sup>~-<sup>289</sup>~-<sup>290</sup>~-<sup>291</sup>~-<sup>292</sup>~-<sup>293</sup>~-<sup>294</sup>~-<sup>295</sup>~-<sup>296</sup>~-<sup>297</sup>~-<sup>298</sup>~-<sup>299</sup>~-<sup>300</sup>~-<sup>301</sup>~-<sup>302</sup>~-<sup>303</sup>~-<sup>304</sup>~-<sup>305</sup>~-<sup>306</sup>~-<sup>307</sup>~-<sup>308</sup>~-<sup>309</sup>~-<sup>310</sup>~-<sup>311</sup>~-<sup>312</sup>~-<sup>313</sup>~-<sup>314</sup>~-<sup>315</sup>~-<sup>316</sup>~-<sup>317</sup>~-<sup>318</sup>~-<sup>319</sup>~-<sup>320</sup>~-<sup>321</sup>~-<sup>322</sup>~-<sup>323</sup>~-<sup>324</sup>~-<sup>325</sup>~-<sup>326</sup>~-<sup>327</sup>~-<sup>328</sup>~-<sup>329</sup>~-<sup>330</sup>~-<sup>331</sup>~-<sup>332</sup>~-<sup>333</sup>~-<sup>334</sup>~-<sup>335</sup>~-<sup>336</sup>~-<sup>337</sup>~-<sup>338</sup>~-<sup>339</sup>~-<sup>340</sup>~-<sup>341</sup>~-<sup>342</sup>~-<sup>343</sup>~-<sup>344</sup>~-<sup>345</sup>~-<sup>346</sup>~-<sup>347</sup>~-<sup>348</sup>~-<sup>349</sup>~-<sup>350</sup>~-<sup>351</sup>~-<sup>352</sup>~-<sup>353</sup>~-<sup>354</sup>~-<sup>355</sup>~-<sup>356</sup>~-<sup>357</sup>~-<sup>358</sup>~-<sup>359</sup>~-<sup>360</sup>~-<sup>361</sup>~-<sup>362</sup>~-<sup>363</sup>~-<sup>364</sup>~-<sup>365</sup>~-<sup>366</sup>~-<sup>367</sup>~-<sup>368</sup>~-<sup>369</sup>~-<sup>370</sup>~-<sup>371</sup>~-<sup>372</sup>~-<sup>373</sup>~-<sup>374</sup>~-<sup>375</sup>~-<sup>376</sup>~-<sup>377</sup>~-<sup>378</sup>~-<sup>379</sup>~-<sup>380</sup>~-<sup>381</sup>~-<sup>382</sup>~-<sup>383</sup>~-<sup>384</sup>~-<sup>385</sup>~-<sup>386</sup>~-<sup>387</sup>~-<sup>388</sup>~-<sup>389</sup>~-<sup>390</sup>~-<sup>391</sup>~-<sup>392</sup>~-<sup>393</sup>~-<sup>394</sup>~-<sup>395</sup>~-<sup>396</sup>~-<sup>397</sup>~-<sup>398</sup>~-<sup>399</sup>~-<sup>400</sup>~-<sup>401</sup>~-<sup>402</sup>~-<sup>403</sup>~-<sup>404</sup>~-<sup>405</sup>~-<sup>406</sup>~-<sup>407</sup>~-<sup>408</sup>~-<sup>409</sup>~-<sup>410</sup>~-<sup>411</sup>~-<sup>412</sup>~-<sup>413</sup>~-<sup>414</sup>~-<sup>415</sup>~-<sup>416</sup>~-<sup>417</sup>~-<sup>418</sup>~-<sup>419</sup>~-<sup>420</sup>~-<sup>421</sup>~-<sup>422</sup>~-<sup>423</sup>~-<sup>424</sup>~-<sup>425</sup>~-<sup>426</sup>~-<sup>427</sup>~-<sup>428</sup>~-<sup>429</sup>~-<sup>430</sup>~-<sup>431</sup>~-<sup>432</sup>~-<sup>433</sup>~-<sup>434</sup>~-<sup>435</sup>~-<sup>436</sup>~-<sup>437</sup>~-<sup>438</sup>~-<sup>439</sup>~-<sup>440</sup>~-<sup>441</sup>~-<sup>442</sup>~-<sup>443</sup>~-<sup>444</sup>~-<sup>445</sup>~-<sup>446</sup>~-<sup>447</sup>~-<sup>448</sup>~-<sup>449</sup>~-<sup>450</sup>~-<sup>451</sup>~-<sup>452</sup>~-<sup>453</sup>~-<sup>454</sup>~-<sup>455</sup>~-<sup>456</sup>~-<sup>457</sup>~-<sup>458</sup>~-<sup>459</sup>~-<sup>460</sup>~-<sup>461</sup>~-<sup>462</sup>~-<sup>463</sup>~-<sup>464</sup>~-<sup>465</sup>~-<sup>466</sup>~-<sup>467</sup>~-<sup>468</sup>~-<sup>469</sup>~-<sup>470</sup>~-<sup>471</sup>~-<sup>472</sup>~-<sup>473</sup>~-<sup>474</sup>~-<sup>475</sup>~-<sup>476</sup>~-<sup>477</sup>~-<sup>478</sup>~-<sup>479</sup>~-<sup>480</sup>~-<sup>481</sup>~-<sup>482</sup>~-<sup>483</sup>~-<sup>484</sup>~-<sup>485</sup>~-<sup>486</sup>~-<sup>487</sup>~-<sup>488</sup>~-<sup>489</sup>~-<sup>490</sup>~-<sup>491</sup>~-<sup>492</sup>~-<sup>493</sup>~-<sup>494</sup>~-<sup>495</sup>~-<sup>496</sup>~-<sup>497</sup>~-<sup>498</sup>~-<sup>499</sup>~-<sup>500</sup>~-<sup>501</sup>~-<sup>502</sup>~-<sup>503</sup>~-<sup>504</sup>~-<sup>505</sup>~-<sup>506</sup>~-<sup>507</sup>~-<sup>508</sup>~-<sup>509</sup>~-<sup>510</sup>~-<sup>511</sup>~-<sup>512</sup>~-<sup>513</sup>~-<sup>514</sup>~-<sup>515</sup>~-<sup>516</sup>~-<sup>517</sup>~-<sup>518</sup>~-<sup>519</sup>~-<sup>520</sup>~-<sup>521</sup>~-<sup>522</sup>~-<sup>523</sup>~-<sup>524</sup>~-<sup>525</sup>~-<sup>526</sup>~-<sup>527</sup>~-<sup>528</sup>~-<sup>529</sup>~-<sup>530</sup>~-<sup>531</sup>~-<sup>532</sup>~-<sup>533</sup>~-<sup>534</sup>~-<sup>535</sup>~-<sup>536</sup>~-<sup>537</sup>~-<sup>538</sup>~-<sup>539</sup>~-<sup>540</sup>~-<sup>541</sup>~-<sup>542</sup>~-<sup>543</sup>~-<sup>544</sup>~-<sup>545</sup>~-<sup>546</sup>~-<sup>547</sup>~-<sup>548</sup>~-<sup>549</sup>~-<sup>550</sup>~-<sup>551</sup>~-<sup>552</sup>~-<sup>553</sup>~-<sup>554</sup>~-<sup>555</sup>~-<sup>556</sup>~-<sup>557</sup>~-<sup>558</sup>~-<sup>559</sup>~-<sup>560</sup>~-<sup>561</sup>~-<sup>562</sup>~-<sup>563</sup>~-<sup>564</sup>~-<sup>565</sup>~-<sup>566</sup>~-<sup>567</sup>~-<sup>568</sup>~-<sup>569</sup>~-<sup>570</sup>~-<sup>571</sup>~-<sup>572</sup>~-<sup>573</sup>~-<sup>574</sup>~-<sup>575</sup>~-<sup>576</sup>~-<sup>577</sup>~-<sup>578</sup>~-<sup>579</sup>~-<sup>580</sup>~-<sup>581</sup>~-<sup>582</sup>~-<sup>583</sup>~-<sup>584</sup>~-<sup>585</sup>~-<sup>586</sup>~-<sup>587</sup>~-<sup>588</sup>~-<sup>589</sup>~-<sup>590</sup>~-<sup>591</sup>~-<sup>592</sup>~-<sup>593</sup>~-<sup>594</sup>~-<sup>595</sup>~-<sup>596</sup>~-<sup>597</sup>~-<sup>598</sup>~-<sup>599</sup>~-<sup>600</sup>~-<sup>601</sup>~-<sup>602</sup>~-<sup>603</sup>~-<sup>604</sup>~-<sup>605</sup>~-<sup>606</sup>~-<sup>607</sup>~-<sup>608</sup>~-<sup>609</sup>~-<sup>610</sup>~-<sup>611</sup>~-<sup>612</sup>~-<sup>613</sup>~-<sup>614</sup>~-<sup>615</sup>~-<sup>616</sup>~-<sup>617</sup>~-<sup>618</sup>~-<sup>619</sup>~-<sup>620</sup>~-<sup>621</sup>~-<sup>622</sup>~-<sup>623</sup>~-<sup>624</sup>~-<sup>625</sup>~-<sup>626</sup>~-<sup>627</sup>~-<sup>628</sup>~-<sup>629</sup>~-<sup>630</sup>~-<sup>631</sup>~-<sup>632</sup>~-<sup>633</sup>~-<sup>634</sup>~-<sup>635</sup>~-<sup>636</sup>~-<sup>637</sup>~-<sup>638</sup>~-<sup>639</sup>~-<sup>640</sup>~-<sup>641</sup>~-<sup>642</sup>~-<sup>643</sup>~-<sup>644</sup>~-<sup>645</sup>~-<sup>646</sup>~-<sup>647</sup>~-<sup>648</sup>~-<sup>649</sup>~-<sup>650</sup>~-<sup>651</sup>~-<sup>652</sup>~-<sup>653</sup>~-<sup>654</sup>~-<sup>655</sup>~-<sup>656</sup>~-<sup>657</sup>~-<sup>658</sup>~-<sup>659</sup>~-<sup>660</sup>~-<sup>661</sup>~-<sup>662</sup>~-<sup>663</sup>~-<sup>664</sup>~-<sup>665</sup>~-<sup>666</sup>~-<sup>667</sup>~-<sup>668</sup>~-<sup>669</sup>~-<sup>670</sup>~-<sup>671</sup>~-<sup>672</sup>~-<sup>673</sup>~-<sup>674</sup>~-<sup>675</sup>~-<sup>676</sup>~-<sup>677</sup>~-<sup>678</sup>~-<sup>679</sup>~-<sup>680</sup>~-<sup>681</sup>~-<sup>682</sup>~-<sup>683</sup>~-<sup>684</sup>~-<sup>685</sup>~-<sup>686</sup>~-<sup>687</sup>~-<sup>688</sup>~-<sup>689</sup>~-<sup>690</sup>~-<sup>691</sup>~-<sup>692</sup>~-<sup>693</sup>~-<sup>694</sup>~-<sup>695</sup>~-<sup>696</sup>~-<sup>697</sup>~-<sup>698</sup>~-<sup>699</sup>~-<sup>700</sup>~-<sup>701</sup>~-<sup>702</sup>~-<sup>703</sup>~-<sup>704</sup>~-<sup>705</sup>~-<sup>706</sup>~-<sup>707</sup>~-<sup>708</sup>~-<sup>709</sup>~-<sup>710</sup>~-<sup>711</sup>~-<sup>712</sup>~-<sup>713</sup>~-<sup>714</sup>~-<sup>715</sup>~-<sup>716</sup>~-<sup>717</sup>~-<sup>718</sup>~-<sup>719</sup>~-<sup>720</sup>~-<sup>721</sup>~-<sup>722</sup>~-<sup>723</sup>~-<sup>724</sup>~-<sup>725</sup>~-<sup>726</sup>~-<sup>727</sup>~-<sup>728</sup>~-<sup>729</sup>~-<sup>730</sup>~-<sup>731</sup>~-<sup>732</sup>~-<sup>733</sup>~-<sup>734</sup>~-<sup>735</sup>~-<sup>736</sup>~-<sup>737</sup>~-<sup>738</sup>~-<sup>739</sup>~-<sup>740</sup>~-<sup>741</sup>~-<sup>742</sup>~-<sup>743</sup>~-<sup>744</sup>~-<sup>745</sup>~-<sup>746</sup>~-<sup>747</sup>~-<sup>748</sup>~-<sup>749</sup>~-<sup>750</sup>~-<sup>751</sup>~-<sup>752</sup>~-<sup>753</sup>~-<sup>754</sup>~-<sup>755</sup>~-<sup>756</sup>~-<sup>757</sup>~-<sup>758</sup>~-<sup>759</sup>~-<sup>760</sup>~-<sup>761</sup>~-<sup>762</sup>~-<sup>763</sup>~-<sup>764</sup>~-<sup>765</sup>~-<sup>766</sup>~-<sup>767</sup>~-<sup>768</sup>~-<sup>769</sup>~-<sup>770</sup>~-<sup>771</sup>~-<sup>772</sup>~-<sup>773</sup>~-<sup>774</sup>~-<sup>775</sup>~-<sup>776</sup>~-<sup>777</sup>~-<sup>778</sup>~-<sup>779</sup>~-<sup>780</sup>~-<sup>781</sup>~-<sup>782</sup>~-<sup>783</sup>~-<sup>784</sup>~-<sup>785</sup>~-<sup>786</sup>~-<sup>787</sup>~-<sup>788</sup>~-<sup>789</sup>~-<sup>790</sup>~-<sup>791</sup>~-<sup>792</sup>~-<sup>793</sup>~-<sup>794</sup>~-<sup>795</sup>~-<sup>796</sup>~-<sup>797</sup>~-<sup>798</sup>~-<sup>799</sup>~-<sup>800</sup>~-<sup>801</sup>~-<sup>802</sup>~-<sup>803</sup>~-<sup>804</sup>~-<sup>805</sup>~-<sup>806</sup>~-<sup>807</sup>~-<sup>808</sup>~-<sup>809</sup>~-<sup>810</sup>~-<sup>811</sup>~-<sup>812</sup>~-<sup>813</sup>~-<sup>814</sup>~-<sup>815</sup>~-<sup>816</sup>~-<sup>817</sup>~-<sup>818</sup>~-<sup>819</sup>~-<sup>820</sup>~-<sup>821</sup>~-<sup>822</sup>~-<sup>823</sup>~-<sup>824</sup>~-<sup>825</sup>~-<sup>826</sup>~-<sup>827</sup>~-<sup>828</sup>~-<sup>829</sup>~-<sup>830</sup>~-<sup>831</sup>~-<sup>832</sup>~-<sup>833</sup>~-<sup>834</sup>~-<sup>835</sup>~-<sup>836</sup>~-<sup>837</sup>~-<sup>838</sup>~-<sup>839</sup>~-<sup>840</sup>~-<sup>841</sup>~-<sup>842</sup>~-<sup>843</sup>~-<sup>844</sup>~-<sup>845</sup>~-<sup>846</sup>~-<sup>847</sup>~-<sup>848</sup>~-<sup>849</sup>~-<sup>850</sup>~-<sup>851</sup>~-<sup>852</sup>~-<sup>853</sup>~-<sup>854</sup>~-<sup>855</sup>~-<sup>856</sup>~-<sup>857</sup>~-<sup>858</sup>~-<sup>859</sup>~-<sup>860</sup>~-<sup>861</sup>~-<sup>862</sup>~-<sup>863</sup>~-<sup>864</sup>~-<sup>865</sup>~-<sup>866</sup>~-<sup>867</sup>~-<sup>868</sup>~-<sup>869</sup>~-<sup>870</sup>~-<sup>871</sup>~-<sup>872</sup>~-<sup>873</sup>~-<sup>874</sup>~-<sup>875</sup>~-<sup>876</sup>~-<sup>877</sup>~-<sup>878</sup>~-<sup>879</sup>~-<sup>880</sup>~-<sup>881</sup>~-<sup>882</sup>~-<sup>883</sup>~-<sup>884</sup>~-<sup>885</sup>~-<sup>886</sup>~-<sup>887</sup>~-<sup>888</sup>~-<sup>889</sup>~-<sup>890</sup>~-<sup>891</sup>~-<sup>892</sup>~-<sup>893</sup>~-<sup>894</sup>~-<sup>895</sup>~-<sup>896</sup>~-<sup>897</sup>~-<sup>898</sup>~-<sup>899</sup>~-<sup>900</sup>~-<sup>901</sup>~-<sup>902</sup>~-<sup>903</sup>~-<sup>904</sup>~-<sup>905</sup>~-<sup>906</sup>~-<sup>907</sup>~-<sup>908</sup>~-<sup>909</sup>~-<sup>910</sup>~-<sup>911</sup>~-<sup>912</sup>~-<sup>913</sup>~-<sup>914</sup>~-<sup>915</sup>~-<sup>916</sup>~-<sup>917</sup>~-<sup>918</sup>~-<sup>919</sup>~-<sup>920</sup>~-<sup>921</sup>~-<sup>922</sup>~-<sup>923</sup>~-<sup>924</sup>~-<sup>925</sup>~-<sup>926</sup>~-<sup>927</sup>~-<sup>928</sup>~-<sup>929</sup>~-<sup>930</sup>~-<sup>931</sup>~-<sup>932</sup>~-<sup>933</sup>~-<sup>934</sup>~-<sup>935</sup>~-<sup>936</sup>~-<sup>937</sup>~-<sup>938</sup>~-<sup>939</sup>~-<sup>940</sup>~-<sup>941</sup>~-<sup>942</sup>~-<sup>943</sup>~-<sup>944</sup>~-<sup>945</sup>~-<sup>946</sup>~-<sup>947</sup>~-<sup>948</sup>~-<sup>949</sup>~-<sup>950</sup>~-<sup>951</sup>~-<sup>952</sup>~-<sup>953</sup>~-<sup>954</sup>~-<sup>955</sup>~-<sup>956</sup>~-<sup>957</sup>~-<sup>958</sup>~-<sup>959</sup>~-<sup>960</sup>~-<sup>961</sup>~-<sup>962</sup>~-<sup>963</sup>~-<sup>964</sup>~-<sup>965</sup>~-<sup>966</sup>~-<sup>967</sup>~-<sup>968</sup>~-<sup>969</sup>~-<sup>970</sup>~-<sup>971</sup>~-<sup>972</sup>~-<sup>973</sup>~-<sup>974</sup>~-<sup>975</sup>~-<sup>976</sup>~-<sup>977</sup>~-<sup>978</sup>~-<sup>979</sup>~-<sup>980</sup>~-<sup>981</sup>~-<sup>982</sup>~-<sup>983</sup>~-<sup>984</sup>~-<sup>985</sup>~-<sup>986</sup>~-<sup>987</sup>~-<sup>988</sup>~-<sup>989</sup>~-<sup>990</sup>~-<sup>991</sup>~-<sup>992</sup>~-<sup>993</sup>~-<sup>994</sup>~-<sup>995</sup>~-<sup>996</sup>~-<sup>997</sup>~-<sup>998</sup>~-<sup>999</sup>~-<sup>1000</sup>~-<sup>1001</sup>~-<sup>1002</sup>~-<sup>1003</sup>~-<sup>1004</sup>~-<sup>1005</sup>~-<sup>1006</sup>~-<sup>1007</sup>~-<sup>1008</sup>~-<sup>1009</sup>~-<sup>1010</sup>~-<sup>1011</sup>~-<sup>1012</sup>~-<sup>1013</sup>~-<sup>1014</sup>~-<sup>1015</sup>~-<sup>1016</sup>~-<sup>1017</sup>~-<sup>1018</sup>~-<sup>1019</sup>~-<sup>1020</sup>~-<sup>1021</sup>~-<sup>1022</sup>~-<sup>1023</sup>~-<sup>1024</sup>~-<sup>1025</sup>~-<sup>1026</sup>~-<sup>1027</sup>~-<sup>1028</sup>~-<sup>1029</sup>~-<sup>1030</sup>~-<sup>1031</sup>~-<sup>1032</sup>~-<sup>1033</sup>~-<sup>1034</sup>~-<sup>1035</sup>~-<sup>1036</sup>~-<sup>1037</sup>~-<sup>1038</sup>~-<sup>1039</sup>~-<sup>1040</sup>~-<sup>1041</sup>~-<sup>1042</sup>~-<sup>1043</sup>~-<sup>1044</sup>~-<sup>1045</sup>~-<sup>1046</sup>~-<sup>1047</sup>~-<sup>1048</sup>~-<sup>1049</sup>~-<sup>1050</sup>~-<sup>1051</sup>~-<sup>1052</sup>~-<sup>1053</sup>~-<sup>1054</sup>~-<sup>1055</sup>~-<sup>1056</sup>~-<sup>1057</sup>~-<sup>1058</sup>~-<sup>1059</sup>~-<sup>1060</sup>~-<sup>1061</sup>~-<sup>1062</sup>~-<sup>1063</sup>~-<sup>1064</sup>~-<sup>1065</sup>~-<sup>1066</sup>~-<sup>1067</sup>~-<sup>1068</sup>~-<sup>1069</sup>~-<sup>1070</sup>~-<sup>1071</sup>~-<sup>1072</sup>~-<sup>1073</sup>~-<sup>1074</sup>~-<sup>1075</sup>~-<sup>1076</sup>~-<sup>1077</sup>~-<sup>1078</sup>~-<sup>1079</sup>~-<sup>1080</sup>~-<sup>1081</sup>~-<sup>1082</sup>~-<sup>1083</sup>~-<sup>1084</sup>~-<sup>1085</sup>~-<sup>1086</sup>~-<sup>1087</sup>~-<sup>1088</sup>~-<sup>1089</sup>~-<sup>1090</sup>~-<sup>1091</sup>~-<sup>1092</sup>~-<sup>1093</sup>~-<sup>1094</sup>~-<sup>1095</sup>~-<sup>1096</sup>~-<sup>1097</sup>~-<sup>1098</sup>~-<sup>1099</sup>~-<sup>1100</sup>~-<sup>1101</sup>~-<sup>1102</sup>~-<sup>1103</sup>~-<sup>1104</sup>~-<sup>1105</sup>~-<sup>1106</sup>~-<sup>1107</sup>~-<sup>1108</sup>~-<sup>1109</sup>~-<sup>1110</sup>~-<sup>1111</sup>~-<sup>1112</sup>~-<sup>1113</sup>~-<sup>1114</sup>~-<sup>1115</sup>~-<sup>1116</sup>~-<sup>1117</sup>~-<sup>1118</sup>~-<sup>1119</sup>~-<sup>1120</sup>~-<sup>1121</sup>~-<sup>1122</sup>~-<sup>1123</sup>~-<sup>1124</sup>~-<sup>1125</sup>~-<sup>1126</sup>~-<sup>1127</sup>~-<sup>1128</sup>~-<sup>1129</sup>~-<sup>1130</sup>~-<sup>1131</sup>~-<sup>1132</sup>~-<sup>1133</sup>~-<sup>1134</sup>~-<sup>1135</sup>~-<sup>1136</sup>~-<sup>1137</sup>~-<sup>1138</sup>~-<sup>1139</sup>~-<sup>1140</sup>~-<sup>1141</sup>~-<sup>1142</sup>~-<sup>1143</sup>~-<sup>1144</sup>~-<sup>1145</sup>~-<sup>1146</sup>~-<sup>1147</sup>~-<sup>1148</sup>~-<sup>1149</sup>~-<sup>1150</sup>~-<sup>1151</sup>~-<sup>1152</sup>~-<sup>1153</sup>~-<sup>1154</sup>~-<sup>1155</sup>~-<sup>1156</sup>~-<sup>1157</sup>~-<sup>1158</sup>~-<sup>1159</sup>~-<sup>1160</sup>~-<sup>1161</sup>~-<sup>1162</sup>~-<sup>1163</sup>~-<sup>1164</sup>~-<sup>1165</sup>~-<sup>1166</sup>~-<sup>1167</sup>~-<sup>1168</sup>~-<sup>1169</sup>~-<sup>1170</sup>~-<sup>1171</sup>~-<sup>1172</sup>~-<sup>1173</sup>~-<sup>1174</sup>~-<sup>1175</sup>~-<sup>1176</sup>~-<sup>1177</sup>~-<sup>1178</sup>~-<sup>1179</sup>~-<sup>1180</sup>~-<sup>1181</sup>~-<sup>1182</sup>~-<sup>1183</sup>~-<sup>1184</sup>~-<sup>1185</sup>~-<sup>1186</sup>~-<sup>1187</sup>~-<sup>1188</sup>~-<sup>1189</sup>~-<sup>1190</sup>~-<sup>1191</sup>~-<sup>1192</sup>~-<sup>1193</sup>~-<sup>1194</sup>~-<sup>1195</sup>~-<sup>1196</sup>~-<sup>1197</sup>~-<sup>1198</sup>~-<sup>1199</sup>~-<sup>1200</sup>~-<sup>1201</sup>~-<sup>1202</sup>~-<sup>1203</sup>~-<sup>1204</sup>~-<sup>1205</sup>~-<sup>1206</sup>~-<sup>1207</sup>~-<sup>1208</sup>~-<sup>1209</sup>~-<sup>1210</sup>~-<sup>1211</sup>~-<sup>1212</sup>~-<sup>1213</sup>~-<sup>1214</sup>~-<sup>1215</sup>~-<sup>1216</sup>~-<sup>1217</sup>~-<sup>1218</sup>~-<sup>1219</sup>~-<sup>1220</sup>~-<sup>1221</sup>~-<sup>1222</sup>~-<sup>1223</sup>~-<sup>1224</sup>~-<sup>1225</sup>~-<sup>1226</sup>~-<sup>1227</sup>~-<sup>1228</sup>~-<sup>1229</sup>~-<sup>1230</sup>~-<sup>1231</sup>~-<sup>1232</sup>~-<sup>1233</sup>~-<sup>1234</sup>~-<sup>1235</sup>~-<sup>1236</sup>~-<sup>1237</sup>~-<sup>1238</sup>~-<sup>1239</sup>~-<sup>1240</sup>~-<sup>1241</sup>~-<sup>1242</sup>~-<sup>1243</sup>~-<sup>1244</sup>~-<sup>1245</sup>~-<sup>1246</sup>~-<sup>1247</sup>~-<sup>1248</sup>~-<sup>1249</sup>~-<sup>1250</sup>~-<sup>1251</sup>~-<sup>1252</sup>~-<sup>1253</sup>~-<sup>1254</sup>~-<sup>1255</sup>~-<sup>1256</sup>~-<sup>1257</sup>~-<sup>1258</sup>~-<sup>1259</sup>~-<sup>1260</sup>~-<sup>1261</sup>~-<sup>1262</sup>~-<sup>1263</sup>~-<sup>1264</sup>~-<sup>1265</sup>~-<sup>1266</sup>~-<sup>1267</sup>~-<sup>1268</sup>~-<sup>1269</sup>~-<sup>1270</sup>~-<sup>1271</sup>~-<sup>1272</sup>~-<sup>1273</sup>~-<sup>1274</sup>~-<sup>1275</sup>~-<sup>1276</sup>~-<sup>1277</sup>~-<sup>1278</sup>~-<sup>1279</sup>~-<sup>1280</sup>~-<sup>1281</sup>~-<sup>1282</sup>~-<sup>1283</sup>~-<sup>1284</sup>~-<sup>1285</sup>~-<sup>1286</sup>~-<sup>1287</sup>~-<sup>1288</sup>~-<sup>1289</sup>~-<sup>1290</sup>~-<sup>1291</sup>~-<sup>1292</sup>~-<sup>1293</sup>~-<sup>1294</sup>~-<sup>1295</sup>~-<sup>1296</sup>~-<sup>1297</sup>~-<sup>1298</sup>~-<sup>1299</sup>~-<sup>1300</sup>~-<sup>1301</sup>~-<sup>1302</sup>~-<sup>1303</sup>~-<sup>1304</sup>~-<sup>1305</sup>~-<sup>1306</sup>~-<sup>1307</sup>~-<sup>1308</sup>~-<sup>1309</sup>~-<sup>1310</sup>~-<sup>1311</sup>~-<sup>1312</sup>~-<sup>1313</sup>~-<sup>1314</sup>~-<sup>1315</sup>~-<sup>1316</sup>~-<sup>1317</sup>~-<sup>1318</sup>~-<sup>1319</sup>~-<sup>1320</sup>~-<sup>1321</sup>~-<sup>1322</sup>~-<sup>1323</sup>~-<sup>1324</sup>~-<sup>1325</sup>~-<sup>1326</sup>~-<sup>1327</sup>~-<sup>1328</sup>~-<sup>1329</sup>~-<sup>1330</sup>~-<sup>1331</sup>~-<sup>1332</sup>~-<sup>1333</sup>~-<sup>1334</sup>~-<sup>1335</sup>~-<sup>1336</sup>~-<sup>1337</sup>~-<sup>1338</sup>~-<sup>1339</sup>~-<sup>1340</sup>~-<sup>1341</sup>~-<sup>1342</sup>~-<sup>1343</sup>~-<sup>1344</sup>~-<sup>1345</sup>~-<sup>1346</sup>~-<sup>1347</sup>~-<sup>1348</sup>~-<sup>1349</sup>~-<sup>1350</sup>~-<sup>1351</sup>~-<sup>1352</sup>~-<sup>1353</sup>~-<sup>1354</sup>~-<sup>1355</sup>~-<sup>1356</sup>~-<sup>1357</sup>~-<sup>1358</sup>~-<sup>1359</sup>~-<sup>1360</sup>~-<sup>1361</sup>~-<sup>1362</sup>~-<sup>1363</sup>~-<sup>1364</sup>~-<sup>1365</sup>~-<sup>1366</sup>~-<sup>1367</sup>~-<sup>1368</sup>~-<sup>1369</sup>~-<sup>1370</sup>~-<sup>1371</sup>~-<sup>1372</sup>~-<sup>1373</sup>~-<sup>1374</sup>~-<sup>1375</sup>~-<sup>1376</sup>~-<sup>1377</sup>~-<sup>1378</sup>~-<sup>1379</sup>~-<sup>1380</sup>~-<sup>1381</sup>~-<sup>1382</sup>~-<sup>1383</sup>~-<sup>1384</sup>~-<sup>1385</sup>~-<sup>1386</sup>~-<sup>1387</sup>~-<sup>1388</sup>~-<sup>1389</sup>~-<sup>1390</sup>~-<sup>1391</sup>~-<sup>1392</sup>~-<sup>1393</sup>~-<sup>1394</sup>~-<sup>1395</sup>~-<sup>1396</sup>~-<sup>1397</sup>~-<sup>1398</sup>~-<sup>1399</sup>~-<sup>1400</sup>~-<sup>1401</sup>~-<sup>1402</sup>~-<sup>1403</sup>~-<sup>1404</sup>~-<sup>1405</sup>~-<sup>1406</sup>~-<sup>1407</sup>~-<sup>1408</sup>~-<sup>1409</sup>~-<sup>1410</sup>~-<sup>1411</sup>~-<sup>1412</sup>~-<sup>1413</sup>~-<sup>1414</sup>~-<sup>1415</sup>~-<sup>1416</sup>~-<sup>1417</sup>~-<sup>1418</sup>~-<sup>1419</sup>~-<sup>1420</sup>~-<sup>1421</sup>~-<sup>1422</sup>~-<sup>1423</sup>~-<sup>1424</sup>~-<sup>1425</sup>~-<sup>1426</sup>~-<sup>1427</sup>~-<sup>1428</sup>~-<sup>1429</sup>~-<sup>1430</sup>~-<sup>1431</sup>~-<sup>1432</sup>~-<sup>1433</sup>~-<sup>1434</sup>~-<sup>1435</sup>~-<sup>1436</sup>~-<sup>1437</sup>~-<sup>1438</sup>~-<sup>1439</sup>~-<sup>1440</sup>~-<sup>1441</sup>~-<sup>1442</sup>~-<sup>1443</sup>~-<sup>1444</sup>~-<sup>1445</sup>~-<sup>1446</sup>~-<sup>1447</sup>~-<sup>1448</sup>~-<sup>1449</sup>~-<sup>1450</sup>~-<sup>1451</sup>~-<sup>1452</sup>~-<sup>1453</sup>~-<sup>1454</sup>~-<sup>1455</sup>~-<sup>1456</sup>~-<sup>1457</sup>~-<sup>1458</sup>~-<sup>1459</sup>~-<sup>1460</sup>~-<sup>1461</sup>~-<sup>1462</sup>~-<sup>1463</sup>~-<sup>1464</sup>~-<sup>1465</sup>~-<sup>1466</sup>~-<sup>1467</sup>~-<sup>1468</sup>~-<sup>1469</sup>~-<sup>1470</sup>~-<sup>1471</sup>~-<sup>1472</sup>~-<sup>1473</sup>~-<sup>1474</sup>~-<sup>1475</sup>~-<sup>1476</sup>~-<sup>1477</sup>~-<sup>1478</sup>~-<sup>1479</sup>~-<sup>1480</sup>~-<sup>1481</sup>~-<sup>1482</sup>~-<sup>1483</sup>~-<sup>1484</sup>~-<sup>1485</sup>~-<sup>1486</sup>~-<sup>1487</sup>~-<sup>1488</sup>~-<sup>1489</sup>~-<sup>1490</sup>~-<sup>1491</sup>~-<sup>1492</sup>~-<sup>1493</sup>~-<sup>1494</sup>~-<sup>1495</sup>~-<sup>1496</sup>~-<sup>1497</sup>~-<sup>1498</sup>~-<sup>1499</sup>~-<sup>1500</sup>~-<sup>1501</sup>~-<sup>1502</sup>~-<sup>1503</sup>~-<sup>1504</sup>~-<sup>1505</sup>~-<sup>1506</sup>~-<sup>1507</sup>~-<sup>1508</sup>~-<sup>1509</sup>~-<sup>1510</sup>~-<sup>1511</sup>~-<sup>1512</sup>~-<sup>1513</sup>~-<sup>1514</sup>~-<sup>1515</sup>~-<sup>1516</sup>~-<sup>1517</sup>~-<sup>1518</sup>~-<sup>1519</sup>~-<sup>1520</sup>~-<sup>1521</sup>~-<sup>1522</sup>~-<sup>1523</sup>~-<sup>1524</sup>~-<sup>1525</sup>~-<sup>1526</sup>~-<sup>1527</sup>~-<sup>1528</sup>~-<sup>1529</sup>~-<sup>1530</sup>~-<sup>1531</sup>~-<sup>1532</sup>~-<sup>1533</sup>~-<sup>1534</sup>~-<sup>1535</sup>~-<sup>1536</sup>~-<sup>1537</sup>~-<sup>1538</sup>~-<sup>1539</sup>~-<sup>1540</sup>~-<sup>1541</sup>~-<sup>1542</sup>~-<sup>1543</sup>~-<sup>1544</sup>~-<sup>1545</sup>~-<sup>1546</sup>~-<sup>1547</sup>~-<sup>1548</sup>~-<sup>1549</sup>~-<sup>1550</sup>~-<sup>1551</sup>~-<sup>1552</sup>~-<sup>1553</sup>~-<sup>1554</sup>~-<sup>1555</sup>~-<sup>1556</sup>~-<sup>1557</sup>~-<sup>1558</sup>~-<sup>1559</sup>~-<sup>1560</sup>~-<sup>1561</sup>~-<sup>1562</sup>~-<sup>1563</sup>~-<sup>1564</sup>~-<sup>1565</sup>~-<sup>1566</sup>~-<sup>1567</sup>~-<sup>1568</sup>~-<sup>1569</sup>~-<sup>1570</sup>~-<sup>1571</sup>~-<sup>1572</sup>~-<sup>1573</sup>~-<sup>1574</sup>~-<sup>1575</sup>~-<sup>1576</sup>~-<sup>1577</sup>~-<sup>1578</",
+      "bbox": [
+        65,
+        112,
+        932,
+        233
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        379,
+        245,
+        656,
+        368
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "title",
+      "text": "De accordo com o texto:",
+      "bbox": [
+        66,
+        375,
+        265,
+        390
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "a) Os alunos conclusirou o desenvolvimento do projeto inicial Dispositivo Sensorial de Auxilio à Mobilidade (DSAM) e est穩定o em alunos deficientes.",
+      "bbox": [
+        90,
+        404,
+        927,
+        435
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "b) O deficiente visual propós acriação do Dispositivo Sensorial de Auxilio à Mobilidade (DSAM).",
+      "bbox": [
+        89,
+        440,
+        884,
+        457
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "c) Os disponibile está sido desenvolvimento por alunos e professora de E.E. Dr. José Marconde de Mattos e poss主題 mais autonoma do deficiente visual nas suas atividades cotidianas.",
+      "bbox": [
+        89,
+        463,
+        927,
+        495
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "D) O differential do trabalho é que elle está sido testado tanto por um aluno deficiente visual como ela mesma equipe desenvoladora.",
+      "bbox": [
+        89,
+        500,
+        927,
+        532
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "e) O DSAM possibla mais autonoma do deficiente visual nas susivities cotidianas,性和 identifica objetivos localizados acima e abixo do solo, emolindo como alerta um salo sensor.",
+      "bbox": [
+        89,
+        537,
+        927,
+        569
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        404,
+        927,
+        569
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "2. Opportunity é o nome de um robô que tem o Objective de explorar a superficie de Marte e enviar informações à uma equipe decientistas localizados na Terra. A charge expressa uma critically ao(a):",
+      "bbox": [
+        72,
+        598,
+        931,
+        629
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        348,
+        631,
+        624,
+        821
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "a) Falta de conhecimiento do robô sobre o planeta Marte.",
+      "bbox": [
+        90,
+        828,
+        565,
+        845
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "b) Exploração exagerada do planeta Marte.",
+      "bbox": [
+        90,
+        849,
+        453,
+        866
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "c) Divulgacao digital excessiva de autorretratos.",
+      "bbox": [
+        90,
+        872,
+        491,
+        889
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "text",
+      "text": "d) Gasto excessivo com as descobertas espaciais.",
+      "bbox": [
+        90,
+        894,
+        512,
+        911
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "e) Troca da mão de boa humana por máquinas.",
+      "bbox": [
+        90,
+        916,
+        495,
+        933
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        828,
+        565,
+        933
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robólica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        964
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "page_number",
+      "text": "1",
+      "bbox": [
+        908,
+        947,
+        952,
+        961
+      ]
+    }
+  ],
+  [
+    {
+      "id": 34,
+      "page": 2,
+      "category": "text",
+      "text": "3. O pesquisador Flavio, que工作的a na area de robética en Sorocaba, compru o robg L.G.R.Y. por um site na Internet. O rob g fo enviado da Ilha Solteira para Sorocaba por correto,呃em, teve seu Sistema de san difaridico durante a viagem. O pesquisador percebe u\"This do tempo de及其他 segues de fala, ouvindo a mensagem:\"Olal, eu sou o robg L.G.R.Y., fuicriado com o objectivo de ser SSHHHH em projetos de pesquisa. SSHHHH tereanos que fui criado. Casa SSHHHH umal problema em minha programacao, por favor, contate meu fabricante.\"Aspalaras que devem substitui o lugar dos chiaidos SSHHHH, que completingam a mensagem, comografia e concordancia verbal corretas, são:",
+      "bbox": [
+        72,
+        59,
+        932,
+        180
+      ]
+    },
+    {
+      "id": 35,
+      "page": 2,
+      "category": "text",
+      "text": "a) Utilisado, Fazem, Aja.",
+      "bbox": [
+        90,
+        187,
+        299,
+        203
+      ]
+    },
+    {
+      "id": 36,
+      "page": 2,
+      "category": "text",
+      "text": "b) Utilizzato, Faz, Aja.",
+      "bbox": [
+        90,
+        209,
+        273,
+        226
+      ]
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "category": "text",
+      "text": "c) Utilizzato, Fazem, Haja.",
+      "bbox": [
+        90,
+        230,
+        311,
+        248
+      ]
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "category": "text",
+      "text": "d) Utilizzato, Faz, Haja.",
+      "bbox": [
+        90,
+        253,
+        285,
+        270
+      ]
+    },
+    {
+      "id": 39,
+      "page": 2,
+      "category": "text",
+      "text": "e) Utilizzato, Fazem, Aja.",
+      "bbox": [
+        90,
+        275,
+        299,
+        292
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        187,
+        311,
+        292
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "text",
+      "text": "4. According to the charge it is correct to affirm that:",
+      "bbox": [
+        72,
+        319,
+        506,
+        335
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "text",
+      "text": "a) The cartoon represents the unhappiness of the robot with its programming and his decision to change it.",
+      "bbox": [
+        89,
+        342,
+        640,
+        373
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "text",
+      "text": "b) The cartoon shows a simple conversation between two robots.",
+      "bbox": [
+        89,
+        379,
+        631,
+        396
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "c) Robots are tired of running the same programming every day.",
+      "bbox": [
+        89,
+        401,
+        621,
+        418
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "d) The robot that is lying in the psychologist's office is afraid to reveal his programming.",
+      "bbox": [
+        89,
+        423,
+        640,
+        455
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "text",
+      "text": "e) The cartoon represents an unsatisfied robot, being attended by a psychologist robot.",
+      "bbox": [
+        89,
+        461,
+        640,
+        492
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        342,
+        640,
+        492
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        652,
+        334,
+        932,
+        483
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "5. Um robó foi colocado no canto de uma coisa bajo peso é quadriculado. Para se locomover para esta coisa电解 ainda sobre as linhas dos quadrados e gira para a direita e para esquecer sempre em um angulo de \\(90^{\\circ}\\). Cada passo do robó corresponde a um lugar do quadrado. Alguns objetivos foram colocados aleatoriamente esta coisa, conforma para suaughter.",
+      "bbox": [
+        72,
+        519,
+        931,
+        582
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "A sequência de comandos que levará o robó aos objetos indicados mais rapidamente é:",
+      "bbox": [
+        101,
+        595,
+        831,
+        612
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        87,
+        625,
+        401,
+        882
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "a) Estrela \\(= 2\\) passos para fronte/ direita \\(90^{\\circ} / 12\\) passos pararente",
+      "bbox": [
+        446,
+        669,
+        920,
+        701
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "b) Quadrado \\(= \\text{esquisa} 90^{\\circ} / 11\\) passos pararente / di relita \\(90^{\\circ} / 6\\) passos pararente",
+      "bbox": [
+        446,
+        707,
+        920,
+        739
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "c) Coração = 11 passos pararente / esquerda \\(90^{\\circ} / 2\\) passos pararente",
+      "bbox": [
+        446,
+        745,
+        920,
+        775
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "d) Triangulo = esquadora \\(90^{\\circ} / 11\\) passos pararente / di relita \\(90^{\\circ} / 6\\) passos pararente",
+      "bbox": [
+        446,
+        782,
+        919,
+        813
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "e) Quadrado \\(= 8\\) passos pararente \\(90^{\\circ}\\) paraa direita/2 passos pararente",
+      "bbox": [
+        446,
+        818,
+        920,
+        850
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        446,
+        669,
+        920,
+        850
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        965
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        924,
+        950,
+        939,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 60,
+      "page": 3,
+      "category": "text",
+      "text": "6. Um engenheiro criu um robó que tem por objetivo entender, por conta)? o algo humano por meio de visualização do dia-a-día dos seres humanos. Um dia, esse robé está andando muito paraque, observou uma ciança, à beira de um lago, que está querando encosar t o dedo na água. Como a ciança colocou o dedo na agua, ela imeditamente retireu o dedo e falou que a agua está来找. Ao observar tal acontecimiento, o robó perguntou ao seucriador quando他们在 do sistemas do coma humano que foram responsaveis para ação de a ciança ao colocar o dedo na água. O engenheiro respondeu que os principais sistemas atuanentes foram:",
+      "bbox": [
+        72,
+        59,
+        575,
+        242
+      ]
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        580,
+        63,
+        936,
+        219
+      ]
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Fonte: http://www.brainaininteractive.com/news/2015/30/nao-robert-an-african-first",
+      "bbox": [
+        589,
+        220,
+        932,
+        244
+      ]
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "category": "text",
+      "text": "a) Os sistemas respiratorio e nervoso.",
+      "bbox": [
+        90,
+        258,
+        411,
+        273
+      ]
+    },
+    {
+      "id": 64,
+      "page": 3,
+      "category": "text",
+      "text": "b) Os sistemas cardiovascular e respiratório.",
+      "bbox": [
+        90,
+        281,
+        463,
+        297
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "c) Os sistemas nervoso e sensorial.",
+      "bbox": [
+        90,
+        302,
+        392,
+        318
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "text",
+      "text": "d) Os sistemas endocrino e cardiovascular.",
+      "bbox": [
+        90,
+        324,
+        451,
+        340
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "e) Os sistemas nervoso e respiratório.",
+      "bbox": [
+        90,
+        346,
+        410,
+        362
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        258,
+        463,
+        362
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "7. JSPY é um robô mascote de uma escola do Municipico. Elé precisca descóbit格尔 é a senha da boa. O principal do que é a boa. O principal do que é a boa. O principal do que é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa.\nA boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a boa. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa é a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好. A boa is a办好.",
+      "bbox": [
+        73,
+        383,
+        931,
+        431
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "- Primeiro número do número: (15x - 30) = 0",
+      "bbox": [
+        113,
+        437,
+        503,
+        453
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "- Segundo número do número: Metade de 2 * 2 * 2",
+      "bbox": [
+        113,
+        456,
+        535,
+        471
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "- Terceiro número do número: \\(8(x - 3) - (2x + 1) = 11\\)",
+      "bbox": [
+        113,
+        474,
+        578,
+        489
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "Quarto numero do numero: \\(x = (15 - 9) - 1\\)",
+      "bbox": [
+        113,
+        492,
+        509,
+        508
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        113,
+        437,
+        578,
+        508
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "a) 4620",
+      "bbox": [
+        91,
+        516,
+        177,
+        533
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "b) 4621",
+      "bbox": [
+        91,
+        538,
+        175,
+        554
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "c) 2456",
+      "bbox": [
+        91,
+        560,
+        177,
+        577
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "d) 2465",
+      "bbox": [
+        91,
+        583,
+        177,
+        599
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "e) 2435",
+      "bbox": [
+        91,
+        605,
+        177,
+        620
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        91,
+        516,
+        177,
+        620
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        681,
+        445,
+        824,
+        608
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "8. Um robóOOTador precise caluca quando sera gasto, en reas, que um \"clone\" igual a ele está faculdado. Todas as pecas necessarias sendonvidas na loja BLOMTOys, conforme descriço bajo:",
+      "bbox": [
+        72,
+        648,
+        931,
+        681
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        73,
+        681,
+        212,
+        802
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": " 4 motores - R$ 80.00 cada;",
+      "bbox": [
+        247,
+        697,
+        501,
+        713
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": " 4 eixos - R$ 10,00 cada;",
+      "bbox": [
+        561,
+        697,
+        788,
+        713
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": " 20 conectores - R$ 2,00 cada;",
+      "bbox": [
+        248,
+        721,
+        524,
+        737
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": " 8 cabos élétricos - R$ 10,00 cada;",
+      "bbox": [
+        561,
+        721,
+        868,
+        737
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": " 1. bateria - R$ 100,00 cada;",
+      "bbox": [
+        248,
+        745,
+        501,
+        760
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "15buchas-R$2,00cada;",
+      "bbox": [
+        561,
+        745,
+        805,
+        760
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": " 8 engrenagens - R$ 5,00 cada;",
+      "bbox": [
+        248,
+        768,
+        531,
+        784
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": " 4 rodas com pneus - R$ 15,00 cada.",
+      "bbox": [
+        561,
+        768,
+        885,
+        784
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        247,
+        697,
+        885,
+        784
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "Quanto custaré este robô clone, e quantas peças ele tem?",
+      "bbox": [
+        67,
+        808,
+        552,
+        825
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "a) R$ 610,00 e 63 peças",
+      "bbox": [
+        90,
+        837,
+        301,
+        854
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "b) R$ 650,00 e 64 peças",
+      "bbox": [
+        90,
+        860,
+        301,
+        876
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "c) R$ 710,00 e 64 peças",
+      "bbox": [
+        90,
+        882,
+        301,
+        898
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "d) R$ 750,00 e 65 peças",
+      "bbox": [
+        90,
+        904,
+        301,
+        921
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "e) R$ 640,00 e 71 peças",
+      "bbox": [
+        90,
+        927,
+        301,
+        943
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        837,
+        301,
+        943
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2018",
+      "bbox": [
+        382,
+        951,
+        616,
+        964
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        924,
+        951,
+        939,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "9. O MIT (Instituto de Tecnología de Massachusetts) desenvoluceu un minírobrô-origami que tem um objekto bem clarão: remover objetivos indusajados de estagemo de uma persona. Con formato similar ao de uma sanfaria, eles pode se locomover Dentro do corvo humano para acantar alguma coisa que tenha ficção presa nãoagem, como no caso de umacriança comer a bateria, por example, O roce do estagemo de um animal de um animal. O roce do estagemo de um animal de um animal. O nociologia de Tóque, pode ser movido Dentro do corvo uso um Campo magnétrico externo. Para se locomover, ela usa umaicana que enpequenos apéndices aderradem aular secula, dando a tração para realizar o movimento para fronte. Em seguida, she es solta e muda a distribuição do peso, possibínto que she chegue ao seu destino. Elles podem contraqueiros barbatanés e nadeiras, permitindo o deslocamento em meio liquido. Con o objetivo de remover objetivos estruticos no estrogos, o que é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre, é alegre. Nesse estee, o minírrobrô-origami levou 12 minutos para limpar uma area de \\(1\\mathrm{m}^2\\)",
+      "bbox": [
+        72,
+        59,
+        932,
+        240
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "text",
+      "text": "(Extraldo de: htps:/olhardigital.com.br/noficia/este-minirobo-origami-conseguere-remover-objetos-no-seu-estomago/58299)",
+      "bbox": [
+        104,
+        240,
+        840,
+        253
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        324,
+        267,
+        648,
+        410
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "Quanto tempo o minirrobó levará para limpar uma area de 4m de comprimento por 3m de largura?",
+      "bbox": [
+        67,
+        420,
+        879,
+        438
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "a) 1 hora",
+      "bbox": [
+        91,
+        451,
+        173,
+        466
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "b) 1 hora e 20 horas",
+      "bbox": [
+        91,
+        473,
+        283,
+        489
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "text",
+      "text": "c) 1 hora e 40 instantos",
+      "bbox": [
+        91,
+        495,
+        283,
+        510
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "text",
+      "text": "d) 2 horas",
+      "bbox": [
+        91,
+        517,
+        182,
+        532
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "text",
+      "text": "e) 2 horas e 24 horas",
+      "bbox": [
+        91,
+        540,
+        293,
+        555
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        91,
+        451,
+        293,
+        555
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "10. Analisando a tirinha, PODemos affirmar que:",
+      "bbox": [
+        74,
+        576,
+        463,
+        594
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        145,
+        600,
+        825,
+        780
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "a) O robô vai passar a etimidade andando um quadrado para a esquerda.",
+      "bbox": [
+        90,
+        792,
+        707,
+        809
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "b) O robô vai passar a etimidade andando um quadrado para a direita.",
+      "bbox": [
+        90,
+        814,
+        682,
+        830
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "text",
+      "text": "c) O robô vai passar a etimidade parado.",
+      "bbox": [
+        90,
+        837,
+        441,
+        853
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "text",
+      "text": "d) O robô vai passar a etimidade se movendo da direita para esquerda.",
+      "bbox": [
+        89,
+        858,
+        689,
+        874
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "text",
+      "text": "e) O robó vai passar a etemidade indeciso.",
+      "bbox": [
+        90,
+        880,
+        450,
+        897
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        792,
+        707,
+        897
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        965
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        924,
+        950,
+        939,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "11. Un drone fu construido por um engenheiro com o objetivo de fazer a区分e entre os estadios que seriamodados na Capo do Mundo da Russia de 2018. Apoxor见证了 todos os estadios, o drone armazenou osoples das distancias e cirus o mapa alto, com a escalva 1:30.000.000, para que as estadios do Capo do Mundo, que estendem a esquilde do Mundo, estendem a Capo do Mundo, realizou o itinerario seguido para assistar o jogos em cidades importantes:",
+      "bbox": [
+        73,
+        59,
+        932,
+        136
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "Moscou à São Petersburg;",
+      "bbox": [
+        103,
+        142,
+        367,
+        155
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "- São Petersburg à Moscou:",
+      "bbox": [
+        104,
+        159,
+        367,
+        171
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "text",
+      "text": "Moscou à Vologrado:",
+      "bbox": [
+        104,
+        175,
+        322,
+        188
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "Volgograd a Moscow.",
+      "bbox": [
+        104,
+        191,
+        321,
+        203
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        103,
+        142,
+        367,
+        203
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "Considerando que cada um dos quadrados do mapa tem a dimensão de \\(1\\mathrm{cm}\\times 1\\mathrm{cm}\\), qual foi a distência percorrida paraessa persona em todo o percus?",
+      "bbox": [
+        65,
+        216,
+        929,
+        247
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        205,
+        254,
+        790,
+        485
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "a) A pessoas percorrera um total de, aproximamente, \\(300~\\mathrm{km}\\)",
+      "bbox": [
+        90,
+        509,
+        617,
+        522
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "b) A pessoas percorrera um total de, aproximamente, 21.000 km.",
+      "bbox": [
+        90,
+        531,
+        640,
+        544
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "c) A pessoa percorrera um total de, aproximamente, 3.000 km.",
+      "bbox": [
+        90,
+        553,
+        631,
+        565
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "d) A pessoas percorrera um total de, aproximamente, 30.000 km.",
+      "bbox": [
+        90,
+        575,
+        641,
+        588
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "e) A pessoas percorrera um total de, aproximadamente, 2.100 km.",
+      "bbox": [
+        90,
+        598,
+        631,
+        610
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        509,
+        641,
+        610
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "12. Sabendo que a energia e a principal fonte de combustivel para que as macéricas executem determinados para alegar a combustir, como se supposesbre fonte de energia, e selecione as palavras que preencheme correta e coexistente de lacunas.",
+      "bbox": [
+        73,
+        634,
+        931,
+        680
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "O _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _. _..\nO _. _. _. _. _. _. _. _. _. _. _..\nO _. _. _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO _..\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO.\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO\nO",
+      "bbox": [
+        65,
+        702,
+        930,
+        762
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "a) carvão mineral - norte - chuya acida",
+      "bbox": [
+        90,
+        785,
+        424,
+        797
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "b) petróleo - sul - polução dos océanos",
+      "bbox": [
+        90,
+        807,
+        430,
+        820
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "text",
+      "text": "c) petróleo - sul - chuya acida",
+      "bbox": [
+        90,
+        829,
+        350,
+        841
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "text",
+      "text": "d) carvão mineral - sul - poluicao dos oceanos",
+      "bbox": [
+        90,
+        851,
+        484,
+        864
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "text",
+      "text": "e) petróleo - norte - chuya acida",
+      "bbox": [
+        90,
+        874,
+        367,
+        886
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        785,
+        484,
+        886
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robólica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        964
+      ]
+    },
+    {
+      "id": 145,
+      "page": 5,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        924,
+        950,
+        939,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 146,
+      "page": 6,
+      "category": "text",
+      "text": "13. Na etapata prácia da Olímpiá Brasírule de Robóclica, o robó da equipe Positrondehyde segue uma红线 preta até consoi o percuro. O robó seguidor de linha percorre a区内 distância de 3,6 Km em 12 minutos. Qual é a velocidade média dele e seu de ser a nova velocidade média desso robó para que percorra a mesma distância em um tempo do tempo, respectively?",
+      "bbox": [
+        75,
+        59,
+        932,
+        122
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "text",
+      "text": "a) \\(4\\mathrm{m / s}\\) e \\(5\\mathrm{m / s}\\)",
+      "bbox": [
+        90,
+        139,
+        232,
+        155
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "b) \\(15\\mathrm{m / s}\\) e \\(5\\mathrm{m / s}\\)",
+      "bbox": [
+        91,
+        162,
+        240,
+        178
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "c) \\(3\\mathrm{m / s}\\in 9\\mathrm{m / s}\\)",
+      "bbox": [
+        91,
+        183,
+        231,
+        199
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "d) \\(5\\mathrm{m / s}\\) e \\(15\\mathrm{m / s}\\)",
+      "bbox": [
+        91,
+        206,
+        241,
+        222
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "e) \\(3\\mathrm{m / s}\\) e \\(1\\mathrm{m / s}\\)",
+      "bbox": [
+        91,
+        228,
+        231,
+        244
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        139,
+        241,
+        244
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        577,
+        134,
+        819,
+        248
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "image_caption",
+      "text": "http://exacademico.ucb.it/ notices/quatzo-alunos-conquistam torneo-de-robo-seguider-de-linha-d-ucsb-3860",
+      "bbox": [
+        556,
+        251,
+        920,
+        275
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "14. João compru o robó aspirador para limpar a sua casa. O robó aspirava o chão e mudava de rumo toda vez que tocava um objecto. Porém, recentemente, João percebeu que o robó não funciona mais direito. Agora o robó segue reto até bater num muito e ficilarity, tentando atravessem o Obstétrico. Quol o problema do robó do João?",
+      "bbox": [
+        74,
+        290,
+        931,
+        351
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "a) A bateria está viciada e precisa ser trocada.",
+      "bbox": [
+        90,
+        358,
+        478,
+        374
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "b) O sensor de toque estragou e precisa ser trocado.",
+      "bbox": [
+        90,
+        379,
+        530,
+        396
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "c) Os motores que movimentam as rodas estao sujas e precisam ser limpas.",
+      "bbox": [
+        90,
+        402,
+        631,
+        433
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "d) As rodas do robão está sujas e precisam ser trocados.",
+      "bbox": [
+        90,
+        438,
+        565,
+        455
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "e) Nenhum dos anteriores.",
+      "bbox": [
+        91,
+        461,
+        316,
+        477
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        358,
+        631,
+        477
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        664,
+        351,
+        884,
+        449
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonle: https://www.solvelight.com/catalog/robots-housekeepers",
+      "bbox": [
+        632,
+        453,
+        946,
+        466
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "text",
+      "text": "15. Leia o trecho abaixo a respeito de umsystema que surgiu na metade do Século XX.",
+      "bbox": [
+        73,
+        498,
+        794,
+        515
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "text",
+      "text": "Esse planta revolacionou os padros das Industrias da epoca. Alguns de seu principios de base sao:",
+      "bbox": [
+        66,
+        520,
+        920,
+        537
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        64,
+        542,
+        558,
+        753
+      ]
+    },
+    {
+      "id": 167,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonle:https://blog.softwareavalacso.com.br",
+      "bbox": [
+        208,
+        751,
+        429,
+        763
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "text",
+      "text": "- Produção somente da quantidade necessária, sem a necessidade de estudos. Essente padrificou reconhecido como \"Just in Time\";",
+      "bbox": [
+        565,
+        543,
+        930,
+        604
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "text",
+      "text": "- Pesquisa de mercado para analisar o que é a parte do esgotinho do esqueço: um diversificacao dos produits fabricados.",
+      "bbox": [
+        565,
+        610,
+        930,
+        657
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "text",
+      "text": "- Mão de boa bem qualificada. Os**\ntrabalhoadores são treinados e conhecem todo oprocesso da producao, poderatingtur em mais de umaarea;",
+      "bbox": [
+        565,
+        662,
+        930,
+        722
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "text",
+      "text": "- Reduição no tempo de producao, automatizando diversas etapas.",
+      "bbox": [
+        565,
+        729,
+        928,
+        761
+      ]
+    },
+    {
+      "id": 172,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        565,
+        543,
+        930,
+        761
+      ]
+    },
+    {
+      "id": 173,
+      "page": 6,
+      "category": "text",
+      "text": "O nome desse princípio inovador é:",
+      "bbox": [
+        67,
+        796,
+        364,
+        812
+      ]
+    },
+    {
+      "id": 174,
+      "page": 6,
+      "category": "text",
+      "text": "a) Ludismo",
+      "bbox": [
+        90,
+        825,
+        192,
+        841
+      ]
+    },
+    {
+      "id": 175,
+      "page": 6,
+      "category": "text",
+      "text": "b) Revoluçao Industrial",
+      "bbox": [
+        91,
+        847,
+        288,
+        864
+      ]
+    },
+    {
+      "id": 176,
+      "page": 6,
+      "category": "text",
+      "text": "c) Fordismo",
+      "bbox": [
+        91,
+        870,
+        197,
+        886
+      ]
+    },
+    {
+      "id": 177,
+      "page": 6,
+      "category": "text",
+      "text": "d) Toyotismo",
+      "bbox": [
+        91,
+        891,
+        204,
+        908
+      ]
+    },
+    {
+      "id": 178,
+      "page": 6,
+      "category": "text",
+      "text": "e) Cartismo",
+      "bbox": [
+        91,
+        914,
+        195,
+        930
+      ]
+    },
+    {
+      "id": 179,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        825,
+        288,
+        930
+      ]
+    },
+    {
+      "id": 180,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        570,
+        782,
+        911,
+        932
+      ]
+    },
+    {
+      "id": 181,
+      "page": 6,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        965
+      ]
+    },
+    {
+      "id": 182,
+      "page": 6,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        924,
+        948,
+        939,
+        959
+      ]
+    }
+  ]
+]

@@ -1,0 +1,2948 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        41,
+        949,
+        312
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>Série/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDAE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        44,
+        316,
+        952,
+        491
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "Instruções ao Professores",
+      "bbox": [
+        347,
+        540,
+        651,
+        563
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        52,
+        587,
+        259,
+        607
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\)Esta prova content 9 páginas;",
+      "bbox": [
+        82,
+        617,
+        402,
+        637
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Duração da prova: 4 horas;",
+      "bbox": [
+        82,
+        638,
+        380,
+        657
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser preenchida a caneta;",
+      "bbox": [
+        82,
+        658,
+        483,
+        677
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "√ Não é permitido o uso de calculadoras;",
+      "bbox": [
+        82,
+        679,
+        491,
+        697
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        82,
+        698,
+        648,
+        719
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) A prova deve ser realizada individualmente.",
+      "bbox": [
+        82,
+        720,
+        534,
+        739
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        617,
+        648,
+        739
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        194,
+        761,
+        802,
+        781
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        850,
+        950,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 13,
+      "page": 1,
+      "category": "text",
+      "text": "1. Um prototypie von robb-Mayo movido a energia de presente continually alimenta um circuito com eles que estariou a resistirir. O resisto é a resistência do circuito com os resistórios. Os resistões são usados para limitar corrente. Considerando que o circuito abixo alimenta",
+      "bbox": [
+        55,
+        70,
+        932,
+        117
+      ]
+    },
+    {
+      "id": 14,
+      "page": 1,
+      "category": "text",
+      "text": "ese protóipo, qual o valor medido nos instrumentos?",
+      "bbox": [
+        79,
+        118,
+        496,
+        133
+      ]
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "a. 24,0 A",
+      "bbox": [
+        116,
+        141,
+        186,
+        155
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "text",
+      "text": "b. 6,0 A",
+      "bbox": [
+        117,
+        158,
+        177,
+        171
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "c. 5,3 A",
+      "bbox": [
+        118,
+        175,
+        176,
+        187
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "d. 3,6 A",
+      "bbox": [
+        118,
+        190,
+        177,
+        203
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "e. 3,0 A",
+      "bbox": [
+        118,
+        206,
+        177,
+        218
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        141,
+        186,
+        218
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        540,
+        118,
+        910,
+        262
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "2. Usuallye robos utilizam sensores ultrasonicos para detectar a distancia de objetos. Para tanto, o sensor ultrasonico em un sinque ao ater bao no objeto e a ser detectado, retorna ao sensor, ao comoado na figura. Calcula-se a distancia do algo tempo entre o envolvimento do ina rececao o sinul传感 sensor. Considerando-se a sensores ultrasonicos, o sensores ultrasonicos do algo tempo entre o envolvimento do ina rececao o robdo da figura a pardeal, o se sinial envolvimento demorou 20m entre envolvimento e receipcao do sensor ultrasonico?",
+      "bbox": [
+        54,
+        274,
+        932,
+        354
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "text",
+      "text": "a. 0,68 cm",
+      "bbox": [
+        116,
+        361,
+        197,
+        375
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "b.3,4cm",
+      "bbox": [
+        118,
+        378,
+        189,
+        390
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "c. \\( {34}\\mathrm{\\;{cm}} \\)",
+      "bbox": [
+        118,
+        395,
+        182,
+        406
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "d. 68cm",
+      "bbox": [
+        118,
+        409,
+        179,
+        422
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "e. 340cm",
+      "bbox": [
+        118,
+        426,
+        189,
+        438
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        361,
+        197,
+        438
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        416,
+        356,
+        557,
+        467
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        679,
+        365,
+        895,
+        442
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Font: http://www.wskilts.com.br/tingque-robo-ultrasonic",
+      "bbox": [
+        352,
+        468,
+        625,
+        480
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "3. O rob o ROMEO,criado para ser auxiliar de ideos con dificuldades de locomocho,vece acompanhar o volume do soro que está sido aplicado em um paciente. quando este volume chegã a mezade, o robveve impedimentamente contactar um infermeiro humano. Considerando que o volume do soro diminui \\(20\\%\\) do volume inicial a cada hora, qual o e tempo t para que o rob chame o infermeiro?",
+      "bbox": [
+        54,
+        501,
+        932,
+        564
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "a. 3 hrs e 30 min",
+      "bbox": [
+        116,
+        573,
+        245,
+        586
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "b. 2hrs e 30 min",
+      "bbox": [
+        118,
+        589,
+        241,
+        601
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "c. 3 hrs e 24 min",
+      "bbox": [
+        118,
+        605,
+        243,
+        617
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "d. 4 hrs",
+      "bbox": [
+        118,
+        621,
+        176,
+        633
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "e. 2 hrs",
+      "bbox": [
+        118,
+        637,
+        176,
+        649
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        573,
+        245,
+        649
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "4. O robó工业园 do conservo para participar de torneiros de futebológico但从tha bolça que realizam uma trajetória parabólica para uma cima. Um pesquadosa de area de matemática constou que a equação à trajetória da bolra é y = -3x² + 18x, em que y é a alta atingida pela bolra para um deslocamento x na horizontal, ambos em metros. Dessa forma, a alta maior atingida pela bolra do físe.",
+      "bbox": [
+        54,
+        677,
+        932,
+        740
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "a. 25",
+      "bbox": [
+        116,
+        749,
+        157,
+        762
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "b. 26",
+      "bbox": [
+        118,
+        765,
+        157,
+        777
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "c. 27",
+      "bbox": [
+        118,
+        782,
+        156,
+        793
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "d. 28",
+      "bbox": [
+        118,
+        797,
+        157,
+        809
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "e.3",
+      "bbox": [
+        118,
+        814,
+        148,
+        825
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        749,
+        157,
+        825
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        342,
+        761,
+        705,
+        897
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        890,
+        940,
+        925,
+        952
+      ]
+    }
+  ],
+  [
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "5. Leia com tenção a definição de Degrees of Freedom (Graus de Libertad) em robística, extraído de \"Glossary of Statistical Terms\".",
+      "bbox": [
+        55,
+        70,
+        936,
+        101
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "In physics, the degree of freedom (DOF) of a mechanical system is the number of independent parameters that define its configuration. It is the number of parameters that determine the state of a physical system and it is important for the analysis of systems of bodies in mechanical engineering, aeronautical engineering, robotics, and structural engineering.",
+      "bbox": [
+        77,
+        109,
+        942,
+        173
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "The position of a single railcar (engine) moving along a track has one degree of freedom because the position of the car is defined by the distance along the track. A train of rigid cars connected by hinges to an engine still has only one degree of freedom because the positions of the cars behind the engine are constrained by the shape of the track.",
+      "bbox": [
+        77,
+        173,
+        942,
+        235
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "An automobile with highly stiff suspension can be considered to be a rigid body traveling on a plane (a flat, two-dimensional space). This body has three independent degrees of freedom consisting of two components of translation and one angle of rotation. Skidding or drifting is a good example of an automobile's three independent degrees of freedom.",
+      "bbox": [
+        77,
+        236,
+        942,
+        300
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "The position and orientation of a rigid body in space is defined by three components of translation and three components of rotation, which means that it has six degrees of freedom.",
+      "bbox": [
+        78,
+        300,
+        941,
+        332
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "De accordo com o texto, selezione a(s) resposta(s) correta(s):",
+      "bbox": [
+        79,
+        340,
+        538,
+        355
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "a. Carros possuem sempre apenas um grau de libertade.",
+      "bbox": [
+        114,
+        362,
+        546,
+        376
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "b. Um avião pode conter 6 graus de libertade, considerando posicao e orientacao.",
+      "bbox": [
+        114,
+        379,
+        738,
+        393
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "c. Braços mecânicos tem diferentes graus de libertad, dependendo de seu motores.",
+      "bbox": [
+        114,
+        395,
+        765,
+        408
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "d. Braços mecânicos possuem sempre 6 graus de libertade.",
+      "bbox": [
+        114,
+        410,
+        565,
+        424
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "e. Suspensa dos pneus do carro también são graus de libertade.",
+      "bbox": [
+        114,
+        426,
+        611,
+        441
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        362,
+        765,
+        441
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "6. Para evitar conta con materiais insulabres, alunos criar um mão robética que reproduz os movimentos de um trabalho. Nessa não foram usados sensores FlexK, que variam a sua resistência de forma proporcional à sua estrutura, permitirissim a captaçao desses movimentos. Uma forma de se medir a sua resistência disconhecida variaçé a ponte de Wheatstone, circuito eletrico muitoutilizado em sistemas de instrumentação. A ponte de Wheatstoneizada abixo que enarreterá em equilibrio se o galvanómetro G indicar zero volt, e o valor de R1 para eleg a:",
+      "bbox": [
+        55,
+        451,
+        935,
+        546
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "a. R/3",
+      "bbox": [
+        116,
+        554,
+        165,
+        569
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "b.R",
+      "bbox": [
+        117,
+        571,
+        150,
+        584
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "c. 2R",
+      "bbox": [
+        117,
+        587,
+        157,
+        600
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "d. 3R",
+      "bbox": [
+        117,
+        603,
+        160,
+        616
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "e. R/2",
+      "bbox": [
+        117,
+        620,
+        165,
+        633
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        554,
+        165,
+        633
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        537,
+        544,
+        784,
+        670
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "7. Todos os anos, diferentes他们在 designados.  \n8. O não esperou a reconheço, na vez quais étracdo征收ou humanos, são desenvolvimento. O Snakeabot é uma das apostas para esta tarefa, não quais é um robo capaz de detectar meaneas em potencial a partir de seu senseores e localizar点钟 de escondir o acordo com o ambiente que se enquimam.",
+      "bbox": [
+        55,
+        686,
+        933,
+        749
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "text",
+      "text": "A fim deaprorimar hiasabdesse dobre, os pesquideros prelimacam garantar que as informacoes da base de do do do estabem corretas. Para que o Sneakebato seque capaz de identificar se estae inserao um bioma de Mata Atalanta.",
+      "bbox": [
+        77,
+        750,
+        942,
+        796
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "(Adaptado de https://www.tecmundo.com.br/robitica/17842-cobos-de-reconhecimento-do-futuro-imitam-cobras-e-ale-reconhecm-0-ambiente.htm)",
+      "bbox": [
+        114,
+        797,
+        838,
+        809
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "a) Core toque.",
+      "bbox": [
+        116,
+        826,
+        234,
+        840
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "b) Temperatura e umidae.",
+      "bbox": [
+        116,
+        841,
+        327,
+        855
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "text",
+      "text": "c) Som e movimento.",
+      "bbox": [
+        117,
+        858,
+        281,
+        872
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "d) Acceleracao e acidez.",
+      "bbox": [
+        117,
+        874,
+        293,
+        888
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "e) Luminosidade e calor.",
+      "bbox": [
+        117,
+        889,
+        304,
+        903
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        826,
+        327,
+        903
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        589,
+        814,
+        834,
+        929
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        890,
+        940,
+        932,
+        954
+      ]
+    }
+  ],
+  [
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "8. \"A new Kickster project aims to remove trash from the Chicago River by creating a remote-controlled floating garbage collector. Named Trash Robot, the machine can be controlled by a web browser, so potentially anyone can take a turn doing their bit to clean up the river from anywhere in the world.",
+      "bbox": [
+        55,
+        70,
+        704,
+        132
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "The project seeks to make a game out of waste collection. It will invite \"players\" to take turns controlling the machine, earning points for the garbage they collect.trash Robot has onboard cameras so players can see where it is going. Though the system is still in development, it will be able to control the controlled vehicle, as it seems will not be able to work without a human controller.\"",
+      "bbox": [
+        77,
+        134,
+        704,
+        211
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "text",
+      "text": "(Fonte:Adaptado de Trash-collecting river robot can be controlled by anyone via the web-New Atlas,mano de 2018)",
+      "bbox": [
+        79,
+        212,
+        665,
+        226
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        721,
+        70,
+        936,
+        178
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Fonte: https://newalfas.com/chicago-river-tract-robol53864",
+      "bbox": [
+        723,
+        178,
+        933,
+        198
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "From the text above, it is right to affirm that:",
+      "bbox": [
+        79,
+        232,
+        423,
+        246
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": "a. By collecting the garbage, the players will earn a prize offered by the city of Chicago.",
+      "bbox": [
+        114,
+        254,
+        769,
+        269
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "b. \"Trash Robot\" is a robot itself that can also work even if no human controls it.",
+      "bbox": [
+        114,
+        271,
+        721,
+        284
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "c. Only robotic students and researchers from Chicago can play the game of cleaning up rivers.",
+      "bbox": [
+        114,
+        287,
+        827,
+        301
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": "d. \"Trash Robot\" is a new project that has as purpose to remove trash from the Chicago River, through a web browser game.",
+      "bbox": [
+        114,
+        303,
+        901,
+        333
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "e. The main idea of the project is to create a different game, so that players could create their own robot, capable of cleaning up all rivers around the world.",
+      "bbox": [
+        114,
+        335,
+        911,
+        365
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        254,
+        911,
+        365
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "9. O groupe do Prof. Lee Cronin da Universidade de Glasgow criou um sufisicado algoprogramato congetado um Sistema de maneamento de liquidos capaz de realizar experimentos quimicos. Esse robé sefora para fazer humanos em seu指点 cegos, e garantir sua melhor significativa nos resultados das pesquisas. O robé fo programado para experimentos de cristalização e você precise a calibra-lo para obter o algoimn de forma industrial. Sabenço que, na obtenção industrial de algo, oc公用 a mesma roção: \\(\\mathrm{Al}^{3 + }(\\mathrm{aq}) = 3e > \\mathrm{Al}(\\mathrm{aq})\\), quando Faraday se encha a forma de a formação de 1886 de algoimn; Lembre-se que 1F (Faraday) e a carga de 1 mol de elétrons e \\(\\mathrm{MA}(\\mathrm{Al}) = 27u\\).",
+      "bbox": [
+        53,
+        382,
+        932,
+        492
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "[Extrado do: https://www.chemistryworld.com/news/humans-come-out-second-best-against-efficient-robot-chemist/3007676article]",
+      "bbox": [
+        78,
+        499,
+        621,
+        524
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "a. 2 F",
+      "bbox": [
+        116,
+        531,
+        161,
+        544
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "b. 20 F",
+      "bbox": [
+        117,
+        548,
+        171,
+        560
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "c. 200 F",
+      "bbox": [
+        117,
+        564,
+        177,
+        576
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "d. 1000 F",
+      "bbox": [
+        117,
+        580,
+        190,
+        592
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "e. 2000 F",
+      "bbox": [
+        117,
+        596,
+        189,
+        608
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        531,
+        190,
+        608
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        632,
+        489,
+        922,
+        606
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "10. Correias são elementos que tem a finalidade de transmitir movimento de um eixo para outras atraves de polias, como esta figura. Para exemplo, o uso de correias em robos promove seu deslocalamento no solo ao tranfarir o movimento rotativo de um motor para suas rodas. Con��ão às correias,emarks das以及其他 alternativas correlias:",
+      "bbox": [
+        55,
+        621,
+        931,
+        682
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "a. As correias são constituções de materiais flexiveis.",
+      "bbox": [
+        114,
+        691,
+        511,
+        705
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "b. A lubrificacao das correias deve ser feita para evaporar seu deslizamento.",
+      "bbox": [
+        114,
+        708,
+        665,
+        722
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "c. O uso de correias permit a invsao do sentido de rotae entre dois eixos.",
+      "bbox": [
+        114,
+        724,
+        708,
+        738
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "d. Correias propaganda ampliam a intensidade de choces e vibrações dos eixos.",
+      "bbox": [
+        114,
+        740,
+        725,
+        753
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "e. Quando bem dimensionadas e com manutençao adequada, as correias emitem elevados ruidos em serviceo.",
+      "bbox": [
+        114,
+        756,
+        882,
+        785
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        691,
+        882,
+        785
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        372,
+        789,
+        634,
+        913
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        890,
+        940,
+        932,
+        954
+      ]
+    }
+  ],
+  [
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "11. A dilatação binária, operação muitoutilizada em visicon computational, quando é às vezes chamada de dilação, é uma transformação morfológica que combinou dos conjuntos usando adjaçao tervirtual. Seu)símbolo é ⊙. Como o nome diz, o resultado sera uma imagem \"engordada\". A dilatação de um Conjunto A pelo conjunto B é definida por:",
+      "bbox": [
+        57,
+        69,
+        932,
+        135
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "A \\(\\mathbb{B} = \\{c\\mid c = a + b,a\\in A,b\\in B\\}\\) , enque A represente a图为 sendo operada e b é um segundo Conjunto, a represente a图为 sendo operada e b é um segundo Conjunto, sua composizione define a naturezza specifica da dilatazione, sendo assozii a dilatazione expende um图为.",
+      "bbox": [
+        77,
+        143,
+        932,
+        191
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "Ela pode ser representada pela uniao A ⊕ B = A ∪ B.",
+      "bbox": [
+        79,
+        194,
+        479,
+        209
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "Example: Seja o Conjunto A = {[2,1], {2,2}, {3,0}) e B = {[0,0], {0,1}) ento o resultante da dilatacao e: A ⊗ B = {A + {((x ∈ B)) ∪ A + {((x ∈ B) = {2,1}, {2,2}, {2,3}, {3,0}, {3,1})}. Considering o conjunto M = {((1,2,3), {0,4,2}, {1,5,9})} e N = {((1,1,1,1,2,0) o conjunto M ⊗ N é dormado:",
+      "bbox": [
+        77,
+        211,
+        932,
+        264
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "text",
+      "text": "a.((1,3,4),(2,4,3),(0,5,3),(1,6,2),(1,6,10),(2,7,9))",
+      "bbox": [
+        114,
+        272,
+        474,
+        288
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "text",
+      "text": "b.{1,4,3},{2,3,4},{5,5,3},{3,6,9},{0,6,10},{2,7,9}}",
+      "bbox": [
+        116,
+        289,
+        474,
+        304
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "text",
+      "text": "c.{1,4,4},{0,3,3},{0,5,3},{1,6,2},{2,5,0},{2,6,9}\\}",
+      "bbox": [
+        116,
+        305,
+        463,
+        320
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "text",
+      "text": "d.{1,1,4},{2,2,3},{5,5,3},{6,6,2},{1,6,1},{2,7,7}}",
+      "bbox": [
+        116,
+        321,
+        465,
+        336
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "text",
+      "text": "e. \\(\\langle \\{1,1,4\\} ,\\{2,3,3\\} ,\\{0,5,5\\} \\rangle\\)",
+      "bbox": [
+        116,
+        337,
+        306,
+        353
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        272,
+        474,
+        353
+      ]
+    },
+    {
+      "id": 122,
+      "page": 4,
+      "category": "text",
+      "text": "12. Estudantes do Departamento de Ciência da Computação da Universidade de Wyoming estendão estudando metodologías que ajudes os robos à entendem seu propre ambiente e explorá-lo com mais eficácia. Os estudos foram em algoíngos evolutivos, que se baseiar na teorias de Darwin. Para ajudar as estudos eles estendão a quico, considere a teora séntica de evolução,analise as confirmações abalina e assimilate a alternatively corrente:",
+      "bbox": [
+        57,
+        369,
+        932,
+        448
+      ]
+    },
+    {
+      "id": 123,
+      "page": 4,
+      "category": "text",
+      "text": "I-Os isolamentos geografico e reproduto sao fatores importantes na espaciação.",
+      "bbox": [
+        78,
+        456,
+        710,
+        471
+      ]
+    },
+    {
+      "id": 124,
+      "page": 4,
+      "category": "text",
+      "text": "II - O mecanismo basics da evolução é CHARACTERizzato por uma mudança na frequência deCERTOS genes da人群落.",
+      "bbox": [
+        78,
+        472,
+        872,
+        503
+      ]
+    },
+    {
+      "id": 125,
+      "page": 4,
+      "category": "text",
+      "text": "III - A alternária da frequência de um ou mais genes pode oc corner devo ao acaso, independente do seu valor adaptativo.",
+      "bbox": [
+        78,
+        504,
+        930,
+        535
+      ]
+    },
+    {
+      "id": 126,
+      "page": 4,
+      "category": "text",
+      "text": "IV - Os movimento migratórios não interferem no processo evolutivo de uma espécie.",
+      "bbox": [
+        78,
+        536,
+        734,
+        551
+      ]
+    },
+    {
+      "id": 127,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        456,
+        930,
+        551
+      ]
+    },
+    {
+      "id": 128,
+      "page": 4,
+      "category": "text",
+      "text": "a. Apenas I",
+      "bbox": [
+        115,
+        560,
+        204,
+        574
+      ]
+    },
+    {
+      "id": 129,
+      "page": 4,
+      "category": "text",
+      "text": "b. Apenas II",
+      "bbox": [
+        116,
+        576,
+        209,
+        590
+      ]
+    },
+    {
+      "id": 130,
+      "page": 4,
+      "category": "text",
+      "text": "c. Apenas III",
+      "bbox": [
+        116,
+        592,
+        212,
+        606
+      ]
+    },
+    {
+      "id": 131,
+      "page": 4,
+      "category": "text",
+      "text": "d. Apenas IV",
+      "bbox": [
+        116,
+        608,
+        215,
+        621
+      ]
+    },
+    {
+      "id": 132,
+      "page": 4,
+      "category": "text",
+      "text": "e.l,lll",
+      "bbox": [
+        116,
+        623,
+        194,
+        637
+      ]
+    },
+    {
+      "id": 133,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        115,
+        560,
+        215,
+        637
+      ]
+    },
+    {
+      "id": 134,
+      "page": 4,
+      "category": "text",
+      "text": "13. Umaforma de desenvolvimento microcontrolada, como a lista Arduino, é um disposito muitoutilizzato para controlrosRobo. Para realizar a leitura de um senor, o seguito trecho deprogramming éutilizzato:",
+      "bbox": [
+        57,
+        648,
+        931,
+        680
+      ]
+    },
+    {
+      "id": 135,
+      "page": 4,
+      "category": "text",
+      "text": "int sensor = analogRead(A1);",
+      "bbox": [
+        115,
+        687,
+        341,
+        703
+      ]
+    },
+    {
+      "id": 136,
+      "page": 4,
+      "category": "text",
+      "text": "float voltage = sensor * (5.0 / 1023.0);",
+      "bbox": [
+        116,
+        704,
+        406,
+        719
+      ]
+    },
+    {
+      "id": 137,
+      "page": 4,
+      "category": "text",
+      "text": "Serial.println(voltage);",
+      "bbox": [
+        116,
+        720,
+        290,
+        735
+      ]
+    },
+    {
+      "id": 138,
+      "page": 4,
+      "category": "text",
+      "text": "A partir das informacoes do programa pode se dizer que:",
+      "bbox": [
+        79,
+        751,
+        513,
+        766
+      ]
+    },
+    {
+      "id": 139,
+      "page": 4,
+      "category": "text",
+      "text": "a. A leitura está ocorrindo na porta digital A1.",
+      "bbox": [
+        114,
+        775,
+        467,
+        789
+      ]
+    },
+    {
+      "id": 140,
+      "page": 4,
+      "category": "text",
+      "text": "b. Um sinal está sentido enviado pelo microcontrolador para a porta A1.",
+      "bbox": [
+        114,
+        790,
+        651,
+        805
+      ]
+    },
+    {
+      "id": 141,
+      "page": 4,
+      "category": "text",
+      "text": "c. O valor da variével \"voltage\" sera impresso em um disposítio网通etado a��uada serial do microcontrolador.",
+      "bbox": [
+        114,
+        807,
+        645,
+        836
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "d. O valor 1023 é a variação da tensão de saída do sensor.",
+      "bbox": [
+        114,
+        839,
+        553,
+        853
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "text",
+      "text": "e. Os valeos das variaveis sensor e voltage saiguis.",
+      "bbox": [
+        114,
+        854,
+        524,
+        869
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        775,
+        651,
+        869
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        696,
+        689,
+        804,
+        789
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        826,
+        689,
+        876,
+        789
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "image_caption",
+      "text": "https://blog.aroa.com/2018/05/17-say-hello-to-the- next-generation-of-aroa-boards",
+      "bbox": [
+        683,
+        794,
+        905,
+        817
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        892,
+        940,
+        925,
+        952
+      ]
+    }
+  ],
+  [
+    {
+      "id": 150,
+      "page": 5,
+      "category": "text",
+      "text": "14. Uma \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A \"...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...”. A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\". A ...\".",
+      "bbox": [
+        57,
+        70,
+        932,
+        117
+      ]
+    },
+    {
+      "id": 151,
+      "page": 5,
+      "category": "text",
+      "text": "Ligar fornof F",
+      "bbox": [
+        155,
+        135,
+        253,
+        149
+      ]
+    },
+    {
+      "id": 152,
+      "page": 5,
+      "category": "text",
+      "text": "Para i=1 até 5 faça",
+      "bbox": [
+        158,
+        150,
+        287,
+        163
+      ]
+    },
+    {
+      "id": 153,
+      "page": 5,
+      "category": "text",
+      "text": "Para t=1 até 15 faça",
+      "bbox": [
+        218,
+        164,
+        354,
+        176
+      ]
+    },
+    {
+      "id": 154,
+      "page": 5,
+      "category": "text",
+      "text": "Ligar Robo A",
+      "bbox": [
+        277,
+        177,
+        373,
+        189
+      ]
+    },
+    {
+      "id": 155,
+      "page": 5,
+      "category": "text",
+      "text": "Ligar Robo B",
+      "bbox": [
+        277,
+        190,
+        372,
+        203
+      ]
+    },
+    {
+      "id": 156,
+      "page": 5,
+      "category": "text",
+      "text": "Espere 1 segundo",
+      "bbox": [
+        277,
+        204,
+        398,
+        218
+      ]
+    },
+    {
+      "id": 157,
+      "page": 5,
+      "category": "text",
+      "text": "Desligar Robo A",
+      "bbox": [
+        277,
+        218,
+        393,
+        231
+      ]
+    },
+    {
+      "id": 158,
+      "page": 5,
+      "category": "text",
+      "text": "Desligar Robo B",
+      "bbox": [
+        277,
+        232,
+        393,
+        245
+      ]
+    },
+    {
+      "id": 159,
+      "page": 5,
+      "category": "text",
+      "text": "fim para",
+      "bbox": [
+        218,
+        245,
+        277,
+        259
+      ]
+    },
+    {
+      "id": 160,
+      "page": 5,
+      "category": "text",
+      "text": "fin para",
+      "bbox": [
+        158,
+        260,
+        218,
+        272
+      ]
+    },
+    {
+      "id": 161,
+      "page": 5,
+      "category": "text",
+      "text": "Desligar foro F",
+      "bbox": [
+        158,
+        272,
+        272,
+        286
+      ]
+    },
+    {
+      "id": 162,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        493,
+        119,
+        888,
+        316
+      ]
+    },
+    {
+      "id": 163,
+      "page": 5,
+      "category": "image_caption",
+      "text": "(Adaptado de http://wiki.inf.ufrp.br/maziero)",
+      "bbox": [
+        609,
+        318,
+        822,
+        331
+      ]
+    },
+    {
+      "id": 164,
+      "page": 5,
+      "category": "text",
+      "text": "Seleciona opcao correta.",
+      "bbox": [
+        116,
+        307,
+        320,
+        322
+      ]
+    },
+    {
+      "id": 165,
+      "page": 5,
+      "category": "text",
+      "text": "a. Os robos A e B ficam ligados por 15 segundos, o forno F fica ligado por 5 segundos.",
+      "bbox": [
+        114,
+        331,
+        758,
+        346
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "text",
+      "text": "b. O rob a fica ligado por 10 segundos e o rob b fica ligado por 5 segundos, o forno fica ligado por 5 segundos.",
+      "bbox": [
+        114,
+        348,
+        928,
+        378
+      ]
+    },
+    {
+      "id": 167,
+      "page": 5,
+      "category": "text",
+      "text": "c. Os robos A e B ficam ligados por 15 segundos, o forno Fica ligado por 75 segundos.",
+      "bbox": [
+        114,
+        380,
+        767,
+        395
+      ]
+    },
+    {
+      "id": 168,
+      "page": 5,
+      "category": "text",
+      "text": "d. Os robos A e B ficam ligados por 75 segundos, o forno F fica ligado por 75 segundos.",
+      "bbox": [
+        114,
+        396,
+        767,
+        410
+      ]
+    },
+    {
+      "id": 169,
+      "page": 5,
+      "category": "text",
+      "text": "e. Os robos A e B ficam ligadas por 25 segundos, o forno F fica ligado por 5 segundos.",
+      "bbox": [
+        114,
+        411,
+        758,
+        426
+      ]
+    },
+    {
+      "id": 170,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        331,
+        928,
+        426
+      ]
+    },
+    {
+      "id": 171,
+      "page": 5,
+      "category": "text",
+      "text": "15. Durante um�试e fora bropação o aviodes non-triplados em longas distancias, pesquidosidergmas asragem e comuns comuns comuns coordenadas geograficas. Tomando como base o mapa abixo, asinale a(s) alternativa(s) corret(a).",
+      "bbox": [
+        55,
+        437,
+        931,
+        484
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        146,
+        504,
+        857,
+        832
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "text",
+      "text": "a. O punto A encontrar-se no hemisférgio boreal com longitude \\(100^{\\circ}\\) oeste e latitude \\(50^{\\circ}\\) norte",
+      "bbox": [
+        114,
+        838,
+        816,
+        854
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "text",
+      "text": "b. O punto B encontrartra-se no hemisférgio austral com longitude \\(80^{\\circ}\\) leste e latitude \\(40^{\\circ}\\) norte",
+      "bbox": [
+        117,
+        856,
+        805,
+        870
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "text",
+      "text": "c. O punto C'encontra-se no hemisférgio austral com latitude \\(40^{\\circ}\\) sul e longitude \\(20^{\\circ}\\) oeste",
+      "bbox": [
+        117,
+        871,
+        789,
+        885
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "text",
+      "text": "d. O punto D encontrartra-se no hemisférgio boreal com latitude \\(20^{\\circ}\\) sul e latitude \\(20^{\\circ}\\) leste",
+      "bbox": [
+        117,
+        887,
+        769,
+        902
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "e. O punto A encontrar-se no hemisférgio austral com longitude \\(100^{\\circ}\\) oeste e latitude \\(50^{\\circ}\\) norte",
+      "bbox": [
+        117,
+        903,
+        819,
+        918
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        838,
+        819,
+        918
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        890,
+        940,
+        925,
+        952
+      ]
+    }
+  ],
+  [
+    {
+      "id": 181,
+      "page": 6,
+      "category": "text",
+      "text": "16. Cientista robotico - Avanzos importantes vem aconceptrado no Campo de ayaprenderado profundo e da inteligencia artificial e服务于 ciencia e de educated, levando ate mesmo a ciarao dos primeiros robos cristantes con增值服务 do algoimicos quanticos. A teoria quantica nos dia que a evolucao no tempo de umsysteme quantico isolado descido matematicamente para um transformacao linear.",
+      "bbox": [
+        57,
+        70,
+        932,
+        133
+      ]
+    },
+    {
+      "id": 182,
+      "page": 6,
+      "category": "text",
+      "text": "Como los datos matricesicas reas de Estados quáticos são unitarios (módulo igual a um), una transformación linear matricularmente atene à segunte proprodução: A. (transposa de A) = (transposa de A).A = 1 na quando A é uma matra real que parque i e a matriz identida. Come base no expoamento quaisvos datos de a matra dada satisfazem a proprodução?",
+      "bbox": [
+        77,
+        134,
+        933,
+        199
+      ]
+    },
+    {
+      "id": 183,
+      "page": 6,
+      "category": "text",
+      "text": "a. v2/2",
+      "bbox": [
+        114,
+        205,
+        177,
+        221
+      ]
+    },
+    {
+      "id": 184,
+      "page": 6,
+      "category": "text",
+      "text": "b. \\( 1/2 \\)",
+      "bbox": [
+        117,
+        223,
+        166,
+        237
+      ]
+    },
+    {
+      "id": 185,
+      "page": 6,
+      "category": "text",
+      "text": "c. 2",
+      "bbox": [
+        117,
+        240,
+        148,
+        252
+      ]
+    },
+    {
+      "id": 186,
+      "page": 6,
+      "category": "text",
+      "text": "d. -V2/2",
+      "bbox": [
+        117,
+        255,
+        185,
+        269
+      ]
+    },
+    {
+      "id": 187,
+      "page": 6,
+      "category": "text",
+      "text": "e. -1/2",
+      "bbox": [
+        117,
+        272,
+        171,
+        285
+      ]
+    },
+    {
+      "id": 188,
+      "page": 6,
+      "category": "equation",
+      "text": "\\[\n\\left[ \\begin{array}{c c} a & a \\\\ a & - a \\end{array} \\right]\n\\]",
+      "bbox": [
+        400,
+        202,
+        554,
+        286
+      ]
+    },
+    {
+      "id": 189,
+      "page": 6,
+      "category": "title",
+      "text": "17. A BUSCA PELA AUTONOMIA",
+      "bbox": [
+        57,
+        307,
+        307,
+        322
+      ]
+    },
+    {
+      "id": 190,
+      "page": 6,
+      "category": "text",
+      "text": "(Relirado de: \"Robos tratahando: eles não acabar com nosas profissos?\" Larissa Rosa)",
+      "bbox": [
+        91,
+        329,
+        542,
+        343
+      ]
+    },
+    {
+      "id": 191,
+      "page": 6,
+      "category": "text",
+      "text": "Os robos operam en differentes niveis de autonoma: a estrutura pode ser classificada como totalmente autonoma, semi autonoma, remotamente controlada, teleperadora ou automatistica. A autonomacomplete e o grande objetivo des pesquisados daarea de roboca, o que não significao dizer que os estudos almejam a criacao de robos intestentes que tomarao decisao semMASTERizacao humana.",
+      "bbox": [
+        78,
+        351,
+        933,
+        414
+      ]
+    },
+    {
+      "id": 192,
+      "page": 6,
+      "category": "text",
+      "text": "O pesquidero Guilherme Augusto Silva Pereira, da UFMG, dà um especo: um carro autônico deve transportar um passageiro entre os pônts A e B, com segurarce e respetando as leis de总收入. O operador não deseja que o roude aconteça, por conta píprica, que o melhor seria levar o passageiro para o pônto C. A resolution e sempre do que o roude aconteça, é alegre. O operador é um operador que é um locato de partir e o chegada ouSome os momentos que o freço revelé se衍ou acondoir para fazer uma colixa.",
+      "bbox": [
+        78,
+        414,
+        933,
+        495
+      ]
+    },
+    {
+      "id": 193,
+      "page": 6,
+      "category": "text",
+      "text": "O tipo de aplicacion es que determina o grau de autorizacion. Tareas delicadas, envollando risco a vida, como a realizacion de una cirugia, jamais poderas ser totalmente delegadas a discernimiento de una要加强. Para todo, a realizacion de una tarea domestica simples, como a preparo de algo bajo o una limpeza do piso, pode ser executada con total autorencialeo robó, ensinado por el proprietary.",
+      "bbox": [
+        78,
+        495,
+        933,
+        558
+      ]
+    },
+    {
+      "id": 194,
+      "page": 6,
+      "category": "text",
+      "text": "- O rob não podera ser 100% autônomo. Dificiente como esta vaid mudar. Não teremos ciungrios robóres. Máquinas como eu, não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu.\n- O rob não podera ser 100% autônomo. Dificiente como esta vaid mudar. Não teremos ciungrios robóres. Máquinas como eu, não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu Não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu\n- O rob não podera ser 100% autônomo. Dificiente como这笔 vaid mudar. Não teremos ciungrios robóres. Máquinas como eu, não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quisseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu Não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu.\n- O rob não podara ser 100% autônomo. Dificiente como这笔 vaid mudar. Não teremos ciungrios robóres. Máquinas como eu, não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não me quiseu. Eu não quiseu. Eu não quiseu. Eu não me quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quiseu. Eu não quise u.",
+      "bbox": [
+        78,
+        558,
+        933,
+        605
+      ]
+    },
+    {
+      "id": 195,
+      "page": 6,
+      "category": "text",
+      "text": "De acordo com as informacoes veiculadas no texto, e correto affirmar:",
+      "bbox": [
+        79,
+        613,
+        611,
+        629
+      ]
+    },
+    {
+      "id": 196,
+      "page": 6,
+      "category": "text",
+      "text": "a. A autorità è unaistica che se temuscado quando piùvoir en robos,os pesquasoides除去que os robos seymapanecapeso deTomar allasdecisiones sozinhos.",
+      "bbox": [
+        114,
+        636,
+        933,
+        668
+      ]
+    },
+    {
+      "id": 197,
+      "page": 6,
+      "category": "text",
+      "text": "b. É desejé que les robos doiventactualizar pesquisas de seguárance,mercado,trafego de veloculos e decidam comouma tareafeve serrealizada independentlya deopiniondo enolvidos.",
+      "bbox": [
+        114,
+        682,
+        931,
+        714
+      ]
+    },
+    {
+      "id": 198,
+      "page": 6,
+      "category": "text",
+      "text": "c. Devió a eficácia e precisión de Manipuladores roboráticos na执政ión de tarefas delicadas os robos poder esns por los principales atores en una cirugira, por exemple, dispensoando a auxilio de unsomeone herano.",
+      "bbox": [
+        114,
+        729,
+        931,
+        761
+      ]
+    },
+    {
+      "id": 199,
+      "page": 6,
+      "category": "text",
+      "text": "d. O grau de autorità de um robô é determinado pelo tipo de tarefa a ser executada, considerando espécografies fornecidas por um ser humano.",
+      "bbox": [
+        114,
+        775,
+        931,
+        807
+      ]
+    },
+    {
+      "id": 200,
+      "page": 6,
+      "category": "text",
+      "text": "e. Robô que permitem alguma forma de controle por parte de seres humanos ou outras miguanas são considerados autônicos.",
+      "bbox": [
+        114,
+        820,
+        931,
+        852
+      ]
+    },
+    {
+      "id": 201,
+      "page": 6,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        401,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 202,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        890,
+        940,
+        932,
+        954
+      ]
+    }
+  ],
+  [
+    {
+      "id": 203,
+      "page": 7,
+      "category": "text",
+      "text": "18. Frederick Winslow Taylor (1856-1915) foui un engenheiro mecano niente americano que, en 1911, publique�� ouba chamada \"Os princídas da administracao scientifica\", na quopunha métodos considerados inovadores a epoca para a producao industrial. Its principais baseis-elem em eficcio operacional, enfase nas tarefas, hierarquicao e estimulo a producao. O Conjunto de susideas ficis conhecido genericamente por Taylorismo, O empressao norte americano Henry Ford (1863 - 1947) funcao de la automobilitaria Ford, Motor Company, trioum um Modelo produtoe em sua fabrica independo no Taylorismo, introduzindo as linhas de montagem. Relacionando Fordismo e Taylorismo, pote-se diferirar correutamente que:",
+      "bbox": [
+        57,
+        70,
+        659,
+        244
+      ]
+    },
+    {
+      "id": 204,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        668,
+        73,
+        931,
+        224
+      ]
+    },
+    {
+      "id": 205,
+      "page": 7,
+      "category": "image_caption",
+      "text": "Fonfe:https://conceito.denyiorismo",
+      "bbox": [
+        709,
+        225,
+        892,
+        236
+      ]
+    },
+    {
+      "id": 206,
+      "page": 7,
+      "category": "text",
+      "text": "a. Os métodos produtos valorizavam os trabalhoadores ao incentivar a especialização de funções.",
+      "bbox": [
+        114,
+        253,
+        854,
+        268
+      ]
+    },
+    {
+      "id": 207,
+      "page": 7,
+      "category": "text",
+      "text": "b. Em ), os processos havia limitacaofuncional dos operariosprovocada pela especializacao de funcoes.",
+      "bbox": [
+        114,
+        269,
+        928,
+        283
+      ]
+    },
+    {
+      "id": 208,
+      "page": 7,
+      "category": "text",
+      "text": "c. Baseando-se na economia de tempo e aumento da produtividade, permitiram distribuição de lucros aoicos travaidosadores.",
+      "bbox": [
+        114,
+        285,
+        929,
+        314
+      ]
+    },
+    {
+      "id": 209,
+      "page": 7,
+      "category": "text",
+      "text": "d. As inovações que implantaram troqueram meiros condições de trabalho, apesar da reducao da produtividade.",
+      "bbox": [
+        114,
+        316,
+        928,
+        347
+      ]
+    },
+    {
+      "id": 210,
+      "page": 7,
+      "category": "text",
+      "text": "e. Seus objetivos foram a maximização de lucros, economia de tempo e espaço, implantação de melhoras condições de trabalho e a produção artesanal.",
+      "bbox": [
+        114,
+        348,
+        928,
+        380
+      ]
+    },
+    {
+      "id": 211,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        253,
+        929,
+        380
+      ]
+    },
+    {
+      "id": 212,
+      "page": 7,
+      "category": "text",
+      "text": "19. Durante a prova法则 da ORB, alunos e professoresAceberem differentes performances de seu robos de acordo com as pilhas neles utilizesz e resolvelar testar novas combinacoes. A differencia de potencial desenvolvimento em uma pilha é proportional ao trabalho producido por ela quando é quando unidas douas celulas distinctas (cátado e anóneo) em que a reacao occurs spontaneamente. Com base nas semi-reacoes abixo e os respectivos价值观es de potencial, quais são os metais que quando combinados para formar uma pilha, produção maiorworking?",
+      "bbox": [
+        57,
+        415,
+        932,
+        510
+      ]
+    },
+    {
+      "id": 213,
+      "page": 7,
+      "category": "text",
+      "text": "Ag→Ag+eE=-0,80V",
+      "bbox": [
+        79,
+        518,
+        263,
+        532
+      ]
+    },
+    {
+      "id": 214,
+      "page": 7,
+      "category": "text",
+      "text": "Cu->Cu²++2eE=-0,52V",
+      "bbox": [
+        80,
+        534,
+        281,
+        548
+      ]
+    },
+    {
+      "id": 215,
+      "page": 7,
+      "category": "text",
+      "text": "Zn→Zn²+2eE°=+0,76V",
+      "bbox": [
+        80,
+        550,
+        279,
+        564
+      ]
+    },
+    {
+      "id": 216,
+      "page": 7,
+      "category": "text",
+      "text": "Fe→Fe2++2eE=+0,44V",
+      "bbox": [
+        80,
+        566,
+        284,
+        579
+      ]
+    },
+    {
+      "id": 217,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        608,
+        522,
+        812,
+        629
+      ]
+    },
+    {
+      "id": 218,
+      "page": 7,
+      "category": "image_caption",
+      "text": "Fonte: Pocabay",
+      "bbox": [
+        672,
+        629,
+        750,
+        640
+      ]
+    },
+    {
+      "id": 219,
+      "page": 7,
+      "category": "text",
+      "text": "a. Cátodo de cobre e anodo de prata",
+      "bbox": [
+        115,
+        589,
+        394,
+        603
+      ]
+    },
+    {
+      "id": 220,
+      "page": 7,
+      "category": "text",
+      "text": "b. Cátodo de prata e anodo de zinco",
+      "bbox": [
+        115,
+        604,
+        391,
+        619
+      ]
+    },
+    {
+      "id": 221,
+      "page": 7,
+      "category": "text",
+      "text": "c. Cátodo de ferro e anodo de zinco",
+      "bbox": [
+        115,
+        621,
+        388,
+        635
+      ]
+    },
+    {
+      "id": 222,
+      "page": 7,
+      "category": "text",
+      "text": "d. Cátodo de zinco e anodo de prata",
+      "bbox": [
+        115,
+        637,
+        391,
+        651
+      ]
+    },
+    {
+      "id": 223,
+      "page": 7,
+      "category": "text",
+      "text": "e. Cátodo de ferro e anodo de cobre",
+      "bbox": [
+        115,
+        653,
+        393,
+        667
+      ]
+    },
+    {
+      "id": 224,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        115,
+        589,
+        394,
+        667
+      ]
+    },
+    {
+      "id": 225,
+      "page": 7,
+      "category": "footer",
+      "text": "Olimpiáda Brasileira de Robótica 2018",
+      "bbox": [
+        402,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 226,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        890,
+        940,
+        932,
+        954
+      ]
+    }
+  ],
+  [
+    {
+      "id": 227,
+      "page": 8,
+      "category": "text",
+      "text": "20. Microcontroladores está presentes em diverses equipamento, a chamaça Eletrocnica Embarcada, e muitem nos robos. Plataformas de desenvolvimento microcontroladas populadas atumuates são Urdoiro e a Raspberry Pi, às vezes tão que tem muitas varas路口 de entrada/ada de征求意见 que faculdam sua aplicação nos mais diversos dispositivos robéticos. Na Terra do Congo, um dos País mais pbores das Afrika, um robô fico Criado para ser mesemora eguarda de trásinto. Não que não tenho um nome, esse robô assigns as leis de trásinto e é muito freqüente. O mais quando o mais não passos, servindo de refiniência para muitas vezes às vezes do mundo, inclusiva a sua. Que você acoubeu de ser contratoado para verifiar não o robô sémbalo comprado para a sua idade não estáutenha, você éuseu suasunistemagem em programação. Dado o trecho de pseudocócqio abaxo o(s) possessivel(s) erró(s) é(s):30.",
+      "bbox": [
+        55,
+        70,
+        932,
+        213
+      ]
+    },
+    {
+      "id": 228,
+      "page": 8,
+      "category": "code",
+      "text": "```cpp\nvoid setup()\n{\n    pinMode[redPin, INPUT];\n    pinMode[yellowPin, INPUT];\n    pinMode[greenPin, INPUT];\n}",
+      "bbox": [
+        167,
+        275,
+        406,
+        551
+      ]
+    },
+    {
+      "id": 229,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        518,
+        228,
+        701,
+        312
+      ]
+    },
+    {
+      "id": 230,
+      "page": 8,
+      "category": "image_caption",
+      "text": "Fonte: www.raspbenpyi.org",
+      "bbox": [
+        518,
+        315,
+        658,
+        327
+      ]
+    },
+    {
+      "id": 231,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        757,
+        286,
+        917,
+        374
+      ]
+    },
+    {
+      "id": 232,
+      "page": 8,
+      "category": "image_caption",
+      "text": "Fonle: https://www.ardinao.co/",
+      "bbox": [
+        751,
+        379,
+        903,
+        390
+      ]
+    },
+    {
+      "id": 233,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        509,
+        419,
+        880,
+        568
+      ]
+    },
+    {
+      "id": 234,
+      "page": 8,
+      "category": "image_caption",
+      "text": "Fonfe: http://blog.neukos.com/2014/03/31un-robot-dirige-el-trafo-en-el-congo/",
+      "bbox": [
+        493,
+        570,
+        885,
+        583
+      ]
+    },
+    {
+      "id": 235,
+      "page": 8,
+      "category": "text",
+      "text": "a. Os pinos do Arduino foram definidos como entradas ao他们在萨达.",
+      "bbox": [
+        114,
+        613,
+        674,
+        627
+      ]
+    },
+    {
+      "id": 236,
+      "page": 8,
+      "category": "text",
+      "text": "b. Falta um trecho do documento entre void setup e void loop",
+      "bbox": [
+        114,
+        630,
+        551,
+        644
+      ]
+    },
+    {
+      "id": 237,
+      "page": 8,
+      "category": "text",
+      "text": "c. O Arduino não reconhece o commando digitalWrite",
+      "bbox": [
+        114,
+        645,
+        511,
+        659
+      ]
+    },
+    {
+      "id": 238,
+      "page": 8,
+      "category": "text",
+      "text": "d. Falta um delay entre os farois verde e amarelo.",
+      "bbox": [
+        114,
+        661,
+        492,
+        674
+      ]
+    },
+    {
+      "id": 239,
+      "page": 8,
+      "category": "text",
+      "text": "e. O Smoke e executado apenas uma vez.",
+      "bbox": [
+        114,
+        677,
+        429,
+        691
+      ]
+    },
+    {
+      "id": 240,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        114,
+        613,
+        674,
+        691
+      ]
+    },
+    {
+      "id": 241,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        336,
+        694,
+        884,
+        911
+      ]
+    },
+    {
+      "id": 242,
+      "page": 8,
+      "category": "footer",
+      "text": "Olimpiáda Brasileira de Robótica 2018",
+      "bbox": [
+        402,
+        944,
+        615,
+        956
+      ]
+    },
+    {
+      "id": 243,
+      "page": 8,
+      "category": "page_number",
+      "text": "9",
+      "bbox": [
+        890,
+        940,
+        925,
+        952
+      ]
+    }
+  ]
+]

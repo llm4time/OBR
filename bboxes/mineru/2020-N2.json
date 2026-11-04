@@ -1,0 +1,2694 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        43,
+        50,
+        896,
+        280
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 2 - 4° E 5° ANOS DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        115,
+        283,
+        888,
+        305
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SERIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        41,
+        312,
+        893,
+        475
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        294,
+        497,
+        648,
+        515
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        50,
+        525,
+        282,
+        543
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- España: Prove contém 8 páginas;",
+      "bbox": [
+        85,
+        559,
+        442,
+        577
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "- Duração da prova: 2 horas;",
+      "bbox": [
+        85,
+        580,
+        415,
+        597
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        85,
+        599,
+        542,
+        616
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "A prova delve ser preenchida a caneta;",
+      "bbox": [
+        85,
+        619,
+        539,
+        636
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material;",
+      "bbox": [
+        84,
+        639,
+        713,
+        656
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente;",
+      "bbox": [
+        85,
+        659,
+        593,
+        676
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        559,
+        713,
+        676
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "ATENÇA: Algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        90,
+        767,
+        847,
+        786
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        74,
+        861,
+        865,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 14,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        64,
+        71,
+        224,
+        91
+      ]
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "Os robos poder ser a espécie que evoluis mais rapidamente no noso planeta. Se você pesquisaq um pouco, as maravilhas que os robos fazendo. Elles já os humanos em muitas atividades, membros articisais already降至 ligados direitamente noSYSTEMA nervoso humano, robos minusculos já podementrar em noscobros corporo e detecrter doenças. Será que algoa direis ... o cerebro humano? (Imagem reata: de https://reataisocola.org.br/informacao/roIs.htm) (imagens reata: de https://reataisocola.org.br/informacao/do-mundo-chaega-ec-aspiro-santa/)",
+      "bbox": [
+        53,
+        116,
+        593,
+        248
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        602,
+        76,
+        982,
+        250
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "Qual das alternativas a seguir contentem as palavras que melhor preenchem as lacunas do texto?",
+      "bbox": [
+        54,
+        259,
+        871,
+        273
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "a) descobrirá, está, substituiram, substituirão.",
+      "bbox": [
+        81,
+        288,
+        468,
+        301
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "b) descobrir, estao, substituirao, substituirao.",
+      "bbox": [
+        82,
+        302,
+        453,
+        315
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "c) descobrir, esta, substituirao, substituiram.",
+      "bbox": [
+        82,
+        317,
+        451,
+        329
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "d) descobrirá, está, substituiram, substituiram.",
+      "bbox": [
+        82,
+        330,
+        465,
+        343
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "e) descobrirá, está, substituirão, substituirão.",
+      "bbox": [
+        82,
+        345,
+        463,
+        358
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        81,
+        288,
+        468,
+        358
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        62,
+        389,
+        227,
+        409
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "Maria, Eva e Estévelo sãoTRS robos que foram escolhidos como pessoas de um jogo Criado para inserin os alunos a fazer o calculo daorda. O objecto do jogger é percorrer a maior area posseis antes que o tempo acabou. Deposu de cada partita, aarea percorrida por cada um dos pessoas pode ser vista pellas outros jogadores como na figura abaxio.",
+      "bbox": [
+        52,
+        431,
+        942,
+        484
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        231,
+        489,
+        767,
+        764
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "Indique qual fo i o venced e a area percorrida por ele esta partida.",
+      "bbox": [
+        54,
+        770,
+        643,
+        784
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "a) Estévão, com 34 cm² percorridos.",
+      "bbox": [
+        81,
+        794,
+        388,
+        808
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "text",
+      "text": "b) Maria, com 41 cm2 percorridos.",
+      "bbox": [
+        82,
+        808,
+        369,
+        822
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "c) Eva, com 32 cm2 percorridos.",
+      "bbox": [
+        82,
+        822,
+        354,
+        836
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "d) Estevo, com 40 cm2 percorridos.",
+      "bbox": [
+        82,
+        837,
+        388,
+        850
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "e) Maria, com 36 cm2 percorridos.",
+      "bbox": [
+        82,
+        851,
+        369,
+        865
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        81,
+        794,
+        388,
+        865
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        944,
+        531,
+        994
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        808,
+        941,
+        829,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 36,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        63,
+        84,
+        227,
+        105
+      ]
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "category": "text",
+      "text": "Um Sistema con robos foi desenvolvimento porauxilar no estudo dos ecosistemasbrasileiros. Enquanto um robó fica na sala de",
+      "bbox": [
+        244,
+        83,
+        622,
+        126
+      ]
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "category": "text",
+      "text": "aULAfectadoa interacioncomosestudantes,otribosrobstego sonebrovandoareao coloratlerinformationo que sereolutilizadasellosalunaporqueassopommasherrponderpurgantessoobre conteudo.Enquantoestududaparaaproveorteorica daOBRem2020,umaaluna peduao robstoque mostrasseimagendumbioma comasegmentescharacteristicas:",
+      "bbox": [
+        53,
+        127,
+        622,
+        212
+      ]
+    },
+    {
+      "id": 39,
+      "page": 2,
+      "category": "text",
+      "text": "- Grandes planicies alagadas;",
+      "bbox": [
+        84,
+        215,
+        348,
+        228
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "text",
+      "text": "- Clima quente e umido no verao e frie e seco no inverno;",
+      "bbox": [
+        84,
+        230,
+        565,
+        242
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "text",
+      "text": "- Grande diversidade de fauna e flora, mas que foi prejudicada por grandes queimadas entre 2019 e 2020;",
+      "bbox": [
+        84,
+        246,
+        941,
+        274
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        215,
+        941,
+        274
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "text",
+      "text": "(Imagem retrada de",
+      "bbox": [
+        53,
+        275,
+        178,
+        285
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "http://revistanaileu.globo.com/Revista/Common/0,EMI130145-17778.00-NASA+USA+AVIACROBO+PARA+MAPEAR+ATMOSFERA.htm)",
+      "bbox": [
+        53,
+        285,
+        866,
+        295
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        625,
+        85,
+        987,
+        223
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "text",
+      "text": "Após preparar todas as informações fornecidas pelà uma, o robutilização a sua inteligência artificial é a principal parte de um seu banco de dados. De correço com as informações, quando与发展 e bioma escolhido pelo rob?",
+      "bbox": [
+        53,
+        309,
+        942,
+        348
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "text",
+      "text": "a) Pampa.",
+      "bbox": [
+        83,
+        359,
+        181,
+        373
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "text",
+      "text": "b) Caatinga.",
+      "bbox": [
+        83,
+        373,
+        195,
+        387
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "c) Pantanal.",
+      "bbox": [
+        84,
+        388,
+        195,
+        401
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "d) Mata Atlantica.",
+      "bbox": [
+        84,
+        402,
+        236,
+        415
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "e) Dunas.",
+      "bbox": [
+        84,
+        417,
+        175,
+        430
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        359,
+        236,
+        430
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        63,
+        455,
+        227,
+        474
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "Os paises e as pessoas está envencendo. Estes são dos fenomenos relacionados, porém differentes. O envolvimento populacional está relacionado ao aumento da proportionção de pessoas com mais de 60 anos (ou 65 anos) no total da population. À o",
+      "bbox": [
+        244,
+        453,
+        942,
+        496
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "envelh节课mente personel é um fato normal e natural da vida, mas que tem ficado cada vez mais relevante e ntável com o aumento da longevidade.",
+      "bbox": [
+        53,
+        497,
+        942,
+        525
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "As respostas para這些 dofenomenos são varías, MAKE una das novidades que会让你 chamam a的关注e é o uso de robos nos dosisos: 1)'envelhamento de estrutura etárica; 2) longevidente.",
+      "bbox": [
+        53,
+        526,
+        942,
+        553
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "No primo caso, a'utilisation dos robos teria aITCHUa supir a esacasse de mdo-oba en decorreciona da diminuacion da Populacion en Iddre Altiva (PIA).No segundo caso, os robos podser seem ultizados para aucjar no tratico en osus sus residencias e lares de idosos. O enelhecemigo ativo e saudavel e um dos maior desafios sociais e economicos do século XXI.",
+      "bbox": [
+        53,
+        554,
+        942,
+        611
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        184,
+        613,
+        816,
+        774
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "image_footnote",
+      "text": "(Adaptado de https://www.acodebate.com.br/2018/11/19/o-envelhacimento-populaciona-oes-robos-antigo-de-lose-austaguo-diniz-ahres/)",
+      "bbox": [
+        91,
+        775,
+        903,
+        787
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "Paiés industri转化idades presentan una populateda conundry de idade de upgraded do que paises en desenvolvimento. Marque a(s) alternativa(s) que contente o(s) principal(i)s efoito(s) dasuda nutancia.",
+      "bbox": [
+        53,
+        795,
+        942,
+        822
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "a) Necessidade de aumento de vagas em maternidades devido a alta taxa de natalidade.",
+      "bbox": [
+        80,
+        833,
+        806,
+        846
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "b) Necessidade decrição de vagas de trabalho para acolher a grande quantidade de jovens como parte para mercado de trabalho.",
+      "bbox": [
+        80,
+        847,
+        944,
+        871
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "c) Investimento em habitacao popular devido ao aumento populacionai e deficit de emprego.",
+      "bbox": [
+        80,
+        872,
+        833,
+        884
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "d) Crescimento da taxa de natalidade e mortalidade infantil em paises que ainda está em desenvolvimento.",
+      "bbox": [
+        80,
+        884,
+        944,
+        907
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "e) Transão da piramíde etária e necessidade de investimento em infraestrutura para acilher os idosos.",
+      "bbox": [
+        81,
+        908,
+        791,
+        933
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        833,
+        944,
+        933
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        530,
+        993
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        811,
+        920,
+        830,
+        937
+      ]
+    }
+  ],
+  [
+    {
+      "id": 69,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        62,
+        101,
+        226,
+        120
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "A'utilisation de robos cozinheiros encozinhas professionnelies parece ser umarealidade cada vez maior. De accordo com a",
+      "bbox": [
+        244,
+        100,
+        601,
+        142
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "reportagem: \"Um dos grandesASFados para estese eotvos robos de cozinha econgruiarPEGarobjectos transparentese/ouqueemittem reflexos, como um copo de vidaou talerhenos polidos. Para resolver isso, o Instituto de Robotica da Universidade Carnegie Mellon, nos EUA,shitua using umsystemacomelas coloridas em vez de cameras de profundidade. Mas o que quise fazer? Normalmente os robos usavam cameras de profundidade,que emituz infravermelha em um objeto para determinar sua forma, e assim podere manusea-lo.Ja umaamera que capta cores pode \"ver\"melhor objectos transparentes,reflexivos e opacos.\"",
+      "bbox": [
+        53,
+        143,
+        601,
+        287
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "Trecho extraido de",
+      "bbox": [
+        53,
+        287,
+        175,
+        297
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "https://www.uol.com.br/nit/ntocios/rodacao/2020/08/02/fritar-balatae-moleza-desafio-para-robo-na-cozinha-pode-eslar-em-um-copo.htm",
+      "bbox": [
+        53,
+        297,
+        860,
+        307
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "Imagem extraida de https://www.thehansindia.com/posts/index/Hans/2016-05-18/Robots-in-hand-eye-maps-surroundings-in-3D/228678",
+      "bbox": [
+        54,
+        307,
+        862,
+        316
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        611,
+        99,
+        1000,
+        279
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "Para resolver o desafio descrito, os pesquisadores da Carnegie Mellon propulsaram treinar o novo sistema para copiar o sistema de profundidade, mesmo não consugindo ainda capturar objetivos transparentes ou reflexivos com a mesma eficciência dos objetivos opacos. Como eles fizearesso?",
+      "bbox": [
+        53,
+        342,
+        941,
+        385
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "a) Eles irao utilizem um braço com uma pinca robotica mais delicada para nao quebrar os copos.",
+      "bbox": [
+        82,
+        400,
+        860,
+        413
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "b) Eles utiliser umsystemacomácerasquecapturamao cores ao invésdecamerasquecapturamadistáncia.",
+      "bbox": [
+        82,
+        414,
+        942,
+        441
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "c) Eles ajustaram a velocidade com que a garra do robo manuseia os objetos.",
+      "bbox": [
+        82,
+        444,
+        719,
+        457
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "text",
+      "text": "d) Eles emparelham imagens da camera infravemelha com imagens coloridas dosleasedmos objetos.",
+      "bbox": [
+        82,
+        457,
+        912,
+        471
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "e) Eles emittir uma luz infravermelha em um objeto para determinar sua forma, e assim poderem manusedlo.",
+      "bbox": [
+        82,
+        472,
+        942,
+        499
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        400,
+        942,
+        499
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        62,
+        516,
+        227,
+        535
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "Veículos autosomáticos, são veículos roboráticos como capacité de transporte pessoas ourens sem a necessidade de condução humana. Elleselynhamaparidegrācia de senseore, sistemas de controle e atuadores para reconhecer o ambiente, determinar asmelhos ações e executadasa forma mais segura e eficiente possivel.",
+      "bbox": [
+        52,
+        559,
+        945,
+        617
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        399,
+        618,
+        658,
+        717
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Imagem extraida de https://miro.medum.com/max/7000Vb6c4JqE3KxZFeyew.jpg)",
+      "bbox": [
+        280,
+        718,
+        772,
+        731
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": "Renato e sua equipe de engineeros está desenvolvimento um carroétrico autônomo capaz de se locomover por \\(100\\mathrm{Km}\\) com uma carga completenessa de sua bateria. O veloculso sera testado em um trajeto de 260 km, partindo de Recife-PE até Maceio-AL.",
+      "bbox": [
+        53,
+        744,
+        941,
+        787
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "Sabendo que o veiculo saira de Recife-PE com a bateria Completely carregada. Quantas vezes a bateria do carro autônomo precisara ser recarregada ao longo do trajeto para que sera possivel completing a viagem?",
+      "bbox": [
+        52,
+        801,
+        941,
+        844
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "a) 4 vezes.",
+      "bbox": [
+        113,
+        858,
+        214,
+        870
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": "b) 2 vezes.",
+      "bbox": [
+        114,
+        873,
+        214,
+        885
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "c) 1vez.",
+      "bbox": [
+        114,
+        888,
+        195,
+        899
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "d) 5 vezes.",
+      "bbox": [
+        114,
+        901,
+        214,
+        913
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "e) 3 vezes.",
+      "bbox": [
+        114,
+        916,
+        214,
+        928
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        113,
+        858,
+        214,
+        928
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        530,
+        993
+      ]
+    }
+  ],
+  [
+    {
+      "id": 96,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        63,
+        96,
+        227,
+        116
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        811,
+        80,
+        831,
+        95
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "ECOBOT é um robo energeticamente sustentavel capaz de percorrer cromodos de residências realizando preocupas tarefas domesticas. Touta sua energia é produzida a partir da luz solar. Essere projeto foi泛建upon pensando no augmente a eficência energetica e incentivo à pesquisa relacionada à fontes de energia renovaveis na roboticha.",
+      "bbox": [
+        53,
+        145,
+        719,
+        218
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "Imagem extraida de https://www clearinglinkservices.com.au'ecobot-scrib-751",
+      "bbox": [
+        54,
+        231,
+        506,
+        242
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "Quais fonctions de energias consideradas renovaves poderiam ser'utilidadeselo ECOBOT alem da energia solar?",
+      "bbox": [
+        53,
+        249,
+        719,
+        277
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        729,
+        125,
+        931,
+        289
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "a) Petroleo e forca dos ventos.",
+      "bbox": [
+        83,
+        286,
+        341,
+        299
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "text",
+      "text": "b) Carvalo mineral e gás natural.",
+      "bbox": [
+        83,
+        300,
+        354,
+        313
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "text",
+      "text": "c) Água dos rios e forca dos ventos.",
+      "bbox": [
+        84,
+        315,
+        383,
+        327
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "d) Uranio e carvao mineral.",
+      "bbox": [
+        84,
+        329,
+        312,
+        341
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "e) Xisto betuminoso e petroleo.",
+      "bbox": [
+        84,
+        343,
+        345,
+        356
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        286,
+        383,
+        356
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        63,
+        373,
+        227,
+        392
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        327,
+        415,
+        675,
+        566
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "image_footnote",
+      "text": "(Imagem extraida de http://freelance10.blogspot.com/2010/12/robos-substituem-professores-em-salas.html)",
+      "bbox": [
+        183,
+        567,
+        812,
+        578
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "text",
+      "text": "Um robó教師封建 en una ESCOLA con una configuración explica al alumnar avraste de attività e ejemplos, as principales criteriáticas económanicas de um determinado pais potencialmenteforta na agricultura, pecuaria, extravitismo, exportación de gros e carnés. Durante viariosanos, este robó aparecido um bom despenstepo,权重o o pãis而成ou a desenvolver sua economía para其他setores envolendo. industriías e servicios. Para acosunaros olvos新时代os,umaactualizaçãodo software do robó feito realizada incluindo regras que permitá a buscar por novas cadres para utilizesconexamplepos para seu alumnos.",
+      "bbox": [
+        53,
+        589,
+        942,
+        676
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "Quais regras abaixo permitir que a intelligência artificial do robô inclusse novas CIDées que representam o novo cenárioarethi que.",
+      "bbox": [
+        53,
+        705,
+        944,
+        734
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "a) Cidades com muitas construções em concreto e aço, alta densidade populacional, forte Presence do commercio e espécuras que são contratadas por outras espécuras.",
+      "bbox": [
+        82,
+        748,
+        944,
+        775
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "b) Regíos com grandes fazendas de mono ou poli culturas, que empregam农业科技 avançada como tratóres automaticos para a colheira.",
+      "bbox": [
+        82,
+        777,
+        944,
+        804
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "c) Regíos com baixo IDH e baixa densidade populacional e grande quantidade de pessoas com pouco grau de especialidade professional.",
+      "bbox": [
+        82,
+        807,
+        944,
+        834
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "text",
+      "text": "d) Regões com grandes areas abertas, pouca quantidade de construções de concreto e aço, Presence de maquinário molev pesado para fazer o recolhimamento dos grás.",
+      "bbox": [
+        82,
+        836,
+        944,
+        862
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "text",
+      "text": "e) Municipios ode a economia é baseada principalmente na exploracao de recursos naturais como mineracao ou retirada de materia prima de arvores.",
+      "bbox": [
+        82,
+        864,
+        944,
+        891
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        748,
+        944,
+        891
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        531,
+        994
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        812,
+        926,
+        831,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 121,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        64,
+        97,
+        227,
+        117
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "Nos últimos anos, os robos já auxiliam milhares de procedimentos cirurgicos em todo ou mundo. Porém, como todo ou campo da robética, nos últimos 10 anos, os desenvolvimento e pesquisadoso do campo da robética tiveram um avanzo",
+      "bbox": [
+        243,
+        96,
+        946,
+        139
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "significativo em suas pesquisas e produções. Um grande obstáctulo nas cirugrias robéticas não é a atraso que exigente a ordem que está通過 ao robê ou sua execuição. Nesses casos, qualier atraso pode não ser sé perigoso, como fatal. Com a Tecnologia de comunização 5G, cada vez mais cirugões poderão operar, em tempo real, quando促成u saber o que está colocando para saber exatamente o que está fazendo e como proceder em seguida.",
+      "bbox": [
+        52,
+        141,
+        945,
+        211
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "(Trecho e imagem extraidos de https://bit.ly/39sTixW)",
+      "bbox": [
+        54,
+        211,
+        378,
+        222
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        313,
+        223,
+        709,
+        402
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "Uma das grandes dificuldades na implementatione这种方式 de robó e a相通 entre a ordem que está em 1990 e o tempo quando o robó leva para executá-à. Qual aolutação para这些问题 de correto de correto com o texto?",
+      "bbox": [
+        52,
+        411,
+        946,
+        449
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "a) Utilizar conexão Bluetooth para conectar o robô ao cirurgião.",
+      "bbox": [
+        105,
+        455,
+        625,
+        469
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "b) Utilizar conexões mais rapiadas, como o 5G.",
+      "bbox": [
+        105,
+        470,
+        491,
+        483
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "c) Programar o robó para que ele faça a cirurgia sozinho.",
+      "bbox": [
+        105,
+        485,
+        576,
+        499
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "d) Utilizar um robó humanoide no lugar do cirurgião.",
+      "bbox": [
+        105,
+        499,
+        534,
+        513
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "e) Instalar mais dispositivos para que o cirurgiao tenha um maior returno tátil.",
+      "bbox": [
+        105,
+        514,
+        734,
+        528
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        105,
+        455,
+        734,
+        528
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 10",
+      "bbox": [
+        44,
+        544,
+        221,
+        564
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "Carlos e professor do \\(5^{\\circ}\\) ano do ensino fundamental e desenvolvimento um robro paraGER quesiones de multipla escola para as provas. ApoL aplicar as provas do \\(4^{\\circ}\\) bimeste de 2020 gerados pelo robro, notou que os eles obitiveram um bom desempenho. Suspeito que o robloinha uma preferencia em escolher uma determinada",
+      "bbox": [
+        238,
+        542,
+        945,
+        594
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "alternativa como resposta corrente, analisou todos这三个 asvos desenvolvimento行业发展 e enrouco a segunte distribuição que relaciona a quantidade de quostões com a sua responsiva resposta corrente:",
+      "bbox": [
+        52,
+        594,
+        944,
+        619
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        257,
+        621,
+        798,
+        802
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "Qual oposo o robé de Carlos mais escolheu para ser a \"resposta correta\" e quantas quostões liveram estaresho como resposta?",
+      "bbox": [
+        52,
+        822,
+        945,
+        851
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "a) Letra A, com 60 questoes.",
+      "bbox": [
+        112,
+        866,
+        356,
+        880
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "b) Letra B, com 120 questoes.",
+      "bbox": [
+        112,
+        880,
+        367,
+        894
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "text",
+      "text": "c) Letra C, com 60 questoes.",
+      "bbox": [
+        112,
+        895,
+        358,
+        909
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "text",
+      "text": "d) Letra D, com 20 questoes.",
+      "bbox": [
+        112,
+        909,
+        358,
+        923
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "text",
+      "text": "e) Letra E, com 40 questoes.",
+      "bbox": [
+        112,
+        924,
+        358,
+        937
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        112,
+        866,
+        367,
+        937
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        531,
+        993
+      ]
+    },
+    {
+      "id": 145,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        813,
+        938,
+        831,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 146,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 11",
+      "bbox": [
+        50,
+        86,
+        227,
+        106
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "text",
+      "text": "Leia a tirinha abaixo e responda a pergao.",
+      "bbox": [
+        245,
+        86,
+        595,
+        101
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "Na tirinha, um dos robos faz a consulha à sua base de dados para verficar ou que está acontecendo, entretraneto existe uma supresso na final. Sobre a tirinha e condições climáticas, julgue as alternativas a seguir e marque a opção perdadeira.",
+      "bbox": [
+        53,
+        125,
+        445,
+        210
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "(Tirinha extraida de www.institagram.com/robotinhas/)",
+      "bbox": [
+        55,
+        211,
+        378,
+        223
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "a) A presence de quemidas não influencia na ação dos robos, que por sua vez, posseu inteligência artificial e pode filtrar a fumaça que entra em seusystema respiratório.",
+      "bbox": [
+        83,
+        230,
+        446,
+        301
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "b) As quezmadas germaron augudo da poluicno devoos gases liberados que suntam aos而出os gases na atmofera para formar mais oxigenio eesso diminui o efeito do aqueamento global.",
+      "bbox": [
+        84,
+        303,
+        446,
+        388
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "c) As quemidas são bois para pessoas que tem problemas pulmonares, bois os gases e a提供优质 na queima",
+      "bbox": [
+        84,
+        389,
+        446,
+        432
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        230,
+        446,
+        432
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        474,
+        120,
+        705,
+        261
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        713,
+        120,
+        944,
+        261
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        474,
+        263,
+        705,
+        403
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        713,
+        264,
+        944,
+        403
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "image_caption",
+      "text": "#",
+      "bbox": [
+        474,
+        403,
+        521,
+        417
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "image_caption",
+      "text": "#",
+      "bbox": [
+        674,
+        403,
+        745,
+        418
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "@robotirinhas",
+      "bbox": [
+        850,
+        405,
+        941,
+        415
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "ajudam acurar asdoenças respiratorias graves como a asma.",
+      "bbox": [
+        83,
+        433,
+        614,
+        446
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "text",
+      "text": "d) O robo faz a consulata à sua base de informações é acha que as nuvens podem ser formadas por fumaça de quemidas, mas na verdade éaponas uma nuven de chuva.",
+      "bbox": [
+        83,
+        447,
+        942,
+        474
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "text",
+      "text": "Caso ro substé veste serra certa na sua prévia,企业和 fícariam preocupados, já que o aparehó respiratório dos dois roxbos fícaria compensamente com a fumaga das queimadas.",
+      "bbox": [
+        83,
+        476,
+        941,
+        504
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        447,
+        942,
+        504
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTAO 12",
+      "bbox": [
+        48,
+        531,
+        227,
+        550
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "text",
+      "text": "Leia a tirinha abaixo e responda a quostao.",
+      "bbox": [
+        245,
+        530,
+        595,
+        543
+      ]
+    },
+    {
+      "id": 167,
+      "page": 6,
+      "category": "text",
+      "text": "A maior dos produits feltos pela indústria tem um prazo de validade, eles não duram para sempre. Sabendo disso, é muito importante pensar em发展目标 para dar o fim de melhorar afewestismedas de maneira sustentavel.",
+      "bbox": [
+        53,
+        570,
+        502,
+        641
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "text",
+      "text": "(Tirinha estraia de www.Insstagram.com/robotinhas/)",
+      "bbox": [
+        55,
+        642,
+        375,
+        653
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "text",
+      "text": "Qual das alternativas abixo apareça uma solução para diminir o impacto ambiental e promover um consumo sustentavel de robés, carros关键字 e drônes?",
+      "bbox": [
+        53,
+        661,
+        502,
+        718
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "text",
+      "text": "a) Não utilizes recursos naturais renovaveis como fonte de energia principal para velocimentos de estender em air.",
+      "bbox": [
+        83,
+        730,
+        502,
+        771
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "text",
+      "text": "b) Buscar utilizes robos com carcaças mais duraves e软wares atualizaveis. Que sejam feltes preferencialmente com materiais biodegradaveis.",
+      "bbox": [
+        83,
+        774,
+        501,
+        830
+      ]
+    },
+    {
+      "id": 172,
+      "page": 6,
+      "category": "text",
+      "text": "c) Utilizar carros autonmos que consommen combustibileis fossels e libaram carbono na atmofera.",
+      "bbox": [
+        83,
+        832,
+        547,
+        858
+      ]
+    },
+    {
+      "id": 173,
+      "page": 6,
+      "category": "text",
+      "text": "d) Descentar todo o lixo eletronico gerado pelo uso de computadores, celulas e robos sem o devido descarte correto.",
+      "bbox": [
+        83,
+        860,
+        941,
+        887
+      ]
+    },
+    {
+      "id": 174,
+      "page": 6,
+      "category": "text",
+      "text": "e) Usar drones e veiculos terrestres autonomos para queimar florestas e extrair madeira sem a ação humana.",
+      "bbox": [
+        83,
+        890,
+        941,
+        916
+      ]
+    },
+    {
+      "id": 175,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        730,
+        941,
+        916
+      ]
+    },
+    {
+      "id": 176,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        532,
+        572,
+        728,
+        693
+      ]
+    },
+    {
+      "id": 177,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        734,
+        572,
+        931,
+        693
+      ]
+    },
+    {
+      "id": 178,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        532,
+        695,
+        728,
+        814
+      ]
+    },
+    {
+      "id": 179,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        734,
+        695,
+        931,
+        815
+      ]
+    },
+    {
+      "id": 180,
+      "page": 6,
+      "category": "image_caption",
+      "text": "#",
+      "bbox": [
+        533,
+        815,
+        572,
+        828
+      ]
+    },
+    {
+      "id": 181,
+      "page": 6,
+      "category": "text",
+      "text": "@robotirinhas",
+      "bbox": [
+        839,
+        816,
+        929,
+        827
+      ]
+    },
+    {
+      "id": 182,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        798,
+        926,
+        814,
+        941
+      ]
+    },
+    {
+      "id": 183,
+      "page": 6,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        443,
+        945,
+        530,
+        993
+      ]
+    }
+  ],
+  [
+    {
+      "id": 184,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTão 13",
+      "bbox": [
+        49,
+        99,
+        226,
+        119
+      ]
+    },
+    {
+      "id": 185,
+      "page": 7,
+      "category": "text",
+      "text": "Na fibrácia de celáurens R2PO um robô fo projetado e implementado para empíhar caixas uma em cima da outras. Estas caixas deem ser empílagadas de modo que as caixas mais pesadas querem em bixo e os mais leves querem em cima. Na lateralis das",
+      "bbox": [
+        243,
+        95,
+        946,
+        138
+      ]
+    },
+    {
+      "id": 186,
+      "page": 7,
+      "category": "text",
+      "text": "caixas há a identificacao do seu peso.",
+      "bbox": [
+        53,
+        139,
+        363,
+        152
+      ]
+    },
+    {
+      "id": 187,
+      "page": 7,
+      "category": "text",
+      "text": "Imagem extraia de https://www.tudocelular.com/technoticias/h139906/boston-dynamics-robo-conseque-empilhar-caixas.htm",
+      "bbox": [
+        53,
+        152,
+        806,
+        163
+      ]
+    },
+    {
+      "id": 188,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        58,
+        176,
+        481,
+        321
+      ]
+    },
+    {
+      "id": 189,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        484,
+        176,
+        580,
+        319
+      ]
+    },
+    {
+      "id": 190,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        600,
+        176,
+        698,
+        318
+      ]
+    },
+    {
+      "id": 191,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        711,
+        176,
+        811,
+        318
+      ]
+    },
+    {
+      "id": 192,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        831,
+        176,
+        931,
+        319
+      ]
+    },
+    {
+      "id": 193,
+      "page": 7,
+      "category": "text",
+      "text": "Observe a organizeación final dos 4 conjuntos de caixas empílladasleo robu naabela acima. Marque abixo a alternatively que aparece as pilhas que foram organizadas correntamente.",
+      "bbox": [
+        53,
+        334,
+        942,
+        362
+      ]
+    },
+    {
+      "id": 194,
+      "page": 7,
+      "category": "text",
+      "text": "a) Apenas a pilha 1 está correta.",
+      "bbox": [
+        82,
+        372,
+        357,
+        385
+      ]
+    },
+    {
+      "id": 195,
+      "page": 7,
+      "category": "text",
+      "text": "b) Apenas a pilha 4 está correta.",
+      "bbox": [
+        82,
+        386,
+        357,
+        399
+      ]
+    },
+    {
+      "id": 196,
+      "page": 7,
+      "category": "text",
+      "text": "c) As pilhas 3 e 4 estao corretas.",
+      "bbox": [
+        82,
+        401,
+        359,
+        414
+      ]
+    },
+    {
+      "id": 197,
+      "page": 7,
+      "category": "text",
+      "text": "d) As pilhas 1, 2, 3 está corre",
+      "bbox": [
+        82,
+        415,
+        343,
+        428
+      ]
+    },
+    {
+      "id": 198,
+      "page": 7,
+      "category": "text",
+      "text": "e) As pilhas 1, 2 e 4 está corretras.",
+      "bbox": [
+        82,
+        429,
+        379,
+        443
+      ]
+    },
+    {
+      "id": 199,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        372,
+        379,
+        443
+      ]
+    },
+    {
+      "id": 200,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        48,
+        459,
+        227,
+        479
+      ]
+    },
+    {
+      "id": 201,
+      "page": 7,
+      "category": "title",
+      "text": "Complete as lacunas no texto com as palavras adequadas.",
+      "bbox": [
+        53,
+        500,
+        562,
+        514
+      ]
+    },
+    {
+      "id": 202,
+      "page": 7,
+      "category": "text",
+      "text": "“Isaac é um robô muito importante pelo esquão. Yourião se inclui atravesse de um instrumento chamado _______ que o permiço ver os astros eiros celestes. Para des要考虑ismento, você ja podia ver o satellite natural da Terra e a estrela do Sistema solar, nomeados e _______ respectively. Muito o que hei Intriguira, foram coisas como—as _______ formadas pelo movimento dos planetas e você havia em planetas como _______.”",
+      "bbox": [
+        53,
+        521,
+        777,
+        606
+      ]
+    },
+    {
+      "id": 203,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        807,
+        505,
+        920,
+        622
+      ]
+    },
+    {
+      "id": 204,
+      "page": 7,
+      "category": "text",
+      "text": "a) Estetoscópio - Lua - Sol - Curvas - Marte.",
+      "bbox": [
+        82,
+        616,
+        449,
+        629
+      ]
+    },
+    {
+      "id": 205,
+      "page": 7,
+      "category": "text",
+      "text": "b) Telescópio - Hubble - Sol - Orbitas - Orio.",
+      "bbox": [
+        82,
+        630,
+        449,
+        643
+      ]
+    },
+    {
+      "id": 206,
+      "page": 7,
+      "category": "text",
+      "text": "c) Luneta - Lua - Sol - Trajetórias - Alpha Centauri.",
+      "bbox": [
+        82,
+        644,
+        501,
+        658
+      ]
+    },
+    {
+      "id": 207,
+      "page": 7,
+      "category": "text",
+      "text": "d) Telescópio - Lua - Sol - Orbitas - Marte.",
+      "bbox": [
+        82,
+        659,
+        434,
+        672
+      ]
+    },
+    {
+      "id": 208,
+      "page": 7,
+      "category": "text",
+      "text": "e) Luneta - Lua - Sol - Orbitas - Alpha Centauri.",
+      "bbox": [
+        82,
+        673,
+        474,
+        687
+      ]
+    },
+    {
+      "id": 209,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        616,
+        501,
+        687
+      ]
+    },
+    {
+      "id": 210,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTAO 15",
+      "bbox": [
+        48,
+        711,
+        226,
+        730
+      ]
+    },
+    {
+      "id": 211,
+      "page": 7,
+      "category": "text",
+      "text": "Douglas é um garoito muito curioso queadora brincar de desmontar e montar. Eu está quando transformar seu carrinho de controle remoto em um",
+      "bbox": [
+        244,
+        711,
+        665,
+        753
+      ]
+    },
+    {
+      "id": 212,
+      "page": 7,
+      "category": "text",
+      "text": "carrinho autônomo, que consigo se locomover sem a necessidade do controle e que não bata em outros objetivos. Para也是如此 escaçar escolher algumas peças que ajudes o seu carrinho a saber o que avengece no ambiente externo. Qual(s) das seguides peças pode(m) fazer o carrinho de Douglas?",
+      "bbox": [
+        53,
+        755,
+        665,
+        826
+      ]
+    },
+    {
+      "id": 213,
+      "page": 7,
+      "category": "text",
+      "text": "(Imagem adaplada de www.freepik.com)",
+      "bbox": [
+        54,
+        826,
+        296,
+        837
+      ]
+    },
+    {
+      "id": 214,
+      "page": 7,
+      "category": "text",
+      "text": "a) Rodas",
+      "bbox": [
+        82,
+        848,
+        170,
+        861
+      ]
+    },
+    {
+      "id": 215,
+      "page": 7,
+      "category": "text",
+      "text": "b) Sensor de toque",
+      "bbox": [
+        82,
+        862,
+        249,
+        876
+      ]
+    },
+    {
+      "id": 216,
+      "page": 7,
+      "category": "text",
+      "text": "c) Fios.",
+      "bbox": [
+        82,
+        877,
+        156,
+        890
+      ]
+    },
+    {
+      "id": 217,
+      "page": 7,
+      "category": "text",
+      "text": "d) Motores",
+      "bbox": [
+        82,
+        891,
+        182,
+        904
+      ]
+    },
+    {
+      "id": 218,
+      "page": 7,
+      "category": "text",
+      "text": "e) Sensor ultrassónico",
+      "bbox": [
+        82,
+        906,
+        275,
+        920
+      ]
+    },
+    {
+      "id": 219,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        848,
+        275,
+        920
+      ]
+    },
+    {
+      "id": 220,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        674,
+        704,
+        968,
+        872
+      ]
+    },
+    {
+      "id": 221,
+      "page": 7,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        531,
+        993
+      ]
+    },
+    {
+      "id": 222,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        809,
+        956,
+        827,
+        971
+      ]
+    }
+  ]
+]

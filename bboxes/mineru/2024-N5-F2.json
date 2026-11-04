@@ -1,0 +1,4162 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "OBR",
+      "bbox": [
+        65,
+        53,
+        201,
+        142
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "MODALIDADE TEORICA",
+      "bbox": [
+        215,
+        70,
+        911,
+        120
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "NIVEL 5 - FASE 1 - ENSINO MÉDIO E TÉCNICO",
+      "bbox": [
+        189,
+        187,
+        812,
+        213
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "PROVA",
+      "bbox": [
+        310,
+        313,
+        693,
+        379
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "FASE 2",
+      "bbox": [
+        312,
+        404,
+        688,
+        474
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        290,
+        547,
+        713,
+        570
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        111,
+        582,
+        294,
+        598
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- España prova content 13 páginas e 20征求意见;",
+      "bbox": [
+        112,
+        608,
+        518,
+        625
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 4 horas;",
+      "bbox": [
+        112,
+        635,
+        361,
+        652
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        112,
+        662,
+        463,
+        679
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        112,
+        688,
+        597,
+        705
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        112,
+        715,
+        501,
+        731
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        112,
+        608,
+        597,
+        731
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "footer",
+      "text": "Organização",
+      "bbox": [
+        134,
+        796,
+        203,
+        808
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        136,
+        814,
+        163,
+        838
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "footer",
+      "text": "INSTITUTOFEDERAL",
+      "bbox": [
+        165,
+        825,
+        259,
+        833
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "footer",
+      "text": "Mina Czarekdo Nierke",
+      "bbox": [
+        165,
+        833,
+        236,
+        839
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "footer",
+      "text": "Apoio",
+      "bbox": [
+        283,
+        797,
+        317,
+        807
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "footer",
+      "text": "T",
+      "bbox": [
+        284,
+        814,
+        345,
+        838
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "footer",
+      "text": "UERN",
+      "bbox": [
+        368,
+        816,
+        451,
+        836
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "footer",
+      "text": "SESI",
+      "bbox": [
+        477,
+        816,
+        562,
+        838
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        587,
+        810,
+        632,
+        843
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "footer",
+      "text": "Ufms",
+      "bbox": [
+        657,
+        809,
+        696,
+        843
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        717,
+        810,
+        745,
+        838
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        748,
+        814,
+        853,
+        822
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "footer",
+      "text": "图1",
+      "bbox": [
+        748,
+        823,
+        778,
+        830
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "footer",
+      "text": "Camassa Cysta",
+      "bbox": [
+        748,
+        830,
+        813,
+        838
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        136,
+        862,
+        166,
+        884
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "footer",
+      "text": "RoboCup",
+      "bbox": [
+        169,
+        862,
+        260,
+        882
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "footer",
+      "text": "Cup",
+      "bbox": [
+        284,
+        856,
+        349,
+        885
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "footer",
+      "text": "MIND",
+      "bbox": [
+        365,
+        852,
+        410,
+        885
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        425,
+        860,
+        463,
+        884
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "footer",
+      "text": "CIMCPII（国际金融）  \n国际货币基金组织  \n国际货币基金组织",
+      "bbox": [
+        466,
+        860,
+        515,
+        884
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "footer",
+      "text": "Q",
+      "bbox": [
+        541,
+        862,
+        570,
+        884
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "footer",
+      "text": "CNPq",
+      "bbox": [
+        571,
+        867,
+        635,
+        884
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "footer",
+      "text": "Patrocinio",
+      "bbox": [
+        637,
+        851,
+        693,
+        861
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "footer",
+      "text": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1",
+      "bbox": [
+        656,
+        870,
+        729,
+        884
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "footer",
+      "text": "本报告版权归华泰证券所有。  \n证券简称：华泰证券证券代码：600366",
+      "bbox": [
+        742,
+        863,
+        810,
+        889
+      ]
+    }
+  ],
+  [
+    {
+      "id": 38,
+      "page": 1,
+      "category": "header",
+      "text": "Questão 1",
+      "bbox": [
+        85,
+        44,
+        238,
+        69
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "title",
+      "text": "Impact of robotics competition in student engagement and learning",
+      "bbox": [
+        77,
+        86,
+        748,
+        105
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Robotics competitions offer a multifaceted approach to student engagement and learning, combining STEM education with teamwork, problem-solving, and real-world application. They inspire students, foster important life skills, and contribute to the development of a skilled and motivated workforce for the future.",
+      "bbox": [
+        75,
+        123,
+        901,
+        196
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "Robotics competitions have had a significant impact on student engagement and learning, fostering a range of positive outcomes. Here are some of the impacts: Increased Engagement: Robotics competitions are inherently exciting and hands-on, capturing students' interest and enthusiasm. Participants are motivated to design, build, and program robots to complete specific tasks or challenges. This engagement extends beyond the competition and often leads to a deeper interest in STEM (Science, Technology, Engineering, and Mathematics) fields.",
+      "bbox": [
+        75,
+        213,
+        909,
+        356
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "Teamwork and Collaboration: Robotics competitions emphasize teamwork, as students work in groups to build and refine their robots. Collaborative problem-solving and effective communication are essential for success. These experiences teach students valuable interpersonal skills that extend beyond robotics.",
+      "bbox": [
+        75,
+        359,
+        911,
+        442
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "Hands-On Learning: Participants gain practical, hands-on experience in various aspects of robotics, including mechanical engineering, electronics, programming, and problem-solving. This applied learning enhances their understanding of complex STEM concepts and helps them apply classroom knowledge in real-world contexts.",
+      "bbox": [
+        75,
+        445,
+        915,
+        527
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "Critical Thinking and Problem Solving: Robotics competitions present participants with complex challenges that require critical thinking and creative problem-solving.",
+      "bbox": [
+        75,
+        530,
+        907,
+        571
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "Students learn to analyze problems, develop solutions, and iterate on their designs to improve robot performance. These skills are transferable to a wide range of academic and professional settings.",
+      "bbox": [
+        75,
+        573,
+        898,
+        635
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "In conclusion, robotics competitions are a valuable educational tool that can help to improve student engagement, learning, and achievement. They provide students with a hands-on, real-world learning experience that motivates them to learn about STEM subjects and develop essential 21st century skills.",
+      "bbox": [
+        75,
+        653,
+        911,
+        725
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "Font: https://medium.com/@creptieschool/impact-of-robotics-competition-in-student-engagement-and-learning-37c871be4967",
+      "bbox": [
+        75,
+        729,
+        871,
+        742
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "Considering the text presented here, choose the correct alternative that presents one of the main benefits of participating in robotics competitions according to the text:",
+      "bbox": [
+        75,
+        745,
+        918,
+        780
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "Students who take part in robotics competitions focus on theoretical knowledge of robotics, with few opportunities for practical activities.",
+      "bbox": [
+        75,
+        788,
+        918,
+        831
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "Participating in robotics competitions improves various aspects of the student, allowing practical activities to be carried out, with hand-on experiences in a variety of fields, including STEM fields.",
+      "bbox": [
+        75,
+        839,
+        900,
+        901
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "Students develop critical thinking, being encouraged to develop their robotics and programming skills individually, without the need to collaborate with other team",
+      "bbox": [
+        75,
+        909,
+        910,
+        952
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        75,
+        788,
+        918,
+        952
+      ]
+    }
+  ],
+  [
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "members.",
+      "bbox": [
+        78,
+        38,
+        177,
+        53
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "Students who take part in robotics competitions lose interest in other fields, such as arts, mathematics, among others, limiting his interests to robotics.",
+      "bbox": [
+        76,
+        61,
+        905,
+        104
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "All robotics competitions aim to combine programming with electronics, enabling the students to choose any area to work in the future, due to its interdisciplinary nature.",
+      "bbox": [
+        76,
+        110,
+        905,
+        175
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        76,
+        61,
+        905,
+        175
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "title",
+      "text": "Questão 2",
+      "bbox": [
+        86,
+        214,
+        238,
+        239
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "Consider the sentence below.",
+      "bbox": [
+        78,
+        256,
+        366,
+        272
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "Robotics competitions have had a significant impact on student engagement and learning, fostering a range of positive outcomes.",
+      "bbox": [
+        78,
+        274,
+        851,
+        308
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "Which of the following words can correctly replace the word OUTCOMES while maintaining the same meaning?",
+      "bbox": [
+        78,
+        310,
+        846,
+        346
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        80,
+        353,
+        122,
+        380
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "Exits",
+      "bbox": [
+        129,
+        358,
+        179,
+        374
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        382,
+        122,
+        407
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "Existences",
+      "bbox": [
+        129,
+        386,
+        233,
+        402
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        410,
+        122,
+        436
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "Results",
+      "bbox": [
+        129,
+        414,
+        204,
+        430
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        438,
+        122,
+        464
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "Periods",
+      "bbox": [
+        129,
+        442,
+        204,
+        458
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        468,
+        122,
+        493
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "text",
+      "text": "Registration",
+      "bbox": [
+        129,
+        471,
+        247,
+        488
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "title",
+      "text": "Questão 3",
+      "bbox": [
+        86,
+        527,
+        238,
+        552
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Consider the sentence below. What is the word MULTIFACeted?",
+      "bbox": [
+        78,
+        568,
+        714,
+        584
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "Robotics competitions offer a multifaceted approach to student engagement and learning, combining STEM education with teamwork, problem-solving, and real-world application.",
+      "bbox": [
+        78,
+        587,
+        903,
+        640
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        80,
+        648,
+        122,
+        675
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "verb",
+      "bbox": [
+        129,
+        654,
+        174,
+        668
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        678,
+        122,
+        704
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "noun",
+      "bbox": [
+        129,
+        683,
+        179,
+        697
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        705,
+        122,
+        731
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "text",
+      "text": "adjective",
+      "bbox": [
+        129,
+        709,
+        216,
+        726
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        732,
+        122,
+        758
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "text",
+      "text": "pronoun",
+      "bbox": [
+        129,
+        739,
+        211,
+        754
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        81,
+        761,
+        122,
+        788
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "article",
+      "bbox": [
+        129,
+        767,
+        191,
+        781
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "title",
+      "text": "Questão 4",
+      "bbox": [
+        86,
+        821,
+        238,
+        846
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "Umepaqueestahasanalisando differentestipodocoskotoboticaparautilizaruma competicaoofobototica.ElesencontraramoskatisA,Bce,C,eiramnaota dos fabricantesaseguintesespecicacoes:",
+      "bbox": [
+        78,
+        863,
+        886,
+        916
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "- Kit A: Consome 6% da bateria por hora de uso",
+      "bbox": [
+        81,
+        918,
+        538,
+        935
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "- Kit B: Consome \\(8 \\%\\) da bateria nas primeiras两大as horas de uso e \\(5 \\%\\) a cada hora",
+      "bbox": [
+        81,
+        937,
+        862,
+        953
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        81,
+        918,
+        862,
+        953
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "page_number",
+      "text": "Pagina 3",
+      "bbox": [
+        453,
+        962,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": "seguinete",
+      "bbox": [
+        78,
+        36,
+        168,
+        52
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "-Kit C: Consome \\(0.1\\%\\) da bateria por minuto de uso",
+      "bbox": [
+        78,
+        53,
+        581,
+        71
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "Caso robó não fique ligado por una hora inteira, ele consumirá a bateria proporcionalmente ao tempo de uso.",
+      "bbox": [
+        76,
+        90,
+        787,
+        125
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "Esre robódeferá ficar ligado direto por 5 horas e 12 minutos na competência.",
+      "bbox": [
+        76,
+        125,
+        812,
+        144
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "Considere as seguintes affirmacoes:",
+      "bbox": [
+        78,
+        162,
+        421,
+        180
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "I: Na primeira hora de uso dos tres kits, o kit que consumirá mais bateria é o kit C.",
+      "bbox": [
+        78,
+        180,
+        855,
+        197
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "II: O kit A e C sempre consumirá a mesma quantidade de bateria, independente do tempo em que o robó ficará ligado.",
+      "bbox": [
+        78,
+        198,
+        876,
+        234
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "III: Nesta competência, o kit que consumirá menos bateriaí é o kit B.",
+      "bbox": [
+        78,
+        234,
+        706,
+        252
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "IV: Não é possível saber qual kit consumirá menos bateria na competência.",
+      "bbox": [
+        78,
+        252,
+        779,
+        270
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "V: Independente do tempo de uso, o kit B sempre consumirá mais do que os kits A e C.",
+      "bbox": [
+        78,
+        271,
+        905,
+        290
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "text",
+      "text": "Quais das affirmativas abaixo são verdadeiras?",
+      "bbox": [
+        78,
+        307,
+        526,
+        325
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "A I e l l",
+      "bbox": [
+        78,
+        332,
+        182,
+        357
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "B II",
+      "bbox": [
+        78,
+        363,
+        144,
+        385
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "C IV",
+      "bbox": [
+        78,
+        389,
+        154,
+        411
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "D I e l l",
+      "bbox": [
+        78,
+        418,
+        178,
+        441
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "E IeV",
+      "bbox": [
+        78,
+        446,
+        177,
+        465
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        332,
+        182,
+        465
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "title",
+      "text": "Questão 5",
+      "bbox": [
+        85,
+        506,
+        241,
+        531
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "text",
+      "text": "Uma loja de equipamentos electrónicos participou como patrocinadora da OBR 2024, levando um kit composto por senores [luz, ultrasonico, toque, aceleròmetro, giroscipó, entre outros] para serem vendidos para os competentes.",
+      "bbox": [
+        76,
+        546,
+        884,
+        601
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "No primo dia de competência, cada kit custaré RS360.00. No segundo dia de competência, para acelerar as vendas, a loja decide fazer o mesmo preco, mas o kit tera 8 senores a maior do que o kit vendido no primo dia. Com istso, o preco unitário de cada sensor do segundo dia sera RS16,00 a menos do que o valor unitário de cada sensor no primo dia.",
+      "bbox": [
+        76,
+        602,
+        901,
+        691
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "Com estas informations, quantos sensores content o kit vendido no primeiro dia da competicao?",
+      "bbox": [
+        76,
+        693,
+        869,
+        729
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "A 6",
+      "bbox": [
+        78,
+        735,
+        147,
+        760
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "B 7",
+      "bbox": [
+        78,
+        766,
+        145,
+        786
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "C 8",
+      "bbox": [
+        78,
+        794,
+        145,
+        814
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "D 9",
+      "bbox": [
+        78,
+        823,
+        145,
+        843
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "E 10",
+      "bbox": [
+        78,
+        850,
+        157,
+        870
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        735,
+        157,
+        870
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "title",
+      "text": "Questão 6",
+      "bbox": [
+        85,
+        909,
+        241,
+        935
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "page_number",
+      "text": "Pagina 4",
+      "bbox": [
+        454,
+        962,
+        543,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 119,
+      "page": 4,
+      "category": "text",
+      "text": "O Dolphin é um robó'utilizzato para limpar piscinas. Considere que elé limpa uma piscina quadrada que tem uma area de \\(400~\\mathrm{m}^2\\) e se move a uma velocidade de \\(12~\\mathrm{m / s}\\). O robó aspirador foci comprado para limpar uma calçaça em torno da piscina, que también é quadrada e possuça uma largura constante de \\(5\\mathrm{m}\\). O robó aspirador se move a uma velocidade de \\(25~\\mathrm{m / s}\\).",
+      "bbox": [
+        76,
+        35,
+        907,
+        123
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        130,
+        453,
+        384
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        93,
+        399,
+        648,
+        620
+      ]
+    }
+  ],
+  [
+    {
+      "id": 122,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        109,
+        48,
+        752,
+        380
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "Fonte:",
+      "bbox": [
+        78,
+        408,
+        124,
+        420
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "https://img. archiexpo.com/pt/images_ae/photo-mg/161041-13813183.jpg",
+      "bbox": [
+        78,
+        427,
+        538,
+        440
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "text",
+      "text": "https://s2-techtudo.glbimg.com/fNn-",
+      "bbox": [
+        79,
+        444,
+        309,
+        457
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "cdCQACRU6TGOhS4T1d31zl=1/200x/smart/filters:cover(1:strip_1cc|1/s3.glbimg.com/v1/UTH_08fbf48bc0524877943fe86e43087e7a/internal_phot",
+      "bbox": [
+        78,
+        462,
+        1000,
+        475
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "aspirador-com-mop.jpg",
+      "bbox": [
+        79,
+        482,
+        228,
+        494
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "https://qcon-assetss-production.s3.amazonaws.com/images/provas/101194/Captura_de%20Tela%20%283510%29.png",
+      "bbox": [
+        78,
+        499,
+        815,
+        512
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "Qual dos bois robos irá finalizar a limpeza primo?",
+      "bbox": [
+        78,
+        514,
+        581,
+        531
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "A O robó da piscina finaliza primaryo.",
+      "bbox": [
+        80,
+        540,
+        462,
+        563
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "B O rob da calca finaliza primeiro.",
+      "bbox": [
+        80,
+        569,
+        467,
+        591
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "Ambos finalizam ao mesmo tempo.",
+      "bbox": [
+        80,
+        597,
+        465,
+        620
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "O robó da piscina leva menos de 30 seguidos.",
+      "bbox": [
+        80,
+        624,
+        572,
+        646
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "O robó da calçada leva mai de 25 segundos.",
+      "bbox": [
+        80,
+        652,
+        562,
+        675
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        540,
+        572,
+        675
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "title",
+      "text": "Questão 7",
+      "bbox": [
+        85,
+        712,
+        238,
+        736
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "Robos precisam de pihas ou baterias para funecem. Uma和个人a é uma CELLa descarvalte que se torna inutil quando a elétricida ne armazenada se esgata, não pode ser recarregada (ou seja, não é possevel acumular.nela novamente a energia elétrica). O seu opposing são baterias, ou seja, as celulas com o tempo de vida de varías centenas a varíos milhares de cílicos de cargo -descarga.",
+      "bbox": [
+        75,
+        753,
+        895,
+        843
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "As pilhas de prata foram inventadas no final do século XX, mas a producao en massa se的成长ou nosanos sessaentso do século XX. São frequentlynesteadesignadas com pilhas de oxido de prata ou de prata-zinco. As pilhas de prata são帮助企业 para utilização em dispositivos sensiveis a mudanças de tensao de alimentacao, exigindo a sua estadidade, por example, em instrumentos de medicacao.",
+      "bbox": [
+        75,
+        845,
+        902,
+        934
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "A durabilitadedeuna pilha de pratae de circa de 2 anos.Os seudefeitos sérios",
+      "bbox": [
+        76,
+        936,
+        867,
+        953
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "page_number",
+      "text": "Pagina 6",
+      "bbox": [
+        454,
+        963,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 141,
+      "page": 6,
+      "category": "text",
+      "text": "incluem o fato de o zinco estar suejo a corsoamento no eletrilto alcalino causando a degradacao da pilha. Por consiguito, delve ter-se en conta que na maior das vezes antes deerca de 5 anos começo a fazer, constituiendo, ao mesmo tempo, uma ameaça para o ambiente.",
+      "bbox": [
+        75,
+        35,
+        896,
+        105
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "text",
+      "text": "As semireações descriças a seguir ilustram o que ocurre em uma pilha de oxido de prata.",
+      "bbox": [
+        75,
+        108,
+        872,
+        141
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "text",
+      "text": "Zn (s) + OH- (aq) ZnO (s) + H2O (l) + e-",
+      "bbox": [
+        76,
+        143,
+        479,
+        160
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "text",
+      "text": "Ag2O (s) + H2O (l) + e- Ag (s) + OH- (aq)",
+      "bbox": [
+        76,
+        162,
+        495,
+        180
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "text",
+      "text": "Fonte:",
+      "bbox": [
+        78,
+        184,
+        124,
+        195
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "text",
+      "text": "https://www.tme.com/br/prn/news/library/articles/page/40692/Pilhas-de-lito-alcalinas-de-prata-e-outras-quisso-os-lipos-de-pilhas/ INEP- ENEM",
+      "bbox": [
+        75,
+        202,
+        918,
+        232
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "text",
+      "text": "Com base no texto sobre robos e pilas, que discute a frequência das pilhas e das baterias, bem como as caracteristicas das pilhas de prata, pode-se affirmar que:",
+      "bbox": [
+        75,
+        235,
+        911,
+        270
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "As pilhas de prata poder ser recarregadas varias vezes.",
+      "bbox": [
+        80,
+        281,
+        667,
+        302
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "As pilhas de proata tem uma durabitidade media de circa de 5 anos antes de会展ar a viszar.",
+      "bbox": [
+        79,
+        309,
+        852,
+        347
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "O zinco nas piñahs de prata para做不到 no electrólito alcalino, prerudicando a duradibida da piñahs.",
+      "bbox": [
+        78,
+        356,
+        867,
+        397
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "As pilhas de prata são realizadas principalmente en dispositivos que não necessitam de estadística na tensão de alimentação.",
+      "bbox": [
+        78,
+        407,
+        822,
+        448
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "A producao em massa das pilhas de prata comeou no final do século XIX.",
+      "bbox": [
+        78,
+        456,
+        835,
+        480
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        281,
+        867,
+        480
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "title",
+      "text": "Questão 8",
+      "bbox": [
+        85,
+        515,
+        238,
+        539
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "title",
+      "text": "Os robos KUKA, para aplicaciones Médicas, tornam o CyberKnife® una ferramenta eficaz no tratamento de tumores",
+      "bbox": [
+        75,
+        556,
+        881,
+        592
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "O bisturi virtual, maisencionado como CyberKnife®, é uma alternativa à radioterapia convençional. “Utilizamos oSYSTEMA para realizar radiosurgiê, ou seja, tratamento com radiação no mais alto nível de precisão. Atrasveia da intensação de umsystema de orientação de imagem com a robotática, obtémos precisão de radiação menor que um milimetro”, explicá o Prof. Dr. Alexander Mucevic, radiocirrigação e neurocirugião no CyberKnife Zentrum München.",
+      "bbox": [
+        75,
+        594,
+        911,
+        701
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "As principales ideias para o equipoamento surgiram na Universidade de Stanford, dos EUA, em 1987. OPrimeirosysteme comercial foustelabeccioLa em 2001, em que um robó KUKA integrado ja esta em uso naquela ocasião. Na epoca, a maioria dos fabricantes de robos relutant em uso suas sistemas em pacientes.",
+      "bbox": [
+        75,
+        703,
+        895,
+        773
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "Em Múnique, a terceira germão do bisturi virtual não está em uso. \"De了很久, poderemos realizar aromação de preciso, Guidances por robés e imagens, em tumores por todo o corpo – desde o cérebre, atraves de colá这笔rolé e de outras orgados do corpo como pulso, fingado ou rim, até a pristata\", enfatiza o Prof. Alexander Muacevic.",
+      "bbox": [
+        75,
+        775,
+        914,
+        848
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "page_number",
+      "text": "Pagina 7",
+      "bbox": [
+        454,
+        962,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 160,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        40,
+        735,
+        293
+      ]
+    },
+    {
+      "id": 161,
+      "page": 7,
+      "category": "text",
+      "text": "Fonte: https://www.kuka.com/pt-br/ramos-de-atividado/banco-de-dados-de",
+      "bbox": [
+        77,
+        304,
+        553,
+        318
+      ]
+    },
+    {
+      "id": 162,
+      "page": 7,
+      "category": "text",
+      "text": "solu%C3%A7%C3%B5es/2020/02/cyberknife#:text=Os%20rob%C3%B4s%20KUKA%2C%20para%20aplica%C3%A7%C3%B5es,uma%20alternat",
+      "bbox": [
+        77,
+        321,
+        1000,
+        335
+      ]
+    },
+    {
+      "id": 163,
+      "page": 7,
+      "category": "text",
+      "text": "Com base no txtelo sobre o CyberKnife® e sua aplicacao em radiocirurgia, pode-se affirmar que:",
+      "bbox": [
+        77,
+        337,
+        865,
+        374
+      ]
+    },
+    {
+      "id": 164,
+      "page": 7,
+      "category": "text",
+      "text": "O CyberKnife® foi%Xenvolvido na Universidade de Munique e se tourn oPrimeiraestruturacomdico do mundo.",
+      "bbox": [
+        78,
+        398,
+        842,
+        442
+      ]
+    },
+    {
+      "id": 165,
+      "page": 7,
+      "category": "text",
+      "text": "O Sistema utilize a integrazione di robotica e orientazione de imagem para.Ofere tratamenti de radiocirurgia con precisione inferior a um milimetro.",
+      "bbox": [
+        78,
+        449,
+        888,
+        491
+      ]
+    },
+    {
+      "id": 166,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        498,
+        120,
+        525
+      ]
+    },
+    {
+      "id": 167,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        498,
+        120,
+        525
+      ]
+    },
+    {
+      "id": 168,
+      "page": 7,
+      "category": "text",
+      "text": "não",
+      "bbox": [
+        78,
+        525,
+        120,
+        541
+      ]
+    },
+    {
+      "id": 169,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        548,
+        120,
+        574
+      ]
+    },
+    {
+      "id": 170,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        525,
+        120,
+        574
+      ]
+    },
+    {
+      "id": 171,
+      "page": 7,
+      "category": "text",
+      "text": "paci",
+      "bbox": [
+        78,
+        574,
+        120,
+        590
+      ]
+    },
+    {
+      "id": 172,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        597,
+        120,
+        623
+      ]
+    },
+    {
+      "id": 173,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        574,
+        120,
+        623
+      ]
+    },
+    {
+      "id": 174,
+      "page": 7,
+      "category": "text",
+      "text": "Cyb",
+      "bbox": [
+        78,
+        623,
+        120,
+        639
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "title",
+      "text": "Questão 9",
+      "bbox": [
+        86,
+        679,
+        238,
+        704
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "text",
+      "text": "O impacto da robética e da inteligência artificial no futuro do empacho naindustry A automação industriala vivna uma nova revoluição que reinventa emporços no setor.",
+      "bbox": [
+        78,
+        719,
+        900,
+        756
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "text",
+      "text": "\"Apesar do que acredita, todo avanco Tecnologico é gerador de empecgo no Campo industrial. A robotica amplamente estendinha na areas de automotivos, química ou manufactura, ajudou a melhorar os processos e permitui o crescimento e expansão de um grande número de organizações, ou que leva diretramente a maior empessoo é melhorquality\", affirmá Ana Carolina Rezende, Manager na divisão de Engenharia na Robert Walters Brasil.",
+      "bbox": [
+        78,
+        758,
+        909,
+        864
+      ]
+    },
+    {
+      "id": 178,
+      "page": 7,
+      "category": "text",
+      "text": "Muito dispositivos robéticos não possuem energia artificial integra para a melhoria dos processos industriais. Por exemplo, em uma LINHA de montagem, a IA é capaz de analisar e fazer decisões antes mesmo de oc corner um problema ou imprevisto. Por isso, esta Tecnologia é uma aliada perfeita em termos de segurar na industrialia.",
+      "bbox": [
+        78,
+        866,
+        900,
+        956
+      ]
+    },
+    {
+      "id": 179,
+      "page": 7,
+      "category": "page_number",
+      "text": "Pagina 8",
+      "bbox": [
+        454,
+        962,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 180,
+      "page": 8,
+      "category": "text",
+      "text": "Alem disse, a Ia não se capaz de fazer na fabricação em si, mas são permitte que a caedie de suprimados soit automatizada para fazer sua eficácia e eficiência para meio de analise predativa ou optimização de transporte.",
+      "bbox": [
+        76,
+        35,
+        905,
+        88
+      ]
+    },
+    {
+      "id": 181,
+      "page": 8,
+      "category": "text",
+      "text": "Fonte: https://www. robertwalrs.com.brfinsights/conselhos-de-contrataco/blog/o-impacto-da-robotica-e-ia-no-futuro-da",
+      "bbox": [
+        76,
+        92,
+        844,
+        105
+      ]
+    },
+    {
+      "id": 182,
+      "page": 8,
+      "category": "text",
+      "text": "industria.html",
+      "bbox": [
+        78,
+        111,
+        171,
+        123
+      ]
+    },
+    {
+      "id": 183,
+      "page": 8,
+      "category": "text",
+      "text": "Sobre o impacto do lavoro de Tecnologia nas indústrias,analise as affirmativas abaixo:",
+      "bbox": [
+        76,
+        125,
+        844,
+        159
+      ]
+    },
+    {
+      "id": 184,
+      "page": 8,
+      "category": "text",
+      "text": "I- A automação industrial é responsavel por eliminar empregos no setor industrial.",
+      "bbox": [
+        76,
+        162,
+        864,
+        179
+      ]
+    },
+    {
+      "id": 185,
+      "page": 8,
+      "category": "text",
+      "text": "II- A rozbáctica na indústria tem contribuído para o crescimento e expansão de organizações, gerando mais emporgos.",
+      "bbox": [
+        76,
+        180,
+        807,
+        215
+      ]
+    },
+    {
+      "id": 186,
+      "page": 8,
+      "category": "text",
+      "text": "III- Dispositivos robéticos con inteligência artificial pode prever problemas em linhas de montagem antes que eles ocrram.",
+      "bbox": [
+        76,
+        217,
+        908,
+        251
+      ]
+    },
+    {
+      "id": 187,
+      "page": 8,
+      "category": "text",
+      "text": "IV-A integrigencia artificial na industria nao tem impacto na seguranca dos processos.",
+      "bbox": [
+        76,
+        253,
+        889,
+        269
+      ]
+    },
+    {
+      "id": 188,
+      "page": 8,
+      "category": "text",
+      "text": "V - A analyse predita e a orientacao de transporte são beneficiais proporcionados pela integração da inteligência artificial na cadea de suprimados.",
+      "bbox": [
+        76,
+        271,
+        904,
+        306
+      ]
+    },
+    {
+      "id": 189,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        76,
+        162,
+        908,
+        306
+      ]
+    },
+    {
+      "id": 190,
+      "page": 8,
+      "category": "text",
+      "text": "Quais das alternativas acima sao verdadeiras?",
+      "bbox": [
+        78,
+        308,
+        522,
+        323
+      ]
+    },
+    {
+      "id": 191,
+      "page": 8,
+      "category": "text",
+      "text": "A I,II e III",
+      "bbox": [
+        80,
+        332,
+        201,
+        359
+      ]
+    },
+    {
+      "id": 192,
+      "page": 8,
+      "category": "text",
+      "text": "B II, III e V",
+      "bbox": [
+        79,
+        363,
+        209,
+        384
+      ]
+    },
+    {
+      "id": 193,
+      "page": 8,
+      "category": "text",
+      "text": "C I, IV e V",
+      "bbox": [
+        79,
+        389,
+        206,
+        413
+      ]
+    },
+    {
+      "id": 194,
+      "page": 8,
+      "category": "text",
+      "text": "D III e IV",
+      "bbox": [
+        79,
+        418,
+        192,
+        441
+      ]
+    },
+    {
+      "id": 195,
+      "page": 8,
+      "category": "text",
+      "text": "E Todas as alternativas são corretas",
+      "bbox": [
+        79,
+        447,
+        455,
+        470
+      ]
+    },
+    {
+      "id": 196,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        332,
+        455,
+        470
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "title",
+      "text": "Questão 10",
+      "bbox": [
+        85,
+        506,
+        256,
+        530
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "text",
+      "text": "A reciclagem dos bens de consumo electrónicos exerce um papel essential para uma economia circular sustentarével. Contudo, a reciclagem deixo electrónico pode ser prejudicial à Saúde humana, por isto é um Campo de aplicação ideal para a robotária e automação. A Empresa irlandesa de Tecnologia Votechnik desenvuve uma instalação com um KR QUANTEC, que女主把这些 desafços.",
+      "bbox": [
+        76,
+        547,
+        903,
+        637
+      ]
+    },
+    {
+      "id": 199,
+      "page": 8,
+      "category": "text",
+      "text": "Atrasve das exaustão dos gasses perigosos e da remoção de Componentes com Santos vivos, como lâmpadas fluorescentes e monitores, a CSLA não apenas elimina os riscos para o homem, mas quando combate o aumento do montanhas de lixoétrico. No passado, muitos destes Produtos foram descartados em atterros sanitários, quando que o mércio pode infiltrar-se no solo e na和个人. Se o mércio, que está nas lâmpadas de descarga de gós dos apareiros,entrar na区内 alimentar,isoqueca fazer efeitos neuromusculares e falhas cognitivas. Em um teletvisor típico de 40 pôlegadas poder ser发展机遇adas para 18 m de lâmpadas finas com mércio.",
+      "bbox": [
+        76,
+        639,
+        907,
+        782
+      ]
+    },
+    {
+      "id": 200,
+      "page": 8,
+      "category": "text",
+      "text": "\"Esta area é uma aplicação ideal para a robética. As às你在as não agredidas dos produits químicos, principalmente quando está preparadas correamente para isso\", enfatiza Brian Cooney, Managing Director da KUKA na Irlanda.",
+      "bbox": [
+        76,
+        784,
+        907,
+        837
+      ]
+    },
+    {
+      "id": 201,
+      "page": 8,
+      "category": "text",
+      "text": "Atrações da automação do processo com robés de reciclagem, é supremido o conta humano with gases nocivos e cristais liquidos, bem como o risco de, por exemplo, se ferir em casos de vidro que ocorroem ao puxar lámpadas fluorescentes e telas de televisão.",
+      "bbox": [
+        76,
+        838,
+        881,
+        909
+      ]
+    },
+    {
+      "id": 202,
+      "page": 8,
+      "category": "page_number",
+      "text": "Pagina 9",
+      "bbox": [
+        454,
+        963,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 203,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        40,
+        745,
+        295
+      ]
+    },
+    {
+      "id": 204,
+      "page": 9,
+      "category": "image_footnote",
+      "text": "Fonte: https://www.kuka.com/pt-bi/ramos-de-atividadabanco-de-dados-de-solu/%C3%A7%C3%B5es/2022/04/ab/6C3%B4-reiclaca- lixo-etri/6C3%B4naco-ia.",
+      "bbox": [
+        77,
+        306,
+        903,
+        337
+      ]
+    },
+    {
+      "id": 205,
+      "page": 9,
+      "category": "image_footnote",
+      "text": "votechnik://text-%220%20K3K20QUANTEC%20%3%C9A9020em%20funcionamento%20%20manuten%3%A7Hc%3A3s%20con%3%84 Sobre o descarte de lixo eletrônico o uso da robética na reciclagem, assinale a alternatively鏈eadaira:",
+      "bbox": [
+        77,
+        342,
+        1000,
+        393
+      ]
+    },
+    {
+      "id": 206,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        77,
+        306,
+        1000,
+        393
+      ]
+    },
+    {
+      "id": 207,
+      "page": 9,
+      "category": "text",
+      "text": "A reciclagem de eletrónicos não aparece riscos à Saúde humano, boa todos os componentes são seguros para manuselo.",
+      "bbox": [
+        78,
+        401,
+        895,
+        443
+      ]
+    },
+    {
+      "id": 208,
+      "page": 9,
+      "category": "text",
+      "text": "Robos não são adequados paraidar conmateriais perigosos,pois podern dos danificados por produits quimicos presentes nos eletronicos.",
+      "bbox": [
+        78,
+        451,
+        871,
+        493
+      ]
+    },
+    {
+      "id": 209,
+      "page": 9,
+      "category": "text",
+      "text": "A automatao na reciclagem de lixo electrônico elimina a necessidade de qualquer supervisão humana durante o processo.",
+      "bbox": [
+        78,
+        501,
+        898,
+        542
+      ]
+    },
+    {
+      "id": 210,
+      "page": 9,
+      "category": "text",
+      "text": "O mercáriorushende emlmpadas aaparehos eletrónicospodecauserdanosneurologicos,ea robotcayada minimar ocontacto humano com esses materiaisperigosos.",
+      "bbox": [
+        78,
+        550,
+        893,
+        613
+      ]
+    },
+    {
+      "id": 211,
+      "page": 9,
+      "category": "text",
+      "text": "O KR QUANTEC é uma Tecnologia desenvolvimento para descarbar XO eletrônico direcionamente em atores sanitários, evitando a recicagem.",
+      "bbox": [
+        78,
+        622,
+        871,
+        664
+      ]
+    },
+    {
+      "id": 212,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        401,
+        898,
+        664
+      ]
+    },
+    {
+      "id": 213,
+      "page": 9,
+      "category": "title",
+      "text": "Questão 11",
+      "bbox": [
+        83,
+        702,
+        258,
+        726
+      ]
+    },
+    {
+      "id": 214,
+      "page": 9,
+      "category": "title",
+      "text": "Robótica sustentável: como a Tecnologia apoia o futuro do nosso planeta?",
+      "bbox": [
+        78,
+        744,
+        812,
+        761
+      ]
+    },
+    {
+      "id": 215,
+      "page": 9,
+      "category": "text",
+      "text": "Conforme a technologie se expande e novas soluções aparecem, é evidente que as pessoascemecar pensabor sua relação entre inovacao e futuro do planete.",
+      "bbox": [
+        77,
+        763,
+        852,
+        796
+      ]
+    },
+    {
+      "id": 216,
+      "page": 9,
+      "category": "text",
+      "text": "Evidente, como os robos não são diferente: é assim que surge oermo robotica sustentavel.",
+      "bbox": [
+        77,
+        799,
+        890,
+        832
+      ]
+    },
+    {
+      "id": 217,
+      "page": 9,
+      "category": "text",
+      "text": "Além e automatizar tarefas humanas, a Tecnologia do futuro está mais praticina das pessoas, com interações cotidianas. Veículos autônomas, por exemplo, não se tornar comuns, realizando diversos temas de atividades (como entrega).",
+      "bbox": [
+        77,
+        835,
+        903,
+        888
+      ]
+    },
+    {
+      "id": 218,
+      "page": 9,
+      "category": "text",
+      "text": "E, comoMASTERtransformação da société,essa expansão podec gerar duidas, principalmente quando falamos sobre o futuro do planeta. énestecontexto que surge a robotática sustentavel: para unir Tecnologia e sustentabilitadie.",
+      "bbox": [
+        77,
+        890,
+        917,
+        943
+      ]
+    },
+    {
+      "id": 219,
+      "page": 9,
+      "category": "page_number",
+      "text": "Páginaa 10",
+      "bbox": [
+        447,
+        963,
+        550,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 220,
+      "page": 10,
+      "category": "text",
+      "text": "Se a rozbica desenvolve soluções tecnólogicas construindo máquinas que automatizam, executam e facilitateim tarefas, um robó sustentarével parte deste setor, fonado na relaçion entre eles e meio ambiente.",
+      "bbox": [
+        75,
+        35,
+        881,
+        88
+      ]
+    },
+    {
+      "id": 221,
+      "page": 10,
+      "category": "text",
+      "text": "Isso pode acontecer de diversas formas: desde a construccion de robos por meio de peças recicladas ate acriacao de maquinas capazes de economizar recursos naturais, como agua potavel.",
+      "bbox": [
+        75,
+        90,
+        889,
+        142
+      ]
+    },
+    {
+      "id": 222,
+      "page": 10,
+      "category": "text",
+      "text": "A robética sustentarével también se destaca na educación. Cada vez mais,curros tem inseido o tema na grade curricular, para demonstrar a importancia de conectar Tecnología do futuro con meio ambiente.",
+      "bbox": [
+        75,
+        143,
+        872,
+        197
+      ]
+    },
+    {
+      "id": 223,
+      "page": 10,
+      "category": "text",
+      "text": "Dessa forma, nosproximosanos,consequiremoscriar Tecnologia sustentavel,quefacilito o dia a dia,ao mesmotimeque desgasta menos os recursos naturais.",
+      "bbox": [
+        75,
+        198,
+        860,
+        234
+      ]
+    },
+    {
+      "id": 224,
+      "page": 10,
+      "category": "text",
+      "text": "Fonte:https://tinbot.com.br/blog/robotica",
+      "bbox": [
+        76,
+        238,
+        340,
+        251
+      ]
+    },
+    {
+      "id": 225,
+      "page": 10,
+      "category": "text",
+      "text": "sustentavel/#:text=A%20rob%C3%B3tica%20pode%20ser%20aplicada.proceso%20de%20reutiliza%C3%A7%C3%A3o%20dos%20itens.",
+      "bbox": [
+        75,
+        256,
+        953,
+        269
+      ]
+    },
+    {
+      "id": 226,
+      "page": 10,
+      "category": "text",
+      "text": "Qual é a principal proposta da robotica sustentaré conforme descririto no texto?",
+      "bbox": [
+        76,
+        271,
+        839,
+        289
+      ]
+    },
+    {
+      "id": 227,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        297,
+        120,
+        323
+      ]
+    },
+    {
+      "id": 228,
+      "page": 10,
+      "category": "text",
+      "text": "Promover a automação de tarefas humanas sem considerar o impacto ambiental,",
+      "bbox": [
+        127,
+        299,
+        895,
+        318
+      ]
+    },
+    {
+      "id": 229,
+      "page": 10,
+      "category": "text",
+      "text": "focando apenas na eficiência economica das máquinas.",
+      "bbox": [
+        78,
+        322,
+        603,
+        339
+      ]
+    },
+    {
+      "id": 230,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        347,
+        120,
+        372
+      ]
+    },
+    {
+      "id": 231,
+      "page": 10,
+      "category": "text",
+      "text": "Ciar robos que automatizam atividades, mas que não necessariamente se",
+      "bbox": [
+        127,
+        350,
+        833,
+        369
+      ]
+    },
+    {
+      "id": 232,
+      "page": 10,
+      "category": "text",
+      "text": "préocupam com a sustentariedade, ja que a inovação é prioritária.",
+      "bbox": [
+        78,
+        372,
+        709,
+        389
+      ]
+    },
+    {
+      "id": 233,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        397,
+        120,
+        421
+      ]
+    },
+    {
+      "id": 234,
+      "page": 10,
+      "category": "text",
+      "text": "Integrar a的技术ia à vida cotidiana, visando desenvolver soluções que",
+      "bbox": [
+        127,
+        398,
+        817,
+        417
+      ]
+    },
+    {
+      "id": 235,
+      "page": 10,
+      "category": "text",
+      "text": "economizem recursos naturais e utilizem materiais reciclaveis, promovendo una relation ha harmonica con o meio ambiente.",
+      "bbox": [
+        78,
+        421,
+        842,
+        458
+      ]
+    },
+    {
+      "id": 236,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        467,
+        120,
+        492
+      ]
+    },
+    {
+      "id": 237,
+      "page": 10,
+      "category": "text",
+      "text": "Focar na宣传教育 e na formacao de professionis sem uma conexao clara entre",
+      "bbox": [
+        127,
+        469,
+        884,
+        489
+      ]
+    },
+    {
+      "id": 238,
+      "page": 10,
+      "category": "text",
+      "text": "robotica e sustentariedade, não que a Tecnologia não deve interferir na preservação ambiental.",
+      "bbox": [
+        78,
+        492,
+        860,
+        528
+      ]
+    },
+    {
+      "id": 239,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        537,
+        120,
+        563
+      ]
+    },
+    {
+      "id": 240,
+      "page": 10,
+      "category": "text",
+      "text": "Desenvolver veículos autónomos que apenas automatizam o transporte de cargas,",
+      "bbox": [
+        127,
+        541,
+        911,
+        559
+      ]
+    },
+    {
+      "id": 241,
+      "page": 10,
+      "category": "text",
+      "text": "sem considerar o impacto ambiental de sus operacoes.",
+      "bbox": [
+        78,
+        563,
+        612,
+        580
+      ]
+    },
+    {
+      "id": 242,
+      "page": 10,
+      "category": "title",
+      "text": "Questão 12",
+      "bbox": [
+        85,
+        619,
+        258,
+        643
+      ]
+    },
+    {
+      "id": 243,
+      "page": 10,
+      "category": "text",
+      "text": "Consider as frases abaixo.",
+      "bbox": [
+        78,
+        661,
+        343,
+        677
+      ]
+    },
+    {
+      "id": 244,
+      "page": 10,
+      "category": "text",
+      "text": "I- Daniel está conversando com uns amigos sobre seu projet de robética, e disse: \"Eu esperei uma eternidade para o meu robó finalmenteDSLender o commande simples de ligar e desigilar\"",
+      "bbox": [
+        78,
+        679,
+        889,
+        732
+      ]
+    },
+    {
+      "id": 245,
+      "page": 10,
+      "category": "text",
+      "text": "II - Durante o projeto, unto o robé de Daniel executava tarefas com precisão mecânica, suacriação esta cheia de falhas humanas.",
+      "bbox": [
+        78,
+        734,
+        844,
+        768
+      ]
+    },
+    {
+      "id": 246,
+      "page": 10,
+      "category": "text",
+      "text": "III. - Para a parte de Daniel, na hora da competência, o robóança como um artista em um espetáculo bem ensaiado.",
+      "bbox": [
+        78,
+        770,
+        908,
+        804
+      ]
+    },
+    {
+      "id": 247,
+      "page": 10,
+      "category": "text",
+      "text": "IV-E ao fim da competência, os juizes disserem que a programação do robô foi feito por algumas derientas maiis brilhantes da和地区.",
+      "bbox": [
+        78,
+        806,
+        903,
+        841
+      ]
+    },
+    {
+      "id": 248,
+      "page": 10,
+      "category": "text",
+      "text": "Quanto as figuras de linguagem, ha neles, respectivamente,",
+      "bbox": [
+        78,
+        843,
+        651,
+        860
+      ]
+    },
+    {
+      "id": 249,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        80,
+        868,
+        120,
+        892
+      ]
+    },
+    {
+      "id": 250,
+      "page": 10,
+      "category": "text",
+      "text": "gradação, metonímia, comparação e hipérbole",
+      "bbox": [
+        127,
+        871,
+        567,
+        889
+      ]
+    },
+    {
+      "id": 251,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        80,
+        897,
+        120,
+        921
+      ]
+    },
+    {
+      "id": 252,
+      "page": 10,
+      "category": "text",
+      "text": "hipébole, paradoxo, metáfora e gradação",
+      "bbox": [
+        127,
+        899,
+        527,
+        917
+      ]
+    },
+    {
+      "id": 253,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        80,
+        925,
+        120,
+        950
+      ]
+    },
+    {
+      "id": 254,
+      "page": 10,
+      "category": "text",
+      "text": "hipébole, antîtese, metáfora e metonímia",
+      "bbox": [
+        127,
+        928,
+        526,
+        945
+      ]
+    },
+    {
+      "id": 255,
+      "page": 10,
+      "category": "page_number",
+      "text": "Pagina 11",
+      "bbox": [
+        447,
+        963,
+        548,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 256,
+      "page": 11,
+      "category": "code",
+      "text": "gradacao, antitese, metafora e hipébole   \ngradacao, paradoxo, metoníuma e hipébole",
+      "bbox": [
+        78,
+        32,
+        543,
+        88
+      ]
+    },
+    {
+      "id": 257,
+      "page": 11,
+      "category": "title",
+      "text": "Questão 13",
+      "bbox": [
+        83,
+        122,
+        256,
+        147
+      ]
+    },
+    {
+      "id": 258,
+      "page": 11,
+      "category": "code_caption",
+      "text": "Considere o algo rito m abaixo escrito em python.",
+      "bbox": [
+        78,
+        163,
+        543,
+        181
+      ]
+    },
+    {
+      "id": 259,
+      "page": 11,
+      "category": "code",
+      "text": "\\(\\begin{array}{l}\\mathrm{m} = \\left[\\right]\\\\ \\mathrm{x} = 0\\\\ \\mathrm{y} = 0\\\\ \\mathrm{for~i~in~range(3):}\\\\ \\mathrm{m.append([])}\\\\ \\mathrm{for~j~in~range(3):}\\\\ \\mathrm{if~(i~=~j):}\\\\ \\mathrm{m[i].append(i+1+j+1+4)}\\\\ \\mathrm{else:}\\\\ \\mathrm{m[i].append(i+1+2*(j+1))}\\\\ \\mathrm{print(m)}\\\\ \\mathrm{for~i~in~range(3):}\\\\ \\mathrm{x} = \\mathrm{x} + 2^{*}\\mathrm{m[i][i]}\\\\ \\mathrm{y} = \\mathrm{y} + \\mathrm{m[0][i]}\\\\ \\mathrm{print(x+y)}\\end{array}\\)   \nfor i in range(3):   \nm.append();   \nfor j in range(3):   \nif (i == j):   \nm[i].append(i+1+j+1+4)   \nelse:   \nm[i].append(i+1+2*(j+1))   \nprint(m)   \nfor i in range(3):   \n\\(\\mathrm{x} = \\mathrm{x} + 2^{*}\\mathrm{m[i][i]}\\)   \n\\(\\mathrm{y} = \\mathrm{y} + \\mathrm{m[0][i]}\\)   \nprint(x+y)",
+      "bbox": [
+        76,
+        200,
+        661,
+        465
+      ]
+    },
+    {
+      "id": 260,
+      "page": 11,
+      "category": "code_caption",
+      "text": "Ao final do algoitmo é impressa a soma \\((X + Y)\\) que é igual a:",
+      "bbox": [
+        78,
+        465,
+        658,
+        483
+      ]
+    },
+    {
+      "id": 261,
+      "page": 11,
+      "category": "code",
+      "text": "A 65   \nB 66   \nC 67   \nD 68   \nE 69",
+      "bbox": [
+        78,
+        489,
+        160,
+        630
+      ]
+    },
+    {
+      "id": 262,
+      "page": 11,
+      "category": "title",
+      "text": "Questão 14",
+      "bbox": [
+        83,
+        664,
+        259,
+        689
+      ]
+    },
+    {
+      "id": 263,
+      "page": 11,
+      "category": "text",
+      "text": "Considere um Conjunto de rolettes connectados, por区管委会 o correira, sem esccorregamento. A figura abaixo minha o Modelo utilisé.",
+      "bbox": [
+        76,
+        705,
+        816,
+        742
+      ]
+    },
+    {
+      "id": 264,
+      "page": 11,
+      "category": "page_number",
+      "text": "Páginia 12",
+      "bbox": [
+        447,
+        962,
+        551,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 265,
+      "page": 12,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        102,
+        48,
+        755,
+        224
+      ]
+    },
+    {
+      "id": 266,
+      "page": 12,
+      "category": "text",
+      "text": "Fonte: https://s2(static.brasilescola.uol.com.br/img/2017/04/maquina.jpg",
+      "bbox": [
+        76,
+        243,
+        692,
+        261
+      ]
+    },
+    {
+      "id": 267,
+      "page": 12,
+      "category": "text",
+      "text": "Ciscede o roleteo maior roda en sentido anti-horario com velocidade constante. O roleteo com o segundo menor raio gira com uma velocidade angular relativamente:",
+      "bbox": [
+        76,
+        261,
+        915,
+        298
+      ]
+    },
+    {
+      "id": 268,
+      "page": 12,
+      "category": "text",
+      "text": "A igual e de sentido horario.",
+      "bbox": [
+        80,
+        304,
+        378,
+        328
+      ]
+    },
+    {
+      "id": 269,
+      "page": 12,
+      "category": "text",
+      "text": "B iguale de sentido anti-horario.",
+      "bbox": [
+        80,
+        336,
+        425,
+        356
+      ]
+    },
+    {
+      "id": 270,
+      "page": 12,
+      "category": "text",
+      "text": "menore de sentido anti-horario.",
+      "bbox": [
+        80,
+        363,
+        436,
+        383
+      ]
+    },
+    {
+      "id": 271,
+      "page": 12,
+      "category": "text",
+      "text": "D major e de sentido horario.",
+      "bbox": [
+        79,
+        391,
+        386,
+        412
+      ]
+    },
+    {
+      "id": 272,
+      "page": 12,
+      "category": "text",
+      "text": "E maior e de sentido anti-horário",
+      "bbox": [
+        80,
+        420,
+        425,
+        443
+      ]
+    },
+    {
+      "id": 273,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        304,
+        436,
+        443
+      ]
+    },
+    {
+      "id": 274,
+      "page": 12,
+      "category": "title",
+      "text": "Questão 15",
+      "bbox": [
+        85,
+        477,
+        259,
+        503
+      ]
+    },
+    {
+      "id": 275,
+      "page": 12,
+      "category": "text",
+      "text": "Conseire um robé equipuíçao comdoes sensores de luz, cujos dados do ambiente são capturados por meio das fonções light(1) e light(2).",
+      "bbox": [
+        76,
+        519,
+        889,
+        556
+      ]
+    },
+    {
+      "id": 276,
+      "page": 12,
+      "category": "text",
+      "text": "Quando o sensor está posicionado no branco, ele identifica um valor menor do que 70",
+      "bbox": [
+        76,
+        558,
+        899,
+        577
+      ]
+    },
+    {
+      "id": 277,
+      "page": 12,
+      "category": "text",
+      "text": "Quando o sensor está posicionado no verde, ele identifica um valor entre 70 e 300",
+      "bbox": [
+        78,
+        579,
+        867,
+        598
+      ]
+    },
+    {
+      "id": 278,
+      "page": 12,
+      "category": "text",
+      "text": "Quando o sensor está poscionado no preto, ele identifica um valor maior do que 300.",
+      "bbox": [
+        78,
+        601,
+        895,
+        619
+      ]
+    },
+    {
+      "id": 279,
+      "page": 12,
+      "category": "text",
+      "text": "Analise o documento abaixo.",
+      "bbox": [
+        78,
+        620,
+        314,
+        637
+      ]
+    },
+    {
+      "id": 280,
+      "page": 12,
+      "category": "code",
+      "text": "while (true) { if (light(1) < 70) { if (light(2) > 70 && light(2) < 300) { function_1() } else { function_2() } } else { if (light(1) > 300 && light(2) < 300) { if (light(2) > 300) { function_3() } else { function_4() } }",
+      "bbox": [
+        78,
+        656,
+        663,
+        963
+      ]
+    },
+    {
+      "id": 281,
+      "page": 12,
+      "category": "page_number",
+      "text": "Página 13",
+      "bbox": [
+        447,
+        963,
+        549,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 282,
+      "page": 13,
+      "category": "code",
+      "text": "} else { function_5() } 1",
+      "bbox": [
+        78,
+        35,
+        385,
+        138
+      ]
+    },
+    {
+      "id": 283,
+      "page": 13,
+      "category": "text",
+      "text": "I- A Funktion function_1() é executada sempre que o sensor 2 estiver positicao no verde, independente da posicao do sensor 1.",
+      "bbox": [
+        75,
+        153,
+        873,
+        188
+      ]
+    },
+    {
+      "id": 284,
+      "page": 13,
+      "category": "text",
+      "text": "II-Quando osdos sensores estiverem posicionados no branco,aFUNCTION_2() é executada",
+      "bbox": [
+        75,
+        190,
+        907,
+        223
+      ]
+    },
+    {
+      "id": 285,
+      "page": 13,
+      "category": "text",
+      "text": "III-A funciao function_3() nunca sera executada.",
+      "bbox": [
+        76,
+        226,
+        541,
+        242
+      ]
+    },
+    {
+      "id": 286,
+      "page": 13,
+      "category": "text",
+      "text": "IV - A fonction function_4) pode ser executada se o sensor 2 estiver colocacion no verde ou no branco, independente de quando está colocacion o sensor 1.",
+      "bbox": [
+        75,
+        245,
+        873,
+        279
+      ]
+    },
+    {
+      "id": 287,
+      "page": 13,
+      "category": "text",
+      "text": "V- AFNCA function_5(I) sera executada sempre que o sensor 2 estiver positional no branco ou no verde.",
+      "bbox": [
+        75,
+        281,
+        908,
+        316
+      ]
+    },
+    {
+      "id": 288,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        75,
+        153,
+        908,
+        316
+      ]
+    },
+    {
+      "id": 289,
+      "page": 13,
+      "category": "text",
+      "text": "Assinale a opção que indica as alternativas verdadeiras.",
+      "bbox": [
+        76,
+        335,
+        613,
+        352
+      ]
+    },
+    {
+      "id": 290,
+      "page": 13,
+      "category": "text",
+      "text": "A II e III",
+      "bbox": [
+        78,
+        361,
+        183,
+        385
+      ]
+    },
+    {
+      "id": 291,
+      "page": 13,
+      "category": "text",
+      "text": "B III, IV eV",
+      "bbox": [
+        78,
+        391,
+        216,
+        410
+      ]
+    },
+    {
+      "id": 292,
+      "page": 13,
+      "category": "text",
+      "text": "C I e IV",
+      "bbox": [
+        78,
+        419,
+        180,
+        441
+      ]
+    },
+    {
+      "id": 293,
+      "page": 13,
+      "category": "text",
+      "text": "D IIeV",
+      "bbox": [
+        78,
+        447,
+        180,
+        467
+      ]
+    },
+    {
+      "id": 294,
+      "page": 13,
+      "category": "text",
+      "text": "E I,IIe III",
+      "bbox": [
+        78,
+        475,
+        199,
+        500
+      ]
+    },
+    {
+      "id": 295,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        361,
+        216,
+        500
+      ]
+    },
+    {
+      "id": 296,
+      "page": 13,
+      "category": "title",
+      "text": "Questão 16",
+      "bbox": [
+        85,
+        534,
+        256,
+        558
+      ]
+    },
+    {
+      "id": 297,
+      "page": 13,
+      "category": "text",
+      "text": "Um groupe de estudiantes está projetando um robô segudor de LINHA para participar de uma competência. Els precisiram decide entre usar um sensor de cor e um sensor de luz para garantir que o robô possa detectar e seguir a LINHA de forma eficaz. Qual das alternativas a seguir Descreve correitamente as diferências entre os dos他们在 senseores e ajuda a escholar o melhor para esta aplicação?",
+      "bbox": [
+        75,
+        575,
+        903,
+        666
+      ]
+    },
+    {
+      "id": 298,
+      "page": 13,
+      "category": "text",
+      "text": "Sensor de cor: É mais adequado para detectar a intensidade da luz refletida, quando o sensor de luz é melhor para identificarernes cores. Portanto, o sensor de luz é a melhor escolha para seguir linhas.",
+      "bbox": [
+        75,
+        675,
+        903,
+        737
+      ]
+    },
+    {
+      "id": 299,
+      "page": 13,
+      "category": "text",
+      "text": "Sensor de luz: Mede a intensidade da luz refletida e é eficaz para detectar contrastezes entre a LINHA e o FUNDO. O sensor de cor, por及其他 lado, identifica cores especialicas e pode ser afetado por variações na illuminação, tornando-o menos confiavel para a tarea.",
+      "bbox": [
+        75,
+        746,
+        916,
+        829
+      ]
+    },
+    {
+      "id": 300,
+      "page": 13,
+      "category": "text",
+      "text": "Sensor de luz: Funciona apenas em ambientes iluminados e não pode detectar contrastems em superficies escuras. O sensor de cor, por sua vez, é sempre eficaz, independente da illuminação.",
+      "bbox": [
+        75,
+        839,
+        871,
+        900
+      ]
+    },
+    {
+      "id": 301,
+      "page": 13,
+      "category": "text",
+      "text": "Sensor de cor: É eficaz para segurar linhas en ambientes要比imulinos, bajo o sensor de luz é mais sensível a mudancas de temperatura e pode ser fácilmente",
+      "bbox": [
+        75,
+        909,
+        913,
+        949
+      ]
+    },
+    {
+      "id": 302,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        75,
+        675,
+        916,
+        949
+      ]
+    },
+    {
+      "id": 303,
+      "page": 13,
+      "category": "page_number",
+      "text": "Pagina 14",
+      "bbox": [
+        447,
+        962,
+        548,
+        979
+      ]
+    }
+  ],
+  [
+    {
+      "id": 304,
+      "page": 14,
+      "category": "text",
+      "text": "desviado por reflexos.",
+      "bbox": [
+        77,
+        38,
+        294,
+        55
+      ]
+    },
+    {
+      "id": 305,
+      "page": 14,
+      "category": "text",
+      "text": "Sensor de cor: Detecta differentes comprimentos de onda e é menos precisão em superficies brillantes. O sensor de luz é mais confível para seguir linhas em qualquer condição de iluminação.",
+      "bbox": [
+        76,
+        62,
+        905,
+        127
+      ]
+    },
+    {
+      "id": 306,
+      "page": 14,
+      "category": "title",
+      "text": "Questão 17",
+      "bbox": [
+        83,
+        164,
+        256,
+        190
+      ]
+    },
+    {
+      "id": 307,
+      "page": 14,
+      "category": "text",
+      "text": "Imagine que você está desenvolvimento um Projeto de automatação residencial que involvê o controle de um robó aspirador de pó. Esse robó precise monitorar ou ambiente ao seu redor utilizes sensores e也是非常 acontecer motores e outros atações para realizar suas tarefas de limpeza. Para isto, eles conta com umsystema de controle que faz uso de portas de entrada e saixa, tanto digitais quanto analógicas. Osystema lé informações de sensores, como detectores de distácia e de obstáculos, e controla componentes como motores e LEDs de indicatoria de estado.",
+      "bbox": [
+        75,
+        206,
+        915,
+        332
+      ]
+    },
+    {
+      "id": 308,
+      "page": 14,
+      "category": "text",
+      "text": "Sabendo disso, qual das seguinto affirmatives sobre as portas de entrada/saida digital (I/O digital) e portas de entrada/saida análogica (I/O análogica) está corrente?",
+      "bbox": [
+        76,
+        334,
+        905,
+        370
+      ]
+    },
+    {
+      "id": 309,
+      "page": 14,
+      "category": "text",
+      "text": "As portas de entrada analógica são capazes de ler sinais que(variam entre multípios nives de tensão, permitindo a DETECÇÃO precisa de mudanças no ambiente.",
+      "bbox": [
+        76,
+        395,
+        888,
+        439
+      ]
+    },
+    {
+      "id": 310,
+      "page": 14,
+      "category": "text",
+      "text": "As portas de saixa digital podem gerar各样es níveis de tensão, permitindo o controle de dispositivos analógicos, como motores, de forma maiis précia.",
+      "bbox": [
+        76,
+        446,
+        893,
+        488
+      ]
+    },
+    {
+      "id": 311,
+      "page": 14,
+      "category": "text",
+      "text": "As portas de entrada digital consequence processor apenas sinais que está em estado ao 1) ou bixo 0), sem a capacidade de ler variações de tensão.",
+      "bbox": [
+        76,
+        495,
+        876,
+        537
+      ]
+    },
+    {
+      "id": 312,
+      "page": 14,
+      "category": "text",
+      "text": "As portas de saida analgica podemGERA marga continua de tensoes, tornado-se ideais para controlar a intensidade de LEDs ou a velocidade de motores.",
+      "bbox": [
+        76,
+        545,
+        890,
+        587
+      ]
+    },
+    {
+      "id": 313,
+      "page": 14,
+      "category": "text",
+      "text": "As portas de entrada digital podem deteciratar sinais analgicos e digitais, permitindo um maior flexibilitad no monitoramento do ambiente.",
+      "bbox": [
+        76,
+        595,
+        816,
+        636
+      ]
+    },
+    {
+      "id": 314,
+      "page": 14,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        76,
+        395,
+        893,
+        636
+      ]
+    },
+    {
+      "id": 315,
+      "page": 14,
+      "category": "title",
+      "text": "Questão 18",
+      "bbox": [
+        83,
+        675,
+        259,
+        700
+      ]
+    },
+    {
+      "id": 316,
+      "page": 14,
+      "category": "text",
+      "text": "Um robó domestico executa diversas tarefas, e é equipado como motores, sensores e uma lampla para o case de falta de energia na casa. Elle funciona com tres pilhas de resistência interna igual a 0,5 Q caça, ligadas em série. Quando posicionadas corretamente, devem acender uma lampla incandescente de espécograficas 4,5 W e 4,5 V. Cada pilha na posção corretra germ a uma f.e.m. (forca electromotriz) de 1,5V. Uma Pessoa ao trovcar as pilhas do robó, comete o equivoco de inverter a posção de uma das pilhas. ConSIDERE que as pilhas mantem conta independentemente da posção.  \nCom这是我quivoco, qual é a intensidade de correrente que passa a lampla ao cigar o robó?",
+      "bbox": [
+        75,
+        716,
+        915,
+        880
+      ]
+    },
+    {
+      "id": 317,
+      "page": 14,
+      "category": "text",
+      "text": "A 0.25 A",
+      "bbox": [
+        78,
+        887,
+        199,
+        915
+      ]
+    },
+    {
+      "id": 318,
+      "page": 14,
+      "category": "text",
+      "text": "B 0.33 A",
+      "bbox": [
+        78,
+        918,
+        196,
+        944
+      ]
+    },
+    {
+      "id": 319,
+      "page": 14,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        887,
+        199,
+        944
+      ]
+    },
+    {
+      "id": 320,
+      "page": 14,
+      "category": "page_number",
+      "text": "Páginá 15",
+      "bbox": [
+        447,
+        962,
+        550,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 321,
+      "page": 15,
+      "category": "text",
+      "text": "0.75 A",
+      "bbox": [
+        79,
+        32,
+        198,
+        55
+      ]
+    },
+    {
+      "id": 322,
+      "page": 15,
+      "category": "text",
+      "text": "1.00A",
+      "bbox": [
+        80,
+        63,
+        195,
+        81
+      ]
+    },
+    {
+      "id": 323,
+      "page": 15,
+      "category": "text",
+      "text": "E 1,33 A",
+      "bbox": [
+        80,
+        91,
+        195,
+        110
+      ]
+    },
+    {
+      "id": 324,
+      "page": 15,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        32,
+        198,
+        110
+      ]
+    },
+    {
+      "id": 325,
+      "page": 15,
+      "category": "title",
+      "text": "Questão 19",
+      "bbox": [
+        86,
+        151,
+        256,
+        175
+      ]
+    },
+    {
+      "id": 326,
+      "page": 15,
+      "category": "text",
+      "text": "Um robó de limecia utilizeu um Sistema de mola ideal com constante elástica \\(k = 150\\) N/m para hacer una esca咬 en要比to o chao enquanto se desloca. Se a mola paraocrimipara a una distancia de 0.15m en relationao seu punto de equilibrio, qual ser o peso da esca咬 en gramas?",
+      "bbox": [
+        76,
+        191,
+        893,
+        263
+      ]
+    },
+    {
+      "id": 327,
+      "page": 15,
+      "category": "text",
+      "text": "Assumag=10m/s2.",
+      "bbox": [
+        79,
+        264,
+        268,
+        281
+      ]
+    },
+    {
+      "id": 328,
+      "page": 15,
+      "category": "text",
+      "text": "A 2250 g",
+      "bbox": [
+        80,
+        289,
+        201,
+        312
+      ]
+    },
+    {
+      "id": 329,
+      "page": 15,
+      "category": "text",
+      "text": "B 2000g",
+      "bbox": [
+        80,
+        319,
+        201,
+        340
+      ]
+    },
+    {
+      "id": 330,
+      "page": 15,
+      "category": "text",
+      "text": "1000g",
+      "bbox": [
+        80,
+        347,
+        201,
+        368
+      ]
+    },
+    {
+      "id": 331,
+      "page": 15,
+      "category": "text",
+      "text": "D 750g",
+      "bbox": [
+        80,
+        377,
+        187,
+        397
+      ]
+    },
+    {
+      "id": 332,
+      "page": 15,
+      "category": "text",
+      "text": "E 500g",
+      "bbox": [
+        80,
+        404,
+        187,
+        427
+      ]
+    },
+    {
+      "id": 333,
+      "page": 15,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        289,
+        201,
+        427
+      ]
+    },
+    {
+      "id": 334,
+      "page": 15,
+      "category": "title",
+      "text": "Questão 20",
+      "bbox": [
+        86,
+        463,
+        256,
+        487
+      ]
+    },
+    {
+      "id": 335,
+      "page": 15,
+      "category": "text",
+      "text": "Um engenheiro está desenvolvendo um novoSYSTEMA de restrifamento para robés industriais. Em um de seu testes, é mergulhoun um bloco de cobre de 150 g a \\(25^{\\circ}C\\) em um tâque com 1,5 litros de água a \\(90^{\\circ}C\\). Àpôs a troça de calor, o bloco aparezou uma temperatura mais alta do que inicialmente. Indiqua quando das alternativas abixo melhor representa a temperatura de equilibrio entre o bloco e a agua:",
+      "bbox": [
+        76,
+        504,
+        911,
+        594
+      ]
+    },
+    {
+      "id": 336,
+      "page": 15,
+      "category": "text",
+      "text": "Dados calor especialico:água=1cal/g°C e alúnio = 0,385 cal/g°C.",
+      "bbox": [
+        79,
+        596,
+        709,
+        613
+      ]
+    },
+    {
+      "id": 337,
+      "page": 15,
+      "category": "text",
+      "text": "A \\(87,6^{\\circ}C\\)",
+      "bbox": [
+        80,
+        621,
+        199,
+        645
+      ]
+    },
+    {
+      "id": 338,
+      "page": 15,
+      "category": "text",
+      "text": "B \\(85,5^{\\circ}C\\)",
+      "bbox": [
+        80,
+        651,
+        198,
+        673
+      ]
+    },
+    {
+      "id": 339,
+      "page": 15,
+      "category": "text",
+      "text": "84,3℃",
+      "bbox": [
+        80,
+        678,
+        198,
+        702
+      ]
+    },
+    {
+      "id": 340,
+      "page": 15,
+      "category": "text",
+      "text": "D 83,5℃",
+      "bbox": [
+        80,
+        706,
+        198,
+        729
+      ]
+    },
+    {
+      "id": 341,
+      "page": 15,
+      "category": "text",
+      "text": "E \\(82,2^{\\circ}C\\)",
+      "bbox": [
+        80,
+        733,
+        198,
+        760
+      ]
+    },
+    {
+      "id": 342,
+      "page": 15,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        621,
+        199,
+        760
+      ]
+    },
+    {
+      "id": 343,
+      "page": 15,
+      "category": "page_number",
+      "text": "Pagina 16",
+      "bbox": [
+        448,
+        962,
+        549,
+        980
+      ]
+    }
+  ]
+]

@@ -1,0 +1,2222 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        93,
+        99,
+        172,
+        166
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        259,
+        150,
+        699,
+        174
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "2009",
+      "bbox": [
+        463,
+        176,
+        535,
+        198
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        774,
+        117,
+        905,
+        169
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "Modalidade: Teorica Nivel 1 (1° a 3°anos ensino fundamental) Duracao: 2 horas",
+      "bbox": [
+        90,
+        215,
+        914,
+        233
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Nome do Aluno: Matr:",
+      "bbox": [
+        90,
+        235,
+        911,
+        250
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Escola: Cidade: Estado:",
+      "bbox": [
+        90,
+        251,
+        911,
+        267
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        92,
+        305,
+        152,
+        320
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        97,
+        323,
+        156,
+        365
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        158,
+        328,
+        286,
+        361
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Cerunho Nacional de Desenvolvimento Científico e Tecnológico",
+      "bbox": [
+        105,
+        364,
+        286,
+        381
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "Patrocinio:",
+      "bbox": [
+        92,
+        400,
+        185,
+        415
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        91,
+        430,
+        182,
+        495
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "education",
+      "bbox": [
+        197,
+        431,
+        460,
+        476
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        91,
+        526,
+        192,
+        542
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        555,
+        266,
+        650
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        287,
+        588,
+        500,
+        641
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        92,
+        684,
+        152,
+        701
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        101,
+        717,
+        180,
+        763
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNICAMP",
+      "bbox": [
+        102,
+        767,
+        177,
+        777
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        236,
+        715,
+        330,
+        777
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        380,
+        740,
+        507,
+        778
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "title",
+      "text": "Aviso",
+      "bbox": [
+        473,
+        813,
+        526,
+        827
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        92,
+        829,
+        267,
+        845
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "Casq seu aluno não consiga ler sozinho a prova, é permitido e recommendao que você leia a prova para eles.",
+      "bbox": [
+        90,
+        862,
+        885,
+        896
+      ]
+    }
+  ],
+  [
+    {
+      "id": 25,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        42,
+        132,
+        76
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        859,
+        52,
+        914,
+        77
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "title",
+      "text": "Parte I - Matematica",
+      "bbox": [
+        91,
+        102,
+        310,
+        119
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "title",
+      "text": "1-Questao",
+      "bbox": [
+        91,
+        139,
+        214,
+        157
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomenos. Area: Matematica. Descriratores: Espaço e forma.",
+      "bbox": [
+        91,
+        157,
+        633,
+        170
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        710,
+        144,
+        775,
+        160
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "Ligue com uma LINHA as forma das figuras abaixo as partes iguales do robô.",
+      "bbox": [
+        90,
+        185,
+        701,
+        202
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        414,
+        210,
+        583,
+        374
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "(a) Figura do circulo",
+      "bbox": [
+        120,
+        375,
+        297,
+        391
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "(b) Figura do quadrado",
+      "bbox": [
+        122,
+        393,
+        315,
+        409
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "(c) Figura do triangulo",
+      "bbox": [
+        122,
+        410,
+        313,
+        425
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "(d) Figura do retangulo",
+      "bbox": [
+        122,
+        425,
+        316,
+        441
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "(e) Figura do pentagono",
+      "bbox": [
+        122,
+        442,
+        323,
+        458
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        120,
+        375,
+        323,
+        458
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        347,
+        372,
+        382,
+        460
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "title",
+      "text": "2-Questao",
+      "bbox": [
+        90,
+        507,
+        214,
+        525
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "Elxo cognitivo: Il-Comprender Fenomenos. Area: Matematika. Descriratores: Espaço e Forma.",
+      "bbox": [
+        90,
+        525,
+        637,
+        538
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        514,
+        774,
+        529
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "O robô ASIMO® é um robô queanda com两大pernas, como as pessoas.",
+      "bbox": [
+        89,
+        561,
+        690,
+        577
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "A robô Rosie é um robô queanda com rodas, como os carros.",
+      "bbox": [
+        90,
+        578,
+        609,
+        592
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "Marque as ações que o robo com das permas而导致 fazer melhor do que o robo com rodas Marque quantas替代as quiser.",
+      "bbox": [
+        90,
+        593,
+        908,
+        627
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        369,
+        639,
+        514,
+        777
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        516,
+        639,
+        631,
+        776
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "(a) Pular corda",
+      "bbox": [
+        120,
+        777,
+        252,
+        793
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "(b) Chutar uma bola",
+      "bbox": [
+        122,
+        794,
+        291,
+        809
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "(c) Subir escaladas",
+      "bbox": [
+        122,
+        811,
+        267,
+        826
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "(d) Virar para o lado",
+      "bbox": [
+        122,
+        827,
+        294,
+        843
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "(e) Todas",
+      "bbox": [
+        122,
+        844,
+        207,
+        858
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        120,
+        777,
+        294,
+        858
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        893,
+        942,
+        907,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 56,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        42,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        663,
+        80
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        859,
+        52,
+        914,
+        77
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "title",
+      "text": "3 - Questao",
+      "bbox": [
+        90,
+        125,
+        214,
+        145
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        130,
+        774,
+        145
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        125,
+        905,
+        151
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfrentar Situações-Problema. Área: Matemática. Descrições: Grandezas e medidas. Espaço e Forma;",
+      "bbox": [
+        90,
+        150,
+        801,
+        163
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "O roabo abixo precise临港 a lata de oleo. Ligue com uma LINHA o BRAO que deve ser encaixaço não roabo para faz-lo pegar a lata. Escolha epoxy dos两大 BRAOs.",
+      "bbox": [
+        88,
+        187,
+        908,
+        222
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        97,
+        244,
+        354,
+        424
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "a)",
+      "bbox": [
+        393,
+        253,
+        418,
+        269
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        442,
+        247,
+        621,
+        285
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "d)",
+      "bbox": [
+        651,
+        250,
+        675,
+        268
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        709,
+        243,
+        890,
+        282
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "b)",
+      "bbox": [
+        395,
+        323,
+        418,
+        338
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        446,
+        317,
+        627,
+        356
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "e)",
+      "bbox": [
+        651,
+        323,
+        673,
+        338
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        711,
+        313,
+        893,
+        352
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "c)",
+      "bbox": [
+        395,
+        395,
+        415,
+        409
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        447,
+        382,
+        628,
+        420
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "title",
+      "text": "4-Questao",
+      "bbox": [
+        90,
+        488,
+        214,
+        507
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        711,
+        491,
+        776,
+        507
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        487,
+        908,
+        514
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: IV-Elaborar Propostas. Area: Matemática. Descrições: Numberos e Operações/conservação fisica de quantidades.",
+      "bbox": [
+        90,
+        512,
+        836,
+        525
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "text",
+      "text": "Na jarra maior cabem 4litros de agua e na jarra menor cabem 3litros de agua.",
+      "bbox": [
+        93,
+        540,
+        732,
+        558
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        371,
+        603,
+        447,
+        670
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        458,
+        616,
+        515,
+        670
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        539,
+        558,
+        609,
+        675
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "O robó joga para todo a agua da jarra menor e, depos, derama a agua da jarra maior na menor atécomplete-la. Quial figura说什么 como faciam das鸯 jrias?",
+      "bbox": [
+        88,
+        692,
+        890,
+        727
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "(a)",
+      "bbox": [
+        91,
+        759,
+        120,
+        775
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        159,
+        755,
+        307,
+        821
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "(b)",
+      "bbox": [
+        368,
+        759,
+        396,
+        775
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        437,
+        755,
+        509,
+        821
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        524,
+        768,
+        582,
+        821
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "(c)",
+      "bbox": [
+        645,
+        759,
+        672,
+        776
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        711,
+        755,
+        785,
+        821
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        796,
+        768,
+        856,
+        821
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "text",
+      "text": "(d)",
+      "bbox": [
+        91,
+        824,
+        120,
+        841
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        824,
+        347,
+        889
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "text",
+      "text": "(e)",
+      "bbox": [
+        507,
+        825,
+        534,
+        841
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        603,
+        823,
+        677,
+        888
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        687,
+        835,
+        747,
+        888
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        893,
+        942,
+        906,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 98,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        42,
+        132,
+        76
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        859,
+        52,
+        914,
+        77
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "title",
+      "text": "5 - Questao",
+      "bbox": [
+        90,
+        112,
+        214,
+        131
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        707,
+        115,
+        771,
+        131
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        783,
+        112,
+        903,
+        138
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: II-Comprehender Fendomenos. Area: Matemática, Descrittorèo: Númeos e operações/algebra e funções. Trattamento da Informação.",
+      "bbox": [
+        90,
+        137,
+        907,
+        161
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": " quando Joaozinho da corda uma vez no robo é迭代 dois passos. Onde o robo vaiRAR se Joaozinho de corda dias vez no robo?",
+      "bbox": [
+        88,
+        173,
+        907,
+        207
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        146,
+        217,
+        750,
+        434
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "title",
+      "text": "6-Questao",
+      "bbox": [
+        90,
+        470,
+        214,
+        489
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        707,
+        474,
+        771,
+        489
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        783,
+        468,
+        903,
+        496
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: II-Comprender Fenomenos. Area: Matemática Descriptores: Grandezas e medidas.",
+      "bbox": [
+        90,
+        494,
+        663,
+        508
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "RRB-1 é um robê que é acontecado a andarpora casa. Elésta não algo lugar marcado como o X (de a caedra calda no chão) e andoune conforme o programa abaxio. Em quando lugar da casa é chega?",
+      "bbox": [
+        89,
+        520,
+        910,
+        569
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        122,
+        569,
+        883,
+        798
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "PROGRAMA:",
+      "bbox": [
+        150,
+        815,
+        272,
+        830
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "1. Andar 3 azulejos para a frente",
+      "bbox": [
+        156,
+        832,
+        425,
+        848
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "2. Virar para a esquerda",
+      "bbox": [
+        154,
+        849,
+        359,
+        865
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "3. Andar 4 azulejos",
+      "bbox": [
+        154,
+        866,
+        316,
+        881
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "4. Virar para a direita",
+      "bbox": [
+        154,
+        882,
+        338,
+        896
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "5. Andar 2 azulejos",
+      "bbox": [
+        154,
+        898,
+        314,
+        913
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "6. Parar",
+      "bbox": [
+        154,
+        914,
+        226,
+        928
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        154,
+        832,
+        425,
+        928
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        893,
+        942,
+        907,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 122,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        41,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 123,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        663,
+        80
+      ]
+    },
+    {
+      "id": 124,
+      "page": 4,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        859,
+        52,
+        914,
+        77
+      ]
+    },
+    {
+      "id": 125,
+      "page": 4,
+      "category": "text",
+      "text": "(a) Na figura do \"mais\"",
+      "bbox": [
+        120,
+        111,
+        321,
+        128
+      ]
+    },
+    {
+      "id": 126,
+      "page": 4,
+      "category": "text",
+      "text": "(b) Na figura da \"Lua\"",
+      "bbox": [
+        122,
+        129,
+        312,
+        144
+      ]
+    },
+    {
+      "id": 127,
+      "page": 4,
+      "category": "text",
+      "text": "(c) Na figura do \"Sol\"",
+      "bbox": [
+        122,
+        145,
+        310,
+        161
+      ]
+    },
+    {
+      "id": 128,
+      "page": 4,
+      "category": "text",
+      "text": "(d) Na figura do \"raio\"",
+      "bbox": [
+        122,
+        162,
+        313,
+        178
+      ]
+    },
+    {
+      "id": 129,
+      "page": 4,
+      "category": "text",
+      "text": "(e)Ele bateu nos moveris",
+      "bbox": [
+        122,
+        179,
+        329,
+        195
+      ]
+    },
+    {
+      "id": 130,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        120,
+        111,
+        329,
+        195
+      ]
+    },
+    {
+      "id": 131,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        333,
+        102,
+        377,
+        184
+      ]
+    },
+    {
+      "id": 132,
+      "page": 4,
+      "category": "title",
+      "text": "Parte II - Lingua Portuguesa",
+      "bbox": [
+        91,
+        213,
+        392,
+        233
+      ]
+    },
+    {
+      "id": 133,
+      "page": 4,
+      "category": "text",
+      "text": "Mariazinha tem um rob chamado VX-12. Ao a leitura das quadrinhos abaixo, responda as quostes 7, 8, 9 e 10.",
+      "bbox": [
+        89,
+        247,
+        908,
+        279
+      ]
+    },
+    {
+      "id": 134,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        297,
+        361,
+        509
+      ]
+    },
+    {
+      "id": 135,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        367,
+        298,
+        632,
+        509
+      ]
+    },
+    {
+      "id": 136,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        636,
+        297,
+        903,
+        509
+      ]
+    },
+    {
+      "id": 137,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        511,
+        361,
+        727
+      ]
+    },
+    {
+      "id": 138,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        365,
+        511,
+        631,
+        727
+      ]
+    },
+    {
+      "id": 139,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        636,
+        511,
+        903,
+        727
+      ]
+    },
+    {
+      "id": 140,
+      "page": 4,
+      "category": "title",
+      "text": "7-Questao",
+      "bbox": [
+        90,
+        744,
+        214,
+        762
+      ]
+    },
+    {
+      "id": 141,
+      "page": 4,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        710,
+        747,
+        774,
+        764
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Área: Lingua Portuguesa. Descrições: Procedimentos de Leitura",
+      "bbox": [
+        90,
+        762,
+        693,
+        775
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        744,
+        906,
+        772
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "text",
+      "text": "Marque que éisiques que estao de acordo com o que você entendeu da historirinha. Marque\\\nquantas alternativas quiser.",
+      "bbox": [
+        89,
+        790,
+        910,
+        824
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "(a) O robó VX-12 faz发展目标es lavorhos na casa",
+      "bbox": [
+        148,
+        840,
+        561,
+        856
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "(b) O robó VX-12 fez exatamente o que a menina pediu",
+      "bbox": [
+        149,
+        857,
+        606,
+        873
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "(c) O robó VX-12 gosta de áleo",
+      "bbox": [
+        150,
+        873,
+        413,
+        889
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "text",
+      "text": "(d) Amina tentou usable o robô VX-12 para fazer seu trabalho escolar",
+      "bbox": [
+        150,
+        889,
+        726,
+        905
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        148,
+        840,
+        726,
+        905
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        893,
+        942,
+        907,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 151,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        42,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 152,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        663,
+        80
+      ]
+    },
+    {
+      "id": 153,
+      "page": 5,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        859,
+        52,
+        914,
+        77
+      ]
+    },
+    {
+      "id": 154,
+      "page": 5,
+      "category": "title",
+      "text": "8-Questao",
+      "bbox": [
+        90,
+        118,
+        214,
+        136
+      ]
+    },
+    {
+      "id": 155,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        118,
+        774,
+        133
+      ]
+    },
+    {
+      "id": 156,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Avenida: Lingua Portuguesa. Implicações do Suporte, do Géné r'ou do enunciador na comprehensão do Texto.",
+      "bbox": [
+        90,
+        136,
+        901,
+        158
+      ]
+    },
+    {
+      "id": 157,
+      "page": 5,
+      "category": "text",
+      "text": "Marque a ideia que você acha que está correta:",
+      "bbox": [
+        149,
+        175,
+        535,
+        193
+      ]
+    },
+    {
+      "id": 158,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Um robó nunca faz o que mandamos ele fazer",
+      "bbox": [
+        149,
+        208,
+        558,
+        224
+      ]
+    },
+    {
+      "id": 159,
+      "page": 5,
+      "category": "text",
+      "text": "(b) É préciso explicar detaIhadamente o que se quer que um robó faça",
+      "bbox": [
+        150,
+        225,
+        720,
+        242
+      ]
+    },
+    {
+      "id": 160,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Meninas erobos nunca se entendem",
+      "bbox": [
+        150,
+        242,
+        476,
+        256
+      ]
+    },
+    {
+      "id": 161,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Um robô que faz faxina não sabe planta sementes corretramente",
+      "bbox": [
+        150,
+        257,
+        702,
+        274
+      ]
+    },
+    {
+      "id": 162,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        149,
+        208,
+        720,
+        274
+      ]
+    },
+    {
+      "id": 163,
+      "page": 5,
+      "category": "title",
+      "text": "9 - Questao",
+      "bbox": [
+        90,
+        307,
+        214,
+        325
+      ]
+    },
+    {
+      "id": 164,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        307,
+        774,
+        321
+      ]
+    },
+    {
+      "id": 165,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. Descrições: Coerência e Coesão no Processamento do Texto.",
+      "bbox": [
+        90,
+        325,
+        821,
+        336
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "text",
+      "text": "O que Mariazinha quer dizer com esta expressao?",
+      "bbox": [
+        149,
+        385,
+        560,
+        403
+      ]
+    },
+    {
+      "id": 167,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Que ela não sare lavar, passar ou cozinha",
+      "bbox": [
+        150,
+        418,
+        528,
+        435
+      ]
+    },
+    {
+      "id": 168,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Que ela não queria que a professora chegasse",
+      "bbox": [
+        150,
+        435,
+        553,
+        452
+      ]
+    },
+    {
+      "id": 169,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Que ela queria que o robó adivinhasse seu pensamento",
+      "bbox": [
+        150,
+        452,
+        625,
+        469
+      ]
+    },
+    {
+      "id": 170,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Que ela queria respostas curtas do robó",
+      "bbox": [
+        150,
+        469,
+        502,
+        484
+      ]
+    },
+    {
+      "id": 171,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        150,
+        418,
+        625,
+        484
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        645,
+        349,
+        876,
+        533
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "title",
+      "text": "10 - Questão",
+      "bbox": [
+        90,
+        549,
+        227,
+        568
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        551,
+        774,
+        565
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. Describeros: Relacoes entre Recursos Expressivos e Efeitos de Sentimento.",
+      "bbox": [
+        90,
+        568,
+        875,
+        580
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "text",
+      "text": "O robovX-12 parece ser:",
+      "bbox": [
+        149,
+        628,
+        367,
+        645
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "(a) Bem humorado e dispono a ajudar",
+      "bbox": [
+        150,
+        661,
+        465,
+        678
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Chato",
+      "bbox": [
+        151,
+        679,
+        233,
+        693
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Mal educado",
+      "bbox": [
+        151,
+        694,
+        288,
+        710
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Zangado",
+      "bbox": [
+        151,
+        711,
+        255,
+        728
+      ]
+    },
+    {
+      "id": 181,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        150,
+        661,
+        465,
+        728
+      ]
+    },
+    {
+      "id": 182,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        652,
+        594,
+        876,
+        772
+      ]
+    },
+    {
+      "id": 183,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        893,
+        942,
+        907,
+        955
+      ]
+    }
+  ]
+]

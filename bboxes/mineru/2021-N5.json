@@ -1,0 +1,4888 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        200,
+        48,
+        783,
+        275
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 5 - FASE 1 - ENSINO MÉDIO e TÉCNICO",
+      "bbox": [
+        239,
+        283,
+        926,
+        309
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        62,
+        338,
+        935,
+        530
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        316,
+        553,
+        680,
+        575
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        70,
+        593,
+        310,
+        614
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- España: la España, la ñordanza, la ñordanza y el ñordanza.",
+      "bbox": [
+        71,
+        627,
+        576,
+        647
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 4 horas;",
+      "bbox": [
+        71,
+        648,
+        381,
+        666
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        71,
+        667,
+        503,
+        685
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        71,
+        686,
+        666,
+        705
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente.",
+      "bbox": [
+        71,
+        706,
+        550,
+        723
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        71,
+        627,
+        666,
+        723
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "ATENCAO: As quostoes das provas obidas na plata forma poder esmar ordemdifferenteestearto.",
+      "bbox": [
+        68,
+        735,
+        915,
+        777
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "Realização",
+      "bbox": [
+        85,
+        842,
+        172,
+        858
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        27,
+        864,
+        130,
+        924
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "UNICAMP",
+      "bbox": [
+        28,
+        927,
+        127,
+        942
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        143,
+        869,
+        225,
+        924
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "COTUCA",
+      "bbox": [
+        137,
+        927,
+        233,
+        943
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio",
+      "bbox": [
+        285,
+        841,
+        336,
+        856
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        263,
+        867,
+        295,
+        896
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "text",
+      "text": "INSTITUTO FEDERAL  \nBra Grange, de Naege",
+      "bbox": [
+        297,
+        880,
+        408,
+        896
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        419,
+        855,
+        468,
+        900
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        470,
+        862,
+        534,
+        900
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        556,
+        864,
+        609,
+        900
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "scup",
+      "bbox": [
+        611,
+        880,
+        650,
+        896
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        668,
+        863,
+        732,
+        900
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        733,
+        860,
+        758,
+        880
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        759,
+        860,
+        832,
+        887
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "text",
+      "text": "RCB",
+      "bbox": [
+        785,
+        888,
+        829,
+        904
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "text",
+      "text": "SESI",
+      "bbox": [
+        269,
+        925,
+        361,
+        947
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        376,
+        909,
+        463,
+        953
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        479,
+        907,
+        527,
+        950
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        528,
+        927,
+        614,
+        946
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        638,
+        922,
+        734,
+        946
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "text",
+      "text": "MENENTARIO DEL CINICA TECHNOLOGICA E INNOVACIONES",
+      "bbox": [
+        741,
+        926,
+        826,
+        945
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        837,
+        869,
+        864,
+        890
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        865,
+        874,
+        958,
+        890
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "text",
+      "text": "Counselling-Immunization de l'Amérique sur la vie (counselling) et la vie sur la vie",
+      "bbox": [
+        865,
+        892,
+        958,
+        900
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "text",
+      "text": "PATRIA AMADA",
+      "bbox": [
+        863,
+        920,
+        959,
+        930
+      ]
+    },
+    {
+      "id": 38,
+      "page": 0,
+      "category": "text",
+      "text": "BRASIL",
+      "bbox": [
+        886,
+        931,
+        959,
+        940
+      ]
+    },
+    {
+      "id": 39,
+      "page": 0,
+      "category": "text",
+      "text": "1",
+      "bbox": [
+        886,
+        940,
+        959,
+        945
+      ]
+    }
+  ],
+  [
+    {
+      "id": 40,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        33,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "A robotização é um dos pílares mais evaporados e polémicos da Industria 4.0 e consista noprocesso de automatização de tarefas repetitivas, substituído pessoas por robés.",
+      "bbox": [
+        194,
+        42,
+        942,
+        72
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "In debates sobre o impasto social gerado por este processo, são irrevoguemais os beneficios deobilização esta Tecnologia, destacando-se ouagoamento da produtividade, a precisão e da boa, da diminuindo drasticamente o impasto de absenceismo na Produção e, principalamente, assoas de areas perigosas e insulabres.",
+      "bbox": [
+        194,
+        73,
+        942,
+        133
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "Nos parques fabris atuais, a maior parte dos robos industriais limitam-se a BRAÇOS articulados com",
+      "bbox": [
+        54,
+        133,
+        942,
+        148
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "ferramentas espécicas en sua ponta - garas, soldas, aplicador de cola e medidores - com controle de movement espacial tridimensional. Nosolestimos, o com avanzo technologico, que se consideran como un esquido, se consideran como compaliente del um mesmo ambiente con pessoas.",
+      "bbox": [
+        54,
+        148,
+        585,
+        223
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "O segundo tipo mais utilisé de robiros industrials so are veículos autoguidos, os famícos AGVs (Automated Guided Vehicle), que se deslocam entrePontos pre-programados de forma autónoma,utilizando visua computational, lasers,ondas de rádio,imás ou seguido linhas ou fios marcados no chão da fibrácia.",
+      "bbox": [
+        54,
+        223,
+        587,
+        311
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        595,
+        152,
+        933,
+        298
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "AEmpresa OROB adotuu这个世界 robotico emu seu Sistema produto para o transporte de materiais.   \nSe o AGV-A de 5,0 cm de complemento move-se para a direita, quando encontrar umanother AGV-B de 52 cm,   \nque se esloque ensoleado enughtyo.   \nSo,采访时 levam 3,0 s para passarem Completely um poI   \noalso. Se a velocidade do AGV-A é 2,0 cm/s, a velocidade do AGV-B delve se:",
+      "bbox": [
+        54,
+        313,
+        942,
+        373
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "(Textos e figura extraidos e adaptados de https://computerworld.com.br/innovacao/robotzacao-do-conosito-a-praticla/ e FMMG2012)",
+      "bbox": [
+        55,
+        373,
+        747,
+        384
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "a. \\(3,6\\mathrm{cm / s}\\)",
+      "bbox": [
+        61,
+        384,
+        173,
+        398
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "b. \\( {17},0\\mathrm{\\;{cm}}/\\mathrm{s} \\) .",
+      "bbox": [
+        63,
+        399,
+        182,
+        412
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "c. \\( {19.0}\\mathrm{\\;{cm}}/\\mathrm{s} \\) .",
+      "bbox": [
+        63,
+        414,
+        182,
+        427
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "d. \\(21,0~\\mathrm{cm / s}\\)",
+      "bbox": [
+        63,
+        429,
+        182,
+        442
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "e. NDA",
+      "bbox": [
+        63,
+        444,
+        137,
+        456
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        384,
+        182,
+        456
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        33,
+        478,
+        192,
+        499
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "No fim do mês de-março de 2021, e Embrae dinulgou as primeiras imagens do protótiço que Serbia uma alternativa ao helicópteros. De accordo com a fabricante, o drone móvido",
+      "bbox": [
+        199,
+        465,
+        940,
+        495
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "para a mobilitad des grandescentros urbanos. O'carron (1990) has shown that the OLO, sigha para vculeu elbrinfo de decolagem o esquez vario.",
+      "bbox": [
+        54,
+        511,
+        557,
+        555
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "text",
+      "text": "O drone para transporte personal que居住 de hélices, sentido oito na horizontal e dasunas na vertical, é serutilhada para serviços para mobilização urbana, operação de frotais, soluções de serviços e supportes. O projeté faz parte da Éve",
+      "bbox": [
+        54,
+        556,
+        556,
+        616
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        566,
+        497,
+        937,
+        614
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "Urban Air Mobility Solutions,Empresa que naseceu a EmbraerX (acceleradora de mercado da Embraer), dedicao a desenvolver o ecosystemista da mobilidade aerea urbana (UAM).",
+      "bbox": [
+        54,
+        615,
+        940,
+        645
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "No entanto, para que Hajía um voo en seguración, experimentos con drones são realizados, simulando condições ideaes de voo seguros. Para isto, não necessariasyardas condições referentes a forcas que atum secrete o drone. Por exemplo, em uma situação de voo horizontal, em que a velocidade do drone se estantenhaco constante:",
+      "bbox": [
+        53,
+        646,
+        942,
+        704
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "(Texts e figura estradas e adaptados de https://mundoconnectado.com.br/noticias/v17913-brasileira-embrcaer-a-presenta-super-drone-para-transporte-possao e https://app.estuda.com/questoes/?id=1350848)",
+      "bbox": [
+        54,
+        704,
+        942,
+        725
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "a. A soma de todas as forças externas que atuam no drone é não nula.",
+      "bbox": [
+        60,
+        726,
+        658,
+        740
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "b. A soma de todas as forças externas que atuam no drone é maior que seu peso.",
+      "bbox": [
+        60,
+        740,
+        748,
+        756
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "text",
+      "text": "c. A forca de sustentacao é maior que seu peso.",
+      "bbox": [
+        60,
+        756,
+        474,
+        770
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "text",
+      "text": "d. A soma de todas as forças externas que atuum no drone é nula.",
+      "bbox": [
+        60,
+        770,
+        624,
+        784
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "text",
+      "text": "e. A dificenca entre todas as forcas externas e o dobro do peso do drone.",
+      "bbox": [
+        60,
+        785,
+        680,
+        800
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        726,
+        748,
+        800
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        33,
+        816,
+        192,
+        837
+      ]
+    },
+    {
+      "id": 70,
+      "page": 1,
+      "category": "text",
+      "text": "A Feira Internacional de Róbstica Agrícola (Fira) acauqueada de forma virtual no在内的 feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de fiera de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira de feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da fiera da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira da feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das fiera das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira da feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das fiera das fiera das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feiraDas feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das faira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feir das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feiraDas feira Das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das feira das",
+      "bbox": [
+        199,
+        807,
+        942,
+        853
+      ]
+    },
+    {
+      "id": 71,
+      "page": 1,
+      "category": "text",
+      "text": "e remoção de ervas daninhas em hortas.",
+      "bbox": [
+        54,
+        853,
+        397,
+        867
+      ]
+    },
+    {
+      "id": 72,
+      "page": 1,
+      "category": "text",
+      "text": "Otro destaque e o robó Dot, que é voltado para lavuras de grande parte. Ele atua de forma autónoma, fazendo plantio, irrigação e aplicação de fertizantes e defensoivos.",
+      "bbox": [
+        53,
+        867,
+        940,
+        898
+      ]
+    },
+    {
+      "id": 73,
+      "page": 1,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        51,
+        926,
+        150,
+        986
+      ]
+    },
+    {
+      "id": 74,
+      "page": 1,
+      "category": "page_number",
+      "text": "1",
+      "bbox": [
+        895,
+        938,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "A fertilizacion do solo e considerada una das majoridades attività na agricultura. Os fertilizantes podem ser definidos como qualquer material organico ou inorganico (mineral), de origem natural ou sintética, que é adicondoao ao solo com visuao ao suprimamento decottos elementos essenciais ao crescento vegetal. Os fertilizantes ssem empregados, predominantly, na forma solda, contudo, podem ser aplicados quando na forma de soluções ou suspunsões. Os fertilizantes mais usados são do tipo NPK, fontes de nitrogenbio, fósofo e potassió, elementos essenciais as plantas. Aabela aparece possivel compostos usados nos fertilizantes do tipo NPK. Uma formula comumutilha e a NPK 4-30-16, que significa \\(4 \\%\\) de nitrogenbio total, \\(30 \\%\\) de \\(\\mathsf{P}_2\\mathsf{O}_5\\) e \\(16 \\%\\) de \\(\\mathsf{K}_2\\mathsf{O}_2\\) em massa. Assim, a quantidade, em mol, de P contida e",
+      "bbox": [
+        54,
+        42,
+        942,
+        163
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "100 g desse fertilizante é de, aproximamente:",
+      "bbox": [
+        55,
+        164,
+        457,
+        178
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "(Testos extrados e adaptations do https://conanal.org.brprograminas/infeculdamento/medico-e-cia-broque-plantar-e-rotura-rotura Internacional e https://educationalpulmes.com.br/educacao-cas-puc-mangins-2017-cerros-rotura-rotura)",
+      "bbox": [
+        54,
+        178,
+        674,
+        207
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "table",
+      "text": "<table><tr><td>FERTICANTELS\nEUSTRIPOND</td><td>POSSIBLE COMPOSITE MAXI UTILIZADOS</td></tr><tr><td rowspan=\"5\">NITROGENADON</td><td>sulfates de amino acids (NH3, NO3)2</td></tr><tr><td>sulfates of ammonium nitrate (NH4)2</td></tr><tr><td>urine (COP92)2</td></tr><tr><td>fibrillarin monomericity (NH3, P02)2</td></tr><tr><td>fibrillarin disodium (NH3, P02)2</td></tr><tr><td rowspan=\"6\">FOSFADON</td><td>superficial components (Ca3P2(NO3)2+2 CaSO42)2</td></tr><tr><td>superficial components (Ca3P2(NO3)2+2 CaSO42)2</td></tr><tr><td>echinolactin (NH2, P02, S02)2</td></tr><tr><td>familia de cross-contactor (Ca3P2, NO3)2</td></tr><tr><td>fibrillarin monomericity (NH3, P02)2</td></tr><tr><td>fibrillarin disodium (NH3, P02)2</td></tr><tr><td>POROSICO</td><td>chloride of sulfates of parabolite (NC) (4,6,7,8)2</td></tr></table>",
+      "bbox": [
+        177,
+        207,
+        507,
+        416
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "table_footnote",
+      "text": "(Extrado e adaptado de http://www.estudavest.com.br/questoes/?id=126896)",
+      "bbox": [
+        130,
+        416,
+        536,
+        427
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "text",
+      "text": "Dados:",
+      "bbox": [
+        696,
+        171,
+        761,
+        186
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "text",
+      "text": "Massas molares (g.mol-1)",
+      "bbox": [
+        697,
+        188,
+        920,
+        203
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "text",
+      "text": "\\(0 = 16,0\\)",
+      "bbox": [
+        698,
+        204,
+        772,
+        217
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "P=31,0",
+      "bbox": [
+        698,
+        218,
+        771,
+        231
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        619,
+        269,
+        825,
+        418
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "image_caption",
+      "text": "[Fonse:Adaptado de Freepik]",
+      "bbox": [
+        642,
+        421,
+        800,
+        433
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "a. 0,33",
+      "bbox": [
+        63,
+        427,
+        132,
+        440
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "b. 0,42",
+      "bbox": [
+        63,
+        442,
+        133,
+        455
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "c. 0,52",
+      "bbox": [
+        63,
+        458,
+        133,
+        470
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "d. 0,68",
+      "bbox": [
+        63,
+        472,
+        133,
+        485
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "text",
+      "text": "e. 0,78",
+      "bbox": [
+        63,
+        488,
+        133,
+        500
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        63,
+        427,
+        133,
+        500
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        34,
+        521,
+        192,
+        543
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "Na comunità de Zurique, dos robos travaillaboom construindo uma casa experimental. A ideal de esquecer a casa. O principalidade do esquecer é a sua propieto. O esquecer dos projetos pode ganhar等形式 differentes. Paredes curvas, por exemplo, deixem de se",
+      "bbox": [
+        200,
+        508,
+        941,
+        554
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "text",
+      "text": "um problema para os construutos e passam a ser uma instrucao gerada por um computador, que os先进技术 executam sem erros e com ultimasa velocidade. A institua de construcaocivil é uma das que está mais atrásada em relation à adocão de soluções digitais. Mas, experiências como esta mezzostream que, em breve, también esta institua de dar um salto com um enormo ganho de produtividade e com novas",
+      "bbox": [
+        54,
+        555,
+        941,
+        614
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        57,
+        615,
+        487,
+        803
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "image_caption",
+      "text": "(Fonte: Extrado de https://sites.psu.edu/khagubjjb/2013/09/19/ero-concrete-recavlingrobot/)",
+      "bbox": [
+        67,
+        806,
+        476,
+        827
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "title",
+      "text": "possibilidades.",
+      "bbox": [
+        495,
+        615,
+        623,
+        628
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "A'utilisation da roboticapilevantsem,ser��uldizao nosprote de materiais e operarios em uma obra.AEmpresa CN,utiluzou o robotico como atuador na forma de robotica,complemente constituito de umas platforma ligada por fios ideais.",
+      "bbox": [
+        495,
+        629,
+        941,
+        704
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "Considerando a figura, fora de escala e a atuação do",
+      "bbox": [
+        496,
+        704,
+        941,
+        719
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "text",
+      "text": "robo que esta simplizadora peso motor, umeworkador sende transporte para cima verticalmente com velocidade constante, e que a massa total do做工ar mais a",
+      "bbox": [
+        493,
+        720,
+        703,
+        838
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        714,
+        724,
+        922,
+        877
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "text",
+      "text": "plataforma éequal \\(300\\mathrm{kg}\\) e que o trabalho sobre es mtro de 6 m en 20 s o em Equipmento, pode-s affirmar que, a potencia desenvolidaleo motor do elevador, en watts, é equal a: (Descosildeperdasergenciae se necessario, adoge \\(= 10\\mathrm{m} / \\mathrm{s}^2\\)",
+      "bbox": [
+        54,
+        839,
+        703,
+        899
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "text",
+      "text": "(Textos extralados e adaptations de https://oardigital.com.br/2019/05/17/videos/robos-estao-chegando-a-construcao-civil/ e http://nsaulasparticulars.com.br/wp-content/uploads/2014/07/Potencia-Mecanica.pdf)",
+      "bbox": [
+        54,
+        899,
+        938,
+        920
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        51,
+        926,
+        150,
+        986
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        895,
+        938,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "a. 2000.",
+      "bbox": [
+        85,
+        42,
+        172,
+        56
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "b. 1800.",
+      "bbox": [
+        87,
+        58,
+        173,
+        71
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "text",
+      "text": "c. 1500.",
+      "bbox": [
+        87,
+        73,
+        173,
+        87
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "d. 900.",
+      "bbox": [
+        87,
+        88,
+        157,
+        101
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "e. 300.",
+      "bbox": [
+        87,
+        104,
+        157,
+        117
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        42,
+        173,
+        117
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        33,
+        135,
+        191,
+        157
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "A.), medico que o mundo se prepara para lutar contra a pandemia da COVID-19, testar a ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, e ser detectado, et al.",
+      "bbox": [
+        200,
+        124,
+        940,
+        171
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "resultados corretos e com segurar para garantir que a equipe do laboratório não se exista a roscios. Com sua capacidade de realizar asrespeadas de forma rápida e precise, os robos não ideais para此种o的方式来工作的。Os robos collaboratedicos, ou cobros, posseu bracos para os segores humanos, que são capazes de reconhecer a naturedo do algo que é querido. Ouvevem desenvolvimento as vezes tarefas de manipulação e de manusque de forma precise e incansamentevel.",
+      "bbox": [
+        53,
+        171,
+        940,
+        244
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "Dois robos ABB fazem parte do inovador系統a AlImuniquer que esta sentoedo uso para ajudar a acelerar o desenvolvimento de sua vacina eficacao que poderá ser usada para combater a propagation do virus da COVID-19 na Tâllândia. Desenvolvimento como parte de uma collaborationação entre a Faculdade de Engenharia na Mahidol University da Tâllândia e o Instituto de Tecnologia de Aeronármica do Brasil. A equipe do 1100 e o YuMéi® de dois robos para auxiliarismem com os principais tarefas relacionadas à testagem e desenvolvimento da vacina.",
+      "bbox": [
+        53,
+        245,
+        516,
+        410
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        526,
+        246,
+        933,
+        408
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "Outro suaência que ja precocupava o mundo antes da COVID-19 e para a qual ja fos produzindo uma vacina eficáze é a febre amaréola. A Tallândia e um dos paresis que exigem a vacinação contra febre amaréola para a entrada de viajantes brasileiros em seu territoiro. Porto, o tirasse可以使 focarto at a necessidade de apareção do Certificado Internacional de Vacinação e Profixia (CIVP), emitido pela Aníva para embarcer. O certificado é o documento que melhorá a vacinação contra a febre amaréola ou outras doçências e sua apareção é exigía na entrada desses paresis. Para que o vajeste本站e proteg头皮, é necessária que a vacinação soit realizada pelo menos das vezes antes da data da viagem. Referente à exigência de vacinação feita na Tallândia, pode-se affirmar que a imunização a ser aplicada é do tipo:",
+      "bbox": [
+        53,
+        411,
+        940,
+        530
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "(Textos e figura extruidos e adaptados de https://new.abb.com/new.asp?beta=7881robos-abb-vacina-contra-covid-19-taiandia e FMMG2012)",
+      "bbox": [
+        55,
+        530,
+        824,
+        540
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "a. passiva e natural, com introducao de anticorpos especialicos da doenca no organismo do viajante.",
+      "bbox": [
+        60,
+        541,
+        893,
+        555
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "text",
+      "text": "b. ativa e artificial, com introducao de antigenos especialicos da doença no organismo do viajante.",
+      "bbox": [
+        60,
+        556,
+        871,
+        571
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "text",
+      "text": "c. passiva e artificial, com introducao de antigenos espocificos da doenca no organismo do viajante.",
+      "bbox": [
+        60,
+        571,
+        896,
+        586
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "text",
+      "text": "d. passiva e artificial, com introducao de anticorpos especialicos da doenca no organismo do viajante.",
+      "bbox": [
+        60,
+        586,
+        899,
+        600
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "text",
+      "text": "e. ativa e natural, com introducao de antigenos especialicos da doenca no organismo do viajante.",
+      "bbox": [
+        60,
+        601,
+        866,
+        616
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        541,
+        899,
+        616
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        33,
+        635,
+        191,
+        657
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "text",
+      "text": "Em 2017, surgiu um novo misterio e um esquisto. A man who is a sociologist descobrirou o que parece.",
+      "bbox": [
+        200,
+        624,
+        507,
+        670
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "text",
+      "text": "ser um grande vazio dento da piramide de Queops, conecheica como a Grande Piramide de Gize.",
+      "bbox": [
+        54,
+        670,
+        506,
+        699
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "text",
+      "text": "No sé state por que a cavidade está ou se ela abrigou. Que é vao fazer o que não parace ser acessado? O que é a coisa que é feito?",
+      "bbox": [
+        54,
+        700,
+        506,
+        744
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "text",
+      "text": "Crientlitas japoneses et francises fizieran o anunciu (1990)  \nCintlitas japonicas, en el caro de los mandiros de Guez, nos arredados do Cairo, por dos días.",
+      "bbox": [
+        54,
+        746,
+        506,
+        790
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "text",
+      "text": "A quistão que surge agoné é como aprofundar as investigações.",
+      "bbox": [
+        54,
+        791,
+        506,
+        820
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "text",
+      "text": "Jean-Baptiste Mouret, do Inria, um instituto nacional francs para ciencia computing e matematica aplicada,IZATION time to have a idea of how to do a pesquita, mas primeiro as autoridades eigóneo.",
+      "bbox": [
+        53,
+        820,
+        938,
+        865
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "text",
+      "text": "\"A idea éazar um fuso minúsculo para explorar monumentos como esse. O Objective é introduir um robo de l'air de l'air bracou de 3 cm de diamétr. Estamos travaçando comPEGUENAS MAGNETICAS capazes de fazer\", ditte elle.",
+      "bbox": [
+        53,
+        865,
+        938,
+        911
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        518,
+        628,
+        957,
+        803
+      ]
+    },
+    {
+      "id": 134,
+      "page": 3,
+      "category": "footer",
+      "text": "OK",
+      "bbox": [
+        52,
+        926,
+        148,
+        986
+      ]
+    },
+    {
+      "id": 135,
+      "page": 3,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        894,
+        937,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 136,
+      "page": 4,
+      "category": "text",
+      "text": "O textualo animaWhats que a robotica poda auxiliar pesquas arqueologicas no Eigto e os misterios que envolm a construcao de sua piramides. No Eigto antigo, as piramides eram construidas como tumulos por os fava e os sua ferras. Na occasiona, dois fairos do antigo Eigto mandaram construiir os tumulos, ambos na forma de piramides quadrangulares regulares, null me sereno tempo plano, com os centros de sua bus das distinto 120m. Sabendo que os robos percorrem 15 cm/min e os daus piramides tem o mesmo volume, mas aerea de址 de uma delas e o robdo da址 de sua outa. Se durante a medicao o rob constatou que a piramide mais alta tem 100m de alte, entao a distancia entre os verticos superiores das daus piramides, em metros, é equal a:",
+      "bbox": [
+        53,
+        42,
+        942,
+        162
+      ]
+    },
+    {
+      "id": 137,
+      "page": 4,
+      "category": "text",
+      "text": "(Texts e figura extraloides e adaptados de https://www.bbc.com/Portuguese/geral-41847597 e https://www.stoodi.com.br/exercelos/insper/2011/question/insper-2011-dois-faraos-do-anigo-etgo-mandam-r construi-seurs.)",
+      "bbox": [
+        54,
+        162,
+        941,
+        183
+      ]
+    },
+    {
+      "id": 138,
+      "page": 4,
+      "category": "text",
+      "text": "a. 100.",
+      "bbox": [
+        63,
+        184,
+        132,
+        196
+      ]
+    },
+    {
+      "id": 139,
+      "page": 4,
+      "category": "text",
+      "text": "b. 120.",
+      "bbox": [
+        63,
+        198,
+        132,
+        211
+      ]
+    },
+    {
+      "id": 140,
+      "page": 4,
+      "category": "text",
+      "text": "c. 130.",
+      "bbox": [
+        63,
+        213,
+        132,
+        226
+      ]
+    },
+    {
+      "id": 141,
+      "page": 4,
+      "category": "text",
+      "text": "d. 150.",
+      "bbox": [
+        63,
+        228,
+        132,
+        241
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "e. 160.",
+      "bbox": [
+        63,
+        243,
+        132,
+        256
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        63,
+        184,
+        132,
+        256
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        33,
+        277,
+        192,
+        298
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "Muito pessoas desfrutam durante a velho beneficios dos��imentos acquiridos e aleguem em Enlanto, esta grande vantagement pode ter como antagonista a perda de relixos e de fora flosses.",
+      "bbox": [
+        200,
+        264,
+        940,
+        309
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "Foi, también, que, pensando nas dificuldades motoradas a populatedità obsa, Isao Wakabayashi deservevoir, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, que, that, o robot e um robot mecanico que usa o Hardware de um robó Rascal deservevolvimento para a Empresa Robinx.",
+      "bbox": [
+        53,
+        310,
+        942,
+        355
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "El conte con interface de reconheccion ciagra por Wakabayashi. O robó,重点领域 de reconhecer os alimentos, ainda os leva a Pessoa por instruções via commando de voz. O Meal Assistance System não está à venda. Mas,furutamente deve ser um ferramenta bastanteutil, não sou para idosos, mas quando para pessoas com deficiências.",
+      "bbox": [
+        53,
+        355,
+        941,
+        414
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "text",
+      "text": "Para o desenvolvimento do projeto fo considerao um groupe de idocos zu grafico abaixo apareca uma comparacao entre as porções que os idocos pesquisados consomem dosigroupes alimentares citados, bem como as porções recomendadas por nutricionistas. Baseado nos dati presentados no grafico e possivel conclusir que:",
+      "bbox": [
+        53,
+        414,
+        940,
+        474
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "text",
+      "text": "(Txtos e figura extralados e adaptados de https://www.techhudo.com.br/artigos/noticia/2011/03/braco-robotico-garante-boa-nutricao-de-idosos.html e https://app.estuda.com/questiones/?id=171252)",
+      "bbox": [
+        54,
+        474,
+        941,
+        495
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        146,
+        499,
+        445,
+        655
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "image_footnote",
+      "text": "(Extraldo de https://www.cps.sp.gov.br/publicacoes/reviaste/)",
+      "bbox": [
+        162,
+        660,
+        480,
+        671
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        591,
+        529,
+        925,
+        658
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "text",
+      "text": "a. o número de porções consumidas de oleo e gorduras é o triple do número recomendado.",
+      "bbox": [
+        60,
+        671,
+        825,
+        686
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "b. o número de porções consumidas de leite, queijo e igurte está acima do número recomendado.",
+      "bbox": [
+        60,
+        686,
+        886,
+        701
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "c. os idosos consomem doze poros de acucares e doces para cada pora de verduras e legumes consumida.",
+      "bbox": [
+        60,
+        701,
+        940,
+        729
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "text",
+      "text": "d. os idosos consomem, em quatre dos oitoroupos alimentares citados, mais do que o dobro do recomendado pelos nutricionistas.",
+      "bbox": [
+        60,
+        731,
+        940,
+        760
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "text",
+      "text": "e numero de porções consumidas de carros e ovos e de feijos e leguminosas supra o numero de porções consumidas de arroz, páis, massa, batae e mandicão.",
+      "bbox": [
+        60,
+        760,
+        940,
+        792
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        671,
+        940,
+        792
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        33,
+        808,
+        191,
+        830
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "text",
+      "text": "Apos o Reino Indico indicate que var permitir que carros autonimos possos rodar en sus manos. Otro vez, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros, o que odoce os carros.",
+      "bbox": [
+        200,
+        797,
+        940,
+        844
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "text",
+      "text": "esse processo em 2022, quando todos os testes que atualmente estao em progresso seraconcluidos.",
+      "bbox": [
+        53,
+        844,
+        908,
+        858
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "text",
+      "text": "Esse punto也有很多o praeciso ser aprovado por Alto Parliamento alemon, que vai levar en conta diversos otherutivos e funcores desses automóveis, como a real capacidade de transitar pelas estradas.",
+      "bbox": [
+        53,
+        858,
+        940,
+        890
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        51,
+        926,
+        148,
+        986
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        895,
+        938,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 165,
+      "page": 5,
+      "category": "text",
+      "text": "conhecidas como autohabitns, transporte publico de passagieriros, viagens de negócios e suprimentes, logisticus, obtência de entreprises que lidam o comércios de passagem de viagens entre centros médicos e casas de repouso.",
+      "bbox": [
+        55,
+        42,
+        495,
+        118
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "text",
+      "text": "Uma das和地区 depesquisa com a utilização de carros autónomicos e tornar o transito mais oriente e organizado. Um experimento realizado com dos carros autónomicos, CAR-A e CAR-B, teve os resultados obtidos os esocabrados em um plano cartesiano no que os eixos são graduados em",
+      "bbox": [
+        55,
+        118,
+        495,
+        208
+      ]
+    },
+    {
+      "id": 167,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        504,
+        43,
+        954,
+        209
+      ]
+    },
+    {
+      "id": 168,
+      "page": 5,
+      "category": "text",
+      "text": "quilometros. Os dos veiculos partarim juntos do ponto O, origem do plano cartesian \\(xOy\\). O CAR-A se deslocu horizontalmente para a direita, a uma velocidade de \\(4\\mathrm{km / h}\\). O CAR-B se deslocu verticalmente para cima, a velocidade de \\(3\\mathrm{km / h}\\). Decorados 2 horas em movement, as posicaoes de cada um dos veiculos podem ser dasicas quon coordenadas cartesian?",
+      "bbox": [
+        53,
+        208,
+        941,
+        267
+      ]
+    },
+    {
+      "id": 169,
+      "page": 5,
+      "category": "text",
+      "text": "(Texto extrado e adaptado de https://canaltech.com.br/carros/alemanha-libera-uso-de-carros-autonomos-em-vias-publicas-185674/)",
+      "bbox": [
+        55,
+        267,
+        751,
+        278
+      ]
+    },
+    {
+      "id": 170,
+      "page": 5,
+      "category": "text",
+      "text": "a. (8;0) e (0;6).",
+      "bbox": [
+        61,
+        278,
+        199,
+        293
+      ]
+    },
+    {
+      "id": 171,
+      "page": 5,
+      "category": "text",
+      "text": "b. (4;0) e (0;6).",
+      "bbox": [
+        62,
+        293,
+        198,
+        308
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "text",
+      "text": "c. (4;0) e (0;3).",
+      "bbox": [
+        62,
+        308,
+        198,
+        323
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "text",
+      "text": "d. (0;8) e (6;0).",
+      "bbox": [
+        62,
+        323,
+        198,
+        338
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "text",
+      "text": "e. (0;4) e (3;0).",
+      "bbox": [
+        62,
+        338,
+        198,
+        354
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        278,
+        199,
+        354
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        33,
+        374,
+        191,
+        396
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "Cama a Industria 4.0,emos cada vez mais robos dominando as linhas de producao na fabricacao de produits em massa.",
+      "bbox": [
+        200,
+        359,
+        940,
+        390
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "text",
+      "text": "Agora, o que o futuro breve nos reserva é proporcional o quando可达 vez maior com mequinas que saírhao do ambiente industrial e passaráu a fazer parte do meu cotidência.",
+      "bbox": [
+        200,
+        390,
+        940,
+        420
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "text",
+      "text": "de nosss casas para executaremalgumas tarefas e travaileharem na resolucao de problemas - a chamada Robotica de Servico!",
+      "bbox": [
+        53,
+        420,
+        942,
+        449
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "text",
+      "text": "Para esta novioda, o mercadopreciava de profesionalscapacidades para trabarneno no so no para ser producido. Para la perioda de 1995, el sector de la Universidad de Mexico, en el period de algorithmos para permit que estas MQasinaresaprenderadoforma independente(Machine Learning)",
+      "bbox": [
+        53,
+        450,
+        941,
+        495
+      ]
+    },
+    {
+      "id": 181,
+      "page": 5,
+      "category": "text",
+      "text": "Inteligência Artificial), por meio de linguagens de programação.",
+      "bbox": [
+        55,
+        495,
+        576,
+        510
+      ]
+    },
+    {
+      "id": 182,
+      "page": 5,
+      "category": "text",
+      "text": "Esteacrécimo de technologías no系統 productivo industrial ten por objetivo reducirestudos e增长率 de productividad. Sabendo que,umaindustry no primero anodefinmunção fabacúro 8000 unidividués de um determinado percento de productividad, está em Tecnología adáquirindo novas maquínicas e增长率 de produção a增长率在 \\(50\\%\\)",
+      "bbox": [
+        55,
+        510,
+        713,
+        585
+      ]
+    },
+    {
+      "id": 183,
+      "page": 5,
+      "category": "text",
+      "text": "Estima-se que este aumento percentual se repita nosproximos anos, garantindo um crescimento anual de \\(50\\%\\)",
+      "bbox": [
+        55,
+        585,
+        713,
+        615
+      ]
+    },
+    {
+      "id": 184,
+      "page": 5,
+      "category": "text",
+      "text": "Considere P a quantidade anual de produits fabricados no ano t defunamento da indústria.",
+      "bbox": [
+        55,
+        615,
+        713,
+        644
+      ]
+    },
+    {
+      "id": 185,
+      "page": 5,
+      "category": "text",
+      "text": "Se a estimativa for alcancada, qual é \\( \\text{se} \\) expression que determina um número de unidas produzidas P égonCREASE, para t1 (t maior ou maior é 1)?",
+      "bbox": [
+        55,
+        645,
+        713,
+        675
+      ]
+    },
+    {
+      "id": 186,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        722,
+        495,
+        935,
+        642
+      ]
+    },
+    {
+      "id": 187,
+      "page": 5,
+      "category": "image_caption",
+      "text": "(Fonto:Adaptado de Freepik)",
+      "bbox": [
+        748,
+        644,
+        905,
+        656
+      ]
+    },
+    {
+      "id": 188,
+      "page": 5,
+      "category": "text",
+      "text": "(Textio extrado e adapada de https://sequibio.com/brivibuladora/descpora para-a-rotica-e-intelligence-irreal-estudo-este-ao-as-professores-en-assessao) /descriptica.com.brigabartiem-tem-quesions/2019-segundo-dao-a-acestrico-de-tecnicas-no-sistema-producir-industrial-tem-para-educar-custos-e-",
+      "bbox": [
+        53,
+        675,
+        940,
+        704
+      ]
+    },
+    {
+      "id": 189,
+      "page": 5,
+      "category": "text",
+      "text": "a. \\(P(t) = 0.5\\cdot t^{-1} + 8000\\)",
+      "bbox": [
+        61,
+        705,
+        277,
+        719
+      ]
+    },
+    {
+      "id": 190,
+      "page": 5,
+      "category": "text",
+      "text": "b. \\(P(t) = 50,t^{-1} + 8000\\)",
+      "bbox": [
+        62,
+        719,
+        288,
+        736
+      ]
+    },
+    {
+      "id": 191,
+      "page": 5,
+      "category": "text",
+      "text": "c. \\(P(t) = 4000, t^{-1} + 8000\\)",
+      "bbox": [
+        62,
+        736,
+        311,
+        754
+      ]
+    },
+    {
+      "id": 192,
+      "page": 5,
+      "category": "text",
+      "text": "d. \\(P(t) = 8000.(0,5)^{t - 1}\\)",
+      "bbox": [
+        62,
+        754,
+        282,
+        771
+      ]
+    },
+    {
+      "id": 193,
+      "page": 5,
+      "category": "text",
+      "text": "e. \\(P(t) = 8000.(1,5)^{t - 1}\\)",
+      "bbox": [
+        62,
+        771,
+        282,
+        788
+      ]
+    },
+    {
+      "id": 194,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        705,
+        311,
+        788
+      ]
+    },
+    {
+      "id": 195,
+      "page": 5,
+      "category": "footer",
+      "text": "CBF",
+      "bbox": [
+        52,
+        926,
+        150,
+        986
+      ]
+    },
+    {
+      "id": 196,
+      "page": 5,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        895,
+        937,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 197,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        17,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 198,
+      "page": 6,
+      "category": "text",
+      "text": "I r ate o l laboratories e tirar um pouce de l'air. Il me a rapièd, que podera analasirmainis calos solides.",
+      "bbox": [
+        198,
+        42,
+        530,
+        88
+      ]
+    },
+    {
+      "id": 199,
+      "page": 6,
+      "category": "text",
+      "text": "o seu organismo do que você pode imaginar pode se tornar uma tarea um pouco mais sutil.",
+      "bbox": [
+        55,
+        88,
+        531,
+        118
+      ]
+    },
+    {
+      "id": 200,
+      "page": 6,
+      "category": "text",
+      "text": "Esticar o braco, espasar a agulhada e elesculos静静地 at que a coleta sera feita. Em geral, esse o e rito, mas ha能满足as que não tem familiaridade com a agulha ou a coleta. O que não é exatamente as melhores para a coleta.",
+      "bbox": [
+        55,
+        118,
+        531,
+        193
+      ]
+    },
+    {
+      "id": 201,
+      "page": 6,
+      "category": "text",
+      "text": "Quem sofre? Paciente e professional, que precise, de",
+      "bbox": [
+        55,
+        193,
+        531,
+        209
+      ]
+    },
+    {
+      "id": 202,
+      "page": 6,
+      "category": "text",
+      "text": "al algo但它, encontrar a melhor该怎么 para encontrar atràmoa. Agora, gratas a pesquisadas da Universidade Rutgers e do Hospital Mount Sinai esta tarea podera ser mais simples.",
+      "bbox": [
+        55,
+        208,
+        940,
+        239
+      ]
+    },
+    {
+      "id": 203,
+      "page": 6,
+      "category": "text",
+      "text": "Pensando en melhorar这条路 proceeding, oscientistas projetaram um robdo especialmente para realizar这种方式 de coleta. Segundo a declaracao da Universidade, o robdo \"teve um despenho tao bom ou melhor do que as pessoas, de acordo com o primaryo ensnoo clnico em humanos de um disposito automatizado de coleta e analise de sanguve\".",
+      "bbox": [
+        55,
+        239,
+        925,
+        299
+      ]
+    },
+    {
+      "id": 204,
+      "page": 6,
+      "category": "text",
+      "text": "O disponibile utiliza和技术e de ultrasom para localizar a melhor vea e orientar o posicimento da aquinha. Àlem disso, éxtasse mesmo um analisador de sangue. O Journal Theory apontou uma taxa de successo geral para os 31 participantes da pesquisa de \\(87\\%\\). No caso das 25 pessoas queinha veas de fácil accesso, a taxa para \\(97\\%\\).",
+      "bbox": [
+        55,
+        298,
+        940,
+        357
+      ]
+    },
+    {
+      "id": 205,
+      "page": 6,
+      "category": "text",
+      "text": "O robu也是一种 um protóti, mas es quasipasqueroscretiard que espeo se renderou endivas en un entorno de cateterismo intravenso, attenderimento de una ambulación ou aincha nas salas de emergência.",
+      "bbox": [
+        55,
+        358,
+        940,
+        404
+      ]
+    },
+    {
+      "id": 206,
+      "page": 6,
+      "category": "text",
+      "text": "Basedo na pesquisa, o laboratório de analisés clinicas experimental, optou em utilizes um robó ertermero para realização dos exames de sangue. Para meio dos exames de sangue, é fundamental a meio de meio de glouce de umesso. Os resultados são analisados de acordo com o quadopresentado.",
+      "bbox": [
+        55,
+        404,
+        466,
+        509
+      ]
+    },
+    {
+      "id": 207,
+      "page": 6,
+      "category": "text",
+      "text": "Um paciente ao fazer um exame de glicose nesse laboratoriescomprovou que estava com hyperglycemia. sua taxa de glicose era de \\(300\\mathrm{mg / dL}\\) O tratamento medico prescrito era",
+      "bbox": [
+        55,
+        509,
+        466,
+        569
+      ]
+    },
+    {
+      "id": 208,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        542,
+        52,
+        930,
+        196
+      ]
+    },
+    {
+      "id": 209,
+      "page": 6,
+      "category": "table",
+      "text": "<table><tr><td>Hipoglicemia</td><td>taxa de glucose menor ou igual a 70 mg/dL</td></tr><tr><td>Normal</td><td>taxa de glucose maior que 70 mg/dL e menor ou igual a 100 mg/dL</td></tr><tr><td>Pré-diabetes</td><td>taxa de glucose maior que 100 mg/dL e menor ou igual a 125 mg/dL</td></tr><tr><td>Diabetes Melito</td><td>taxa de glucose maior que 125 mg/dL e menor ou igual a 250 mg/dL</td></tr><tr><td>Hiperglicemia</td><td>taxa de glucose maior que 250 mg/dL</td></tr></table>",
+      "bbox": [
+        481,
+        407,
+        936,
+        558
+      ]
+    },
+    {
+      "id": 210,
+      "page": 6,
+      "category": "text",
+      "text": "composto de dualas etapas. Na首先是 eta para lo presente a reducao da taxa en \\(30\\%\\) e na segunde eta. Aixa que calcula sua taxa de giceo asse a das reducao , o paciente verificou que esta en quema category?",
+      "bbox": [
+        55,
+        569,
+        940,
+        613
+      ]
+    },
+    {
+      "id": 211,
+      "page": 6,
+      "category": "text",
+      "text": "[Texto e figura estradas de https://www.megasucroio.com.br/sa/bande-fern-113477.quesados-crisam-rojo-para-coler-sangue-ex-em-xames.htm e{descomplica.com.br/gabaneto-encen/questoes/2012/segundo-dia/umb Laboratorio-resilice-axames-en-que-e posivel-observar-taxa-de-glicose-de-uma-pessoa}]",
+      "bbox": [
+        55,
+        613,
+        940,
+        634
+      ]
+    },
+    {
+      "id": 212,
+      "page": 6,
+      "category": "text",
+      "text": "a. hipoglicemia.",
+      "bbox": [
+        61,
+        634,
+        205,
+        648
+      ]
+    },
+    {
+      "id": 213,
+      "page": 6,
+      "category": "text",
+      "text": "b. normal.",
+      "bbox": [
+        61,
+        649,
+        159,
+        661
+      ]
+    },
+    {
+      "id": 214,
+      "page": 6,
+      "category": "text",
+      "text": "c. pre-diabetes.",
+      "bbox": [
+        61,
+        663,
+        205,
+        677
+      ]
+    },
+    {
+      "id": 215,
+      "page": 6,
+      "category": "text",
+      "text": "d. diabetes melito.",
+      "bbox": [
+        61,
+        678,
+        225,
+        692
+      ]
+    },
+    {
+      "id": 216,
+      "page": 6,
+      "category": "text",
+      "text": "e. hiperglicemia.",
+      "bbox": [
+        61,
+        693,
+        211,
+        708
+      ]
+    },
+    {
+      "id": 217,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        634,
+        225,
+        708
+      ]
+    },
+    {
+      "id": 218,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTAO 11",
+      "bbox": [
+        17,
+        721,
+        191,
+        743
+      ]
+    },
+    {
+      "id": 219,
+      "page": 6,
+      "category": "text",
+      "text": "O terme \"robo\" fos开创amente não inico do século passado, derivado originalmente daulary tcheca \"robota\", que significa \"trabajo\". Mais recentemente, a Tecnologia de computación associada à robotica, baseada no conceito de Telepência e realidade virtual, tem sido aplicadas nos procedimentos cirurgicos. A aplicação de robés en cirurgia",
+      "bbox": [
+        200,
+        707,
+        940,
+        768
+      ]
+    },
+    {
+      "id": 220,
+      "page": 6,
+      "category": "text",
+      "text": "data de aproximately 35 años, experimentando um crescimento significativo nas ultímas dos días impulsiónado pelo advento de novas technologías e他们的 resultados. Àpesar de seu status breve comparado à longevidente da historia da cirugía, a technologia robólica À provó seu potenciços Beneficiços com visualização aprimorada, deestrema superior e maior precisão durante procedimentos minimamente invasivos. Atualmente, a platforma robólica mundiamente difundida e predominamente usada em cirugía é um Modelo Da Vinci da Empresa Intuive Surgical, e a evolução desso novo conceito de cirugía está longe de terminar,",
+      "bbox": [
+        55,
+        768,
+        621,
+        920
+      ]
+    },
+    {
+      "id": 221,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        631,
+        785,
+        938,
+        869
+      ]
+    },
+    {
+      "id": 222,
+      "page": 6,
+      "category": "image_caption",
+      "text": "(Extraido de:",
+      "bbox": [
+        653,
+        874,
+        735,
+        885
+      ]
+    },
+    {
+      "id": 223,
+      "page": 6,
+      "category": "image_footnote",
+      "text": "https://www.mundosvirtuales.com/cibernet.ca online/#html/dark-single.html",
+      "bbox": [
+        653,
+        886,
+        913,
+        910
+      ]
+    },
+    {
+      "id": 224,
+      "page": 6,
+      "category": "footer",
+      "text": "OK",
+      "bbox": [
+        52,
+        926,
+        147,
+        986
+      ]
+    },
+    {
+      "id": 225,
+      "page": 6,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        895,
+        938,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 226,
+      "page": 7,
+      "category": "text",
+      "text": "com inuores competodores potenciais no horizonte impulsionando que a腰部 de paradigmas. Nosso Objective de la presentancia es a historia e evolucao da cirugia roblica nos ultimos anos, bem como apressimando suspezias futurarias.",
+      "bbox": [
+        54,
+        42,
+        942,
+        88
+      ]
+    },
+    {
+      "id": 227,
+      "page": 7,
+      "category": "text",
+      "text": "Segundo René Remond, 'E impôssivel comprehièn de seu tempo para干什么 não o passado. Ser uma coisa de algo é algo?' (1955), 133-134.  \n[1955] Segundo René, in Bittencourt, C., Ensão da Historia. Fundamentos e métodos. São Paulo: Cortez. 2004. p. 155.]",
+      "bbox": [
+        54,
+        87,
+        942,
+        134
+      ]
+    },
+    {
+      "id": 228,
+      "page": 7,
+      "category": "text",
+      "text": "A historiya tem um parater instrumental para a comprehensao das experiencias sociais, culturais, tecologicas, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais, sociais",
+      "bbox": [
+        54,
+        133,
+        941,
+        178
+      ]
+    },
+    {
+      "id": 229,
+      "page": 7,
+      "category": "text",
+      "text": "(Texto extrado e adaptado de https://www.scielo.br/rcbc/a4qVcw3NC75jPnTkghwhSWU?lang=pt e UERN2015)",
+      "bbox": [
+        55,
+        177,
+        658,
+        188
+      ]
+    },
+    {
+      "id": 230,
+      "page": 7,
+      "category": "text",
+      "text": "a. O envisño laundry no apenas contribui para o desenvolvimento da consciência, mas dà suporte à construção da和个人idade de individuo.",
+      "bbox": [
+        60,
+        188,
+        941,
+        218
+      ]
+    },
+    {
+      "id": 231,
+      "page": 7,
+      "category": "text",
+      "text": "b. No decorrer dos periodos históricos, a fundamentalização teorária que incita a obediência às leis foi a principal contribuição da-history na formação citadada.",
+      "bbox": [
+        60,
+        218,
+        942,
+        248
+      ]
+    },
+    {
+      "id": 232,
+      "page": 7,
+      "category": "text",
+      "text": "c. A historia, en una visua contemporénea, passue a ter como prioridade o estudo do presente,ndo a passado um caparé arcaico e antiquado, dispensável a pesquisaética historica.",
+      "bbox": [
+        60,
+        248,
+        941,
+        279
+      ]
+    },
+    {
+      "id": 233,
+      "page": 7,
+      "category": "text",
+      "text": "d. A historia como ciencia-basica e fundamentally teorica inside de forma relativa e teneu nas atividades praticas da vida humana, tendo, portanto, neutralidade em relationa a politica.",
+      "bbox": [
+        60,
+        279,
+        941,
+        309
+      ]
+    },
+    {
+      "id": 234,
+      "page": 7,
+      "category": "text",
+      "text": "e. A historia na atualida, passou a ter como priorida o estudo somente do emprego de mão de obra especializada, quando ao passado o caracter arcaico e antiquado.",
+      "bbox": [
+        60,
+        308,
+        941,
+        339
+      ]
+    },
+    {
+      "id": 235,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        188,
+        942,
+        339
+      ]
+    },
+    {
+      "id": 236,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTão 12",
+      "bbox": [
+        17,
+        353,
+        192,
+        376
+      ]
+    },
+    {
+      "id": 237,
+      "page": 7,
+      "category": "text",
+      "text": "A Companhia de Energia Elétrica de Minas Gerais e do Alto 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2051, 2052, 2053, 2054, 2055, 2056, 2057, 2058, 2059, 2060, 2061, 2062, 2063, 2064, 2065, 2066, 2067, 2068, 2069, 2070, 2071, 2072, 2073, 2074, 2075, 2076, 2077, 2078, 2079, 2080, 2081, 2082, 2083, 2084, 2085, 2086, 2087, 2088, 2089, 2090, 2091, 2092, 2093, 2094, 2095, 2096, 2097, 2098, 2099, 2100, 2101, 2102, 2103, 2104, 2105, 2106, 2107, 2108, 2109, 2110, 2111, 2112, 2113, 2114, 2115, 2116, 2117, 2118, 2119, 2120, 2121, 2122, 2123, 2124, 2125, 2126, 2127, 2128, 2129, 2130, 2131, 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2148, 2149, 2150, 2151, 2152, 2153, 2154, 2155, 2156, 2157, 2158, 2159, 2160, 2161, 2162, 2163, 2164, 2165, 2166, 2167, 2168, 2169, 2170, 2171, 2172, 2173, 2174, 2175, 2176, 2177, 2178, 2179, 2180, 2181, 2182, 2183, 2184, 2185, 2186, 2187, 2188, 2189, 2190, 2191, 2192, 2193, 2194, 2195, 2196, 2197, 2198, 2199, 2200, 2201, 2202, 2203, 2204, 2205, 2206, 2207, 2208, 2209, 2210, 2211, 2212, 2213, 2214, 2215, 2216, 2217, 2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229, 2230, 2231, 2232, 2233, 2234, 2235, 2236, 2237, 2238, 2239, 2240, 2241, 2242, 2243, 2244, 2245, 2246, 2247, 2248, 2249, 2250, 2251, 2252, 2253, 2254, 2255, 2256, 2257, 2258, 2259, 2260, 2261, 2262, 2263, 2264, 2265, 2266, 2267, 2268, 2269, 2270, 2271, 2272, 2273, 2274, 2275, 2276, 2277, 2278, 2279, 2280, 2281, 2282, 2283, 2284, 2285, 2286, 2287, 2288, 2289, 2290, 2291, 2292, 2293, 2294, 2295, 2296, 2297, 2298, 2299, 2300, 2301, 2302, 2303, 2304, 2305, 2306, 2307, 2308, 2309, 2310, 2311, 2312, 2313, 2314, 2315, 2316, 2317, 2318, 2319, 2320, 2321, 2322, 2323, 2324, 2325, 2326, 2327, 2328, 2329, 2330, 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2339, 2340, 2341, 2342, 2343, 2344, 2345, 2346, 2347, 2348, 2349, 2350, 2351, 2352, 2353, 2354, 2355, 2356, 2357, 2358, 2359, 2360, 2361, 2362, 2363, 2364, 2365, 2366, 2367, 2368, 2369, 2370, 2371, 2372, 2373, 2374, 2375, 2376, 2377, 2378, 2379, 2380, 2381, 2382, 2383, 2384, 2385, 2386, 2387, 2388, 2389, 2390, 2391, 2392, 2393, 2394, 2395, 2396, 2397, 2398, 2399, 2400, 2401, 2402, 2403, 2404, 2405, 2406, 2407, 2408, 2409, 2410, 2411, 2412, 2413, 2414, 2415, 2416, 2417, 2418, 2419, 2420, 2421, 2422, 2423, 2424, 2425, 2426, 2427, 2428, 2429, 2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437, 2438, 2439, 2440, 2441, 2442, 2443, 2444, 2445, 2446, 2447, 2448, 2449, 2450, 2451, 2452, 2453, 2454, 2455, 2456, 2457, 2458, 2459, 2460, 2461, 2462, 2463, 2464, 2465, 2466, 2467, 2468, 2469, 2470, 2471, 2472, 2473, 2474, 2475, 2476, 2477, 2478, 2479, 2480, 2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2489, 2490, 2491, 2492, 2493, 2494, 2495, 2496, 2497, 2498, 2499, 2500, 2501, 2502, 2503, 2504, 2505, 2506, 2507, 2508, 2509, 2510, 2511, 2512, 2513, 2514, 2515, 2516, 2517, 2518, 2519, 2520, 2521, 2522, 2523, 2524, 2525, 2526, 2527, 2528, 2529, 2530, 2531, 2532, 2533, 2534, 2535, 2536, 2537, 2538, 2539, 2540, 2541, 2542, 2543, 2544, 2545, 2546, 2547, 2548, 2549, 2550, 2551, 2552, 2553, 2554, 2555, 2556, 2557, 2558, 2559, 2560, 2561, 2562, 2563, 2564, 2565, 2566, 2567, 2568, 2569, 2570, 2571, 2572, 2573, 2574, 2575, 2576, 2577, 2578, 2579, 2580, 2581, 2582, 2583, 2584, 2585, 2586, 2587, 2588, 2589, 2590, 2591, 2592, 2593, 2594, 2595, 2596, 2597, 2598, 2599, 2600, 2601, 2602, 2603, 2604, 2605, 2606, 2607, 2608, 2609, 2610, 2611, 2612, 2613, 2614, 2615, 2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627, 2628, 2629, 2630, 2631, 2632, 2633, 2634, 2635, 2636, 2637, 2638, 2639, 2640, 2641, 2642, 2643, 2644, 2645, 2646, 2647, 2648, 2649, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, 2658, 2659, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2680, 2681, 2682, 2683, 2684, 2685, 2686, 2687, 2688, 2689, 2690, 2691, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, 2700, 2701, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, 2710, 2711, 2712, 2713, 2714, 2715, 2716, 2717, 2718, 2719, 2720, 2721, 2722, 2723, 2724, 2725, 2726, 2727, 2728, 2729, 2730, 2731, 2732, 2733, 2734, 2735, 2736, 2737, 2738, 2739, 2740, 2741, 2742, 2743, 2744, 2745, 2746, 2747, 2748, 2749, 2750, 2751, 2752, 2753, 2754, 2755, 2756, 2757, 2758, 2759, 2760, 2761, 2762, 2763, 2764, 2765, 2766, 2767, 2768, 2769, 2770, 2771, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2779, 2780, 2781, 2782, 2783, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, 2802, 2803, 2804, 2805, 2806, 2807, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835, 2836, 2837, 2838, 2839, 2840, 2841, 2842, 2843, 2844, 2845, 2846, 2847, 2848, 2849, 2850, 2851, 2852, 2853, 2854, 2855, 2856, 2857, 2858, 2859, 2860, 2861, 2862, 2863, 2864, 2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2892, 2893, 2894, 2895, 2896, 2897, 2898, 2899, 2900, 2901, 2902, 2903, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, 2922, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2930, 2931, 2932, 2933, 2934, 2935, 2936, 2937, 2938, 2939, 2940, 2941, 2942, 2943, 2944, 2945, 2946, 2947, 2948, 2949, 2950, 2951, 2952, 2953, 2954, 2955, 2956, 2957, 2958, 2959, 2960, 2961, 2962, 2963, 2964, 2965, 2966, 2967, 2968, 2969, 2970, 2971, 2972, 2973, 2974, 2975, 2976, 2977, 2978, 2979, 2980, 2981, 2982, 2983, 2984, 2985, 2986, 2987, 2988, 2989, 2990, 2991, 2992, 2993, 2994, 2995, 2996, 2997, 2998, 2999, 2900, 2901, 2902, 2903, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, 2912, 2913, 2914, 2915,",
+      "bbox": [
+        200,
+        345,
+        557,
+        390
+      ]
+    },
+    {
+      "id": 238,
+      "page": 7,
+      "category": "text",
+      "text": "nuclear de Fukushima, que fosit destruldur por um tsunami em 2011.",
+      "bbox": [
+        55,
+        391,
+        556,
+        419
+      ]
+    },
+    {
+      "id": 239,
+      "page": 7,
+      "category": "text",
+      "text": "O rob è追问 o combustivel derretido, analisando-o para determinar se estáioso o sufficiente para ser retirado durante una missedura futura, segundo informacoes do portal Ars Tecnica.",
+      "bbox": [
+        55,
+        420,
+        556,
+        479
+      ]
+    },
+    {
+      "id": 240,
+      "page": 7,
+      "category": "text",
+      "text": "Fukushima não sera totalmente desormonada para que 30% de los Estados Unidos se quitterán. En general, no se determinar como los otheros robos e Tecnologías irán limpar la",
+      "bbox": [
+        55,
+        481,
+        567,
+        526
+      ]
+    },
+    {
+      "id": 241,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        567,
+        348,
+        933,
+        492
+      ]
+    },
+    {
+      "id": 242,
+      "page": 7,
+      "category": "image_caption",
+      "text": "(Extraidode:htp:/www.simplyinfo.org/?p=16089)",
+      "bbox": [
+        584,
+        494,
+        885,
+        507
+      ]
+    },
+    {
+      "id": 243,
+      "page": 7,
+      "category": "text",
+      "text": "Um ano deposito de terroremo seguido de tsunami que atingui o Japão em 11 de feço de 2011, causando o compromitamento da usina de Fukushima, a energia nuclear voltar to ser detabate peliscientias, ecologistias e pena sociedadecivil que vem destanciar vangantes e desvantagens este tipo de energia. Considerando a utilização do rob em usinas nucleares, seobre a energia induc e correto affirmar que a energia do esquecer é a principal parte do energia.",
+      "bbox": [
+        54,
+        526,
+        942,
+        595
+      ]
+    },
+    {
+      "id": 244,
+      "page": 7,
+      "category": "text",
+      "text": "a. require Grandes espacios e estoques para seu funciona, mas sua Tecnologia é barata e acessivel a todos os País.",
+      "bbox": [
+        60,
+        595,
+        941,
+        625
+      ]
+    },
+    {
+      "id": 245,
+      "page": 7,
+      "category": "text",
+      "text": "b. provoca grandes impactos sobre a biosfera e necessita de grandes estocques de combustivel para produir energia.",
+      "bbox": [
+        60,
+        625,
+        942,
+        655
+      ]
+    },
+    {
+      "id": 246,
+      "page": 7,
+      "category": "text",
+      "text": "c. apareza minima interferrencia no efeito estufa, mas um de seuicos maioros problemas é o destino final do lixo nuclear.",
+      "bbox": [
+        60,
+        655,
+        941,
+        684
+      ]
+    },
+    {
+      "id": 247,
+      "page": 7,
+      "category": "text",
+      "text": "d. é considerada energia limpa e renovave, mas depende da sazonalidade climática e dos efeitos de fenomenos tectonicos.",
+      "bbox": [
+        60,
+        684,
+        941,
+        714
+      ]
+    },
+    {
+      "id": 248,
+      "page": 7,
+      "category": "text",
+      "text": "e. consomé ou urain, que é considerado abundente en todos os continents, mas produz gazes de enxofre é particulados.",
+      "bbox": [
+        60,
+        714,
+        941,
+        746
+      ]
+    },
+    {
+      "id": 249,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        595,
+        942,
+        746
+      ]
+    },
+    {
+      "id": 250,
+      "page": 7,
+      "category": "footer",
+      "text": "CBF",
+      "bbox": [
+        52,
+        926,
+        150,
+        986
+      ]
+    },
+    {
+      "id": 251,
+      "page": 7,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        895,
+        937,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 252,
+      "page": 8,
+      "category": "title",
+      "text": "QUESTão 13",
+      "bbox": [
+        19,
+        55,
+        191,
+        78
+      ]
+    },
+    {
+      "id": 253,
+      "page": 8,
+      "category": "text",
+      "text": "Text 1: O uso da Intelligência Artificial (IA) vem se tornando relevante para as quostões de leitura poetica. A partir de pesquisas que aplicam a IA em同伴e a Literatura e a Ciência Cognitiva para se possivel.",
+      "bbox": [
+        200,
+        42,
+        658,
+        102
+      ]
+    },
+    {
+      "id": 254,
+      "page": 8,
+      "category": "text",
+      "text": "desenvolvimento de mecanismos que sejam capazes de sirvem de base para o desenvolvimento de leitores电子ricos, geradores de-textos impressos a partir de fala e ate mesmo robos que contenthorias, como alegoria, que se estendem a base de um esgotinho. O estigmata indica um processo de eschalia e que pressupo quando umprocesso de averaprenderiz, a pesquisa foca o trabalho de eschrootsdo século XIX e contemporaneos de obr da era digital e, sobretudo, tento responder a质疑do de se posivel, estaesanalica, que computadosposer pensar e, entao, contar historiaria.",
+      "bbox": [
+        60,
+        103,
+        658,
+        251
+      ]
+    },
+    {
+      "id": 255,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        682,
+        43,
+        924,
+        219
+      ]
+    },
+    {
+      "id": 256,
+      "page": 8,
+      "category": "image_caption",
+      "text": "(Extrado de https://hyeduca.com.br/queram-samos/)",
+      "bbox": [
+        657,
+        223,
+        924,
+        235
+      ]
+    },
+    {
+      "id": 257,
+      "page": 8,
+      "category": "text",
+      "text": "(Texto adaptado de http://www.sied-enped2016.ead.uifscar.br/ojs/index.php/2016/article/view/2133)",
+      "bbox": [
+        61,
+        252,
+        584,
+        263
+      ]
+    },
+    {
+      "id": 258,
+      "page": 8,
+      "category": "text",
+      "text": "Text 2: Poeta artificial: Jack Hopkins ou Douwe Kiela, da Universidade de Cambridge, no Reino Unido, tremaram a rede neutra usando mililiernes de versusos de posito dos malos ouros辕antes eposos e de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas de umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas daumas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus da umus das umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da Umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos das umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas das umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas do umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas daUmas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umass da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas dasumas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas daumes da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas doumas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da umas da Umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umus da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos do umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da Umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos das umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos daumos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umios da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos DA umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos daUmos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umhos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos Da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da unos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umo da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos dumum da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos da umos derum",
+      "bbox": [
+        60,
+        263,
+        940,
+        307
+      ]
+    },
+    {
+      "id": 259,
+      "page": 8,
+      "category": "text",
+      "text": "Os primeiros Resultados foram entusiasmadores - ou preocupantes, dependendo do punto de vista. Os versos compostos pelo programa construemgoranearnangar Various voluntaros, fazenda-ossangerque estavam tendo versus do um poeta humano, em vez da saida algoprograma de inteligencia artificial e de programa de ataque do meio. O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio? O que é aleguirou a meio?",
+      "bbox": [
+        60,
+        307,
+        942,
+        382
+      ]
+    },
+    {
+      "id": 260,
+      "page": 8,
+      "category": "text",
+      "text": "[Texto xedr adapto de https://www.inovacactocnogica.com.br/noticias/noticia.php?artigo-progina-intelligence-artificial-faz-poesia-lanca- preocupacoesBld=010150170914Y.LZgMVKhPY)",
+      "bbox": [
+        60,
+        382,
+        940,
+        403
+      ]
+    },
+    {
+      "id": 261,
+      "page": 8,
+      "category": "text",
+      "text": "Sobre a poesia, é correto affirmar:",
+      "bbox": [
+        61,
+        403,
+        342,
+        417
+      ]
+    },
+    {
+      "id": 262,
+      "page": 8,
+      "category": "text",
+      "text": "a. A poesía é um@genero literário comcharacteristicamente,bem definidas,portanto,éposvil identificá-la,. fácilmente na literatura.",
+      "bbox": [
+        61,
+        416,
+        940,
+        445
+      ]
+    },
+    {
+      "id": 263,
+      "page": 8,
+      "category": "text",
+      "text": "b. A poesía se maye ser encontrar en diversas manifestaciones artisclas, como na música, na literatura, na fotografia e até también en situaciones corriqueras denoxo cotidiano.",
+      "bbox": [
+        61,
+        447,
+        940,
+        476
+      ]
+    },
+    {
+      "id": 264,
+      "page": 8,
+      "category": "text",
+      "text": "C. A poesía é exclusividade da literatura e não pode ser encontrará en课外unistações artisticas, como a pintura ou a música ou no engajamento de palavras de discusso de denunciía e de combatie de politico.",
+      "bbox": [
+        61,
+        477,
+        940,
+        522
+      ]
+    },
+    {
+      "id": 265,
+      "page": 8,
+      "category": "text",
+      "text": "d. A poesía presenta forma fixe e não admite variações em sua estrutura. Nos moldes clássicos deve sempre contemplarial que é belo e agrávelé.",
+      "bbox": [
+        60,
+        522,
+        940,
+        552
+      ]
+    },
+    {
+      "id": 266,
+      "page": 8,
+      "category": "text",
+      "text": "e. A poetíaSEOe se de differentes génores de acordo con sua estrutura e temática, entre eles génores esto o soneto, o haicai, o madrigal, a ode, o hino e ecologia.",
+      "bbox": [
+        60,
+        552,
+        940,
+        583
+      ]
+    },
+    {
+      "id": 267,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        416,
+        940,
+        583
+      ]
+    },
+    {
+      "id": 268,
+      "page": 8,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        17,
+        598,
+        191,
+        623
+      ]
+    },
+    {
+      "id": 269,
+      "page": 8,
+      "category": "text",
+      "text": "Ancient dreams of intelligent machines: 3,000 years of robots",
+      "bbox": [
+        218,
+        589,
+        599,
+        619
+      ]
+    },
+    {
+      "id": 270,
+      "page": 8,
+      "category": "text",
+      "text": "The French philosopher René Descartes was",
+      "bbox": [
+        199,
+        620,
+        616,
+        635
+      ]
+    },
+    {
+      "id": 271,
+      "page": 8,
+      "category": "text",
+      "text": "reputedly fond of automata: they inspired his view that living things were biological machines that function like clockwork. Less known is a strange story that began to circulate after the philosopher's famous work on automata. The work was a work that had been intended of scarlet fever at the age of five. According to the tale, a distraught Descartes had a clockwork Francine made: a walking, talking simulcam. When Queen Christina invited the philosopher to Sweden in 1649, he sailed with the automaton concealed in a balloon of water. The automaton was a real automaton, but the mechanical child sat up to greet them, the horrified crew threw it",
+      "bbox": [
+        60,
+        635,
+        617,
+        784
+      ]
+    },
+    {
+      "id": 272,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        625,
+        594,
+        945,
+        761
+      ]
+    },
+    {
+      "id": 273,
+      "page": 8,
+      "category": "image_caption",
+      "text": "(Extraido dethhttps://www.hisour.com/pt/humanoidrobot-43044/)",
+      "bbox": [
+        635,
+        761,
+        933,
+        782
+      ]
+    },
+    {
+      "id": 274,
+      "page": 8,
+      "category": "text",
+      "text": "overboard. The story is probably apocryphal. But it sums up the hopes and fears that have been associated with human-like machines for nearly three millennia. Those who build such devices do so in the hope that they will overcome natural limits – in Descartes's case, death itself. But this very unnaturalness terrifies and represses others. In our era of advanced robotics and artificial intelligence (AI), those polarized responses persist, with pundits and the public applauding or warning against each advance. Digging into the deep history of intelligent machines, both real and imagined, we see how these attitudes evolved: from fantasies of trusty mechanical helpers to fears that runaway advances in technology might lead to creatures that supersede humanity itself.",
+      "bbox": [
+        60,
+        784,
+        942,
+        905
+      ]
+    },
+    {
+      "id": 275,
+      "page": 8,
+      "category": "text",
+      "text": "According to the text, it is correct to say that René Descartes:",
+      "bbox": [
+        61,
+        905,
+        568,
+        920
+      ]
+    },
+    {
+      "id": 276,
+      "page": 8,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        927,
+        147,
+        986
+      ]
+    },
+    {
+      "id": 277,
+      "page": 8,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        895,
+        938,
+        910,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 278,
+      "page": 9,
+      "category": "text",
+      "text": "(Textos extraios e adaplados de https:/www.nature.com/articles/d41586-018-05773-y e https:/www.qconcuros.com/questoes-militares/questoes/fa2d4451-f2)",
+      "bbox": [
+        55,
+        40,
+        898,
+        53
+      ]
+    },
+    {
+      "id": 279,
+      "page": 9,
+      "category": "text",
+      "text": "a. had a long lasting and untroubled relationship with his daughter.",
+      "bbox": [
+        60,
+        53,
+        619,
+        67
+      ]
+    },
+    {
+      "id": 280,
+      "page": 9,
+      "category": "text",
+      "text": "b. decided to build a mechanical clock.",
+      "bbox": [
+        60,
+        68,
+        393,
+        81
+      ]
+    },
+    {
+      "id": 281,
+      "page": 9,
+      "category": "text",
+      "text": "c. was enthusiastic about moving mechanical devices.",
+      "bbox": [
+        60,
+        83,
+        519,
+        97
+      ]
+    },
+    {
+      "id": 282,
+      "page": 9,
+      "category": "text",
+      "text": "d. used to tell people a story about his daughter Francine.",
+      "bbox": [
+        60,
+        98,
+        547,
+        112
+      ]
+    },
+    {
+      "id": 283,
+      "page": 9,
+      "category": "text",
+      "text": "e. taught his daughter to sit and greet people like a robot.",
+      "bbox": [
+        60,
+        113,
+        545,
+        128
+      ]
+    },
+    {
+      "id": 284,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        53,
+        619,
+        128
+      ]
+    },
+    {
+      "id": 285,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 15",
+      "bbox": [
+        17,
+        149,
+        192,
+        171
+      ]
+    },
+    {
+      "id": 286,
+      "page": 9,
+      "category": "text",
+      "text": "Arduino é umaforma de eletrolica aberta para acriação de prototypos baseados em software e hardware livres, flexiêves e fácil de uso. Ou Arduino pode adquirar informação de ambientra透过u das vezes pinos de entrada, para址uma minhaCompleta gama de senores potec ser造血. Para othero, o Arduino pode atrair no ambiente controling Luzes.",
+      "bbox": [
+        198,
+        134,
+        942,
+        194
+      ]
+    },
+    {
+      "id": 287,
+      "page": 9,
+      "category": "text",
+      "text": "motores ou autres atuadores. Os Campos de atuacao para o controle de sistemas que imenos, podendo ter aplicacoes na area de impressio 3D, robtica, engenharia de transporte, engenharia agronomicha,",
+      "bbox": [
+        60,
+        195,
+        941,
+        225
+      ]
+    },
+    {
+      "id": 288,
+      "page": 9,
+      "category": "text",
+      "text": "musical, moda e tsantas除外. O microcontrolador da placca Arduino é programado mediante uma linguagem de programação,的基础上在Wiring, e o ambiente de desenvolvimento (IDE) está baseado em Processing, uma linguagem de programação de)cógo aberto. Emrelationship a programação do Arduino, a coluna da esquerda aparestava as trás partes principalis em que um programa pode ser dividido e a da direita,exampledouma das partes.Enumerarea coluna da direita de acordo com seu tipo, presente na coluna da esquerda:",
+      "bbox": [
+        60,
+        226,
+        631,
+        346
+      ]
+    },
+    {
+      "id": 289,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        645,
+        233,
+        936,
+        380
+      ]
+    },
+    {
+      "id": 290,
+      "page": 9,
+      "category": "text",
+      "text": "1-Estrutura",
+      "bbox": [
+        85,
+        352,
+        187,
+        367
+      ]
+    },
+    {
+      "id": 291,
+      "page": 9,
+      "category": "text",
+      "text": "（）pinMode()",
+      "bbox": [
+        267,
+        352,
+        382,
+        368
+      ]
+    },
+    {
+      "id": 292,
+      "page": 9,
+      "category": "text",
+      "text": "2-Variaveis",
+      "bbox": [
+        86,
+        368,
+        188,
+        380
+      ]
+    },
+    {
+      "id": 293,
+      "page": 9,
+      "category": "text",
+      "text": "（）while",
+      "bbox": [
+        267,
+        369,
+        341,
+        381
+      ]
+    },
+    {
+      "id": 294,
+      "page": 9,
+      "category": "text",
+      "text": "3-Funcoes",
+      "bbox": [
+        86,
+        382,
+        182,
+        397
+      ]
+    },
+    {
+      "id": 295,
+      "page": 9,
+      "category": "text",
+      "text": "（）HIGH|LOW",
+      "bbox": [
+        267,
+        382,
+        402,
+        397
+      ]
+    },
+    {
+      "id": 296,
+      "page": 9,
+      "category": "text",
+      "text": "Assinale a sequência correta:",
+      "bbox": [
+        60,
+        404,
+        309,
+        419
+      ]
+    },
+    {
+      "id": 297,
+      "page": 9,
+      "category": "text",
+      "text": "a. 3, 1, 2",
+      "bbox": [
+        63,
+        420,
+        150,
+        433
+      ]
+    },
+    {
+      "id": 298,
+      "page": 9,
+      "category": "text",
+      "text": "b. 2, 3, 1",
+      "bbox": [
+        63,
+        435,
+        147,
+        449
+      ]
+    },
+    {
+      "id": 299,
+      "page": 9,
+      "category": "text",
+      "text": "c. 3,2,1",
+      "bbox": [
+        63,
+        450,
+        147,
+        463
+      ]
+    },
+    {
+      "id": 300,
+      "page": 9,
+      "category": "text",
+      "text": "d. 2,1,3",
+      "bbox": [
+        63,
+        464,
+        149,
+        478
+      ]
+    },
+    {
+      "id": 301,
+      "page": 9,
+      "category": "text",
+      "text": "e. NDA",
+      "bbox": [
+        63,
+        480,
+        136,
+        493
+      ]
+    },
+    {
+      "id": 302,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        63,
+        420,
+        150,
+        493
+      ]
+    },
+    {
+      "id": 303,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 16",
+      "bbox": [
+        17,
+        509,
+        192,
+        532
+      ]
+    },
+    {
+      "id": 304,
+      "page": 9,
+      "category": "text",
+      "text": "Ascelulas de manufatura de la molida de la molida de las desenvoluntas y projejadas",
+      "bbox": [
+        198,
+        501,
+        440,
+        547
+      ]
+    },
+    {
+      "id": 305,
+      "page": 9,
+      "category": "text",
+      "text": "junto as fabricantes da area de Automatacione Industrial. Considerando planejamento e amanutenacion de楼宇, os robos industrialsdevem ser selecionados Considering sua",
+      "bbox": [
+        54,
+        548,
+        441,
+        606
+      ]
+    },
+    {
+      "id": 306,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        452,
+        511,
+        938,
+        589
+      ]
+    },
+    {
+      "id": 307,
+      "page": 9,
+      "category": "image_caption",
+      "text": "(Fonnte:Adaptada de Freepik)",
+      "bbox": [
+        619,
+        591,
+        778,
+        603
+      ]
+    },
+    {
+      "id": 308,
+      "page": 9,
+      "category": "text",
+      "text": "função e caracteristicas particulares, relacionadas às necessidades das atividades a serem desenvolvas por eles. A esse respeito, considere as affirmacoes a seguir:",
+      "bbox": [
+        54,
+        606,
+        940,
+        636
+      ]
+    },
+    {
+      "id": 309,
+      "page": 9,
+      "category": "text",
+      "text": "I - Quando o espo de trabalho é reduzido, e as cargas não necessitam de muita potência para serem movimentadas, recomenda-se utilizes um robó com acontecimiento hidrálico.",
+      "bbox": [
+        54,
+        637,
+        940,
+        665
+      ]
+    },
+    {
+      "id": 310,
+      "page": 9,
+      "category": "text",
+      "text": "II - Para movistaras cargas medias, con grande necessidad de precisione de repetidibility e flexibilitidad de positioningul, escolhe-se o actionamento pneumatico.",
+      "bbox": [
+        54,
+        667,
+        940,
+        696
+      ]
+    },
+    {
+      "id": 311,
+      "page": 9,
+      "category": "text",
+      "text": "III- Quando se tem grande necessidade de repetibiliad, cargas medias e espaço reduzido, o aconteamento escolhove造血o do tipo servomotor AC.",
+      "bbox": [
+        54,
+        697,
+        940,
+        726
+      ]
+    },
+    {
+      "id": 312,
+      "page": 9,
+      "category": "text",
+      "text": "IV - Quando se tem necessidade de grande potência e precisão de repetituldade, o tipo de aconteamento recomendavel é o motor de passo.",
+      "bbox": [
+        54,
+        727,
+        940,
+        757
+      ]
+    },
+    {
+      "id": 313,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        54,
+        637,
+        940,
+        757
+      ]
+    },
+    {
+      "id": 314,
+      "page": 9,
+      "category": "text",
+      "text": "A(s) affirmativa(s) correta(s) é(são):",
+      "bbox": [
+        55,
+        758,
+        350,
+        772
+      ]
+    },
+    {
+      "id": 315,
+      "page": 9,
+      "category": "text",
+      "text": "(Texto extraiado e adaptado de https://www.aprovacancuros.com.br/questoes-de-concuroq/questao/649646)",
+      "bbox": [
+        55,
+        772,
+        625,
+        782
+      ]
+    },
+    {
+      "id": 316,
+      "page": 9,
+      "category": "text",
+      "text": "a. II e IV",
+      "bbox": [
+        63,
+        782,
+        145,
+        794
+      ]
+    },
+    {
+      "id": 317,
+      "page": 9,
+      "category": "text",
+      "text": "b. I e IV",
+      "bbox": [
+        63,
+        797,
+        141,
+        810
+      ]
+    },
+    {
+      "id": 318,
+      "page": 9,
+      "category": "text",
+      "text": "c. l ell",
+      "bbox": [
+        63,
+        813,
+        134,
+        825
+      ]
+    },
+    {
+      "id": 319,
+      "page": 9,
+      "category": "text",
+      "text": "d. IV",
+      "bbox": [
+        63,
+        827,
+        116,
+        840
+      ]
+    },
+    {
+      "id": 320,
+      "page": 9,
+      "category": "text",
+      "text": "e. III",
+      "bbox": [
+        63,
+        842,
+        112,
+        855
+      ]
+    },
+    {
+      "id": 321,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        63,
+        782,
+        145,
+        855
+      ]
+    },
+    {
+      "id": 322,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 17",
+      "bbox": [
+        17,
+        876,
+        192,
+        898
+      ]
+    },
+    {
+      "id": 323,
+      "page": 9,
+      "category": "text",
+      "text": "A Universal Robots inaugurou o conceito de robotica collaborativa no mundo com o objetivo de producao de robots. O principalidade do robotica é a producao de motores, motoques e motoimaginais travaitem em conjunction de forma simples, pratica e eficiente. Para isto,",
+      "bbox": [
+        198,
+        863,
+        940,
+        910
+      ]
+    },
+    {
+      "id": 324,
+      "page": 9,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        51,
+        926,
+        150,
+        986
+      ]
+    },
+    {
+      "id": 325,
+      "page": 9,
+      "category": "page_number",
+      "text": "9",
+      "bbox": [
+        894,
+        937,
+        910,
+        951
+      ]
+    }
+  ],
+  [
+    {
+      "id": 326,
+      "page": 10,
+      "category": "text",
+      "text": "desenvolvimento o cobot, que é um branco flexile deisel eixos que garantar total segança no desenvolvimento de suas funções. Os cobots são equipados com uma programação intuitiva ou a distribuição de algo é considerado. O cobot é capaz de fazer algo mais às vezes. Assim. os robos collaborativos são capazes de complementar a Produção, independentelement do tipo deindustry, dimensão da Empresa ou natureza do produits. Para isto, sào o tipo de robot que pode fazer Comforte seregrado à parte do fabricação, é capaz de fazer algo mais às vezes. O cobot é capaz de fazer às vezes.",
+      "bbox": [
+        60,
+        42,
+        598,
+        191
+      ]
+    },
+    {
+      "id": 327,
+      "page": 10,
+      "category": "text",
+      "text": "A utilizaçãodestes robos tem sido cada vez maior,pois faculdáortrabalno, AUGUSTO 2017, a qualida dos produits",
+      "bbox": [
+        60,
+        193,
+        598,
+        223
+      ]
+    },
+    {
+      "id": 328,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        608,
+        51,
+        940,
+        184
+      ]
+    },
+    {
+      "id": 329,
+      "page": 10,
+      "category": "image_caption",
+      "text": "[Extrado de https://blog.climautomacao.com.br/que-sao-robos-colaborativos/]",
+      "bbox": [
+        617,
+        185,
+        925,
+        207
+      ]
+    },
+    {
+      "id": 330,
+      "page": 10,
+      "category": "text",
+      "text": "e a和个人ajugoslavacnadozhodarabados.Segundo da Dadosa fFecbicaaiaiaia (IFR),a expectativa e de que, at 2021, u os robos collaborativos crese \\(71\\%\\) ao ano, e a commercialização de aproximately 400 mil robos collaborativos e Veiculos. Guidos Automaticamente (AGVS), no ano de 2021, é a principalidade do Projecção de Desenvolvimento e Desestruiis e tem como principal vantage um producao mais eficient, sem dispensar o做工 humano.",
+      "bbox": [
+        60,
+        223,
+        942,
+        298
+      ]
+    },
+    {
+      "id": 331,
+      "page": 10,
+      "category": "text",
+      "text": "Considerando o uso dos robos collaborativos, avalie as affirmacoes a seguir e a relacao proposta entre elas.",
+      "bbox": [
+        60,
+        298,
+        938,
+        313
+      ]
+    },
+    {
+      "id": 332,
+      "page": 10,
+      "category": "text",
+      "text": "I. Robos collaborativos podem operar em ambientes mistos com outras máquinas e/ou com operadores.",
+      "bbox": [
+        61,
+        314,
+        915,
+        328
+      ]
+    },
+    {
+      "id": 333,
+      "page": 10,
+      "category": "text",
+      "text": "II. Robos colaborativas posuem它们 adiconais de segurar em comparacao ao robos industriais comuns.",
+      "bbox": [
+        60,
+        329,
+        938,
+        356
+      ]
+    },
+    {
+      "id": 334,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        314,
+        938,
+        356
+      ]
+    },
+    {
+      "id": 335,
+      "page": 10,
+      "category": "text",
+      "text": "[Texiox extraloides e adapto de https://blog.universal-robotis.com.br/robotis-intelligence-artificial, https://www.exame.abri.com.br/ https://www.indiaacao.com.br/2020/02/erade-2019-usoo-de-roblos-collaborativos-em-fabricas-em-tempo-cada-vez-major-goods-facilita-o-trabo.html]",
+      "bbox": [
+        60,
+        358,
+        939,
+        377
+      ]
+    },
+    {
+      "id": 336,
+      "page": 10,
+      "category": "text",
+      "text": "A respeito dessas affirmacoes, assinale a opcao correta.",
+      "bbox": [
+        61,
+        378,
+        525,
+        392
+      ]
+    },
+    {
+      "id": 337,
+      "page": 10,
+      "category": "text",
+      "text": "a. As afirmações I e II são proposções verdadeiras, e a II é uma justificativa correta da I.",
+      "bbox": [
+        60,
+        397,
+        803,
+        412
+      ]
+    },
+    {
+      "id": 338,
+      "page": 10,
+      "category": "text",
+      "text": "b. As afirmações I e II são proposções verdadeiras, mas a II não é uma justificativa correta da I.",
+      "bbox": [
+        60,
+        412,
+        862,
+        427
+      ]
+    },
+    {
+      "id": 339,
+      "page": 10,
+      "category": "text",
+      "text": "c. A confirmacao I e uma proposicao verdadeira, e a Il e uma proposicao falsa.",
+      "bbox": [
+        61,
+        428,
+        701,
+        442
+      ]
+    },
+    {
+      "id": 340,
+      "page": 10,
+      "category": "text",
+      "text": "d. A confirmacao Ie uma proposicao falsa, e a II e uma proposicao verdadeira.",
+      "bbox": [
+        61,
+        442,
+        701,
+        457
+      ]
+    },
+    {
+      "id": 341,
+      "page": 10,
+      "category": "text",
+      "text": "e. As affirmacoes I e II são proposacoes falsas.",
+      "bbox": [
+        61,
+        457,
+        452,
+        472
+      ]
+    },
+    {
+      "id": 342,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        60,
+        397,
+        862,
+        472
+      ]
+    },
+    {
+      "id": 343,
+      "page": 10,
+      "category": "title",
+      "text": "QUESTAO 18",
+      "bbox": [
+        17,
+        491,
+        192,
+        514
+      ]
+    },
+    {
+      "id": 344,
+      "page": 10,
+      "category": "text",
+      "text": "Ao AACearpera uma lojavirta, e molte frequenca.   \nAococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococ",
+      "bbox": [
+        198,
+        479,
+        625,
+        524
+      ]
+    },
+    {
+      "id": 345,
+      "page": 10,
+      "category": "text",
+      "text": "chamada machine learning (aprendizagem deedinha), Tecnologia amplamente realizada no B2C, que é a forma de commercio traditional entre entreprises que vendem serviços e/ou produits para pessoas fisicas, potem utilizing um ambiente virtual (e-commerce).",
+      "bbox": [
+        60,
+        525,
+        622,
+        584
+      ]
+    },
+    {
+      "id": 346,
+      "page": 10,
+      "category": "text",
+      "text": "Maskeefferramentavmembenvsedcaskaymalsudifundacn acaucationesespescificasparacedareaetauacationa deEmpresa.",
+      "bbox": [
+        60,
+        585,
+        620,
+        629
+      ]
+    },
+    {
+      "id": 347,
+      "page": 10,
+      "category": "text",
+      "text": "O setor industrial é um mercado em expansão para a Tecnologia de Engenharia e Tecnologia Gama de OPPORTUNidades para a utilização de equipamento que identifiquem padões nas Industries.",
+      "bbox": [
+        60,
+        630,
+        939,
+        674
+      ]
+    },
+    {
+      "id": 348,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        642,
+        488,
+        945,
+        619
+      ]
+    },
+    {
+      "id": 349,
+      "page": 10,
+      "category": "image_caption",
+      "text": "[Extrado de: https://computerworld.com.br/carreiras/machinete-learning-oria-opportunidades-de-carreiras-e-negocios]",
+      "bbox": [
+        634,
+        619,
+        953,
+        639
+      ]
+    },
+    {
+      "id": 350,
+      "page": 10,
+      "category": "text",
+      "text": "A Utilização de máquins inteligentes é recommendada para entreprises que utilizeam lean manufacturing (LM) processors. O principal component of a lean manufacturing process is the amount of time and金钱 that takes durou o process de fabricação dos produits, optimizando a Produção e agilizando as entretas.",
+      "bbox": [
+        60,
+        675,
+        942,
+        720
+      ]
+    },
+    {
+      "id": 351,
+      "page": 10,
+      "category": "text",
+      "text": "No caso de fibracasURTas que acharas a redes de e-commerce, o machine learning possibita a automatação da producao sobDemanda.",
+      "bbox": [
+        60,
+        720,
+        941,
+        750
+      ]
+    },
+    {
+      "id": 352,
+      "page": 10,
+      "category": "text",
+      "text": "Considerando a necessidade de Incorporar em umsystemecomputationalacapacidadedeclassificacao e acreditação de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atençao de atenç ao.",
+      "bbox": [
+        60,
+        750,
+        941,
+        794
+      ]
+    },
+    {
+      "id": 353,
+      "page": 10,
+      "category": "text",
+      "text": "(Textos extraios e adaptados de https://fersiltec.com.br/blog/automacao-industrial/machine-learning/ e ENADE2011)",
+      "bbox": [
+        61,
+        795,
+        767,
+        807
+      ]
+    },
+    {
+      "id": 354,
+      "page": 10,
+      "category": "text",
+      "text": "a. ACO (do ingles, Ant-Colony Optimization).",
+      "bbox": [
+        61,
+        807,
+        442,
+        821
+      ]
+    },
+    {
+      "id": 355,
+      "page": 10,
+      "category": "text",
+      "text": "b. PSO (do ingles, Particle Swarm Optimization).",
+      "bbox": [
+        61,
+        822,
+        474,
+        836
+      ]
+    },
+    {
+      "id": 356,
+      "page": 10,
+      "category": "text",
+      "text": "c. lóngica nebulosa.",
+      "bbox": [
+        62,
+        837,
+        229,
+        850
+      ]
+    },
+    {
+      "id": 357,
+      "page": 10,
+      "category": "text",
+      "text": "d. arvores de decisao.",
+      "bbox": [
+        61,
+        852,
+        258,
+        865
+      ]
+    },
+    {
+      "id": 358,
+      "page": 10,
+      "category": "text",
+      "text": "e. redes neurais artificiais.",
+      "bbox": [
+        61,
+        866,
+        290,
+        879
+      ]
+    },
+    {
+      "id": 359,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        807,
+        474,
+        879
+      ]
+    },
+    {
+      "id": 360,
+      "page": 10,
+      "category": "footer",
+      "text": "OK",
+      "bbox": [
+        52,
+        926,
+        147,
+        986
+      ]
+    },
+    {
+      "id": 361,
+      "page": 10,
+      "category": "page_number",
+      "text": "10",
+      "bbox": [
+        891,
+        937,
+        913,
+        949
+      ]
+    }
+  ],
+  [
+    {
+      "id": 362,
+      "page": 11,
+      "category": "title",
+      "text": "QUESTAO 19",
+      "bbox": [
+        18,
+        52,
+        189,
+        74
+      ]
+    },
+    {
+      "id": 363,
+      "page": 11,
+      "category": "text",
+      "text": "Nos días de hoje, multívos típés de robos não se capazes de ser capazes de ser capazes de ser capazes de ser robos mapélearos. Uma equipe de pesquisadores,",
+      "bbox": [
+        199,
+        42,
+        719,
+        88
+      ]
+    },
+    {
+      "id": 364,
+      "page": 11,
+      "category": "text",
+      "text": "Instituto de Tecnología de Georgia criú robés que funciona como unaística de batedóres, capazes de entrañar en una &,dea desconhecía etraits un mapper de local - eistoomanormalmente, senselemrotroe e senseirmeiiguidos por un operador humano.",
+      "bbox": [
+        63,
+        88,
+        718,
+        147
+      ]
+    },
+    {
+      "id": 365,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        729,
+        47,
+        931,
+        158
+      ]
+    },
+    {
+      "id": 366,
+      "page": 11,
+      "category": "text",
+      "text": "Os robos fazem o mapeamento usingo boistips de sensores - uma camera de",
+      "bbox": [
+        63,
+        148,
+        720,
+        162
+      ]
+    },
+    {
+      "id": 367,
+      "page": 11,
+      "category": "text",
+      "text": "video e um escançar a laser. Dotada de seu préproprios recursos computationally, a camera localiza portas e janelas, quando o escançar mede as paredes.",
+      "bbox": [
+        63,
+        164,
+        938,
+        193
+      ]
+    },
+    {
+      "id": 368,
+      "page": 11,
+      "category": "text",
+      "text": "Um sensor inercial ajuda a estabilizar o robo e fornecce informacoes sobre seu movimento.",
+      "bbox": [
+        63,
+        193,
+        805,
+        208
+      ]
+    },
+    {
+      "id": 369,
+      "page": 11,
+      "category": "text",
+      "text": "Os性和 dos senores são integrais para formar um capa da和地区, que é desenvolvimento por cada rouso usinga uma técnica conheça como localização e mapeamento simultaneiros. Essa aborgando permute que um veloculo autônico create um capa de qualerm ambiente, conhece ou deschecido, às lem de monitorar a area e relatar sua和个人ização em tempo real. A técnica é importante especialmente em和地区 sobre osystema GPS não alcavia, como é comum acontecer em和地区 de desastros, sobretudo no interior de edificios - o propre rouso mantem um controle de sua posicao.",
+      "bbox": [
+        63,
+        208,
+        940,
+        298
+      ]
+    },
+    {
+      "id": 370,
+      "page": 11,
+      "category": "text",
+      "text": "Um dos problemas inerentes à autonomia en robotica molé v à navigacement en ambientes desconhecidos, que poder tem obstáculos e variar no tempo, a partir de uma posicao inicial conheça e com informacoes limitadas adquiridas por senseores. Marque a alternatively que corresponde a红线 de pesquisa que estuda soluções para this problema:",
+      "bbox": [
+        63,
+        298,
+        940,
+        357
+      ]
+    },
+    {
+      "id": 371,
+      "page": 11,
+      "category": "text",
+      "text": "[Texio e figura extradados adaptados https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo \\(\\equiv\\) equipo-robos",
+      "bbox": [
+        63,
+        358,
+        940,
+        377
+      ]
+    },
+    {
+      "id": 372,
+      "page": 11,
+      "category": "text",
+      "text": "a. Navegao estimation.",
+      "bbox": [
+        63,
+        378,
+        275,
+        392
+      ]
+    },
+    {
+      "id": 373,
+      "page": 11,
+      "category": "text",
+      "text": "b. GPS (Global Positioning System).",
+      "bbox": [
+        63,
+        393,
+        372,
+        407
+      ]
+    },
+    {
+      "id": 374,
+      "page": 11,
+      "category": "text",
+      "text": "c. Odometria.",
+      "bbox": [
+        63,
+        408,
+        186,
+        420
+      ]
+    },
+    {
+      "id": 375,
+      "page": 11,
+      "category": "text",
+      "text": "d. Medicacao inercial.",
+      "bbox": [
+        63,
+        422,
+        234,
+        436
+      ]
+    },
+    {
+      "id": 376,
+      "page": 11,
+      "category": "text",
+      "text": "e. SLAM (Simultaneous Location and Mapping).",
+      "bbox": [
+        63,
+        438,
+        467,
+        453
+      ]
+    },
+    {
+      "id": 377,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        63,
+        378,
+        467,
+        453
+      ]
+    },
+    {
+      "id": 378,
+      "page": 11,
+      "category": "title",
+      "text": "QUESTAO 20",
+      "bbox": [
+        18,
+        470,
+        191,
+        492
+      ]
+    },
+    {
+      "id": 379,
+      "page": 11,
+      "category": "text",
+      "text": "Obama finds Japanese robots 'a little scary'",
+      "bbox": [
+        389,
+        459,
+        752,
+        475
+      ]
+    },
+    {
+      "id": 380,
+      "page": 11,
+      "category": "text",
+      "text": "TOKYO -- President Obama played soccer Thursday with a Japanese robot -- and came away a bit scared.",
+      "bbox": [
+        201,
+        475,
+        938,
+        504
+      ]
+    },
+    {
+      "id": 381,
+      "page": 11,
+      "category": "text",
+      "text": "Obama's visit to the National Museum of Emerging Science and Innovation, or Minkan, aimed to highlight both Japan's technological prowess and the renewal of a 10-year scientific collaboration agreement between the two countries. While the event had plenty of examples of how the two countries are working together – for example, the US and China – the International Space Station's Japanese commander and two American flight engineers serving alongside him – the real stars of the show were a couple of robots.",
+      "bbox": [
+        63,
+        505,
+        735,
+        609
+      ]
+    },
+    {
+      "id": 382,
+      "page": 11,
+      "category": "text",
+      "text": "Honda's humanoid robot ASIMO, which was dressed in an astronaut suit and is the only height of a 10-year-old child, went through a series of exercises for the president.",
+      "bbox": [
+        63,
+        610,
+        735,
+        654
+      ]
+    },
+    {
+      "id": 383,
+      "page": 11,
+      "category": "text",
+      "text": "\"It's nice to meet you,\" it said in a metallic voice, before approaching a soccer ball and telling Obama, \"I can kick a soccer ball too.\"",
+      "bbox": [
+        63,
+        655,
+        720,
+        684
+      ]
+    },
+    {
+      "id": 384,
+      "page": 11,
+      "category": "text",
+      "text": "\"Okay, come on,\" the president replied.",
+      "bbox": [
+        63,
+        685,
+        385,
+        700
+      ]
+    },
+    {
+      "id": 385,
+      "page": 11,
+      "category": "text",
+      "text": "The robot then took a couple of steps back and then then ran up to the ball to deliver a hefty punt.",
+      "bbox": [
+        63,
+        700,
+        712,
+        729
+      ]
+    },
+    {
+      "id": 386,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        752,
+        507,
+        917,
+        678
+      ]
+    },
+    {
+      "id": 387,
+      "page": 11,
+      "category": "image_caption",
+      "text": "https://asino.honda.com/ASMO_DCTM News Images/News/ASMO/ASMO/Gcircular2.jpg",
+      "bbox": [
+        725,
+        678,
+        938,
+        710
+      ]
+    },
+    {
+      "id": 388,
+      "page": 11,
+      "category": "text",
+      "text": "The president trapped the ball with his foot, later telling an audience of roughly 30 students he was slightly intimidated by ASIMO and the other robot he observed at the museum.",
+      "bbox": [
+        63,
+        730,
+        938,
+        759
+      ]
+    },
+    {
+      "id": 389,
+      "page": 11,
+      "category": "text",
+      "text": "\"I have to say that the robots were a little scary, they were too lifelike,\" Obama declared. \"They were amazing.\"",
+      "bbox": [
+        63,
+        760,
+        938,
+        790
+      ]
+    },
+    {
+      "id": 390,
+      "page": 11,
+      "category": "text",
+      "text": "The astronauts described how the two countries' space agencies were working together to monitor rainfall patterns with a Global Precipitation Measurement satellite (GPM), and Obama used it as an example of how Japan and the U.S. \"have been at the cutting-edge of innovation,\" from some of the first modern calculators decades ago to smartphones.",
+      "bbox": [
+        63,
+        791,
+        940,
+        850
+      ]
+    },
+    {
+      "id": 391,
+      "page": 11,
+      "category": "text",
+      "text": "Technology, he told the students, \"has allowed us to understand the planet that we share, and to understand the way we live. It has allowed us to understand the way we live. It has allowed us to understand the way we live— that your generation is going to help us to find answers to some of the questions that we have to answer.\"",
+      "bbox": [
+        63,
+        850,
+        940,
+        896
+      ]
+    },
+    {
+      "id": 392,
+      "page": 11,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        927,
+        147,
+        986
+      ]
+    },
+    {
+      "id": 393,
+      "page": 11,
+      "category": "page_number",
+      "text": "11",
+      "bbox": [
+        890,
+        937,
+        913,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 394,
+      "page": 12,
+      "category": "text",
+      "text": "\"Whether it's: How do we feed more people in an environment in which it's getting warmer? How do we make sure that we're coming up with new energy sources that are less polluting and can save our environment?\" Obama asked. \"How do we find new medicines that can cure diseases that take so many lives around the globe? To the robots that we saw that can save people's lives after a disaster because they can go into places like Fukushima that it may be very dangerous for live human beings to enter into. These are all applications, but it starts with the imaginations and the vision of young people like you.\"",
+      "bbox": [
+        60,
+        42,
+        942,
+        134
+      ]
+    },
+    {
+      "id": 395,
+      "page": 12,
+      "category": "text",
+      "text": "(Texto extraido de https://www.washingtonpost.com/news/post-politics/wp2014/04/24/obama-finds-japanese-robots-a-fittle-scary/)",
+      "bbox": [
+        61,
+        133,
+        743,
+        144
+      ]
+    },
+    {
+      "id": 396,
+      "page": 12,
+      "category": "text",
+      "text": "Baseado no texto, assinale a alternativa correta:",
+      "bbox": [
+        61,
+        144,
+        463,
+        157
+      ]
+    },
+    {
+      "id": 397,
+      "page": 12,
+      "category": "text",
+      "text": "a. O robó humanoide ASIMO assustou-se com Obama.",
+      "bbox": [
+        61,
+        158,
+        531,
+        172
+      ]
+    },
+    {
+      "id": 398,
+      "page": 12,
+      "category": "text",
+      "text": "b. O robó humanoIDE ASIMO estava vestido com uniforme de futebol e interagiu com voz suave com as pessoas ao seu redor.",
+      "bbox": [
+        61,
+        173,
+        940,
+        202
+      ]
+    },
+    {
+      "id": 399,
+      "page": 12,
+      "category": "text",
+      "text": "c. O robó humanoide ASIMO disse a Obama que sabia chutar una bola de futebol.",
+      "bbox": [
+        61,
+        203,
+        763,
+        217
+      ]
+    },
+    {
+      "id": 400,
+      "page": 12,
+      "category": "text",
+      "text": "d. Obama descreveu como as agenciadas dos Países travaillam juntas e não se sentiu imeditadothose robos que viu no museu.",
+      "bbox": [
+        61,
+        218,
+        940,
+        247
+      ]
+    },
+    {
+      "id": 401,
+      "page": 12,
+      "category": "text",
+      "text": "e. Obama se encontrar com um astronauta no National Museum of Emerging Science and Innovation queinha a alteza de umacriança de 10 anos.",
+      "bbox": [
+        61,
+        248,
+        940,
+        279
+      ]
+    },
+    {
+      "id": 402,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        61,
+        158,
+        940,
+        279
+      ]
+    },
+    {
+      "id": 403,
+      "page": 12,
+      "category": "footer",
+      "text": "OEBL",
+      "bbox": [
+        57,
+        925,
+        150,
+        989
+      ]
+    },
+    {
+      "id": 404,
+      "page": 12,
+      "category": "page_number",
+      "text": "12",
+      "bbox": [
+        889,
+        937,
+        913,
+        950
+      ]
+    }
+  ]
+]

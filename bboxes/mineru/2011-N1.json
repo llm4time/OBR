@@ -1,0 +1,2480 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        77,
+        75,
+        181,
+        164
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        190,
+        88,
+        770,
+        121
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "57",
+      "bbox": [
+        776,
+        85,
+        951,
+        153
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "2011",
+      "bbox": [
+        425,
+        146,
+        519,
+        172
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "Modalidade: Teorica Nivel 1 (1° a 3°anos ensino fundamental) Duração: 2 horas",
+      "bbox": [
+        137,
+        209,
+        856,
+        226
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Nome do Aluno: Matr:",
+      "bbox": [
+        137,
+        235,
+        854,
+        251
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Escola: Cidade: Estado:",
+      "bbox": [
+        138,
+        263,
+        855,
+        278
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        449,
+        302,
+        548,
+        318
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        177,
+        331,
+        250,
+        386
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq UFRN",
+      "bbox": [
+        253,
+        340,
+        605,
+        385
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        321,
+        713,
+        408
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        715,
+        330,
+        893,
+        401
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        468,
+        492,
+        529,
+        508
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        269,
+        532,
+        430,
+        602
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "OBA!",
+      "bbox": [
+        435,
+        528,
+        543,
+        546
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        435,
+        547,
+        544,
+        602
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        547,
+        549,
+        734,
+        602
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        248,
+        605,
+        323,
+        660
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "text",
+      "text": "MNR",
+      "bbox": [
+        331,
+        605,
+        592,
+        651
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "text",
+      "text": "Mostra Nacional de Robotica",
+      "bbox": [
+        332,
+        651,
+        513,
+        661
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        594,
+        604,
+        751,
+        651
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "title",
+      "text": "AVISO:",
+      "bbox": [
+        453,
+        717,
+        537,
+        734
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        235,
+        753,
+        414,
+        770
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        265,
+        786,
+        620,
+        803
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta",
+      "bbox": [
+        265,
+        807,
+        526,
+        823
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        265,
+        786,
+        620,
+        823
+      ]
+    }
+  ],
+  [
+    {
+      "id": 26,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        40,
+        659,
+        55
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "title",
+      "text": "PARTI I: MATÉMATÉCA",
+      "bbox": [
+        138,
+        116,
+        463,
+        139
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "title",
+      "text": "1) Questao",
+      "bbox": [
+        138,
+        178,
+        245,
+        192
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        734,
+        179,
+        796,
+        192
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "Eiko cognitivo: III- Enfrentar situações-problema. Area: Matemática. Descriptores: grandezeis e medidas/ Numeros e Operaciones/Algebra e Funções",
+      "bbox": [
+        166,
+        196,
+        821,
+        227
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "Lara quer comprir um robó que custa R$ 54,00. Mas ela tem somente R$ 25,00. O que\nLara poder a fazer para consiguiar comprir o robó?",
+      "bbox": [
+        135,
+        242,
+        851,
+        278
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "(a) Pedir R$ 25,00 ao seu pai e mais R$ 4,00 a sua mae",
+      "bbox": [
+        167,
+        293,
+        621,
+        309
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "(b) Pedir R$ 30,00 a sua mãe",
+      "bbox": [
+        168,
+        325,
+        411,
+        341
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "(c) Devolver R$ 5,00 ao seu irmão",
+      "bbox": [
+        168,
+        357,
+        457,
+        374
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "(d) Pedir R$ 10 ao seu pai e R$ 5 ao seu tio.",
+      "bbox": [
+        168,
+        389,
+        529,
+        406
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "(e) Pedir R$ 29,00 ao seu Tio",
+      "bbox": [
+        168,
+        421,
+        411,
+        437
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        293,
+        621,
+        437
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "title",
+      "text": "2) Questao",
+      "bbox": [
+        137,
+        515,
+        244,
+        530
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        793,
+        516,
+        855,
+        529
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "Eiko cognitivo: Il-Enfantur situações-problema. AREA: Matemática. Descrições: Números e Operações/Algebra e funções",
+      "bbox": [
+        166,
+        532,
+        819,
+        564
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "Guilherme compru 2CNTENAs de robos que andam con duas pernas como as pessoas. Tauxcompru 1centena de robos que andam con rodas como os carros. Ato todo, quostros robos Guilherme compru?",
+      "bbox": [
+        166,
+        587,
+        821,
+        643
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "(a) 100 robos",
+      "bbox": [
+        168,
+        659,
+        287,
+        675
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "(b) 200 robos",
+      "bbox": [
+        168,
+        691,
+        287,
+        707
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "(c) 300 robos",
+      "bbox": [
+        168,
+        723,
+        290,
+        739
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "(d) 400 robos",
+      "bbox": [
+        168,
+        754,
+        287,
+        770
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "(e) 500 robos",
+      "bbox": [
+        168,
+        786,
+        287,
+        802
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        168,
+        659,
+        290,
+        802
+      ]
+    }
+  ],
+  [
+    {
+      "id": 50,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        882,
+        18,
+        967,
+        55
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "title",
+      "text": "3) Questao",
+      "bbox": [
+        139,
+        117,
+        244,
+        131
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        734,
+        118,
+        796,
+        130
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfantur situações-problema. Área: Matemática, Descriptores: Números e Operações/Algebra e Funções",
+      "bbox": [
+        169,
+        135,
+        815,
+        166
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "Informo o número que está faltando nos ultimos robões. Observe a sequencia dosnyderos.",
+      "bbox": [
+        139,
+        213,
+        804,
+        246
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        177,
+        298,
+        949,
+        617
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "(a) 136, 121, 131",
+      "bbox": [
+        171,
+        680,
+        315,
+        696
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "(b) 140, 130, 136",
+      "bbox": [
+        171,
+        711,
+        317,
+        727
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "(c) 136, 130, 140",
+      "bbox": [
+        171,
+        743,
+        318,
+        759
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "(d) 135, 120, 134",
+      "bbox": [
+        171,
+        775,
+        316,
+        791
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "(e) 100, 126, 130",
+      "bbox": [
+        171,
+        807,
+        316,
+        823
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        171,
+        680,
+        318,
+        823
+      ]
+    }
+  ],
+  [
+    {
+      "id": 64,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        76,
+        57
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "header",
+      "text": "562",
+      "bbox": [
+        880,
+        18,
+        967,
+        55
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "title",
+      "text": "4) Questão",
+      "bbox": [
+        137,
+        85,
+        245,
+        100
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        770,
+        86,
+        835,
+        99
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomenos. Area: Matematica. Descritores: Espaco e Forma.",
+      "bbox": [
+        166,
+        103,
+        816,
+        118
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "Se um robó caneta ligar os pontos abaiixo irá encontrar figuras geométricas. Ajude o robô a descriraisão, marcando a opção que apareça o nome das figuras geométricas de forma correta.",
+      "bbox": [
+        135,
+        133,
+        858,
+        190
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        129,
+        234,
+        861,
+        493
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "a) i. quadrado ii. Triangulo iii. Retangulo iv. Pentagono",
+      "bbox": [
+        167,
+        524,
+        634,
+        542
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "b) i. retangulo ii. triangulo iii. Quadrado iv. Pentagono",
+      "bbox": [
+        168,
+        557,
+        627,
+        574
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "c) i. retangulo ii. Quadrado iii. triangulo iv. Pentagono",
+      "bbox": [
+        168,
+        589,
+        631,
+        606
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "d) i. retangulo ii. Triangulo iii. Pentagono iv. Quadrado",
+      "bbox": [
+        168,
+        621,
+        631,
+        638
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        524,
+        634,
+        638
+      ]
+    }
+  ],
+  [
+    {
+      "id": 77,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        14,
+        3,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 78,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        660,
+        56
+      ]
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 80,
+      "page": 4,
+      "category": "title",
+      "text": "5) Questao",
+      "bbox": [
+        137,
+        85,
+        245,
+        100
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        86,
+        857,
+        99
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "text",
+      "text": "Eiko cognitivo: Il-Enfrentar situaciones-problema. Area: Matematica. Deseciros: Numeros e Operaciones/Algebra e funeciones",
+      "bbox": [
+        166,
+        103,
+        820,
+        135
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "O robó realiza 2 típos de tarefa: Pegar objetos e Reconhecer objetos.",
+      "bbox": [
+        137,
+        150,
+        708,
+        166
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "Ei gasta 2短时间内 paraPEGARumobjecto e5minutospara reconhecer um objecto. Responda na ordem correto:",
+      "bbox": [
+        136,
+        182,
+        856,
+        218
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        139,
+        230,
+        362,
+        376
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        399,
+        230,
+        623,
+        396
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        639,
+        230,
+        858,
+        396
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "text",
+      "text": "1) Quanto tempo o robão precisar para PEGAR esseconjunto de objetivos dado?",
+      "bbox": [
+        167,
+        415,
+        829,
+        433
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "text",
+      "text": "（）3",
+      "bbox": [
+        199,
+        435,
+        241,
+        452
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "text",
+      "text": "（20",
+      "bbox": [
+        324,
+        436,
+        363,
+        452
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "（）6",
+      "bbox": [
+        447,
+        436,
+        491,
+        452
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "text",
+      "text": "（）10",
+      "bbox": [
+        565,
+        436,
+        624,
+        452
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "text",
+      "text": "（）4",
+      "bbox": [
+        675,
+        436,
+        714,
+        452
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "text",
+      "text": "2) Quanto tiempo o robó precisará para RECONHECER ese Conjunto de objetivos dado?",
+      "bbox": [
+        167,
+        456,
+        857,
+        491
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "( )19",
+      "bbox": [
+        198,
+        495,
+        251,
+        511
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "text",
+      "text": "（15",
+      "bbox": [
+        323,
+        496,
+        372,
+        511
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "（）20",
+      "bbox": [
+        447,
+        496,
+        501,
+        511
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "（）8",
+      "bbox": [
+        624,
+        496,
+        674,
+        511
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "（）10",
+      "bbox": [
+        734,
+        496,
+        784,
+        511
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "3) Quanto tempo ele precisar ao todo?",
+      "bbox": [
+        167,
+        516,
+        510,
+        532
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "text",
+      "text": "（19",
+      "bbox": [
+        199,
+        535,
+        251,
+        552
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "( )15",
+      "bbox": [
+        323,
+        536,
+        372,
+        551
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "text",
+      "text": "（）20",
+      "bbox": [
+        447,
+        536,
+        501,
+        551
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "text",
+      "text": "（）8",
+      "bbox": [
+        625,
+        536,
+        674,
+        551
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "（）10",
+      "bbox": [
+        734,
+        536,
+        784,
+        551
+      ]
+    }
+  ],
+  [
+    {
+      "id": 106,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        76,
+        57
+      ]
+    },
+    {
+      "id": 107,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 108,
+      "page": 5,
+      "category": "header",
+      "text": "562",
+      "bbox": [
+        880,
+        18,
+        967,
+        55
+      ]
+    },
+    {
+      "id": 109,
+      "page": 5,
+      "category": "title",
+      "text": "6) Question",
+      "bbox": [
+        139,
+        86,
+        244,
+        99
+      ]
+    },
+    {
+      "id": 110,
+      "page": 5,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        734,
+        87,
+        796,
+        98
+      ]
+    },
+    {
+      "id": 111,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: III- Enfrentar situacoes-problema. Area: Matematica. Descriratos: Numeros e Operacoes/Algebra Foncques",
+      "bbox": [
+        169,
+        104,
+        856,
+        134
+      ]
+    },
+    {
+      "id": 112,
+      "page": 5,
+      "category": "text",
+      "text": "Tempos quro robbos differentes en una corrida. O Robb A sua esteira, o robb S le locomove atrasves de fugues, o rob C sua rodas a o rob D公开发s. Cada um tem que passar por Areas differentes do INCIO ao FIM, em cada trecothose gastam uma quantidade differente de tempo indica na figura.",
+      "bbox": [
+        139,
+        150,
+        856,
+        227
+      ]
+    },
+    {
+      "id": 113,
+      "page": 5,
+      "category": "text",
+      "text": "A)",
+      "bbox": [
+        157,
+        319,
+        203,
+        352
+      ]
+    },
+    {
+      "id": 114,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        221,
+        288,
+        297,
+        366
+      ]
+    },
+    {
+      "id": 115,
+      "page": 5,
+      "category": "text",
+      "text": "B)",
+      "bbox": [
+        168,
+        412,
+        209,
+        445
+      ]
+    },
+    {
+      "id": 116,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        229,
+        391,
+        294,
+        461
+      ]
+    },
+    {
+      "id": 117,
+      "page": 5,
+      "category": "text",
+      "text": "C)",
+      "bbox": [
+        168,
+        505,
+        210,
+        538
+      ]
+    },
+    {
+      "id": 118,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        231,
+        478,
+        294,
+        557
+      ]
+    },
+    {
+      "id": 119,
+      "page": 5,
+      "category": "text",
+      "text": "D)",
+      "bbox": [
+        169,
+        592,
+        213,
+        625
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        236,
+        576,
+        304,
+        641
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        321,
+        248,
+        832,
+        650
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "1) Quem ganhou a prova?",
+      "bbox": [
+        170,
+        670,
+        396,
+        687
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "（A",
+      "bbox": [
+        321,
+        690,
+        363,
+        706
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "（）B",
+      "bbox": [
+        444,
+        690,
+        485,
+        706
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "text",
+      "text": "（）C",
+      "bbox": [
+        568,
+        690,
+        612,
+        706
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "（）D",
+      "bbox": [
+        687,
+        690,
+        736,
+        706
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "2) Em quanto tempo o vencedor terminou a prova?",
+      "bbox": [
+        170,
+        710,
+        608,
+        726
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "（）10",
+      "bbox": [
+        212,
+        729,
+        262,
+        745
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "（9",
+      "bbox": [
+        336,
+        730,
+        374,
+        745
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "（）7,5",
+      "bbox": [
+        460,
+        730,
+        517,
+        746
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "（）12",
+      "bbox": [
+        637,
+        729,
+        696,
+        746
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "（）8",
+      "bbox": [
+        806,
+        730,
+        845,
+        746
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "3) Quem chegou a metade da prova primeiro?",
+      "bbox": [
+        171,
+        750,
+        565,
+        766
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "（A",
+      "bbox": [
+        321,
+        770,
+        363,
+        786
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "（）B",
+      "bbox": [
+        444,
+        770,
+        484,
+        786
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "（）C",
+      "bbox": [
+        568,
+        770,
+        613,
+        786
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "（）D",
+      "bbox": [
+        687,
+        770,
+        736,
+        786
+      ]
+    }
+  ],
+  [
+    {
+      "id": 138,
+      "page": 6,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 139,
+      "page": 6,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 140,
+      "page": 6,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        882,
+        18,
+        967,
+        55
+      ]
+    },
+    {
+      "id": 141,
+      "page": 6,
+      "category": "title",
+      "text": "7) Question",
+      "bbox": [
+        141,
+        86,
+        243,
+        99
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        734,
+        87,
+        796,
+        98
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Infrentar situações-problema. Avenida: Matemática. Descriptos: Núteros e operações/algebra e funções.",
+      "bbox": [
+        171,
+        104,
+        856,
+        135
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "text",
+      "text": "Um robépreciava enagrada u dmprédo que se parrace mais como um labrinto. Ele parte a E (Entrada) e precise haegbcar en Sa (Dágua). Quais as sequencias de direções que ele precise主要从事 para sairdoprédo? (Ex: CIMA, BAIXO, DIREITA e ESQUERDA)",
+      "bbox": [
+        141,
+        151,
+        852,
+        221
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        234,
+        854,
+        500
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "text",
+      "text": "a)",
+      "bbox": [
+        171,
+        565,
+        193,
+        584
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        198,
+        549,
+        765,
+        580
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "b)",
+      "bbox": [
+        171,
+        615,
+        193,
+        634
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        601,
+        765,
+        631
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "c)",
+      "bbox": [
+        171,
+        666,
+        191,
+        685
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        652,
+        763,
+        682
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "d)",
+      "bbox": [
+        171,
+        717,
+        195,
+        737
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        209,
+        704,
+        765,
+        734
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "text",
+      "text": "e)",
+      "bbox": [
+        171,
+        771,
+        193,
+        789
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        209,
+        755,
+        765,
+        786
+      ]
+    }
+  ],
+  [
+    {
+      "id": 156,
+      "page": 7,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 157,
+      "page": 7,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        40,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 158,
+      "page": 7,
+      "category": "header",
+      "text": "562",
+      "bbox": [
+        880,
+        18,
+        967,
+        55
+      ]
+    },
+    {
+      "id": 159,
+      "page": 7,
+      "category": "title",
+      "text": "PARTE II: LINGUA PORTUGUESA",
+      "bbox": [
+        138,
+        87,
+        586,
+        109
+      ]
+    },
+    {
+      "id": 160,
+      "page": 7,
+      "category": "title",
+      "text": "8) Questao",
+      "bbox": [
+        138,
+        149,
+        243,
+        164
+      ]
+    },
+    {
+      "id": 161,
+      "page": 7,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        150,
+        855,
+        164
+      ]
+    },
+    {
+      "id": 162,
+      "page": 7,
+      "category": "text",
+      "text": "Eiko cognivio: I-Dominar Linguaguens. Aarea: Lingua Portuguesa. Descritores: Procedimentos de Leitura",
+      "bbox": [
+        167,
+        168,
+        830,
+        197
+      ]
+    },
+    {
+      "id": 163,
+      "page": 7,
+      "category": "text",
+      "text": "Leia a tirinha e escolha a alternativa correta.",
+      "bbox": [
+        137,
+        232,
+        497,
+        246
+      ]
+    },
+    {
+      "id": 164,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        189,
+        267,
+        906,
+        404
+      ]
+    },
+    {
+      "id": 165,
+      "page": 7,
+      "category": "image_caption",
+      "text": "Fonte: http://macanudo.com.ar",
+      "bbox": [
+        138,
+        410,
+        391,
+        426
+      ]
+    },
+    {
+      "id": 166,
+      "page": 7,
+      "category": "text",
+      "text": "Por que o robó chorou?",
+      "bbox": [
+        137,
+        492,
+        331,
+        508
+      ]
+    },
+    {
+      "id": 167,
+      "page": 7,
+      "category": "text",
+      "text": "(a) Porque o passaro o bicou.",
+      "bbox": [
+        167,
+        526,
+        411,
+        542
+      ]
+    },
+    {
+      "id": 168,
+      "page": 7,
+      "category": "text",
+      "text": "(b) Porque o passaro cantou uma música bonita.",
+      "bbox": [
+        167,
+        557,
+        568,
+        573
+      ]
+    },
+    {
+      "id": 169,
+      "page": 7,
+      "category": "text",
+      "text": "(c) Porque o robô não sabia falar com o passaro.",
+      "bbox": [
+        168,
+        589,
+        567,
+        606
+      ]
+    },
+    {
+      "id": 170,
+      "page": 7,
+      "category": "text",
+      "text": "(d) Porque o robó queria voir.",
+      "bbox": [
+        168,
+        621,
+        421,
+        637
+      ]
+    },
+    {
+      "id": 171,
+      "page": 7,
+      "category": "text",
+      "text": "(e) Porque o robó é sensivel.",
+      "bbox": [
+        168,
+        653,
+        405,
+        670
+      ]
+    },
+    {
+      "id": 172,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        526,
+        568,
+        670
+      ]
+    },
+    {
+      "id": 173,
+      "page": 7,
+      "category": "title",
+      "text": "9) Questao",
+      "bbox": [
+        138,
+        744,
+        243,
+        759
+      ]
+    },
+    {
+      "id": 174,
+      "page": 7,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        793,
+        745,
+        855,
+        758
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "text",
+      "text": "Eiko cognitivo: I-Dominar Linguagens. Área: Língua Portuguesa. Descrições: Relações entre Recursos Expressivos e Efeitos de Sentido",
+      "bbox": [
+        167,
+        760,
+        856,
+        789
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "text",
+      "text": "Pontue de forma correta a refere abaixo. Em seguida marque a sequencia da pontuação realizada.",
+      "bbox": [
+        137,
+        805,
+        856,
+        838
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "text",
+      "text": "Esro robo nao possuem sentimentos _Eles possuem fios _rodas e baterias _Sera que sua bateria está carregada _Ele possui um processor e senores de toque luz e som _",
+      "bbox": [
+        137,
+        854,
+        856,
+        904
+      ]
+    }
+  ],
+  [
+    {
+      "id": 178,
+      "page": 8,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 179,
+      "page": 8,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2011",
+      "bbox": [
+        337,
+        41,
+        660,
+        57
+      ]
+    },
+    {
+      "id": 180,
+      "page": 8,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        970,
+        55
+      ]
+    },
+    {
+      "id": 181,
+      "page": 8,
+      "category": "text",
+      "text": "(a) () () () (?) ()",
+      "bbox": [
+        169,
+        114,
+        310,
+        133
+      ]
+    },
+    {
+      "id": 182,
+      "page": 8,
+      "category": "text",
+      "text": "(b) () () () () ()",
+      "bbox": [
+        170,
+        146,
+        310,
+        165
+      ]
+    },
+    {
+      "id": 183,
+      "page": 8,
+      "category": "text",
+      "text": "(c) \\((.) \\quad (?) \\quad (:) \\quad (1)\\)",
+      "bbox": [
+        170,
+        178,
+        314,
+        197
+      ]
+    },
+    {
+      "id": 184,
+      "page": 8,
+      "category": "text",
+      "text": "(d) () () () () (!)",
+      "bbox": [
+        170,
+        210,
+        313,
+        230
+      ]
+    },
+    {
+      "id": 185,
+      "page": 8,
+      "category": "text",
+      "text": "(e) Nenhuma das anteriores",
+      "bbox": [
+        169,
+        243,
+        403,
+        261
+      ]
+    },
+    {
+      "id": 186,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        169,
+        114,
+        403,
+        261
+      ]
+    },
+    {
+      "id": 187,
+      "page": 8,
+      "category": "title",
+      "text": "10) Questão",
+      "bbox": [
+        139,
+        337,
+        245,
+        352
+      ]
+    },
+    {
+      "id": 188,
+      "page": 8,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        793,
+        338,
+        855,
+        351
+      ]
+    },
+    {
+      "id": 189,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        860,
+        327,
+        946,
+        357
+      ]
+    },
+    {
+      "id": 190,
+      "page": 8,
+      "category": "text",
+      "text": "Eiko cognitivo: I-Dominar Linguaguinos. Avenida: Lingu Portuguesa. Descriiros: Procedimentos de Leitura",
+      "bbox": [
+        167,
+        355,
+        832,
+        385
+      ]
+    },
+    {
+      "id": 191,
+      "page": 8,
+      "category": "text",
+      "text": "Leia o texto abaixo eresponda as questions. Em seguida,marca aalternative correta.",
+      "bbox": [
+        166,
+        409,
+        809,
+        444
+      ]
+    },
+    {
+      "id": 192,
+      "page": 8,
+      "category": "table",
+      "text": "<table><tr><td>1</td><td>O robô Zeça- 10</td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td>Zeca- 10 é um robô coletor.</td></tr><tr><td>4</td><td>Zeca-10 coleta o lixo das ruas.</td></tr><tr><td>5</td><td>Toda noite Zeça-10 recarrega sua bateria.</td></tr><tr><td>6</td><td>quando está cansado ele sempre diz:</td></tr><tr><td>7</td><td>- Preciso de energia, preciso de energia!</td></tr><tr><td>8</td><td>Quando Zeça-10 recarrega sua bateria, ele volta ao trabalho com bastante alegria.</td></tr></table>",
+      "bbox": [
+        160,
+        447,
+        867,
+        595
+      ]
+    },
+    {
+      "id": 193,
+      "page": 8,
+      "category": "title",
+      "text": "Em que linhas as respostas das perguntas está?",
+      "bbox": [
+        167,
+        632,
+        545,
+        646
+      ]
+    },
+    {
+      "id": 194,
+      "page": 8,
+      "category": "text",
+      "text": "1. O que Zeca-10 faz ao final do dia?",
+      "bbox": [
+        168,
+        649,
+        458,
+        664
+      ]
+    },
+    {
+      "id": 195,
+      "page": 8,
+      "category": "text",
+      "text": "2. Qual a sua funcao?",
+      "bbox": [
+        168,
+        668,
+        347,
+        683
+      ]
+    },
+    {
+      "id": 196,
+      "page": 8,
+      "category": "text",
+      "text": "3. Qual o titulo de texto?",
+      "bbox": [
+        168,
+        686,
+        373,
+        700
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "text",
+      "text": "4. O que ele faz quando recarrega sua bateria?",
+      "bbox": [
+        167,
+        705,
+        534,
+        721
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        649,
+        534,
+        721
+      ]
+    },
+    {
+      "id": 199,
+      "page": 8,
+      "category": "text",
+      "text": "(a) 5, 3, 1, 8",
+      "bbox": [
+        168,
+        759,
+        273,
+        775
+      ]
+    },
+    {
+      "id": 200,
+      "page": 8,
+      "category": "text",
+      "text": "(b) 5, 8, 1, 3",
+      "bbox": [
+        169,
+        779,
+        268,
+        794
+      ]
+    },
+    {
+      "id": 201,
+      "page": 8,
+      "category": "text",
+      "text": "(c) 3, 5, 1, 8",
+      "bbox": [
+        170,
+        797,
+        272,
+        812
+      ]
+    },
+    {
+      "id": 202,
+      "page": 8,
+      "category": "text",
+      "text": "(d) 3, 8, 5, 1",
+      "bbox": [
+        170,
+        816,
+        267,
+        831
+      ]
+    },
+    {
+      "id": 203,
+      "page": 8,
+      "category": "text",
+      "text": "(e) Nenhuma das anteriores",
+      "bbox": [
+        170,
+        834,
+        390,
+        849
+      ]
+    },
+    {
+      "id": 204,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        168,
+        759,
+        390,
+        849
+      ]
+    }
+  ]
+]

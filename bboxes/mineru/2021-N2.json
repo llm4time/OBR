@@ -1,0 +1,3660 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        51,
+        783,
+        273
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 2-4° E 5° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        185,
+        283,
+        919,
+        309
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        62,
+        338,
+        935,
+        530
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        316,
+        553,
+        680,
+        575
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        70,
+        584,
+        310,
+        604
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- España: Prove contém 11 páginas e 15 pergues;",
+      "bbox": [
+        72,
+        617,
+        576,
+        637
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas;",
+      "bbox": [
+        72,
+        638,
+        381,
+        655
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        72,
+        656,
+        503,
+        674
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        71,
+        675,
+        666,
+        693
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Apenas se necessario, leia a Questions para o aluno;",
+      "bbox": [
+        71,
+        694,
+        630,
+        712
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente;",
+      "bbox": [
+        72,
+        713,
+        553,
+        731
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Oriente o algo na forma de marca dareshasta, como ele não esta para ser�ado a这种方式 de prova;",
+      "bbox": [
+        71,
+        732,
+        844,
+        770
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Permita que seu-aluno demonstré apenas o OWNico��ecimento. Nao o auxilie na resolucao das quostes.",
+      "bbox": [
+        71,
+        771,
+        860,
+        809
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        71,
+        617,
+        860,
+        809
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "title",
+      "text": "ATENÇA: Algumas quostões podem ter mais de uma responça.",
+      "bbox": [
+        109,
+        826,
+        885,
+        850
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Realização",
+      "bbox": [
+        115,
+        879,
+        200,
+        894
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        65,
+        903,
+        159,
+        959
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNICAMP",
+      "bbox": [
+        67,
+        966,
+        157,
+        978
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        173,
+        906,
+        245,
+        958
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image_caption",
+      "text": "COTUCA",
+      "bbox": [
+        160,
+        963,
+        251,
+        978
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Apoio",
+      "bbox": [
+        298,
+        878,
+        347,
+        892
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        279,
+        904,
+        307,
+        932
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image_caption",
+      "text": "INSTITUTO FEDERAL Rio Grande do Norte",
+      "bbox": [
+        310,
+        916,
+        411,
+        933
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        421,
+        911,
+        497,
+        931
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        512,
+        894,
+        556,
+        939
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        900,
+        657,
+        936
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        667,
+        901,
+        752,
+        936
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        763,
+        891,
+        810,
+        928
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image_caption",
+      "text": "RCB",
+      "bbox": [
+        765,
+        920,
+        807,
+        938
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        824,
+        910,
+        852,
+        928
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Eurizon-Service Inc. (Eurizon) Inc. (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z) (aa) (bb) (cc) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd) (dd",
+      "bbox": [
+        827,
+        929,
+        882,
+        937
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        281,
+        961,
+        367,
+        982
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        383,
+        945,
+        464,
+        985
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        476,
+        945,
+        518,
+        983
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image_caption",
+      "text": "unesp",
+      "bbox": [
+        522,
+        961,
+        619,
+        982
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        622,
+        958,
+        707,
+        984
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image_caption",
+      "text": "MINISTÉRIÉS CÉLINE CHÉNCIÉ, TECHNOLOGY ÉNNOVATIONS",
+      "bbox": [
+        715,
+        963,
+        793,
+        981
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        802,
+        957,
+        844,
+        981
+      ]
+    },
+    {
+      "id": 38,
+      "page": 0,
+      "category": "image_caption",
+      "text": "PATSHA AMADA  \nBRASIL  \nBRASIL",
+      "bbox": [
+        848,
+        957,
+        914,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 39,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        33,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Os robos dependem de energia para se locomover e para fazer suas atividades. Essa energia pode ser",
+      "bbox": [
+        200,
+        43,
+        545,
+        93
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "armazenada en bacterias ou pilhas, ou pode ser diretamente convertida para o uso do robó, como é o caso da energia solar.",
+      "bbox": [
+        54,
+        93,
+        545,
+        142
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "O rover Opportunity, que está em Marte, possui PXainei solares que permittem que elle se locomova, se comunique com a Terra, realizare ses malocidades, etc. quando ha grandes pestimadas de areia em Marte, os PXainei solares podem ficar sujos, e o robo passava a depender apenas a energia accumulada em suas baterias, voltando a funcional plenamente apenas quando os PXainei são limpos por pestimadas de vento.",
+      "bbox": [
+        54,
+        142,
+        571,
+        274
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        556,
+        52,
+        941,
+        205
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Fotio: https://gimdo.uol.co.br/nasa-aspera-de-potrodo de-sevens-erma-mate por alegre (in Portuguese: nois-solares do roce opportunity)",
+      "bbox": [
+        565,
+        203,
+        928,
+        240
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "Sobre o uso da energia solar em robos, marque a alternativa correta:",
+      "bbox": [
+        55,
+        280,
+        678,
+        298
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "a. A energia solar é uma fonte de energia não renovaveL.",
+      "bbox": [
+        79,
+        302,
+        595,
+        319
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "b. Os robos que utilizeam energia solar nao pode ser movimentar quando nao ha luz solar sufficiente.",
+      "bbox": [
+        78,
+        319,
+        938,
+        351
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "c. Não é possível'utilizar energia solar para movimentar robês.",
+      "bbox": [
+        78,
+        352,
+        645,
+        369
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "d. A energia solar pode ser'utilizada como fonte de energia para robos de todos os tamanhos.",
+      "bbox": [
+        78,
+        369,
+        923,
+        386
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "e. So é possével utiliser energia solar em robôs que possuem uma bateria para armazená-la.",
+      "bbox": [
+        78,
+        386,
+        912,
+        402
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        302,
+        938,
+        402
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        33,
+        428,
+        191,
+        450
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "title",
+      "text": "Trashbot é um robô-lixeira queSeparatedo lixo para ajudar na reciclagem",
+      "bbox": [
+        205,
+        417,
+        684,
+        451
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "Trashbot é um robé que separa o lixo sozinho para reciclagem. O��o é um projetà da startup CleanRobotics, e tem como objetivo ajudar na coleta seletriva, evitando a chamada contaminação de material reciclavel. Função como uma x来历xa, ela analisa todo aqueço que é jogado em suas aberturas por meio de Inteligência Artificial e direciona ao respectivo compartmento. De acordo com seu desenvolvimentoores, ou Trashbot tem uma taxa de acerto de \\(90\\%\\), contra \\(30\\%\\) dos métodos tradicionais.",
+      "bbox": [
+        54,
+        458,
+        688,
+        588
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        697,
+        418,
+        938,
+        591
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "[......] Assim que um objeto é colocado no compartmento, o Sistema",
+      "bbox": [
+        54,
+        589,
+        687,
+        606
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "colhaoDs por meo de camaes e sensores,analise o o item devo ou nao se descantarado com material reciclavel e, por fim, direciona o lixo para o lugararto. Ahlem disso, todo o liquido érenado, o que leva eles segundos. Um punto negativo é que o Modelo aceita apenas um material por vez.",
+      "bbox": [
+        53,
+        606,
+        938,
+        669
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "text",
+      "text": "(Texto e figura extralidos de: https://www.techtudo.com.br/noticias/2020/02/trashbot-e-um-robo-lixeira-que-separa-o-lixo-para-ajudar-na-reciclagem-ghtml)",
+      "bbox": [
+        54,
+        670,
+        921,
+        682
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "Ao escolher para uso de TRASHBOT para recolher de latas de-alumni, qual a cor que o robé dever ter, na sua pintura exterior, para facilitate a identificacao dele uso do material a que",
+      "bbox": [
+        53,
+        689,
+        940,
+        738
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "a. vermelho",
+      "bbox": [
+        80,
+        746,
+        192,
+        761
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "b. azul",
+      "bbox": [
+        80,
+        763,
+        146,
+        777
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "c. amarelo",
+      "bbox": [
+        80,
+        780,
+        181,
+        794
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "d. marrom",
+      "bbox": [
+        80,
+        796,
+        178,
+        810
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "e. cinza",
+      "bbox": [
+        80,
+        813,
+        155,
+        826
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        746,
+        192,
+        826
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        895,
+        929,
+        909,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 68,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        33,
+        52,
+        191,
+        74
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "A Formiga Robólica é o primo robo a navelgar sem GPS. Se baseando no mecanismo utilizado pelas formigas para se",
+      "bbox": [
+        200,
+        42,
+        596,
+        93
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "text",
+      "text": "locomover, o robé sai para巴斯car comida e volta ao formiguesiro. A Formiga Robólica utilize uma bussola e um sensor de movimento opticopara medir a distancia percorrida.",
+      "bbox": [
+        54,
+        93,
+        595,
+        158
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "Imagine que a Formiga Robólica ira sair en atividade. Qual a orientação que shedehyde usar para se mover ate a banana, em seguida ir ate a mhaca, e por fim voltar ao ponto de partida?",
+      "bbox": [
+        54,
+        157,
+        576,
+        224
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        610,
+        41,
+        902,
+        178
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Fate: https://www.inovacantec.gov.cn/notice/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01/2020/01/01",
+      "bbox": [
+        587,
+        178,
+        924,
+        214
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        227,
+        222,
+        770,
+        478
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "a. Sudoeste - Oeste - Nordeste",
+      "bbox": [
+        79,
+        492,
+        367,
+        508
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "b. Nordeste - Leste - Sudoeste",
+      "bbox": [
+        81,
+        510,
+        361,
+        524
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "c. Nordeste - Oeste - Sudeste",
+      "bbox": [
+        81,
+        526,
+        354,
+        540
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "d. Noroeste - Leste - Sudoeste",
+      "bbox": [
+        81,
+        542,
+        361,
+        557
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "text",
+      "text": "e. Noroeste - Oeste - Sudeste",
+      "bbox": [
+        81,
+        559,
+        355,
+        573
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        492,
+        367,
+        573
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        22,
+        602,
+        181,
+        624
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "text",
+      "text": "Osensoreso sont partes do roboto que permittir que eles se les aulmecen. O ossoreso que o roboto quieve aulmecen o um senso de toque permuito que o roboto identifique colisoes para",
+      "bbox": [
+        190,
+        591,
+        774,
+        640
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "tornar as devidas praecocas; o sensor ultrasonico permite que o robó evite a umas vezes a sua pena. O meus meados e dosimetros orientam o robé sobre seu deslocamento ou sua posicao; entre osros.",
+      "bbox": [
+        54,
+        640,
+        769,
+        689
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "Robos poder ter various sensores différentes, que permittem que elles interjamd de formas úncas como o ambiente.",
+      "bbox": [
+        54,
+        688,
+        769,
+        721
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "Os robos Lucas e Kate resolvelam comprar senseores para instalar neles, ja que eles auno não possuem senseores.",
+      "bbox": [
+        54,
+        722,
+        755,
+        756
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        781,
+        589,
+        922,
+        726
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Fonte: (Adaptado de Freepik)",
+      "bbox": [
+        771,
+        729,
+        937,
+        742
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "table",
+      "text": "<table><tr><td>Lucas</td><td>Kate</td></tr><tr><td>Instalou 2 Senseless de teque</td><td>Instalou 1 bussola</td></tr><tr><td>Instalou 1 sensor ultrasónicos</td><td>Instalou 4 Senseless de cor</td></tr><tr><td>Retirou 1 sensor de teque</td><td>Instalou 1 odómetro</td></tr><tr><td>Instalou 1 odómetro</td><td>Instalou 2 senseless ultrasónicos</td></tr><tr><td>Instalou 1 bussola</td><td>Retirou 2 senseless de cor</td></tr><tr><td>Instalou 2 senseless de cor</td><td>Instalou 2 acelerómetros</td></tr><tr><td>Retirou 1 sensor de teque</td><td>Retirou 1 odómetro</td></tr></table>",
+      "bbox": [
+        212,
+        760,
+        787,
+        905
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        52,
+        917,
+        150,
+        978
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        895,
+        929,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "Ao final do processo, qual a relaço entre a quantidade de senores do Lucas e da Kate?",
+      "bbox": [
+        55,
+        42,
+        861,
+        60
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "a. Lucas tem mais sensores que Kate.",
+      "bbox": [
+        79,
+        66,
+        431,
+        82
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "b. Lucas tem menos sensores que Kate.",
+      "bbox": [
+        79,
+        83,
+        447,
+        99
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "c. Lucas e Kate tem a mesma quantidade de senores.",
+      "bbox": [
+        79,
+        100,
+        580,
+        116
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "d. Foram instalados a mesma quantidade de sensores no Lucas e na Kate.",
+      "bbox": [
+        79,
+        116,
+        757,
+        132
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "e. Foram retirados a mesma quantidade de sensores no Lucas e na Kate.",
+      "bbox": [
+        79,
+        132,
+        745,
+        148
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        66,
+        757,
+        148
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        33,
+        177,
+        192,
+        198
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "Robó's podem ser equipados con sensores de cor, que permitem identificar acor de uma superficie. Elles podem serutilizados para diversas funções, entreelles garantir que o robó consiga segurar uma LINHA no chão, como é o caso da",
+      "bbox": [
+        200,
+        164,
+        907,
+        214
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "text",
+      "text": "atividade proposta na etapa pratica da Olimpiada Brasileira de Robotica.",
+      "bbox": [
+        55,
+        214,
+        710,
+        230
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "Um和其他uso do sensor de cor, é便可 fazer a contagem de linhas no chão, permitindo que o robó identifique mais fácilmente Marcos dentro de um trajeto.",
+      "bbox": [
+        54,
+        230,
+        905,
+        264
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "Maria e um robo que iaearhabinar em uma oficina. Para que ela pudesse se locomarnero dentro para alegar a sua pena, o que o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o Não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não onal o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o boa o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o não o'al oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal ocal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal o'al oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal oal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal omal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal okal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ojal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ojal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ogal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal oval ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal oCal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal octal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal owal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal oal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal omal omal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal omal ojal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal omal ogal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal omal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ojal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ocal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ocal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ocal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ojal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ocal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal okal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal okal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal ojal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal ojal okal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal okal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal omal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal okal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal okal ojal ojal ojal okal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal ojal ojal ojal ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal o ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o Jal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal omal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ochal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ogal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal octal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o jal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal onal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oval ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal owal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oja ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o alkal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oshal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oopal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oGal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ofal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o'al ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojgal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Ogal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal orjal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal orcal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal orkal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ormal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oral ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ornal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ortal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojak ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojas ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojad ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oenal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oital ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oMal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oibal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal odal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oial ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oeral ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal olegal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oegal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojay ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oyal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojan ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojd ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o Jad ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oidal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oetal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oinal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oodal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oRal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oMAL ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal olay ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oay ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oday ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oajal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Omal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal OMal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Ocal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Oassistant ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocaf ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojaw ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oandal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal orenal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oCal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oJa ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oKal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ock ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oikal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o denial ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal otal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal Oal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal e ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal owel ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oFal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o Fal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oDAL ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o basal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oalysis ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oge ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oanal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o九大 ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oignal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oelial ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ounal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oscal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oactal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ohal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oonal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal obal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oCAL ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ousal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oNAL ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o MAL ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal othal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oalign ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal opal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oral ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal oabal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal odas ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal o\\$jal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal e Ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ojal ocal O -:",
+      "bbox": [
+        54,
+        264,
+        905,
+        312
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "Por exemple:",
+      "bbox": [
+        55,
+        313,
+        181,
+        328
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "- Linhas multiplas de 13 representam locais onde ficam os martelos",
+      "bbox": [
+        78,
+        329,
+        711,
+        345
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "- Linhas multiplas de 7 representam locais onde ficam os parafusos",
+      "bbox": [
+        78,
+        345,
+        711,
+        363
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "- Linhas multiplas de 9 representam estacoes de trabalho",
+      "bbox": [
+        78,
+        363,
+        624,
+        379
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        329,
+        711,
+        379
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        127,
+        385,
+        865,
+        677
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "Maria comeou a travailhar, ja contou 40 linhas, e deseja fazer tres tarefas:",
+      "bbox": [
+        55,
+        685,
+        731,
+        704
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "1. pegar um martelo",
+      "bbox": [
+        199,
+        710,
+        387,
+        726
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "2. pegar um parafuso",
+      "bbox": [
+        199,
+        727,
+        396,
+        743
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "3. ir para uma estaqao de trabalho",
+      "bbox": [
+        199,
+        743,
+        513,
+        760
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        199,
+        710,
+        513,
+        760
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "Para que ela percorra o menor caminho possivel, quais linhas ela deve ir, respectivamente:",
+      "bbox": [
+        55,
+        766,
+        882,
+        784
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "a.52-49-54",
+      "bbox": [
+        80,
+        790,
+        213,
+        805
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "b.39-42-45",
+      "bbox": [
+        80,
+        806,
+        213,
+        822
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "c.53-60-69",
+      "bbox": [
+        80,
+        823,
+        213,
+        838
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "d.39-35-36",
+      "bbox": [
+        80,
+        839,
+        213,
+        855
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "e.52-56-54",
+      "bbox": [
+        80,
+        856,
+        213,
+        872
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        790,
+        213,
+        872
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        52,
+        917,
+        150,
+        978
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        895,
+        929,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 123,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        33,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 124,
+      "page": 4,
+      "category": "text",
+      "text": "O rover Perseverance, que est en Marte desde breveiro de 2021, exploras as condicoes do planeta, coletando dados e mandando-os para a Terra para analise por parte dos cientistas. Come isto, e possivel saber se j'a houve vida en Marte, e",
+      "bbox": [
+        200,
+        42,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 125,
+      "page": 4,
+      "category": "text",
+      "text": "se é possével encontrarágua no planeta.",
+      "bbox": [
+        55,
+        93,
+        425,
+        109
+      ]
+    },
+    {
+      "id": 126,
+      "page": 4,
+      "category": "text",
+      "text": "Suponha que o Perseverence coletou os seguentes dados:",
+      "bbox": [
+        55,
+        109,
+        583,
+        126
+      ]
+    },
+    {
+      "id": 127,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>Análise/Região de Marte</td><td>Xanthel</td><td>Tempe</td><td>Aionial</td><td>Arabial</td></tr><tr><td>Umidade do solo</td><td>20</td><td>32</td><td>19</td><td>7</td></tr><tr><td>Quantidade de carbono e magnésio no solo</td><td>31</td><td>29</td><td>21</td><td>8</td></tr></table>",
+      "bbox": [
+        168,
+        130,
+        830,
+        196
+      ]
+    },
+    {
+      "id": 128,
+      "page": 4,
+      "category": "text",
+      "text": "Qual das seguintes afirmações é correta?",
+      "bbox": [
+        55,
+        202,
+        436,
+        220
+      ]
+    },
+    {
+      "id": 129,
+      "page": 4,
+      "category": "text",
+      "text": "a. Na regione de Arabia, ha metade da umidade do solo do que as outras regiones.",
+      "bbox": [
+        79,
+        226,
+        647,
+        259
+      ]
+    },
+    {
+      "id": 130,
+      "page": 4,
+      "category": "text",
+      "text": "b. No total, foramindradas 78 unidades de medida de umida do solo em todas as regóios.",
+      "bbox": [
+        79,
+        259,
+        647,
+        292
+      ]
+    },
+    {
+      "id": 131,
+      "page": 4,
+      "category": "text",
+      "text": "c. A regiao de Aonia é a que tem menos umidade do solo.",
+      "bbox": [
+        79,
+        292,
+        604,
+        308
+      ]
+    },
+    {
+      "id": 132,
+      "page": 4,
+      "category": "text",
+      "text": "d. A região de Tempe é a região que tem maior quantidade de carbono, magnésio e umida do solo.",
+      "bbox": [
+        79,
+        308,
+        647,
+        340
+      ]
+    },
+    {
+      "id": 133,
+      "page": 4,
+      "category": "text",
+      "text": "e. No total, foram encontrar 78 unidas de medida de carbono e magnésio do solo em todas as regões.",
+      "bbox": [
+        79,
+        340,
+        647,
+        374
+      ]
+    },
+    {
+      "id": 134,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        226,
+        647,
+        374
+      ]
+    },
+    {
+      "id": 135,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        657,
+        202,
+        948,
+        317
+      ]
+    },
+    {
+      "id": 136,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Fonte: [https://www.cnnbrasil.com.br/tecnologia/",
+      "bbox": [
+        665,
+        318,
+        946,
+        329
+      ]
+    },
+    {
+      "id": 137,
+      "page": 4,
+      "category": "image_caption",
+      "text": "2021/05/18/perseverance-compita-tres-memes-em-pearte-vaje-as-melhos-imagens",
+      "bbox": [
+        669,
+        330,
+        941,
+        353
+      ]
+    },
+    {
+      "id": 138,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        33,
+        402,
+        191,
+        423
+      ]
+    },
+    {
+      "id": 139,
+      "page": 4,
+      "category": "text",
+      "text": "UmGrupo de pesquisadores do MIT desenvolveu um robocapaz de auxiliar na identificacao de bazamente de agua em canos, atraves daanalise da pressao da agua. Conflue o robocapaz deondheim canos, ele capaz de encontrar",
+      "bbox": [
+        200,
+        389,
+        942,
+        439
+      ]
+    },
+    {
+      "id": 140,
+      "page": 4,
+      "category": "text",
+      "text": "vazamentos, diminuindo o despercio de agua.",
+      "bbox": [
+        55,
+        440,
+        488,
+        456
+      ]
+    },
+    {
+      "id": 141,
+      "page": 4,
+      "category": "text",
+      "text": "O uso de robos para garantir a segança do meu ambiente e diminui o despericio de recursos naturais é muito importante.",
+      "bbox": [
+        54,
+        456,
+        938,
+        489
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "Quais dos seguintes robos NAO auxilia na diminuicao do despericio de agua dentro de uma casa?",
+      "bbox": [
+        55,
+        495,
+        940,
+        514
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "text",
+      "text": "a. Robo que controla o tempo em que o chuveiro fica ligado durante o banho.",
+      "bbox": [
+        85,
+        519,
+        635,
+        551
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "text",
+      "text": "b. Robo que liga a torneira da pia apenas quando identifica um movimento narente dela.",
+      "bbox": [
+        85,
+        551,
+        635,
+        584
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "c. Robo que liga automaticamente os regadores de grama independente do dia/horario.",
+      "bbox": [
+        85,
+        584,
+        635,
+        617
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "d. Robo que robamazá a agua da boaque de lavar roupas,抗体a, e a reutiliza para vasos sanitarios.",
+      "bbox": [
+        85,
+        617,
+        635,
+        650
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "e. Robo que emite ALERTs quando o consumo de água passa de um valor sufiente para a casa.",
+      "bbox": [
+        85,
+        650,
+        635,
+        684
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        519,
+        635,
+        684
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        646,
+        519,
+        936,
+        635
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Font: https://www.rontalagelab.go.com/Tenologia/  \nFont: https://www.rontalagelab.go.com/  \npoupo pseudoirs/  \nhttps://poupo.poupo.fr/  \ntested:=0x2018c34486f020f0625d0070f20  \npar_probablifed:=0x2018c34486f020f0625d0070f20  \nconcequence:=0x2018c34486f020f0625d0070f20",
+      "bbox": [
+        647,
+        635,
+        936,
+        704
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        33,
+        726,
+        191,
+        748
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "text",
+      "text": "O Automower é um robó cortador de grama que funciona a bateria e travaça de maneira autónoma. O equipamento",
+      "bbox": [
+        200,
+        715,
+        589,
+        765
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "text",
+      "text": "também é seguido,posal las laminas de corte para medir o seguido, para queder obstáculo ou se equipamento por ergúdio do chão.",
+      "bbox": [
+        54,
+        766,
+        588,
+        814
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "Assim que a bateria estiver proxima do fim, elle retorna automatamente a base corregadora, que é uma Tecnologia semelhente a dos robos aspiradores de pó.",
+      "bbox": [
+        54,
+        814,
+        588,
+        865
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "Se o Automower for programado com os seguinques comandos, quando um meira meada noGRAMdo?",
+      "bbox": [
+        54,
+        870,
+        588,
+        904
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        615,
+        721,
+        920,
+        875
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "image_caption",
+      "text": "http://fondourdigital.com/2010/10/13/cars/2010/10/13/2010/10/13/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10/10",
+      "bbox": [
+        618,
+        875,
+        921,
+        910
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        894,
+        930,
+        909,
+        943
+      ]
+    }
+  ],
+  [
+    {
+      "id": 160,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        50,
+        87,
+        575,
+        109
+      ]
+    },
+    {
+      "id": 161,
+      "page": 5,
+      "category": "image_caption",
+      "text": "a.",
+      "bbox": [
+        57,
+        307,
+        79,
+        322
+      ]
+    },
+    {
+      "id": 162,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        173,
+        275,
+        228,
+        296
+      ]
+    },
+    {
+      "id": 163,
+      "page": 5,
+      "category": "image_caption",
+      "text": "d.",
+      "bbox": [
+        497,
+        307,
+        515,
+        321
+      ]
+    },
+    {
+      "id": 164,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        173,
+        501,
+        228,
+        522
+      ]
+    },
+    {
+      "id": 165,
+      "page": 5,
+      "category": "image_caption",
+      "text": "b.",
+      "bbox": [
+        57,
+        532,
+        77,
+        548
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        173,
+        727,
+        228,
+        749
+      ]
+    },
+    {
+      "id": 167,
+      "page": 5,
+      "category": "image_caption",
+      "text": "e.",
+      "bbox": [
+        497,
+        534,
+        515,
+        548
+      ]
+    },
+    {
+      "id": 168,
+      "page": 5,
+      "category": "image_caption",
+      "text": "C.",
+      "bbox": [
+        57,
+        761,
+        76,
+        774
+      ]
+    },
+    {
+      "id": 169,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        173,
+        727,
+        228,
+        749
+      ]
+    },
+    {
+      "id": 170,
+      "page": 5,
+      "category": "footer",
+      "text": "ORF",
+      "bbox": [
+        53,
+        917,
+        147,
+        976
+      ]
+    },
+    {
+      "id": 171,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        613,
+        41,
+        924,
+        203
+      ]
+    },
+    {
+      "id": 172,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        520,
+        202,
+        941,
+        655
+      ]
+    },
+    {
+      "id": 173,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        896,
+        930,
+        909,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 174,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        33,
+        50,
+        191,
+        73
+      ]
+    },
+    {
+      "id": 175,
+      "page": 6,
+      "category": "text",
+      "text": "De uma maneira bem simplificada, pode fazer que drones são robos aéros não tripulados, Guidance por",
+      "bbox": [
+        200,
+        42,
+        551,
+        93
+      ]
+    },
+    {
+      "id": 176,
+      "page": 6,
+      "category": "text",
+      "text": "contrôle remoto e equipos con cameras que possibiliam filagemes e fotografias de alta definição. No mercado immobiliário passamam a serutilizadas para medir terrenos e和地区, conhecer o entorno de um emprendimento, auxilio para medicacao de terrenos e和地区, verificar o desnilvent in lotementos, conferir detalles da fachada de um predeio, são muitas as possibidades abertas pela utilização dos drones.",
+      "bbox": [
+        54,
+        93,
+        552,
+        223
+      ]
+    },
+    {
+      "id": 177,
+      "page": 6,
+      "category": "text",
+      "text": "(Texto adaptado e figura extradados de: https://blog.coniectaibom.com.br/drones-os-robos-voadasque-surgem-para-auxiliar-ogmercado-imobiliario)",
+      "bbox": [
+        54,
+        223,
+        552,
+        247
+      ]
+    },
+    {
+      "id": 178,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        563,
+        40,
+        931,
+        216
+      ]
+    },
+    {
+      "id": 179,
+      "page": 6,
+      "category": "text",
+      "text": "A immobiliera Ribotel resolves utilize unim dorne para medir o perimetro de um terreno novo. Sabendo a perimetro, o perimetro é a planta do terreno e que a lateral de cada quadrado mede o metrico, qual o perimetro do terreno.",
+      "bbox": [
+        53,
+        254,
+        943,
+        303
+      ]
+    },
+    {
+      "id": 180,
+      "page": 6,
+      "category": "text",
+      "text": "a. \\(5200\\mathrm{cm}\\)",
+      "bbox": [
+        80,
+        310,
+        186,
+        325
+      ]
+    },
+    {
+      "id": 181,
+      "page": 6,
+      "category": "text",
+      "text": "b. 520 cm",
+      "bbox": [
+        82,
+        327,
+        175,
+        342
+      ]
+    },
+    {
+      "id": 182,
+      "page": 6,
+      "category": "text",
+      "text": "c. \\( {52}\\mathrm{\\;{cm}} \\)",
+      "bbox": [
+        82,
+        344,
+        165,
+        358
+      ]
+    },
+    {
+      "id": 183,
+      "page": 6,
+      "category": "text",
+      "text": "d. 5,2 km",
+      "bbox": [
+        82,
+        360,
+        169,
+        374
+      ]
+    },
+    {
+      "id": 184,
+      "page": 6,
+      "category": "text",
+      "text": "e. 0.52 km",
+      "bbox": [
+        82,
+        376,
+        181,
+        391
+      ]
+    },
+    {
+      "id": 185,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        310,
+        186,
+        391
+      ]
+    },
+    {
+      "id": 186,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        442,
+        298,
+        662,
+        462
+      ]
+    },
+    {
+      "id": 187,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 10",
+      "bbox": [
+        17,
+        497,
+        191,
+        519
+      ]
+    },
+    {
+      "id": 188,
+      "page": 6,
+      "category": "text",
+      "text": "Os robos humanoides são robos cuja aparência geral é baseada no corpo humano, permitindo sua interação com ferramentas e ambientes",
+      "bbox": [
+        200,
+        483,
+        639,
+        533
+      ]
+    },
+    {
+      "id": 189,
+      "page": 6,
+      "category": "text",
+      "text": "feitos para uso humano. De umaleiance general, robos humanoides posseum um trocono com uma cabeca, dois braços e duas pernas, embarca algumas formas de robos humanoides possem terapanas parte do coro. Robos como o ASIMO, desenvolvimento pela Empresa Honda, ou a Sophia, desenvolvimento pela Empresa Hanson Robotics, tem o objetivo de建立起 interconções com os seres humanos. No intuito deapproximar um humanoido, os humanos, o desenvolvimento na area de Invergimento. Artificial e senores sera sempre necessário. Assim como os humanos, os robos possem sentidos, ou修为, éposseis que ele observe um objetoproximo, escute, emita, sons e percebe quando algobjecto encosta. Baseado asseinas informacoesassinalea aalternativa que melhor descresca os senoresutilizados para essos sentidos respectivamente.",
+      "bbox": [
+        65,
+        533,
+        641,
+        780
+      ]
+    },
+    {
+      "id": 190,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        648,
+        486,
+        941,
+        622
+      ]
+    },
+    {
+      "id": 191,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonte: (HONDA)",
+      "bbox": [
+        749,
+        623,
+        841,
+        633
+      ]
+    },
+    {
+      "id": 192,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        648,
+        634,
+        910,
+        772
+      ]
+    },
+    {
+      "id": 193,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Fonte: (Hanson Robotics)",
+      "bbox": [
+        708,
+        772,
+        849,
+        783
+      ]
+    },
+    {
+      "id": 194,
+      "page": 6,
+      "category": "text",
+      "text": "a. Sensor ultrassónico, microfone, sensor de som, sensor de luz.",
+      "bbox": [
+        79,
+        785,
+        667,
+        801
+      ]
+    },
+    {
+      "id": 195,
+      "page": 6,
+      "category": "text",
+      "text": "b. Sensor de luz, sensor de som, sensor ultrassônico, sensor de contato.",
+      "bbox": [
+        79,
+        802,
+        736,
+        818
+      ]
+    },
+    {
+      "id": 196,
+      "page": 6,
+      "category": "text",
+      "text": "c. Sensor de distancia, sensor ultrassonico, sensor de som, sensor de luz.",
+      "bbox": [
+        82,
+        819,
+        749,
+        834
+      ]
+    },
+    {
+      "id": 197,
+      "page": 6,
+      "category": "text",
+      "text": "d. Sensor ultrassonic, sensor de som, microfone, sensor de contato.",
+      "bbox": [
+        82,
+        836,
+        705,
+        851
+      ]
+    },
+    {
+      "id": 198,
+      "page": 6,
+      "category": "text",
+      "text": "e. Sensor de contato, sensor de som, microfone, sensor ultrassónico.",
+      "bbox": [
+        82,
+        852,
+        705,
+        867
+      ]
+    },
+    {
+      "id": 199,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        79,
+        785,
+        749,
+        867
+      ]
+    },
+    {
+      "id": 200,
+      "page": 6,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        52,
+        917,
+        150,
+        978
+      ]
+    },
+    {
+      "id": 201,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        894,
+        929,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 202,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTAO 11",
+      "bbox": [
+        19,
+        54,
+        189,
+        74
+      ]
+    },
+    {
+      "id": 203,
+      "page": 7,
+      "category": "text",
+      "text": "Os Robos - mecanismos automaticos que realizam lavoros e movimento humanos. São controlados por humanos e povivos de sistemas electrónicos.",
+      "bbox": [
+        200,
+        42,
+        938,
+        75
+      ]
+    },
+    {
+      "id": 204,
+      "page": 7,
+      "category": "text",
+      "text": "A palavra robó apareceu pela primaira vez em um teatro, na peça \"Robôs Teatrais",
+      "bbox": [
+        199,
+        75,
+        938,
+        92
+      ]
+    },
+    {
+      "id": 205,
+      "page": 7,
+      "category": "text",
+      "text": "de Rossum\", do tcheco Karel Caek. Isso foi ha 100anos, mas ja na quabela epoca, o robo erima,. simbolo de desenvolvimento Tecnologico e grandeza.",
+      "bbox": [
+        54,
+        93,
+        938,
+        125
+      ]
+    },
+    {
+      "id": 206,
+      "page": 7,
+      "category": "text",
+      "text": "Atualmente, a maior dos robos existentes na indústria. Quase 254 mil deles comprados pela indústria de todo o mundo apenas em 2015, segundo a Federação Internacional de Robotica (IFR, em ingês).",
+      "bbox": [
+        54,
+        125,
+        938,
+        174
+      ]
+    },
+    {
+      "id": 207,
+      "page": 7,
+      "category": "text",
+      "text": "A robística tem grande aplicação em diversas和地区 desde a Produção industrial, atéias divididas e comércios de货运agem industrial, robés e outros equipamentos são usados para fazer a prodúltividade das entreprises.",
+      "bbox": [
+        54,
+        174,
+        938,
+        223
+      ]
+    },
+    {
+      "id": 208,
+      "page": 7,
+      "category": "text",
+      "text": "Mas ao contráo do que pensam, a rabórica não. Para aspasos de uso de grandes entreprises, a boa parte do tempo, como a coisa para ser produzça, se tarece a sua exaúlvitas com a ajuda de novas technologicas e dispositivos que realizam atividades automatizadas.",
+      "bbox": [
+        54,
+        223,
+        938,
+        272
+      ]
+    },
+    {
+      "id": 209,
+      "page": 7,
+      "category": "text",
+      "text": "(Texto extraidode: http://www.ortaldaindustria.com.br/8obotica8-de-a-2/8obotica/).",
+      "bbox": [
+        55,
+        272,
+        536,
+        284
+      ]
+    },
+    {
+      "id": 210,
+      "page": 7,
+      "category": "text",
+      "text": "Considero o trecho acima, retirado do artigo \"O que é robólica e como ela está presente no seu dia-a-dia?\"",
+      "bbox": [
+        54,
+        290,
+        762,
+        322
+      ]
+    },
+    {
+      "id": 211,
+      "page": 7,
+      "category": "text",
+      "text": "Os espécoes en branco couldo ser corretamente subsolutidospellos verbos estar,ser,existir,na sequente conjugacao:",
+      "bbox": [
+        54,
+        324,
+        762,
+        357
+      ]
+    },
+    {
+      "id": 212,
+      "page": 7,
+      "category": "text",
+      "text": "a. são, está, foram, existe",
+      "bbox": [
+        85,
+        363,
+        341,
+        378
+      ]
+    },
+    {
+      "id": 213,
+      "page": 7,
+      "category": "text",
+      "text": "b. foram, estavam, sao, existem",
+      "bbox": [
+        85,
+        380,
+        383,
+        395
+      ]
+    },
+    {
+      "id": 214,
+      "page": 7,
+      "category": "text",
+      "text": "c. são, estavam, são, existiu",
+      "bbox": [
+        86,
+        397,
+        353,
+        412
+      ]
+    },
+    {
+      "id": 215,
+      "page": 7,
+      "category": "text",
+      "text": "d. estao, estavam, foram, existe",
+      "bbox": [
+        86,
+        413,
+        383,
+        429
+      ]
+    },
+    {
+      "id": 216,
+      "page": 7,
+      "category": "text",
+      "text": "e. são, está, ser, existir",
+      "bbox": [
+        86,
+        430,
+        317,
+        445
+      ]
+    },
+    {
+      "id": 217,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        363,
+        383,
+        445
+      ]
+    },
+    {
+      "id": 218,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        782,
+        261,
+        940,
+        454
+      ]
+    },
+    {
+      "id": 219,
+      "page": 7,
+      "category": "title",
+      "text": "QUESTAO 12",
+      "bbox": [
+        17,
+        478,
+        190,
+        500
+      ]
+    },
+    {
+      "id": 220,
+      "page": 7,
+      "category": "text",
+      "text": "Vivemos um tempo em que os robos podem limpar nos nassos para alegar.",
+      "bbox": [
+        199,
+        462,
+        514,
+        510
+      ]
+    },
+    {
+      "id": 221,
+      "page": 7,
+      "category": "text",
+      "text": "desativar bombas, Ofrecer proteses de membros, audajar en procedimientos cirugicos, fabricar produits, entrezer, ensinar e suprerrender. Assim como smartphones e redes sociais offre uma connectividade muito alémel de qualquer coisa que podieriam imaginar, os robos sãocomedao a demonstrar capacidades fisicas, Intelligência Artificial (IA) e habilidades cognitivas muito acima",
+      "bbox": [
+        54,
+        512,
+        514,
+        642
+      ]
+    },
+    {
+      "id": 222,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        526,
+        467,
+        950,
+        624
+      ]
+    },
+    {
+      "id": 223,
+      "page": 7,
+      "category": "text",
+      "text": "de nasoss _ Juntas, estas technologias poder sem agraveidades paraaabdar a resolver desalvos importantes, como o envolvimento de sociedades, ameaças ambientias e conflitos de amado.",
+      "bbox": [
+        53,
+        643,
+        938,
+        690
+      ]
+    },
+    {
+      "id": 224,
+      "page": 7,
+      "category": "text",
+      "text": "Como sera o dia a dia de nosas vidas nestre futuro não tão distante? A ficçãocientifico tem explorado estas可能性 por. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nProveamente, nosas vidas seront also much larger, com orgão sintéticos para substitui partes dedefinições de nosos sociros, intervenções médicas nanometricas que permitem o direcionamento precisio de DOEÇN e genética, àsolem de veículos autônocos que podem reduir as fatalidades no transíso. Nosas ocações mudarão drasticamente -agens travaços deixarão de existir e novos officios surgirão, por exemplo, na区内 de desenvolvimento de aplicativos de . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..\nde robó para serem disponibilizados em plataformas de robos em nosas cases. A maneira como)nossa Educação deuvevaraultamente mudará radicalamente, nosos sentidos e cérebros poderão ser artificialmente melhorados, e minha habilidade de refletir sobre novos acontecimentos adquiridos da . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . \nquantidades de dados irá demandar uma maneira diferente do tratamento da informação nas escalas.",
+      "bbox": [
+        53,
+        692,
+        938,
+        886
+      ]
+    },
+    {
+      "id": 225,
+      "page": 7,
+      "category": "text",
+      "text": "[Texto extraldo de: https://pt.unesco.org/courier/2018-3/robos-e-humanos].",
+      "bbox": [
+        55,
+        887,
+        480,
+        899
+      ]
+    },
+    {
+      "id": 226,
+      "page": 7,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 227,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        894,
+        930,
+        908,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 228,
+      "page": 8,
+      "category": "text",
+      "text": "Considere o trecho acima, retirado do artigo \"Sobre robos e humanos\"",
+      "bbox": [
+        55,
+        42,
+        690,
+        59
+      ]
+    },
+    {
+      "id": 229,
+      "page": 8,
+      "category": "text",
+      "text": "Os espacos em branco poder ser corretamente substituidos por qual conjunto de palavras?",
+      "bbox": [
+        55,
+        59,
+        888,
+        77
+      ]
+    },
+    {
+      "id": 230,
+      "page": 8,
+      "category": "text",
+      "text": "a. dirigir, expectativas, séculos, serviços,analise.",
+      "bbox": [
+        85,
+        83,
+        538,
+        99
+      ]
+    },
+    {
+      "id": 231,
+      "page": 8,
+      "category": "text",
+      "text": "b. dirigir,expectativas,seculos,serviceanalise.",
+      "bbox": [
+        85,
+        100,
+        538,
+        116
+      ]
+    },
+    {
+      "id": 232,
+      "page": 8,
+      "category": "text",
+      "text": "c. dirijir,expectativas,ceculos,service,analise.",
+      "bbox": [
+        86,
+        117,
+        533,
+        132
+      ]
+    },
+    {
+      "id": 233,
+      "page": 8,
+      "category": "text",
+      "text": "d. dirigir,expectativas,seculos,scervicos,analise.",
+      "bbox": [
+        86,
+        133,
+        547,
+        148
+      ]
+    },
+    {
+      "id": 234,
+      "page": 8,
+      "category": "text",
+      "text": "e. dirijir,expectativas,seculos,serviceanalise.",
+      "bbox": [
+        86,
+        149,
+        533,
+        165
+      ]
+    },
+    {
+      "id": 235,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        83,
+        547,
+        165
+      ]
+    },
+    {
+      "id": 236,
+      "page": 8,
+      "category": "title",
+      "text": "QUESTAO 13",
+      "bbox": [
+        17,
+        193,
+        191,
+        216
+      ]
+    },
+    {
+      "id": 237,
+      "page": 8,
+      "category": "text",
+      "text": "Sudoku é um tipo de quebene-cabeca que se baseia na concordança racial de números. O Sudoku é provente um acrônico deExpressão 'Os numeros de quebene cabeca'",
+      "bbox": [
+        200,
+        181,
+        942,
+        229
+      ]
+    },
+    {
+      "id": 238,
+      "page": 8,
+      "category": "text",
+      "text": "A regra do Sudoku diz que elementos Dentro de uma LINHA, coluna ou Dentro do mesmo bloco, não devem havar repeticções de neros.",
+      "bbox": [
+        53,
+        230,
+        938,
+        264
+      ]
+    },
+    {
+      "id": 239,
+      "page": 8,
+      "category": "text",
+      "text": "Imagine um sudo de peças de robó, composto por 6 elementos:",
+      "bbox": [
+        55,
+        270,
+        652,
+        288
+      ]
+    },
+    {
+      "id": 240,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        289,
+        168,
+        349
+      ]
+    },
+    {
+      "id": 241,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        192,
+        288,
+        286,
+        352
+      ]
+    },
+    {
+      "id": 242,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        293,
+        290,
+        417,
+        330
+      ]
+    },
+    {
+      "id": 243,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        427,
+        289,
+        535,
+        351
+      ]
+    },
+    {
+      "id": 244,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        552,
+        288,
+        644,
+        351
+      ]
+    },
+    {
+      "id": 245,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        656,
+        286,
+        766,
+        353
+      ]
+    },
+    {
+      "id": 246,
+      "page": 8,
+      "category": "text",
+      "text": "Considerando o seguito tabuleiro de Sudo, e seguito as regras do jogo, qual pça de robé de ser colocacao no quadrado marcado?",
+      "bbox": [
+        53,
+        354,
+        915,
+        387
+      ]
+    },
+    {
+      "id": 247,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        289,
+        396,
+        709,
+        643
+      ]
+    },
+    {
+      "id": 248,
+      "page": 8,
+      "category": "text",
+      "text": "a.",
+      "bbox": [
+        359,
+        692,
+        381,
+        705
+      ]
+    },
+    {
+      "id": 249,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        389,
+        662,
+        483,
+        729
+      ]
+    },
+    {
+      "id": 250,
+      "page": 8,
+      "category": "text",
+      "text": "d.",
+      "bbox": [
+        502,
+        691,
+        521,
+        704
+      ]
+    },
+    {
+      "id": 251,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        533,
+        666,
+        625,
+        728
+      ]
+    },
+    {
+      "id": 252,
+      "page": 8,
+      "category": "text",
+      "text": "b.1",
+      "bbox": [
+        359,
+        758,
+        382,
+        772
+      ]
+    },
+    {
+      "id": 253,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        380,
+        748,
+        498,
+        777
+      ]
+    },
+    {
+      "id": 254,
+      "page": 8,
+      "category": "text",
+      "text": "e.",
+      "bbox": [
+        503,
+        760,
+        520,
+        772
+      ]
+    },
+    {
+      "id": 255,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        523,
+        731,
+        631,
+        798
+      ]
+    },
+    {
+      "id": 256,
+      "page": 8,
+      "category": "text",
+      "text": "C.",
+      "bbox": [
+        359,
+        829,
+        377,
+        840
+      ]
+    },
+    {
+      "id": 257,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        383,
+        801,
+        493,
+        865
+      ]
+    },
+    {
+      "id": 258,
+      "page": 8,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        53,
+        917,
+        148,
+        978
+      ]
+    },
+    {
+      "id": 259,
+      "page": 8,
+      "category": "page_number",
+      "text": "9",
+      "bbox": [
+        895,
+        929,
+        909,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 260,
+      "page": 9,
+      "category": "header",
+      "text": "QUESTAO 14",
+      "bbox": [
+        19,
+        55,
+        191,
+        76
+      ]
+    },
+    {
+      "id": 261,
+      "page": 9,
+      "category": "title",
+      "text": "Usoando lixo eletronico, estudiantescriambrodeispensadordealcohol em gel e batizam de Contron Covid-19",
+      "bbox": [
+        208,
+        42,
+        936,
+        77
+      ]
+    },
+    {
+      "id": 262,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        58,
+        85,
+        438,
+        239
+      ]
+    },
+    {
+      "id": 263,
+      "page": 9,
+      "category": "text",
+      "text": "Usingdo lixo eleurocnico,estudantes da rede publica, criaram um robc o um dispenser de alcool em gel. O \"Contron Covid-19\" libera a substancia por meio de um sensor.",
+      "bbox": [
+        443,
+        82,
+        941,
+        147
+      ]
+    },
+    {
+      "id": 264,
+      "page": 9,
+      "category": "text",
+      "text": "\"Ussamos para a estrutura e o corpus do robó, materiais de sucaça e que não tânham utilidade, como ferro, placas de arduino e atém um联系电话 velho. Não mais para parte doSYSTEMA, que injeetaria o alcóol em gel, usamos um arduino com sensor para fazer o seria aintelligence artificial\"",
+      "bbox": [
+        443,
+        148,
+        941,
+        244
+      ]
+    },
+    {
+      "id": 265,
+      "page": 9,
+      "category": "text",
+      "text": "[Textado p 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000]",
+      "bbox": [
+        54,
+        245,
+        925,
+        271
+      ]
+    },
+    {
+      "id": 266,
+      "page": 9,
+      "category": "text",
+      "text": "Considerando as informações do texto e, sabando que o éçalo em gel sera liberado automaticamente ao usuário quando se positioning aPEG do dispenser, qual das alternativas apareça o sensorutilizando?",
+      "bbox": [
+        54,
+        276,
+        919,
+        327
+      ]
+    },
+    {
+      "id": 267,
+      "page": 9,
+      "category": "text",
+      "text": "a. sensor infravermelho.",
+      "bbox": [
+        85,
+        333,
+        316,
+        349
+      ]
+    },
+    {
+      "id": 268,
+      "page": 9,
+      "category": "text",
+      "text": "b. sensor de umidade.",
+      "bbox": [
+        86,
+        350,
+        299,
+        365
+      ]
+    },
+    {
+      "id": 269,
+      "page": 9,
+      "category": "text",
+      "text": "c. sensor efeito Doopler.",
+      "bbox": [
+        86,
+        366,
+        318,
+        382
+      ]
+    },
+    {
+      "id": 270,
+      "page": 9,
+      "category": "text",
+      "text": "d. sensor indutivo.",
+      "bbox": [
+        86,
+        383,
+        262,
+        398
+      ]
+    },
+    {
+      "id": 271,
+      "page": 9,
+      "category": "text",
+      "text": "e. sensor Hall.",
+      "bbox": [
+        86,
+        399,
+        227,
+        414
+      ]
+    },
+    {
+      "id": 272,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        333,
+        318,
+        414
+      ]
+    },
+    {
+      "id": 273,
+      "page": 9,
+      "category": "title",
+      "text": "QUESTAO 15",
+      "bbox": [
+        17,
+        445,
+        192,
+        467
+      ]
+    },
+    {
+      "id": 274,
+      "page": 9,
+      "category": "title",
+      "text": "TEXTO 1",
+      "bbox": [
+        201,
+        431,
+        288,
+        447
+      ]
+    },
+    {
+      "id": 275,
+      "page": 9,
+      "category": "text",
+      "text": "A globalização e seuprocesso de inociação Tecnológica permitir interigur o mundo en toutquel momento com a popularização da internet e o surgimento",
+      "bbox": [
+        198,
+        447,
+        941,
+        481
+      ]
+    },
+    {
+      "id": 276,
+      "page": 9,
+      "category": "text",
+      "text": "de novas Tecnologías como cellulares smartphones con acces rápido a internet, pororem não todos que tem a possíbilitad de estar en交代 con estas Tecnologías,sea por falta de infraestrutura, como, por exemple, luz electrónica ou LINha Telefonica ou por no terem possíbilitad financeira de adquirir computadores, cellulares, tablets ou algo采暖lo technologicalo que posíbille;aessor o mundo digital e acessá a internet provocando aussi umprocesso de excláussão. A globalização é responsível por diversas改动ações no mundo, influencindo na política, na sociedade, no desenvolvimento de technologicalo, na fewas de trâzkão e. Umdestes fatores forteramente alterados, não de forma de globalização e a intensa robustação na produção industrial.",
+      "bbox": [
+        53,
+        481,
+        941,
+        626
+      ]
+    },
+    {
+      "id": 277,
+      "page": 9,
+      "category": "text",
+      "text": "As instituições está, cada vez mais, introduzições robés no processo produtilivo. Essas máquinas são programadas para executar movimento rápidos, padronizados e eficazes, aumento, assim, a Produção final.",
+      "bbox": [
+        53,
+        628,
+        942,
+        678
+      ]
+    },
+    {
+      "id": 278,
+      "page": 9,
+      "category": "text",
+      "text": "(Extraido de: https://mundoeducacao.uol.com.br/geografia/a-robotizacao-na-producao-industrial.htm)",
+      "bbox": [
+        54,
+        677,
+        627,
+        690
+      ]
+    },
+    {
+      "id": 279,
+      "page": 9,
+      "category": "title",
+      "text": "TEXTO 2",
+      "bbox": [
+        55,
+        695,
+        148,
+        710
+      ]
+    },
+    {
+      "id": 280,
+      "page": 9,
+      "category": "text",
+      "text": "Globotics: o fenômeno convergente da globalização de serviços e robética",
+      "bbox": [
+        160,
+        712,
+        835,
+        729
+      ]
+    },
+    {
+      "id": 281,
+      "page": 9,
+      "category": "text",
+      "text": "...Ele abórda o fonomeno convergente da globalização de serviceiros e robética, que está ou não atéfar mais aínda de forma significativa a economia o em propagens naroximadas decáadas. Suja leitura而这uma clueiros desafços e um deles é que os robços transformará a maioria das profiliasses. Algueiros serem eliminadas, mas a maioria sera transformada, com robços (e entende-se a melhoramente robês de software) e humanos atalung em colabração. Muitas profilições de demandarão menos pessoas enovioladas, ou que aliás já atençao com os atuais niveis de automação.",
+      "bbox": [
+        53,
+        729,
+        942,
+        844
+      ]
+    },
+    {
+      "id": 282,
+      "page": 9,
+      "category": "text",
+      "text": "(Extraldo de: https://revistatecnologia360.com.br/globotics-o-fenomeno-convergente-da-globalzacao-de-servicos-e-robatica/)",
+      "bbox": [
+        54,
+        843,
+        756,
+        857
+      ]
+    },
+    {
+      "id": 283,
+      "page": 9,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        52,
+        917,
+        147,
+        977
+      ]
+    },
+    {
+      "id": 284,
+      "page": 9,
+      "category": "page_number",
+      "text": "10",
+      "bbox": [
+        890,
+        929,
+        914,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 285,
+      "page": 10,
+      "category": "title",
+      "text": "TEXTO 3",
+      "bbox": [
+        56,
+        42,
+        145,
+        56
+      ]
+    },
+    {
+      "id": 286,
+      "page": 10,
+      "category": "text",
+      "text": "ROBOS NA LINHA DE PRODUÇÃO - Naência, os robos fazer parte da rotina há muito mais tempo. Robotização que vale crossover às mais nosproximos anos. Em 2019, o sete de devear adquirir 400 milnas maquinas, estimada a Federacao Internacional de Rôbólica. Apenas naência é seria 3.500 novasuntas nas fibricas, mais que o dobro do registrar em 2015: 1.400unities.",
+      "bbox": [
+        53,
+        58,
+        941,
+        139
+      ]
+    },
+    {
+      "id": 287,
+      "page": 10,
+      "category": "text",
+      "text": "Mesmo con o aumento espando, o País还会arine più多地 de autres grandes poténcias. O Japão, por exemple, tem estimativa de adquirir 43 mil novos robos en 2019. Isso在哪o unicothismercado, no Brasilé emergente e tem muito a crescer.Investir na areae apoptosisroprofessionaisdo futuro.",
+      "bbox": [
+        53,
+        141,
+        940,
+        206
+      ]
+    },
+    {
+      "id": 288,
+      "page": 10,
+      "category": "text",
+      "text": "(Extraido de: https://noticias.ortaldaindustria.com.br/noticias/educacao/a-era-dos-robos Tecnologia-amplia-productividade-transforma-educacao-e-salvadas/)",
+      "bbox": [
+        54,
+        207,
+        905,
+        229
+      ]
+    },
+    {
+      "id": 289,
+      "page": 10,
+      "category": "title",
+      "text": "TEXTO 4",
+      "bbox": [
+        56,
+        237,
+        146,
+        251
+      ]
+    },
+    {
+      "id": 290,
+      "page": 10,
+      "category": "text",
+      "text": "Passamos hoje por mais uma das mudanças sociais e culturais que vem mudando minha sociedade ao longo dos times. Para,&entere this processo, é preciso compreirar as mudanças da propria sociedade, no seu mode de pensar, que relacion e se交谈ar, bem como a evolucao dos dispositivos Tecnologicos que provocaram parte dessas mudanças.",
+      "bbox": [
+        53,
+        253,
+        940,
+        319
+      ]
+    },
+    {
+      "id": 291,
+      "page": 10,
+      "category": "text",
+      "text": "(Extraldo de: https://www.ortaleducacao.com.br/conteudo/artigos/educacao/exclusao-e-inclusao-digital-na-sociedade-brasileira/29129)",
+      "bbox": [
+        54,
+        319,
+        817,
+        331
+      ]
+    },
+    {
+      "id": 292,
+      "page": 10,
+      "category": "text",
+      "text": "Baseado nos textos acima, é correto affirmar que:",
+      "bbox": [
+        55,
+        338,
+        502,
+        355
+      ]
+    },
+    {
+      "id": 293,
+      "page": 10,
+      "category": "text",
+      "text": "a. A roblica e as inovacoes technologicas mudaram e ainda mudarao os processos de producao.",
+      "bbox": [
+        85,
+        360,
+        871,
+        392
+      ]
+    },
+    {
+      "id": 294,
+      "page": 10,
+      "category": "text",
+      "text": "b. As indústrias stehen cada vez mais inserinindo robos em seu processo produtou, AUGMENTANDA SUZA Produção final.",
+      "bbox": [
+        85,
+        394,
+        822,
+        426
+      ]
+    },
+    {
+      "id": 295,
+      "page": 10,
+      "category": "text",
+      "text": "c. O uso de robos não transformará a maioria das profissões.",
+      "bbox": [
+        85,
+        428,
+        646,
+        442
+      ]
+    },
+    {
+      "id": 296,
+      "page": 10,
+      "category": "text",
+      "text": "d. A internet e a evolucao dos dispositivos Tecnologicos nao provocam nenhuma forma de mudanca social e cultural.",
+      "bbox": [
+        85,
+        442,
+        900,
+        474
+      ]
+    },
+    {
+      "id": 297,
+      "page": 10,
+      "category": "text",
+      "text": "e. Investir na robotização das indústrias é não estar inserido na globalização e apostar no futuro.",
+      "bbox": [
+        85,
+        476,
+        900,
+        507
+      ]
+    },
+    {
+      "id": 298,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        360,
+        900,
+        507
+      ]
+    },
+    {
+      "id": 299,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        271,
+        528,
+        691,
+        696
+      ]
+    },
+    {
+      "id": 300,
+      "page": 10,
+      "category": "image_caption",
+      "text": "Font: (https://www.notibras.com/sites/wp-content/uploads/2017/08/robos.montagem.jpg)",
+      "bbox": [
+        345,
+        697,
+        615,
+        719
+      ]
+    },
+    {
+      "id": 301,
+      "page": 10,
+      "category": "footer",
+      "text": "图",
+      "bbox": [
+        53,
+        917,
+        147,
+        978
+      ]
+    },
+    {
+      "id": 302,
+      "page": 10,
+      "category": "page_number",
+      "text": "11",
+      "bbox": [
+        890,
+        929,
+        913,
+        942
+      ]
+    }
+  ]
+]

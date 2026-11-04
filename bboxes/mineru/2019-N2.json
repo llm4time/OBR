@@ -1,0 +1,2764 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        69,
+        49,
+        930,
+        305
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">Nome:</td></tr><tr><td colspan=\"2\">Escola:</td></tr><tr><td>Série/Ano:</td><td>Nota da prova (0 a 100 pontos)</td></tr><tr><td>Cidade:</td><td></td></tr><tr><td>Estado:</td><td></td></tr></table>",
+      "bbox": [
+        67,
+        308,
+        931,
+        478
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUCTIONS AOS PROFESSORIES",
+      "bbox": [
+        309,
+        486,
+        690,
+        518
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        85,
+        526,
+        262,
+        542
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "- España: Prove contém 7 páginas;",
+      "bbox": [
+        85,
+        545,
+        357,
+        562
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas;",
+      "bbox": [
+        86,
+        565,
+        338,
+        581
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser preenchida a caneta;",
+      "bbox": [
+        86,
+        584,
+        431,
+        601
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        86,
+        604,
+        437,
+        620
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        86,
+        624,
+        571,
+        641
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        86,
+        643,
+        474,
+        659
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        545,
+        571,
+        659
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "Atenção: Algumas questões podem ter mais de uma resposta.",
+      "bbox": [
+        238,
+        771,
+        757,
+        788
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "REALIZAZION",
+      "bbox": [
+        109,
+        841,
+        182,
+        852
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        82,
+        875,
+        215,
+        942
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "APDC",
+      "bbox": [
+        252,
+        843,
+        288,
+        852
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        272,
+        855,
+        309,
+        884
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "COTUC",
+      "bbox": [
+        270,
+        886,
+        315,
+        894
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        321,
+        853,
+        374,
+        885
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "text",
+      "text": "UNICAM",
+      "bbox": [
+        320,
+        886,
+        374,
+        894
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        388,
+        855,
+        421,
+        885
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "text",
+      "text": "",
+      "bbox": [
+        388,
+        886,
+        424,
+        893
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "text",
+      "text": "INSTITUTU O FEDERAL Ko Grande do horo",
+      "bbox": [
+        423,
+        869,
+        532,
+        885
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        546,
+        855,
+        595,
+        890
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "#",
+      "bbox": [
+        595,
+        870,
+        630,
+        880
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "SESI",
+      "bbox": [
+        265,
+        909,
+        343,
+        930
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "text",
+      "text": "SAD PAULO",
+      "bbox": [
+        269,
+        931,
+        340,
+        939
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        385,
+        901,
+        425,
+        941
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "text",
+      "text": "1",
+      "bbox": [
+        387,
+        941,
+        423,
+        945
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        448,
+        913,
+        548,
+        934
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        563,
+        910,
+        654,
+        935
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        667,
+        855,
+        751,
+        889
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        797,
+        855,
+        829,
+        885
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        829,
+        860,
+        897,
+        880
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "text",
+      "text": "Cenononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononononon",
+      "bbox": [
+        800,
+        880,
+        860,
+        887
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        782,
+        910,
+        827,
+        936
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "text",
+      "text": "PATRBA AMADA BRASIL",
+      "bbox": [
+        830,
+        910,
+        903,
+        930
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "text",
+      "text": "",
+      "bbox": [
+        831,
+        931,
+        903,
+        936
+      ]
+    }
+  ],
+  [
+    {
+      "id": 37,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        69,
+        57,
+        191,
+        85
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "A IZI Robotics représentou no 'Next Generation Computing Show 2006' o 'CUBO', umPEGo robrocriado especially para educar e divertir crianas. Els pote ler livros de historias por crianas e ajudas-a fazer inlegrs, por example. Els sua uma OID (Optical Identification and Identification) é capaz de identar a parte do livros como a quenca ciliou, reconhecer a seção e comemar a kerha historia.",
+      "bbox": [
+        200,
+        48,
+        931,
+        126
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        68,
+        137,
+        293,
+        327
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Um robó CUBOuí programado pelo ciência Lucas com a intenção de ler e registrar 100 palavras por minuto. Lucas colocou o robô para ler durange 120 horas, no entanto percece que devia a umerro de programação也不例外. Aleguou as lidas foram registradas. Quantas palavras foram registrar no robó CUBO?",
+      "bbox": [
+        307,
+        137,
+        933,
+        217
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "A) 40",
+      "bbox": [
+        310,
+        221,
+        354,
+        235
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "B) 12000",
+      "bbox": [
+        311,
+        237,
+        378,
+        251
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "C) 33",
+      "bbox": [
+        311,
+        254,
+        352,
+        267
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "D) 36000",
+      "bbox": [
+        311,
+        269,
+        382,
+        283
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "E) 4000",
+      "bbox": [
+        311,
+        285,
+        371,
+        298
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "(Adaptado de: http://digitaldrops.com.br/2006/11/cubo-um-robo-que-ile-livos-e-ensina-inges.html",
+      "bbox": [
+        310,
+        303,
+        882,
+        316
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "Acesso em: 25/04/2019",
+      "bbox": [
+        310,
+        317,
+        446,
+        327
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        68,
+        365,
+        191,
+        392
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "Quando eu era mais jovem, 30 anos antes, me diziam que no futuro estaríamos cerrados por robos que realizariam as mais divididas tarefas do dia-a-día, nos delixiram como mais tempo livre para o lazer e noseras famíias. Embora o mundo dos filmes não ia não realidade, há muito mais robos envolvimento noenso cotidional do que podemos imaginar à primarye vista, de aspiradores de pô autônicos em nosssas casas a carros que dirigem sozinhos, sem falar nos robos que montam eles carros nas fibricas. E gratas ao maior giganteismo do poder de processamento de nosos computadores, capazes de executar algores de inteligência artificial cada vez mais solficiados, a robotica é um campos em grande expansão.",
+      "bbox": [
+        203,
+        355,
+        933,
+        483
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "(Adaptado de: https://www.correctiveeduc.com.br/blog-robotica-e-stem-o-que-robotica-pode-ensinar-as-crianas/ Aceso em: 25/04/2019)",
+      "bbox": [
+        204,
+        492,
+        876,
+        516
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "De acordo com o texto, por que a robotica é um campo em grande expansão?",
+      "bbox": [
+        66,
+        528,
+        668,
+        544
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "A) Devido ao grande aumento do poder de processamento dos computadores.",
+      "bbox": [
+        66,
+        559,
+        674,
+        574
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "B) Pois ja estamos cercados de robos, executando todas as tarefas do dia a dia.",
+      "bbox": [
+        66,
+        575,
+        668,
+        590
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "C) Pois os robos poder nos substituir no nosso tempo de lazer com a familia.",
+      "bbox": [
+        66,
+        591,
+        661,
+        606
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "D) Devido acriação de algoirmos simples de inteligência artificial.",
+      "bbox": [
+        66,
+        607,
+        576,
+        621
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "E) Devido ao pouco investimento nas areas de Tecnologia e informacao.",
+      "bbox": [
+        66,
+        622,
+        615,
+        637
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        66,
+        559,
+        674,
+        637
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        68,
+        675,
+        191,
+        703
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "Um pesquisado programou um drone para percorrer os seis biomas brasileiros (grandes ecosystemes constituted por uma comunità biológica) e ou identificacao baseada esamongascharacteristicas. Uma das situacoes identificadas naografia realizadas pelo drone no esquecer. O esquecer do drone é a sina de a percepção de algo quando a mercadaria que está通過 fácada, em qual dos biomas this problema aconceceu?",
+      "bbox": [
+        203,
+        666,
+        931,
+        744
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "A) Dunas",
+      "bbox": [
+        66,
+        755,
+        142,
+        770
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "B) Amazonia",
+      "bbox": [
+        181,
+        755,
+        279,
+        770
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "C) Cerrado",
+      "bbox": [
+        319,
+        755,
+        404,
+        770
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "D) Pampa",
+      "bbox": [
+        442,
+        755,
+        521,
+        770
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "E) Pantanal",
+      "bbox": [
+        560,
+        755,
+        649,
+        770
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        68,
+        807,
+        191,
+        836
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "text",
+      "text": "Os robos podem ter una foundations bemswicke, como os robos de corte a laser. O corte a laser de corte a base de suerte, como el suerte, se usa asequentarmente en materiais en forma de Chap. Otro cair laser se considera como es主要用于.",
+      "bbox": [
+        203,
+        797,
+        931,
+        845
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        68,
+        929,
+        157,
+        986
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        447,
+        931,
+        550,
+        981
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        914,
+        934,
+        927,
+        947
+      ]
+    }
+  ],
+  [
+    {
+      "id": 70,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        69,
+        47,
+        495,
+        221
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "(Adaptado et de http://www.kuku.com/pt-br/tecnologias/tecnologias-de-processo/2016/07/corte-a-laser Aceiso em 26/04/2019)",
+      "bbox": [
+        67,
+        223,
+        436,
+        245
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Alberto utilizes un robó como este paraURT, en una cepa de haro, 10 quadrados. Oresultado final não ficó dojo que elleeperva. Dessa formula, elsolecitiqueles que los 10 quadrados fossevemente. Para un elode, el eme vicierte. Qual a forma geométriefina?E conmutivos objetivos Alberto ficó ao?.",
+      "bbox": [
+        512,
+        48,
+        931,
+        157
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "A) Quadrado; 20",
+      "bbox": [
+        513,
+        173,
+        643,
+        188
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "text",
+      "text": "B) Retangulo; 10",
+      "bbox": [
+        516,
+        190,
+        642,
+        205
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "C) Triangulo; 20",
+      "bbox": [
+        516,
+        206,
+        637,
+        220
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "D) Losango; 10",
+      "bbox": [
+        516,
+        222,
+        631,
+        236
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "E) Circulo; 20",
+      "bbox": [
+        516,
+        237,
+        617,
+        251
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        513,
+        173,
+        643,
+        251
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        67,
+        288,
+        192,
+        316
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "text",
+      "text": "A robó Kate possiu邨某种程度 de los algarimós distinctes grandes de zero para la totalidad de los algarimós de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad de totalidad DE ABAU.",
+      "bbox": [
+        203,
+        280,
+        931,
+        327
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        67,
+        336,
+        339,
+        549
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "text",
+      "text": "1-2-3 > nenhum algarismo está correto",
+      "bbox": [
+        357,
+        338,
+        666,
+        353
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "1-6-2 -> um algarismo correto na posicao errada",
+      "bbox": [
+        358,
+        355,
+        729,
+        369
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "4-5-6>um algarismo correto na posicao certa",
+      "bbox": [
+        359,
+        370,
+        719,
+        385
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "7-5-4 \\(\\rightharpoondown\\) um algarismo correto na posicao errada",
+      "bbox": [
+        359,
+        386,
+        728,
+        400
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "8-4-3 \\(\\rightharpoondown\\) um algarismo correto na posicao certa",
+      "bbox": [
+        359,
+        401,
+        719,
+        415
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        357,
+        338,
+        729,
+        415
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "Com base nas informações annotadas por Kate, qual o seu��igo secreto?",
+      "bbox": [
+        355,
+        431,
+        918,
+        448
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "A) 576",
+      "bbox": [
+        357,
+        463,
+        408,
+        477
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "text",
+      "text": "B) 678",
+      "bbox": [
+        357,
+        479,
+        408,
+        492
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "text",
+      "text": "C) 751",
+      "bbox": [
+        357,
+        495,
+        406,
+        510
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "text",
+      "text": "D)876",
+      "bbox": [
+        357,
+        511,
+        409,
+        525
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "E) 768",
+      "bbox": [
+        357,
+        526,
+        407,
+        541
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        357,
+        463,
+        409,
+        541
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTAO6",
+      "bbox": [
+        67,
+        587,
+        192,
+        615
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "text",
+      "text": "\"A NASA pretende mandarPEGOs àLua partir de 2019. Nenhuma espaçoane norte-americana aterissa no satelte de 1752. As maquinas, que sera equipadas comerca de 10 quilos de instrumentoscientificos, terao, como objetivo, coleratados bajo aLua. Espera-se, com isso, que a humanidade descubra recursos naturais que poderiam ser usados en otherasmissas espaciais. Além disso, a expectativa é de que os robos achem informações queaabujem a explicar a origem do Sistema Solar e do Universo.\"",
+      "bbox": [
+        198,
+        577,
+        933,
+        673
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "text",
+      "text": "De acordo com a noticia, a NASA pretende mandar robos para:",
+      "bbox": [
+        66,
+        682,
+        550,
+        699
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "A) Um planeta.",
+      "bbox": [
+        67,
+        714,
+        186,
+        730
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "B) Um satélite natural.",
+      "bbox": [
+        69,
+        731,
+        238,
+        745
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "text",
+      "text": "C) Uma estrela.",
+      "bbox": [
+        69,
+        746,
+        186,
+        760
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "text",
+      "text": "D) Um planeta anão.",
+      "bbox": [
+        69,
+        762,
+        227,
+        776
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "text",
+      "text": "E) Um asteroide.",
+      "bbox": [
+        69,
+        777,
+        197,
+        791
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        67,
+        714,
+        238,
+        791
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        447,
+        931,
+        548,
+        981
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        914,
+        935,
+        927,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 106,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        69,
+        57,
+        191,
+        85
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "Hadirovi, o 'robó peidro',ould construir a casa en apenas dos días. Desenvolvoir por um engenhroe australiano, Hadiro é fruto de uma pesquisa que durou muito de vezanos. O robó tem capacidade de determinar o local exato de cada tijolo nas estruturas. Apósesso, Hadirora certa eles propriços tijolos e os leva até o local da construição. O robó posse um mecanismo na ponte de seu braco que age como um guindaste, levantando as peças. Apósesso, os tijolos são colocados um um no cimento.",
+      "bbox": [
+        200,
+        48,
+        931,
+        141
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "text",
+      "text": "(Adaptado de: http://pensedigital.com/bo/conheca-o-hadrian-o-robo-pedreiro/Accesso: 25/04/2019)",
+      "bbox": [
+        200,
+        142,
+        722,
+        155
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        68,
+        165,
+        431,
+        338
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "Sobre as functionalities do robó Hadrian, é correto affirmar que:",
+      "bbox": [
+        446,
+        165,
+        931,
+        198
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "A) O robó capaz de colocar varíos tijolos por vez no cimento.",
+      "bbox": [
+        446,
+        213,
+        926,
+        229
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "B) O robó pode construir, sozinho, uma casa por dia.",
+      "bbox": [
+        447,
+        230,
+        848,
+        244
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "C) O robé é capaz de determinar o local exato de cada tijolo nas estruturas.",
+      "bbox": [
+        447,
+        245,
+        928,
+        274
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "text",
+      "text": "D) O robé capaz de levantar pecas atraves de uma estrutura presa emisas rodas.",
+      "bbox": [
+        447,
+        276,
+        928,
+        307
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "E) O robó foi desenvolvido por um engenheiro americano.",
+      "bbox": [
+        447,
+        308,
+        895,
+        323
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        446,
+        213,
+        928,
+        323
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "(Font:https://www.wsj.com/articles/australias-bricklayers-face-robot-challenge-1447749696)",
+      "bbox": [
+        68,
+        340,
+        543,
+        353
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        68,
+        389,
+        191,
+        417
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "O RP-VITA é um robó meuvalo autónomo de联系电话 que pode permit que os medicos interjam à distança com seu pacientes do hospital.",
+      "bbox": [
+        200,
+        380,
+        931,
+        412
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        68,
+        439,
+        250,
+        594
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "text",
+      "text": "O RP-VITA faz mapeamento do hospital, detecta a identifica obstétricas atraves do uso de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meios de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um meio de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um meia de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meis de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meie de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meik de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meiu de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meii de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meil de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meiz de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meiet de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meien de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meit de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meiT de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meI de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meij de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meio de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meis de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meix de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meie de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meii de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meiz de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meiu de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meia de um meio de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meix de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meix de um meia de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um mei de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meix de um meiz de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meiz de um meix de um meix de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meix de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meix de um meiz de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meix de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meiz de um meiz de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meix de um meiz de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um mei de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mei de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mei de um mei de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mei de um meIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mei de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um mei de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meizz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meize de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meize de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meizu de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizu de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meIZE de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZE de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um mez de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mez de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meizi de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizi de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meiz de um meix de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um mei de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meizz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meizz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meize de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meize de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meIZE de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZE de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um meizu de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meizu de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um mez de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um mez de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meIZ de um meIZ de um mezi de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiaz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mezie de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mezz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meik de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meɪz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um miz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mIZ de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mizz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mize de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mIZE de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um mie de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meib de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meization de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizing de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizede um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz da um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meizde um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz of a meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de und meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deum meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de Um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deUm meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de un meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de uma meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de urn meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de ur meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de am meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de em meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de umb meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de an meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de u meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de im meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de tem meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de a meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz da meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deumd meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de UM meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de uz meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de ure meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de uranium meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de.U meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de U meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deUM meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deurn meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deuman meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz deU meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de os meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de ou meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de橡 meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de arm meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de uns meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de om meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de oz meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de az meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de num meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de tum meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de anom meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de anomal meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de enam meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de orient meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de une meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de ordem meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de orn meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de Ur meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de od meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de um meiz de",
+      "bbox": [
+        267,
+        413,
+        931,
+        459
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "text",
+      "text": "(Adaptado de: https://phys.org/news/2013-01-fda-green-rp-vita-hospital-robot.html Aceso em: 26/04/2019)",
+      "bbox": [
+        269,
+        460,
+        816,
+        472
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "text",
+      "text": "As grandezas, pés e polegadas, as quais o texto faz referencia são medidas de:",
+      "bbox": [
+        268,
+        482,
+        869,
+        500
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "text",
+      "text": "A) Volume",
+      "bbox": [
+        269,
+        515,
+        354,
+        530
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "text",
+      "text": "B) Massa",
+      "bbox": [
+        270,
+        531,
+        340,
+        545
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "text",
+      "text": "C) Area",
+      "bbox": [
+        270,
+        546,
+        330,
+        561
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "text",
+      "text": "D) Comprimento",
+      "bbox": [
+        270,
+        562,
+        402,
+        577
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "text",
+      "text": "E) Tempo",
+      "bbox": [
+        270,
+        578,
+        346,
+        593
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        269,
+        515,
+        402,
+        593
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        68,
+        632,
+        191,
+        660
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "text",
+      "text": "O robo Pepo faitesorvolvido para interagir o os seres humanos e espestaar \"curiosidade e espehacia de umas humanas. O robo Pepo feia a espehacia de umas humanas e a espehacia de umas humanas. O capaz de reconhecer as emocoes humanas expresses faculdas e alteracoes no tem do voxel.",
+      "bbox": [
+        200,
+        623,
+        931,
+        670
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "text",
+      "text": "(Adaptado de: https://revistaepgn.globo.com/Noticias/noticia/2016/12/em-30-anos-todas-casas-terro-um-robo-diz-sean-mckelvey.html Access: em: 26/04/2019)",
+      "bbox": [
+        200,
+        671,
+        887,
+        692
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        97,
+        704,
+        337,
+        877
+      ]
+    },
+    {
+      "id": 134,
+      "page": 3,
+      "category": "image_caption",
+      "text": "[Feote: https://pictecje.org/automotivation/10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000]",
+      "bbox": [
+        98,
+        879,
+        334,
+        911
+      ]
+    },
+    {
+      "id": 135,
+      "page": 3,
+      "category": "text",
+      "text": "Dependendo dos senseores que possua, o robo pode detectar que umbject estáproximo, emissões de sinais sonores, quando uma luz é acosa ou perceber quando algohim econso ante me. Baseado nasss informações, acredita que acredita que os senseoresutilizados fora和个人asperceis perceberas, respectively:",
+      "bbox": [
+        355,
+        704,
+        931,
+        783
+      ]
+    },
+    {
+      "id": 136,
+      "page": 3,
+      "category": "text",
+      "text": "A) Sensor de gás, sensor de som, sensor de percepção e sensor de contato.",
+      "bbox": [
+        356,
+        799,
+        930,
+        815
+      ]
+    },
+    {
+      "id": 137,
+      "page": 3,
+      "category": "text",
+      "text": "B) Sensor de rotação, sensor ultrassónico, sensor de luz e sensor de percepção.",
+      "bbox": [
+        356,
+        815,
+        928,
+        845
+      ]
+    },
+    {
+      "id": 138,
+      "page": 3,
+      "category": "text",
+      "text": "C) Sensor de contato, sensor de luz, sensor de som e sensor infravermelho.",
+      "bbox": [
+        356,
+        846,
+        928,
+        860
+      ]
+    },
+    {
+      "id": 139,
+      "page": 3,
+      "category": "text",
+      "text": "D) Sensor de percepção, sensor de música, sensor de reflectência e sensor ultrasonico.",
+      "bbox": [
+        356,
+        860,
+        928,
+        891
+      ]
+    },
+    {
+      "id": 140,
+      "page": 3,
+      "category": "text",
+      "text": "E) Sensor ultrassónico, sensor de som, sensor de luz e sensor de contato.",
+      "bbox": [
+        356,
+        893,
+        911,
+        908
+      ]
+    },
+    {
+      "id": 141,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        356,
+        799,
+        930,
+        908
+      ]
+    },
+    {
+      "id": 142,
+      "page": 3,
+      "category": "footer",
+      "text": "中",
+      "bbox": [
+        69,
+        928,
+        157,
+        986
+      ]
+    },
+    {
+      "id": 143,
+      "page": 3,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        447,
+        931,
+        548,
+        981
+      ]
+    },
+    {
+      "id": 144,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        914,
+        935,
+        927,
+        947
+      ]
+    }
+  ],
+  [
+    {
+      "id": 145,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        69,
+        58,
+        204,
+        85
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "A camera utilisé no microscopio robociput,forkedization por cirugrilles,permiet un最后一个 deo,perceve a parte de la parte de la parte,perceve a eficencie de la camera,aquiaba una parte do tipo convergente para ampliar os objetivos.",
+      "bbox": [
+        220,
+        49,
+        930,
+        96
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        108,
+        306,
+        312
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "image_footnote",
+      "text": "[Font e] http://www.hospital.com/p/  \n[Font e] http://www.hospital.com/  \n[Font e] http://www.microscop.com/systema de  \n[Font e] http://www.microscop.com",
+      "bbox": [
+        79,
+        315,
+        296,
+        356
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "text",
+      "text": "\\(f =\\) Distancia focal",
+      "bbox": [
+        330,
+        106,
+        473,
+        121
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "text",
+      "text": "\\(p =\\) Distancia do Poloamento a tete, \\(p^{\\prime} =\\) Distancia da imposso a tete a lente",
+      "bbox": [
+        330,
+        123,
+        614,
+        154
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "equation",
+      "text": "\\[\n\\boxed { \\begin{array}{c} \\hline \\underline {{f}} = \\frac {1}{p} + \\frac {1}{p ^ {\\prime}}. \\end{array} }\n\\]",
+      "bbox": [
+        629,
+        106,
+        768,
+        159
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "text",
+      "text": "Utilizando a equação de Gauss descriça acima, calcule qual é a distança da imagem em relacion à lente em centimetros. Sabendo que um的对象 está localizzato à 30 centimetros da lente convergente de distança focal à 10 centimetros.",
+      "bbox": [
+        330,
+        168,
+        931,
+        231
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "text",
+      "text": "A) \\( {15}\\mathrm{\\;{cm}} \\)",
+      "bbox": [
+        331,
+        247,
+        402,
+        261
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "B) \\( {10}\\mathrm{\\;{cm}} \\)",
+      "bbox": [
+        332,
+        264,
+        401,
+        277
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "C) \\(33~\\mathrm{cm}\\)",
+      "bbox": [
+        333,
+        280,
+        402,
+        293
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "text",
+      "text": "D) \\(30~\\mathrm{cm}\\)",
+      "bbox": [
+        333,
+        295,
+        403,
+        308
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "text",
+      "text": "E) \\(3\\mathrm{cm}\\)",
+      "bbox": [
+        333,
+        310,
+        391,
+        324
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        331,
+        247,
+        403,
+        324
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 11",
+      "bbox": [
+        67,
+        393,
+        204,
+        420
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "text",
+      "text": "Digit é um robho humanoico projetado para se movimentar de uma forma mais dinômica do esquecer de um esquecer de um esquecer de um esquecer de um esquecer que permitisse onavager em ambientos complexos e realizar tarefas como entrega depacedos.",
+      "bbox": [
+        220,
+        384,
+        931,
+        432
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "text",
+      "text": "(Adaptado de: https://robots.ieee.org/robots/digit/ Acesso em: 25/04/2019)",
+      "bbox": [
+        221,
+        432,
+        603,
+        445
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        67,
+        454,
+        489,
+        678
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        534,
+        456,
+        708,
+        677
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "text",
+      "text": "Considerando que Digit é um meio de transporte de mercadarias, o robó pode ser classificado como um meio de transporte:",
+      "bbox": [
+        65,
+        690,
+        931,
+        723
+      ]
+    },
+    {
+      "id": 165,
+      "page": 4,
+      "category": "text",
+      "text": "A) Ferroviario",
+      "bbox": [
+        67,
+        738,
+        175,
+        754
+      ]
+    },
+    {
+      "id": 166,
+      "page": 4,
+      "category": "text",
+      "text": "B) Aéreo",
+      "bbox": [
+        69,
+        755,
+        137,
+        768
+      ]
+    },
+    {
+      "id": 167,
+      "page": 4,
+      "category": "text",
+      "text": "C) Fluvial",
+      "bbox": [
+        69,
+        770,
+        141,
+        784
+      ]
+    },
+    {
+      "id": 168,
+      "page": 4,
+      "category": "text",
+      "text": "D) Terrestre",
+      "bbox": [
+        69,
+        787,
+        160,
+        801
+      ]
+    },
+    {
+      "id": 169,
+      "page": 4,
+      "category": "text",
+      "text": "E) Aquviario",
+      "bbox": [
+        69,
+        802,
+        174,
+        817
+      ]
+    },
+    {
+      "id": 170,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        67,
+        738,
+        175,
+        817
+      ]
+    },
+    {
+      "id": 171,
+      "page": 4,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        447,
+        931,
+        550,
+        983
+      ]
+    },
+    {
+      "id": 172,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        914,
+        935,
+        927,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 173,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 12",
+      "bbox": [
+        68,
+        58,
+        207,
+        85
+      ]
+    },
+    {
+      "id": 174,
+      "page": 5,
+      "category": "text",
+      "text": "O robó Ladybird fost行业发展 no Australía por pesquisadores da Universidade de Goias e do Estado de Goias. O robó é a principal esportador de a Madeira de Goias e do Alto Aegáricas e é moviço a energia solar o que não provoca danos ambientais, poderos",
+      "bbox": [
+        232,
+        48,
+        930,
+        96
+      ]
+    },
+    {
+      "id": 175,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        68,
+        106,
+        409,
+        266
+      ]
+    },
+    {
+      "id": 176,
+      "page": 5,
+      "category": "text",
+      "text": "ser considerada una fonte de energia limpa. Elle contempla sensores para a detecto de crescimiento dos vegetales y espécies de pestes, sejam plantas ou animales. Elle tem um braço roboticão con o proposto de removecer e fazer a colheira.",
+      "bbox": [
+        424,
+        96,
+        929,
+        157
+      ]
+    },
+    {
+      "id": 177,
+      "page": 5,
+      "category": "text",
+      "text": "(Adaptado de: http://www.agrotec.pt/oticias/investigadores-dasenvolvimento-robot-agricolamovido-energia-solar/ /Aceso em: 26/04/2019)",
+      "bbox": [
+        424,
+        158,
+        892,
+        180
+      ]
+    },
+    {
+      "id": 178,
+      "page": 5,
+      "category": "text",
+      "text": "Analisando o trecho destacado no texto podemos considerar a declaracao:",
+      "bbox": [
+        424,
+        192,
+        929,
+        224
+      ]
+    },
+    {
+      "id": 179,
+      "page": 5,
+      "category": "text",
+      "text": "A) Incorreta,PGA,doisaoaproducao de energiaelétricapelosraidosol emelipuletaspo na osferma.",
+      "bbox": [
+        424,
+        238,
+        929,
+        270
+      ]
+    },
+    {
+      "id": 180,
+      "page": 5,
+      "category": "text",
+      "text": "B) Incorreta, poismostly animais morrem enfuncao da insola tion causada por esas usinas, gerando danos ambientais relacionados com a quebra da caedra alimentar.",
+      "bbox": [
+        66,
+        271,
+        929,
+        300
+      ]
+    },
+    {
+      "id": 181,
+      "page": 5,
+      "category": "text",
+      "text": "C) Correta, eles não há queima de combustíveis e nem occupancy de grandes和地区 para a utilização dessa fonte de energia.",
+      "bbox": [
+        66,
+        301,
+        928,
+        331
+      ]
+    },
+    {
+      "id": 182,
+      "page": 5,
+      "category": "text",
+      "text": "D) Correta,PGA, eigo a energia gerada po sol nao occasiona transformacoes imeditas na atmossera, as transformacoes nao sentidasapanas a longo prazo.",
+      "bbox": [
+        66,
+        333,
+        928,
+        363
+      ]
+    },
+    {
+      "id": 183,
+      "page": 5,
+      "category": "text",
+      "text": "E) Incorreta,pois a prolifacao de energia solar agravaria o problema do efeito estua.",
+      "bbox": [
+        66,
+        364,
+        726,
+        380
+      ]
+    },
+    {
+      "id": 184,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        66,
+        271,
+        929,
+        380
+      ]
+    },
+    {
+      "id": 185,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 13",
+      "bbox": [
+        68,
+        417,
+        204,
+        445
+      ]
+    },
+    {
+      "id": 186,
+      "page": 5,
+      "category": "text",
+      "text": "O envelichement des opérosions e a provévalued reduction de autoré de moins oba na construction de l'encephalopéutique, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'Air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l' air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l' Air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'空气, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ir, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ear, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'car, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'bar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'par, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'at, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ai, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ain, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aur, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'atri, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'arn, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'airs, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'AIR, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'-air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l' AIR, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aire, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'are, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ie, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ae, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'az, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ax, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ä, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ay, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aj, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ao, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'oi, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ais, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aim, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ia, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'iar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ii, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'la, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ata, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aria, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ari, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'arr, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ars, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'art, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'af, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'arm, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'il, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'al, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'all, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ail, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ol, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'll, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'cal, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gal, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ali, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'alt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'alm, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'alf, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'arl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ael, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ath, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ah, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'as, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'a, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ale, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ial, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'alar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aa, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'alpha, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'age, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'irl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'oil, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ul, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'el, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'or, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ior, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'i, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'if, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'it, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ij, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'iat, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'fall, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ill, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'le, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ls, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'is, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ile, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'iel, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ell, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ier, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'iii, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'eil, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ict, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'irt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ort, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'att, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'til, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'rl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'dl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ft, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'rt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ta, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'xt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ti, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tar, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tal, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ast, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'etal, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'atal, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ital, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'nil, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'aul, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ait, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'sl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'asl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ml, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'nl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lr, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'rel, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lat, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lit, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'l, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'git, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'igt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ot, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'bit, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gl, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tag, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'g, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ag, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ig, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'bag, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'lag, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'agt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'eg, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gr, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gn, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gs, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'rg, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'tg, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ng, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gi, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'gas, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'气, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'fir, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'fr, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'dir, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ira, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'bir, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'hir, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'iris, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ift, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'st, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'bt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'itis, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'ita, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'itt, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l'air, d'oxydation de l",
+      "bbox": [
+        220,
+        408,
+        930,
+        454
+      ]
+    },
+    {
+      "id": 187,
+      "page": 5,
+      "category": "text",
+      "text": "(Adaptado de: http://blogs.pini.com.br/posts/technologia-sustentadibalidade/uo-de-robos-e-dequipamentos-autonomos-na-construcu-civil-37984-1.aspx Accesso em: 25/04/2019)",
+      "bbox": [
+        221,
+        456,
+        915,
+        476
+      ]
+    },
+    {
+      "id": 188,
+      "page": 5,
+      "category": "text",
+      "text": "O envelhimento populiano é um fenomeno que ocurre en escaleta global e, em especial, nos paises发展目标. Quais são os fatores que podem darjustem esteprocesso?",
+      "bbox": [
+        65,
+        489,
+        929,
+        520
+      ]
+    },
+    {
+      "id": 189,
+      "page": 5,
+      "category": "text",
+      "text": "A) Aumento global das taxas de natalidade e mortalidade infantil.",
+      "bbox": [
+        66,
+        535,
+        571,
+        549
+      ]
+    },
+    {
+      "id": 190,
+      "page": 5,
+      "category": "text",
+      "text": "B) Crescimento expressivo da taxa de fecundidade, especialmente nos País desenvolvidos.",
+      "bbox": [
+        66,
+        551,
+        773,
+        566
+      ]
+    },
+    {
+      "id": 191,
+      "page": 5,
+      "category": "text",
+      "text": "C) Diminuição da populatione relative, especially nos paises subdesenvolvidos.",
+      "bbox": [
+        66,
+        568,
+        695,
+        582
+      ]
+    },
+    {
+      "id": 192,
+      "page": 5,
+      "category": "text",
+      "text": "D) O constante aumento da expectativa de vida e a queda de fecundidade.",
+      "bbox": [
+        66,
+        584,
+        641,
+        597
+      ]
+    },
+    {
+      "id": 193,
+      "page": 5,
+      "category": "text",
+      "text": "E) Diminuiço da expectativa de vida e aumento da taxa de fecundidade.",
+      "bbox": [
+        66,
+        599,
+        627,
+        613
+      ]
+    },
+    {
+      "id": 194,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        66,
+        535,
+        773,
+        613
+      ]
+    },
+    {
+      "id": 195,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        68,
+        652,
+        205,
+        678
+      ]
+    },
+    {
+      "id": 196,
+      "page": 5,
+      "category": "text",
+      "text": "O robô Estévão foi programado para executar os seguintes movimento em sequência:",
+      "bbox": [
+        221,
+        642,
+        888,
+        658
+      ]
+    },
+    {
+      "id": 197,
+      "page": 5,
+      "category": "text",
+      "text": "1. Andar em frente durante 10 segundos",
+      "bbox": [
+        238,
+        659,
+        572,
+        674
+      ]
+    },
+    {
+      "id": 198,
+      "page": 5,
+      "category": "text",
+      "text": "2. Parar durante 1 segundo",
+      "bbox": [
+        238,
+        675,
+        473,
+        689
+      ]
+    },
+    {
+      "id": 199,
+      "page": 5,
+      "category": "text",
+      "text": "3. Girar para direita durante 2 segundos",
+      "bbox": [
+        238,
+        690,
+        568,
+        705
+      ]
+    },
+    {
+      "id": 200,
+      "page": 5,
+      "category": "text",
+      "text": "4. Parar durante 1 segundo",
+      "bbox": [
+        238,
+        706,
+        473,
+        720
+      ]
+    },
+    {
+      "id": 201,
+      "page": 5,
+      "category": "text",
+      "text": "5. Andar em(fronte durante 10 segundos",
+      "bbox": [
+        238,
+        721,
+        572,
+        735
+      ]
+    },
+    {
+      "id": 202,
+      "page": 5,
+      "category": "text",
+      "text": "6. Parare finalizar",
+      "bbox": [
+        238,
+        737,
+        401,
+        751
+      ]
+    },
+    {
+      "id": 203,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        238,
+        659,
+        572,
+        751
+      ]
+    },
+    {
+      "id": 204,
+      "page": 5,
+      "category": "text",
+      "text": "A intenso do programador com这些东西 comando é que o rôbê Esténdo às并发症rente, esta me-via aleguir para o mesmo lugar quando está não inico. Não entanto, ao princípio da execuição, fos observado, seguido trajectories.",
+      "bbox": [
+        65,
+        762,
+        930,
+        810
+      ]
+    },
+    {
+      "id": 205,
+      "page": 5,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        68,
+        929,
+        156,
+        986
+      ]
+    },
+    {
+      "id": 206,
+      "page": 5,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        447,
+        931,
+        548,
+        981
+      ]
+    },
+    {
+      "id": 207,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        914,
+        935,
+        927,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 208,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        244,
+        48,
+        391,
+        157
+      ]
+    },
+    {
+      "id": 209,
+      "page": 6,
+      "category": "text",
+      "text": "Considerando a trajetória realizada pelo robô, o que poderia ser modificado nos comandos para que Esteão, partindo do inico, consugue alcantar o Objective:",
+      "bbox": [
+        65,
+        249,
+        929,
+        281
+      ]
+    },
+    {
+      "id": 210,
+      "page": 6,
+      "category": "text",
+      "text": "A) Aumentar o tempo do comando 3.",
+      "bbox": [
+        67,
+        296,
+        356,
+        311
+      ]
+    },
+    {
+      "id": 211,
+      "page": 6,
+      "category": "text",
+      "text": "B) Aumentar o tempo do commando 5.",
+      "bbox": [
+        67,
+        313,
+        354,
+        326
+      ]
+    },
+    {
+      "id": 212,
+      "page": 6,
+      "category": "text",
+      "text": "C) Diminuir o tempo do commando 1.",
+      "bbox": [
+        69,
+        328,
+        345,
+        342
+      ]
+    },
+    {
+      "id": 213,
+      "page": 6,
+      "category": "text",
+      "text": "D) Retirar os comandos 2 e 4.",
+      "bbox": [
+        69,
+        344,
+        292,
+        357
+      ]
+    },
+    {
+      "id": 214,
+      "page": 6,
+      "category": "text",
+      "text": "E) Diminuir o tempo do commando 5.",
+      "bbox": [
+        69,
+        359,
+        344,
+        373
+      ]
+    },
+    {
+      "id": 215,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        67,
+        296,
+        356,
+        373
+      ]
+    },
+    {
+      "id": 216,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 15",
+      "bbox": [
+        68,
+        412,
+        204,
+        438
+      ]
+    },
+    {
+      "id": 217,
+      "page": 6,
+      "category": "text",
+      "text": "Leia a charge e responda.",
+      "bbox": [
+        223,
+        418,
+        421,
+        433
+      ]
+    },
+    {
+      "id": 218,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        68,
+        459,
+        425,
+        665
+      ]
+    },
+    {
+      "id": 219,
+      "page": 6,
+      "category": "text",
+      "text": "Por que o jipe-robó levou uma multa?",
+      "bbox": [
+        442,
+        459,
+        735,
+        474
+      ]
+    },
+    {
+      "id": 220,
+      "page": 6,
+      "category": "text",
+      "text": "A) Porque está explorando novas和地区 habitats em Marte.",
+      "bbox": [
+        441,
+        491,
+        924,
+        506
+      ]
+    },
+    {
+      "id": 221,
+      "page": 6,
+      "category": "text",
+      "text": "B) Porque o local onde ele parou e proibido estacionar.",
+      "bbox": [
+        443,
+        508,
+        864,
+        521
+      ]
+    },
+    {
+      "id": 222,
+      "page": 6,
+      "category": "text",
+      "text": "C) Porque o guarda de transito nunca viu um jipe-robo.",
+      "bbox": [
+        443,
+        524,
+        866,
+        537
+      ]
+    },
+    {
+      "id": 223,
+      "page": 6,
+      "category": "text",
+      "text": "D) Porque está explorando outros planetas do Sistema solar.",
+      "bbox": [
+        443,
+        539,
+        920,
+        552
+      ]
+    },
+    {
+      "id": 224,
+      "page": 6,
+      "category": "text",
+      "text": "E) Porque o guarda de transito ficou alegre com a chegada do jipe-robó.",
+      "bbox": [
+        443,
+        554,
+        927,
+        585
+      ]
+    },
+    {
+      "id": 225,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        441,
+        491,
+        927,
+        585
+      ]
+    },
+    {
+      "id": 226,
+      "page": 6,
+      "category": "footer",
+      "text": "中",
+      "bbox": [
+        68,
+        928,
+        157,
+        986
+      ]
+    },
+    {
+      "id": 227,
+      "page": 6,
+      "category": "footer",
+      "text": "",
+      "bbox": [
+        447,
+        931,
+        549,
+        981
+      ]
+    },
+    {
+      "id": 228,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        914,
+        935,
+        927,
+        947
+      ]
+    }
+  ]
+]

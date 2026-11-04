@@ -1,0 +1,3158 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        117,
+        89,
+        291,
+        188
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE ROBÔTICA 2017",
+      "bbox": [
+        342,
+        88,
+        893,
+        168
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "text",
+      "text": "Qualquer série ou ano do ensino medio ou tecnico",
+      "bbox": [
+        92,
+        235,
+        500,
+        253
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL5",
+      "bbox": [
+        759,
+        291,
+        915,
+        323
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        58,
+        338,
+        932,
+        530
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        312,
+        573,
+        676,
+        596
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        65,
+        629,
+        270,
+        647
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\)Esta prova content 11 páginas;",
+      "bbox": [
+        98,
+        649,
+        420,
+        667
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Duração da prova: 4 horas;",
+      "bbox": [
+        98,
+        669,
+        390,
+        687
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser preenchida a caneta;",
+      "bbox": [
+        98,
+        688,
+        489,
+        706
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido o uso de calculadoras;",
+      "bbox": [
+        98,
+        707,
+        498,
+        725
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitida a consulta a qualquer tipo de material;",
+      "bbox": [
+        98,
+        726,
+        647,
+        744
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente;",
+      "bbox": [
+        98,
+        745,
+        547,
+        763
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        97,
+        764,
+        700,
+        783
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        97,
+        649,
+        700,
+        783
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "AEEA",
+      "bbox": [
+        89,
+        854,
+        138,
+        919
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        141,
+        854,
+        222,
+        919
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        267,
+        853,
+        312,
+        918
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        341,
+        853,
+        424,
+        917
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        445,
+        857,
+        522,
+        913
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        558,
+        853,
+        596,
+        913
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        641,
+        852,
+        699,
+        915
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        734,
+        857,
+        805,
+        915
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        825,
+        859,
+        915,
+        915
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "1. Indicados para aplicções que exigem alto não de precisiona na execuição de posicionamento, os motores de passo são atrativos para serem empgregados em manipuladores robéticos, por example. Uma importante caractéctrica该怎么 tipo de motor é a quantidade de passos por revolucção. A qualificação de passos é a capacidade de pressionar 200 passos por revoluição, qual a variação angular do eixo desso mote a cada passo?",
+      "bbox": [
+        80,
+        59,
+        897,
+        141
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "a. 2,0 graus",
+      "bbox": [
+        126,
+        155,
+        231,
+        173
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "b. 1,8 graus",
+      "bbox": [
+        129,
+        179,
+        230,
+        196
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "c. 2,2 graus",
+      "bbox": [
+        129,
+        203,
+        230,
+        220
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "text",
+      "text": "d. 1.5 graus",
+      "bbox": [
+        129,
+        226,
+        230,
+        242
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "e. 1,2 graus",
+      "bbox": [
+        129,
+        250,
+        230,
+        266
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        155,
+        231,
+        266
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        449,
+        147,
+        657,
+        279
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(Fonse Freepik)",
+      "bbox": [
+        521,
+        278,
+        612,
+        289
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "2. As assocações de elementos mecênicos muitas vezes são necessarias para a transmissão de movimento. Essas assocações são realizadas em sistemas robétricos para obter a movimentação de partes ou doproprio rob. Um mecanismo como o Rackado na figura foiutilizando no Sistema de manipulação de um braco mecânicos.",
+      "bbox": [
+        79,
+        329,
+        895,
+        396
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "Dois plasticos embrouchados são posicionados en如何去 conformir ilustrado. O disco 1 é colocacion por um motor eletrico de currente continua e gira con velocidade angular \\( n_1 \\) no sentido horario. Este movimento rotativo é transmitido para o disco 2 por meu do atrito no punto de��o, fazendo como que this gira con velocidade angular \\( n_2 \\) no sentido anti-horario. No punto de��o entre os disos atuam forças normais Fn e de atrito Fa representadas no diagrama de corpos livres da figura. Construingue que \\( M1 \\) sera o torque transmitidoleo diso 1 e que \\( M2 \\) sera o torque transmitidoleo diso 2, pode-s affirmar que:",
+      "bbox": [
+        124,
+        402,
+        896,
+        518
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        167,
+        538,
+        441,
+        674
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Discos em conta",
+      "bbox": [
+        227,
+        680,
+        362,
+        694
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        477,
+        540,
+        811,
+        675
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Diagrama de corpos livres",
+      "bbox": [
+        531,
+        679,
+        725,
+        696
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "a. \\(n_1 <   n_2\\in M1 > M2\\)",
+      "bbox": [
+        127,
+        735,
+        307,
+        751
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "b. \\(n_1 > n_2 \\in M1 < M2\\)",
+      "bbox": [
+        129,
+        759,
+        306,
+        774
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "c. \\(n_1 <   n_2\\mathrm{e}MI = M2\\)",
+      "bbox": [
+        129,
+        783,
+        306,
+        798
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "d. \\(n_1 > n_2 \\in M1 = M2\\)",
+      "bbox": [
+        129,
+        807,
+        306,
+        822
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "e. \\(n_1 > n_2 \\in M1 > M2\\)",
+      "bbox": [
+        129,
+        829,
+        306,
+        844
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        127,
+        735,
+        307,
+        844
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        493,
+        709,
+        818,
+        885
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(Fonse: Freepik)",
+      "bbox": [
+        644,
+        887,
+        737,
+        900
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/11",
+      "bbox": [
+        882,
+        932,
+        916,
+        944
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "3. Os Senseiros de ultrason são foram amplamente realizados em: aplicações industriais, por exemplo, para detectar a presence ou passagem de um objeto; em estacionamento, para detectar a passagem ou presence de um velocó; e aplicações que fazem uso do ultrason.",
+      "bbox": [
+        80,
+        59,
+        896,
+        110
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "Seu besoino de operatione o也是非常 do sonar, usozedo meccergoe para detectar objetivos e presas en seu voo cego. Seu besoino, basea-se na emissao de um sulsono ultrasonico e medico do tempo que o sulva lea para sair do sensor, refletar ao atingir o obstaculo e voltar para o sensor, como demonstrado na figura.",
+      "bbox": [
+        124,
+        116,
+        896,
+        182
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        348,
+        210,
+        665,
+        322
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "Um sensor de ultrason foi instalado no robó mover, responsivenesselo transporte de material en uma planta fabril, para que o robó pare ao detectar某个的对象 en seu trajeto. Considerando a velocidade do som de \\(340\\mathrm{m / s}\\), o tempo gasto na leitura传感 para um对象 a 1,70 metros de distancia está como:",
+      "bbox": [
+        125,
+        386,
+        896,
+        453
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "a. 5 milissegregados",
+      "bbox": [
+        127,
+        466,
+        289,
+        482
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "b. 55 milissegregados",
+      "bbox": [
+        128,
+        489,
+        297,
+        506
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "c. 10 milissegregados",
+      "bbox": [
+        129,
+        513,
+        297,
+        530
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "d. 100 milissegregados",
+      "bbox": [
+        129,
+        537,
+        307,
+        554
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "e. 5500 microsegundos",
+      "bbox": [
+        129,
+        560,
+        332,
+        578
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        127,
+        466,
+        332,
+        578
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        470,
+        485,
+        789,
+        624
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "image_caption",
+      "text": "网址：https://linkedin.com/pulse/global-automated-guided-vehicle-market-revenue-assembled.html",
+      "bbox": [
+        485,
+        625,
+        777,
+        658
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/11",
+      "bbox": [
+        881,
+        936,
+        915,
+        949
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 64,
+      "page": 3,
+      "category": "title",
+      "text": "4. TEXTO - \"Internet das Coisas (IoT)\"",
+      "bbox": [
+        80,
+        59,
+        455,
+        76
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "De accordo with especialistas,iosa société esta vivendo a quarta revolublo industrial, también chamada de Industria 4.0. A institución 4.0 tem various componentes, dontre os quais destacam-e a Internet das coisas, robos, sensores, sistemas intestentes e maquinas, todos connectados. Neste cenario, ja é possevel fazer uma compra pela Internet, que sera recerca podu umematographer central, processada e enviada para robos e maquinas, para fabricacao do item solicitado pelo cliente. No final da producao, o item é embaraldo por outros robos e enviado correio.",
+      "bbox": [
+        124,
+        82,
+        895,
+        198
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "text",
+      "text": "Para nosas casas, ja é possevel instalar asistentes pessoas, como o \"Amazon Alexa\", atraves do qual elesphonsemplementa fazer o que despejos e equipments paraigo ou trabalho para os. Algumas comandos possíveis: \"Toque uma música\", \"Ligue para mamícle\", \"Envie mensagem para Rua dizendo que you atrasar\", \"Acenda a luz\", dentro outros.",
+      "bbox": [
+        125,
+        203,
+        895,
+        271
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "Todas\"Thisascoisas\"estoodecantradas,pereépecisoquecadobotonetaumaquiamecicación,ouse,uamendereco任何paratraconformacoesamosouretosaparellosconducidos.",
+      "bbox": [
+        125,
+        276,
+        895,
+        310
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "Cada dispositivo connectado à Internet receive um endereço IP, possibilizando até \\(2^{32}\\) (4.294.967.296) dispositivos connectados na Internet no mundo. Porém os endereços IP abacar!",
+      "bbox": [
+        125,
+        315,
+        895,
+        365
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "ComoSolution,foicriado oIPv6,que permiele mais de 1500dispositivescomendereounico por meto quadrado en todo planeta Terra!Ototalde endereicosIPv6dispositivese de \\(2^{128}\\) ,ousea,340.282.366.920.938.463.463.374.607.431.768.211.456de dispositives.\"",
+      "bbox": [
+        125,
+        373,
+        895,
+        423
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "Considerando estas informacoes, é correto affirmar que:",
+      "bbox": [
+        126,
+        436,
+        581,
+        454
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "a. A Revoluçao Industrial a que se refere o texto foi iniciada no século XVII.",
+      "bbox": [
+        126,
+        460,
+        756,
+        476
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "b. Com o método IPv6 é possiível endereçar mais de 12500 dispositivos em uma area de \\(10\\mathrm{m}^2\\)",
+      "bbox": [
+        126,
+        482,
+        895,
+        501
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "c. As \"coisas\" à que se refere o textualo são computadores estramente dedicados e disposveis anpenas para grandes empresses.",
+      "bbox": [
+        126,
+        506,
+        895,
+        540
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "d. A Industria 4.0 é assimchamadora para forn desolvologia com base em dispositos enderecados por IP,culosimite era doamen de 4 bilhoes.",
+      "bbox": [
+        126,
+        546,
+        895,
+        580
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "e. Assistes personnels como o \"Amazon Alexa\"demvetail sem submetidos a atuais dispositions das les lavorhistas da constituiao brasileira.",
+      "bbox": [
+        126,
+        586,
+        895,
+        619
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        460,
+        895,
+        619
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        396,
+        630,
+        652,
+        817
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(Fonte: Freepik)",
+      "bbox": [
+        481,
+        817,
+        573,
+        829
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/11",
+      "bbox": [
+        881,
+        933,
+        917,
+        945
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 81,
+      "page": 4,
+      "category": "text",
+      "text": "5. Uma das caracteristicas da placa de prototipagem eletrolica Arduino Uno que es suas partas analógicas de entrada estendecutadas a um conversor análogico-digital interno de 10 bits,ULDa.   \n6. para a resolution das entradas analógicas em milvolts por unidade, aproximamente?",
+      "bbox": [
+        80,
+        59,
+        897,
+        126
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "text",
+      "text": "a. 5,5 milivolts por unidade",
+      "bbox": [
+        126,
+        141,
+        361,
+        158
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "b. 4,5 milivolts por unidade",
+      "bbox": [
+        126,
+        165,
+        361,
+        182
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "c. 3,9 milivolts por unidade",
+      "bbox": [
+        126,
+        189,
+        361,
+        206
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "text",
+      "text": "d. 5,2 milivolts por unidade",
+      "bbox": [
+        126,
+        212,
+        361,
+        228
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "text",
+      "text": "e. 4,9 milivolts por unidade",
+      "bbox": [
+        126,
+        235,
+        361,
+        253
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        141,
+        361,
+        253
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        508,
+        133,
+        858,
+        297
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "text",
+      "text": "6. O monitoramento de grandezas fisicas como temperatura, pressão e velocidade (rotação) são importantes na robotica. A图表 abaixa illustra o esquema de umsystemeutilizando para monitorearas grandezas no motor de umDRONE,justamente comumaabela descervindo asituacoes possessives de occurrer. Alampada de alerta e os sensitoresutilizamLOGica binaria (0 ou 1),ouseja, alampada decevaranapoesnochalgoa de umalgatisoanormal (indicado o numero 1 naabela).Os sensitores operam como descripto a seguir:",
+      "bbox": [
+        79,
+        314,
+        897,
+        414
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "text",
+      "text": "I. O sensor de temperatura presente 0 apenas quando a temperatura for MAIOR QUE \\(90^{\\circ}\\mathrm{C}\\)",
+      "bbox": [
+        125,
+        420,
+        880,
+        437
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "II. O sensor de pressão apareça 0 apenas se a pressão for MENOR QUE 1,30 N/m².",
+      "bbox": [
+        125,
+        437,
+        821,
+        454
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "text",
+      "text": "III. O sensor de rotação apareça 0 apenas se a rotação for MENOR QUE 4800 rpm.",
+      "bbox": [
+        125,
+        454,
+        819,
+        471
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        420,
+        880,
+        471
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        148,
+        491,
+        526,
+        640
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>Item Items</td><td>Item Prices</td><td>Item Value</td><td>Library Area</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>",
+      "bbox": [
+        532,
+        489,
+        819,
+        641
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "text",
+      "text": "Considerando as informações reportadas acima, assinale a(s) alternativa(s) que aparece(m) uma situação de alerta.",
+      "bbox": [
+        125,
+        663,
+        896,
+        695
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "a. Temperatura menor que \\(90^{\\circ}\\mathrm{C}\\), pressao menor que \\(1.30\\mathrm{N} / \\mathrm{m}^2\\) e velocidade menor que 4800 rpm.",
+      "bbox": [
+        126,
+        701,
+        896,
+        736
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "b. Temperatura maior que \\(90^{\\circ}\\mathrm{C}\\), pressao menor que \\(1.30\\mathrm{N} / \\mathrm{m}^2\\) e velocidade maior que 4800 rpm.",
+      "bbox": [
+        126,
+        741,
+        896,
+        775
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "c. Temperatura maior que \\(90^{\\circ}\\mathrm{C}\\), pressao menor que \\(1.30\\mathrm{N} / \\mathrm{m}^2\\) e velocidade menor que 4800 rpm.",
+      "bbox": [
+        126,
+        781,
+        896,
+        815
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "d. Temperatura menor que \\(90^{\\circ}\\mathrm{C}\\), pressao maior que \\(1.30\\mathrm{N / m^2}\\) e velocidade maior que \\(4800\\) rpm.",
+      "bbox": [
+        126,
+        821,
+        896,
+        856
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "text",
+      "text": "e. Temperatura menor que \\(90^{\\circ}\\mathrm{C}\\), pressao menor que \\(1.30\\mathrm{N / m^2}\\) e velocidade maior que 4800 rpm.",
+      "bbox": [
+        126,
+        861,
+        896,
+        895
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        701,
+        896,
+        895
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/11",
+      "bbox": [
+        881,
+        928,
+        917,
+        941
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 105,
+      "page": 5,
+      "category": "text",
+      "text": "7. Uma equipe participante de um desafio em robólica, desenvvelo o programa para Arduino abixo para acender um LED toda vez que um sensor de ultrassom medir um objeto a uma distancia menor que \\(20~\\mathrm{cm}\\).",
+      "bbox": [
+        80,
+        59,
+        898,
+        110
+      ]
+    },
+    {
+      "id": 106,
+      "page": 5,
+      "category": "code",
+      "text": "void setup(){ Serial.begin(9600); pinMode(13, OUTPUT); //LED no pino 13   \n}   \nvoid loop(){ long duration, inches, cm; pinMode(7, OUTPUT);//Sensor nos pinos 7 e 8 digitalWrite(7, LOW); delayMicroseconds(2); digitalWrite(7, HIGH); delayMicroseconds(5); digitalWrite(7, LOW); pinMode(8, INPUT); duration \\(=\\) pulsesIo8, HIGH); //Velicidade do som e de 340m/s cm \\(=\\) duration /RA/2; if \\((\\mathrm{cm} <   20)\\) digitalWrite(13, HIGH); else digitalWrite(13, LOW); Serial.print(cm); Serial.print(\"cm\"); Serial.println(); delay(100);   \n}",
+      "bbox": [
+        127,
+        116,
+        502,
+        547
+      ]
+    },
+    {
+      "id": 107,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        556,
+        193,
+        871,
+        382
+      ]
+    },
+    {
+      "id": 108,
+      "page": 5,
+      "category": "image_caption",
+      "text": "(Font: http://orban-arduno.org/2015000Num-kit-derobo.com-arduno-facil-de-mantar-nobot.html)",
+      "bbox": [
+        594,
+        383,
+        862,
+        405
+      ]
+    },
+    {
+      "id": 109,
+      "page": 5,
+      "category": "text",
+      "text": "Para que valor (es) aproximado (s) de RA o programa funcionaADEquadamente?",
+      "bbox": [
+        127,
+        548,
+        782,
+        565
+      ]
+    },
+    {
+      "id": 110,
+      "page": 5,
+      "category": "text",
+      "text": "a. 1/340",
+      "bbox": [
+        128,
+        571,
+        203,
+        587
+      ]
+    },
+    {
+      "id": 111,
+      "page": 5,
+      "category": "text",
+      "text": "b. 340",
+      "bbox": [
+        129,
+        593,
+        187,
+        609
+      ]
+    },
+    {
+      "id": 112,
+      "page": 5,
+      "category": "text",
+      "text": "c. 29",
+      "bbox": [
+        129,
+        618,
+        177,
+        633
+      ]
+    },
+    {
+      "id": 113,
+      "page": 5,
+      "category": "text",
+      "text": "d. 54",
+      "bbox": [
+        129,
+        641,
+        177,
+        656
+      ]
+    },
+    {
+      "id": 114,
+      "page": 5,
+      "category": "text",
+      "text": "e. 1",
+      "bbox": [
+        129,
+        665,
+        166,
+        680
+      ]
+    },
+    {
+      "id": 115,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        128,
+        571,
+        203,
+        680
+      ]
+    },
+    {
+      "id": 116,
+      "page": 5,
+      "category": "text",
+      "text": "8. Um carro autônio tem senores que detectam carros e obstaculos na pista a uma distança de 50 metros. Para testes de frenagem, quando um obstacão é detectado o carro frieia intermediamente, sem derapar. Os freiros do carro autônio podem esacalar e açaze de 4 m/s². Suponha que, arente do carro autônio, na mesmaertia, há muito carro, na mesma direção e sentido, a uma velocidade de 72km/h. Se o carro autônio está a 108km/h, a uma distança de 80 metros do另外一个 velocho, quando tempo os sistemas do carro autônio levaram para detectar o carro darente e fazer completeness?",
+      "bbox": [
+        79,
+        696,
+        896,
+        812
+      ]
+    },
+    {
+      "id": 117,
+      "page": 5,
+      "category": "text",
+      "text": "a. 11 segundos.",
+      "bbox": [
+        128,
+        822,
+        262,
+        839
+      ]
+    },
+    {
+      "id": 118,
+      "page": 5,
+      "category": "text",
+      "text": "b. 10.5 segundos.",
+      "bbox": [
+        129,
+        846,
+        275,
+        862
+      ]
+    },
+    {
+      "id": 119,
+      "page": 5,
+      "category": "text",
+      "text": "c. 9 segundos.",
+      "bbox": [
+        129,
+        870,
+        250,
+        886
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "text",
+      "text": "d. 8,5 segundos.",
+      "bbox": [
+        129,
+        893,
+        266,
+        910
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "text",
+      "text": "e. 7,5 segundos.",
+      "bbox": [
+        129,
+        916,
+        266,
+        933
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        128,
+        822,
+        275,
+        933
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        340,
+        819,
+        715,
+        902
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "image_caption",
+      "text": "(Fonte:Adaptado de Freepik)",
+      "bbox": [
+        411,
+        916,
+        573,
+        930
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/11",
+      "bbox": [
+        889,
+        935,
+        925,
+        949
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 127,
+      "page": 6,
+      "category": "text",
+      "text": "9. Duques espécies participadora da IEEE Humanoid Robot Racing na Concpetão Brasileira de Rôbatica这点o. En um trânumento, as os rôbros R1 e R2 devem percercer uma pista de 100 metros. Quando é dada a largada, R1 estabelace a velocidade medía de 8m/s, quando R2 algo é de 10m/s de 6m/s de velocidade medía. Qual sera a distúncia entre R1 e R2 quando R1 vaceu a curta?",
+      "bbox": [
+        79,
+        59,
+        897,
+        141
+      ]
+    },
+    {
+      "id": 128,
+      "page": 6,
+      "category": "text",
+      "text": "a. 45 metros",
+      "bbox": [
+        126,
+        158,
+        236,
+        173
+      ]
+    },
+    {
+      "id": 129,
+      "page": 6,
+      "category": "text",
+      "text": "b. 30 metros",
+      "bbox": [
+        129,
+        182,
+        236,
+        197
+      ]
+    },
+    {
+      "id": 130,
+      "page": 6,
+      "category": "text",
+      "text": "c. 25 metros",
+      "bbox": [
+        129,
+        205,
+        236,
+        219
+      ]
+    },
+    {
+      "id": 131,
+      "page": 6,
+      "category": "text",
+      "text": "d. 20 metros",
+      "bbox": [
+        129,
+        228,
+        236,
+        244
+      ]
+    },
+    {
+      "id": 132,
+      "page": 6,
+      "category": "text",
+      "text": "e. 40 metros",
+      "bbox": [
+        129,
+        253,
+        236,
+        266
+      ]
+    },
+    {
+      "id": 133,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        158,
+        236,
+        266
+      ]
+    },
+    {
+      "id": 134,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        494,
+        163,
+        780,
+        258
+      ]
+    },
+    {
+      "id": 135,
+      "page": 6,
+      "category": "image_caption",
+      "text": "(Fonte: (Freepak)",
+      "bbox": [
+        602,
+        261,
+        698,
+        274
+      ]
+    },
+    {
+      "id": 136,
+      "page": 6,
+      "category": "text",
+      "text": "10. Uma planta industrial, de forma quadrada, comporta 6 CSLas de trabajo, respectively nos pontos A, B, C, D, E e F. Um robó seguidor dainhafo行业发展 como a finalidade de percorrer as 6 CSLas能做到 no chia da fibria, como na figura, para货运ar suprimentes entre elas.",
+      "bbox": [
+        80,
+        307,
+        897,
+        374
+      ]
+    },
+    {
+      "id": 137,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        384,
+        378,
+        635,
+        542
+      ]
+    },
+    {
+      "id": 138,
+      "page": 6,
+      "category": "text",
+      "text": "Sabendo que o segmento AB meede \\(900\\mathrm{m}\\) , determino o componente do segmento DF, o perimetro e a area de址acao de做工abo AFD, respectively.",
+      "bbox": [
+        125,
+        559,
+        895,
+        593
+      ]
+    },
+    {
+      "id": 139,
+      "page": 6,
+      "category": "text",
+      "text": "Dados: sen \\(30^{\\circ} = \\cos 60^{\\circ} = 0.5\\)",
+      "bbox": [
+        126,
+        598,
+        428,
+        614
+      ]
+    },
+    {
+      "id": 140,
+      "page": 6,
+      "category": "equation",
+      "text": "\\[\n\\tan 3 0 ^ {\\circ} = 0. 5 8\n\\]",
+      "bbox": [
+        236,
+        616,
+        354,
+        631
+      ]
+    },
+    {
+      "id": 141,
+      "page": 6,
+      "category": "text",
+      "text": "a. \\(522\\mathrm{m};2.466\\mathrm{m};234.900\\mathrm{m}^2\\)",
+      "bbox": [
+        126,
+        645,
+        388,
+        661
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "text",
+      "text": "b. \\(1557\\mathrm{m};4.255\\mathrm{m};700.650\\mathrm{m}^2\\)",
+      "bbox": [
+        128,
+        668,
+        397,
+        685
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "text",
+      "text": "c. \\(522\\mathrm{m};2.722\\mathrm{m};469.800\\mathrm{m}^2\\)",
+      "bbox": [
+        128,
+        692,
+        388,
+        708
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "text",
+      "text": "d. \\( {450}\\mathrm{\\;m};{2.356}\\mathrm{\\;m};{202.500}{\\mathrm{\\;m}}^{2} \\)",
+      "bbox": [
+        128,
+        716,
+        388,
+        732
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "text",
+      "text": "e. \\(783\\mathrm{m};2.876\\mathrm{m};352.350\\mathrm{m}^2\\)",
+      "bbox": [
+        128,
+        739,
+        388,
+        756
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        645,
+        397,
+        756
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/11",
+      "bbox": [
+        881,
+        934,
+        917,
+        947
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 149,
+      "page": 7,
+      "category": "text",
+      "text": "11. Ana construiu um Robo do tipo VANT (Veiculos Aéreo não Tripulido) que é capaz de realizar sus decolagens em umautersão do tipo \\( f(X) = X^C \\) (par \\( X^* = 0 \\), àsça para fazerNEY melor) em que \\( C \\) é um valor constante que Ana reconheça. É posível observar que o VANT passava exatamente 1 metro acima de um prédio de 15 metros de alta. Como uma pena, Ana constatou que o prédio se encaça a 4 metros de distúncia do ponto inicial de decolagens. Ajude Ana a describir什么样 é zero ou valor da constante C da função realizada pelo VANT. Marque a alternatively que melhor representa a função de decolagens do VANT:",
+      "bbox": [
+        80,
+        58,
+        897,
+        176
+      ]
+    },
+    {
+      "id": 150,
+      "page": 7,
+      "category": "text",
+      "text": "a. \\(f(x) = x^{2}\\)",
+      "bbox": [
+        126,
+        187,
+        228,
+        206
+      ]
+    },
+    {
+      "id": 151,
+      "page": 7,
+      "category": "text",
+      "text": "b. \\(f(x) = 2^{x}\\)",
+      "bbox": [
+        129,
+        211,
+        225,
+        228
+      ]
+    },
+    {
+      "id": 152,
+      "page": 7,
+      "category": "text",
+      "text": "c. \\(f(x) = x^4\\)",
+      "bbox": [
+        129,
+        235,
+        225,
+        252
+      ]
+    },
+    {
+      "id": 153,
+      "page": 7,
+      "category": "text",
+      "text": "d. \\(f(x) = x^{(1 / 4)}\\)",
+      "bbox": [
+        129,
+        257,
+        245,
+        276
+      ]
+    },
+    {
+      "id": 154,
+      "page": 7,
+      "category": "text",
+      "text": "e. \\(f(x) = x^{(l / 2)}\\)",
+      "bbox": [
+        129,
+        280,
+        244,
+        300
+      ]
+    },
+    {
+      "id": 155,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        187,
+        245,
+        300
+      ]
+    },
+    {
+      "id": 156,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        296,
+        201,
+        787,
+        419
+      ]
+    },
+    {
+      "id": 157,
+      "page": 7,
+      "category": "text",
+      "text": "12. Os motores electrlicos convertem a energia elétrica em energia mecaica. Na robotica molev, os motores electrlicos de currente continually são muito usiocidas. Um motor eletrico de correrente continua com potência \\(P = 10\\mathrm{W}\\) e rotação nominal \\(n = 6.000\\mathrm{rpm}\\) foi usiocido para movimentar osysteme de lococaoia um robó molev. O motoruíu para fazer o disco 1 do Conjunto de discos plácicos embronchados acoplados representados na forma. O torque \\(T\\) [Nm] transmitido pel motor ao eixo do disco 1 pode ser determinado a partir da relação com a potência \\(P[\\mathrm{W}]\\) e a rotação \\(n[\\mathrm{rpm}]\\) do motor: \\(P = (2\\pi /60)T\\). Supondono que não has perdais de potência ou esccorregamento entre os discos, e sab生产设备 o disco tem 1 rato 1 \\(r_{1} = 10\\mathrm{mm}\\) e o disco 2 tem 2 rato \\(r_{2} = 50\\mathrm{mm}\\), a relação de transmissão e curatestística do par de discos acoplados pode definir o \\(i = r_{2}r_{1} = n_{1} / n_{2} = T / T_{1}\\). Portanto pode-s affirmar que:",
+      "bbox": [
+        79,
+        434,
+        899,
+        602
+      ]
+    },
+    {
+      "id": 158,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        171,
+        608,
+        463,
+        752
+      ]
+    },
+    {
+      "id": 159,
+      "page": 7,
+      "category": "text",
+      "text": "a. \\(n_2 = 1.200\\mathrm{rpm},T_1 = T_2 = 1 / (20\\pi)\\mathrm{Nm}\\)",
+      "bbox": [
+        127,
+        761,
+        463,
+        778
+      ]
+    },
+    {
+      "id": 160,
+      "page": 7,
+      "category": "text",
+      "text": "b. \\(n_2 = 6.000\\mathrm{rpm}\\) \\(T_{I} = T_{2} = 20\\pi \\mathrm{Nm}\\)",
+      "bbox": [
+        129,
+        784,
+        434,
+        803
+      ]
+    },
+    {
+      "id": 161,
+      "page": 7,
+      "category": "text",
+      "text": "c. \\(n_2 = 1.200\\mathrm{rpm},T_1 = 1 / (20\\pi)\\mathrm{Nm}\\mathrm{e}T_2 = 1 / (4\\pi)\\mathrm{Nm}\\)",
+      "bbox": [
+        129,
+        809,
+        577,
+        828
+      ]
+    },
+    {
+      "id": 162,
+      "page": 7,
+      "category": "text",
+      "text": "d. \\(n_2 = 6.000\\mathrm{rpm},T_1 = 20\\pi \\mathrm{Nm}\\mathrm{e}T_2 = 4\\pi \\mathrm{Nm}\\)",
+      "bbox": [
+        129,
+        834,
+        519,
+        853
+      ]
+    },
+    {
+      "id": 163,
+      "page": 7,
+      "category": "text",
+      "text": "e. \\(n_2 = 6.000\\mathrm{rpm}\\) \\(T_{l} = 1 / (4\\pi \\mathrm{Nm}\\mathrm{e}T_{2} = 1 / (20\\pi)\\mathrm{Nm}\\)",
+      "bbox": [
+        129,
+        859,
+        570,
+        877
+      ]
+    },
+    {
+      "id": 164,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        127,
+        761,
+        577,
+        877
+      ]
+    },
+    {
+      "id": 165,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        621,
+        609,
+        787,
+        748
+      ]
+    },
+    {
+      "id": 166,
+      "page": 7,
+      "category": "text",
+      "text": "[1] Feste: Adaplothäne 1: http://www.feste.org/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/2010/201",
+      "bbox": [
+        598,
+        749,
+        808,
+        798
+      ]
+    },
+    {
+      "id": 167,
+      "page": 7,
+      "category": "page_number",
+      "text": "7/11",
+      "bbox": [
+        881,
+        931,
+        917,
+        945
+      ]
+    },
+    {
+      "id": 168,
+      "page": 7,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 169,
+      "page": 8,
+      "category": "text",
+      "text": "13. Um robó faz a leitura de a minhavara, caractere para caractere, tem encapsulada internamente a programação descriça meu autômato da figura àsiba. Naço图表, cadaabela correspondece a um estado e o autômato possible月至 (q0, q1, q2), asarestas correspondem a uma transition entre Estados (a, b), e o autômato consome um caractere para vez da esquerda para a direira. Considerando que o estado inicial é indicado para uma seta e o estado final por uma espíso dupla. Uma minha é reconheça do mecanismo se àspos leu或其他 mecanismo o autômato parou em um estado marcado como final (q2). Para这是我 mecanismo reconhecedor, qual das pessoas àsiba seront reconhecá?",
+      "bbox": [
+        80,
+        59,
+        896,
+        191
+      ]
+    },
+    {
+      "id": 170,
+      "page": 8,
+      "category": "text",
+      "text": "a. bbabb",
+      "bbox": [
+        126,
+        216,
+        207,
+        232
+      ]
+    },
+    {
+      "id": 171,
+      "page": 8,
+      "category": "text",
+      "text": "b. ababb",
+      "bbox": [
+        129,
+        240,
+        205,
+        255
+      ]
+    },
+    {
+      "id": 172,
+      "page": 8,
+      "category": "text",
+      "text": "c. ababa",
+      "bbox": [
+        129,
+        265,
+        204,
+        279
+      ]
+    },
+    {
+      "id": 173,
+      "page": 8,
+      "category": "text",
+      "text": "d. aa",
+      "bbox": [
+        129,
+        289,
+        175,
+        302
+      ]
+    },
+    {
+      "id": 174,
+      "page": 8,
+      "category": "text",
+      "text": "e.baba",
+      "bbox": [
+        129,
+        312,
+        195,
+        326
+      ]
+    },
+    {
+      "id": 175,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        216,
+        207,
+        326
+      ]
+    },
+    {
+      "id": 176,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        251,
+        211,
+        754,
+        335
+      ]
+    },
+    {
+      "id": 177,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        782,
+        267,
+        907,
+        371
+      ]
+    },
+    {
+      "id": 178,
+      "page": 8,
+      "category": "image_caption",
+      "text": "(Fonte: Freepik)",
+      "bbox": [
+        809,
+        371,
+        899,
+        383
+      ]
+    },
+    {
+      "id": 179,
+      "page": 8,
+      "category": "text",
+      "text": "14. O robó Enio fue programado para escrever mensagens criptografadas atraves da的技术icaphoncada por \"Cifra de Cesar\". Essa técnica é considerada uma das mais simples e maisphoncadas专业技术es de criptografia. Ela funciona da segunte forma: cada coisa do texto ésubutada por outa, em uma sequencia desloccando as letras do alfabeto. Paraexample,comuma troca de tres posicaoes. A seriesubstituado por D, Bse tornaria E, e assimion por diente.",
+      "bbox": [
+        80,
+        415,
+        896,
+        500
+      ]
+    },
+    {
+      "id": 180,
+      "page": 8,
+      "category": "text",
+      "text": "Exemplo:",
+      "bbox": [
+        126,
+        506,
+        211,
+        524
+      ]
+    },
+    {
+      "id": 181,
+      "page": 8,
+      "category": "text",
+      "text": "Alfabeto",
+      "bbox": [
+        143,
+        528,
+        245,
+        544
+      ]
+    },
+    {
+      "id": 182,
+      "page": 8,
+      "category": "text",
+      "text": "ABCDEFGHIJKLMNOPQRSUVWXYZ",
+      "bbox": [
+        304,
+        528,
+        849,
+        544
+      ]
+    },
+    {
+      "id": 183,
+      "page": 8,
+      "category": "text",
+      "text": "Cifra de Cesar",
+      "bbox": [
+        146,
+        546,
+        266,
+        560
+      ]
+    },
+    {
+      "id": 184,
+      "page": 8,
+      "category": "text",
+      "text": "DEFGHIJKLMNOPQRSTUVWXYZABC",
+      "bbox": [
+        305,
+        546,
+        848,
+        561
+      ]
+    },
+    {
+      "id": 185,
+      "page": 8,
+      "category": "text",
+      "text": "O nome esse除去 de criptografia é uma homenagem à Júlio César, que usava esse artecido para enviar mensagens ao seuGXerais.",
+      "bbox": [
+        125,
+        569,
+        895,
+        603
+      ]
+    },
+    {
+      "id": 186,
+      "page": 8,
+      "category": "text",
+      "text": "Enio envoi una madre para sua amigia Daniela. Para ajudá-a laocrifarmagén,ele enviou, jintamente con a perugina círma, o seu nome escrta no cífra de César.",
+      "bbox": [
+        125,
+        609,
+        895,
+        643
+      ]
+    },
+    {
+      "id": 187,
+      "page": 8,
+      "category": "title",
+      "text": "AJEK",
+      "bbox": [
+        126,
+        655,
+        198,
+        671
+      ]
+    },
+    {
+      "id": 188,
+      "page": 8,
+      "category": "text",
+      "text": "A pergunte enviada foi: IAQ JKIA PAI MQWJPO RKCWEO?",
+      "bbox": [
+        126,
+        686,
+        687,
+        704
+      ]
+    },
+    {
+      "id": 189,
+      "page": 8,
+      "category": "text",
+      "text": "Sabendo que Daniela considerou a dica enviada, qual a resposta para a pergunte?",
+      "bbox": [
+        126,
+        710,
+        786,
+        728
+      ]
+    },
+    {
+      "id": 190,
+      "page": 8,
+      "category": "text",
+      "text": "a. 2",
+      "bbox": [
+        128,
+        734,
+        167,
+        750
+      ]
+    },
+    {
+      "id": 191,
+      "page": 8,
+      "category": "text",
+      "text": "b. 3",
+      "bbox": [
+        129,
+        757,
+        166,
+        772
+      ]
+    },
+    {
+      "id": 192,
+      "page": 8,
+      "category": "text",
+      "text": "c. 4",
+      "bbox": [
+        129,
+        782,
+        167,
+        795
+      ]
+    },
+    {
+      "id": 193,
+      "page": 8,
+      "category": "text",
+      "text": "d. 5",
+      "bbox": [
+        129,
+        805,
+        166,
+        819
+      ]
+    },
+    {
+      "id": 194,
+      "page": 8,
+      "category": "text",
+      "text": "e. 6",
+      "bbox": [
+        129,
+        829,
+        167,
+        843
+      ]
+    },
+    {
+      "id": 195,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        128,
+        734,
+        167,
+        843
+      ]
+    },
+    {
+      "id": 196,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        693,
+        717,
+        837,
+        847
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "page_number",
+      "text": "8/11",
+      "bbox": [
+        881,
+        933,
+        916,
+        945
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 199,
+      "page": 9,
+      "category": "text",
+      "text": "15. Um robo que está operando na localização \\((30^{\\circ}\\mathrm{N},\\)orte, \\(135^{\\circ}\\mathrm{E})\\) necessita留言他们在. configurou por meia da Internet para uma(CCmaque que está na localização \\((20^{\\circ}\\mathrm{S},\\) Sud, \\(45^{\\circ}\\) Oeste). Considerando que esta(CCmaque para no時間 des 08:00 das 18:00 horas, ficando de vez a no restante do dia e que, são 9:00 no local em que o robo está, pode-se conclutar que o robo:",
+      "bbox": [
+        80,
+        58,
+        897,
+        141
+      ]
+    },
+    {
+      "id": 200,
+      "page": 9,
+      "category": "text",
+      "text": "a. Não irá conheguir se comunicar com a boaquina, poi são 19:00 na localização da boaquina.",
+      "bbox": [
+        125,
+        155,
+        888,
+        174
+      ]
+    },
+    {
+      "id": 201,
+      "page": 9,
+      "category": "text",
+      "text": "b. Não irá conseguir se comunicar com a boaquina, poi são 21:00 na localização da boaquina.",
+      "bbox": [
+        126,
+        179,
+        888,
+        198
+      ]
+    },
+    {
+      "id": 202,
+      "page": 9,
+      "category": "text",
+      "text": "c. Iracseguir se comunicar com a maquina,pois sao 14:00 na localização da maquina.",
+      "bbox": [
+        126,
+        203,
+        852,
+        221
+      ]
+    },
+    {
+      "id": 203,
+      "page": 9,
+      "category": "text",
+      "text": "d. Iracconseguir se comunicar com a maquina,pois sao 9:00 na localização da maquina.",
+      "bbox": [
+        126,
+        226,
+        841,
+        244
+      ]
+    },
+    {
+      "id": 204,
+      "page": 9,
+      "category": "text",
+      "text": "e. Iracseguir se comunicar com aquina,pois s0 10:00 na localização daquina.",
+      "bbox": [
+        126,
+        249,
+        851,
+        267
+      ]
+    },
+    {
+      "id": 205,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        155,
+        888,
+        267
+      ]
+    },
+    {
+      "id": 206,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        205,
+        273,
+        790,
+        495
+      ]
+    },
+    {
+      "id": 207,
+      "page": 9,
+      "category": "text",
+      "text": "16. Dois carrinhos robocicos identicos são realizados para arrubar um bloco de madeira com auxiliços do cabos AB e AC, ao longo do eixo x, conforme ilustrado na vista superior da%cara. Sabendo que a forca minha necessaria para arrubar o bloco na direction x é de 10N, quais são as intensidas das forçao deanagan nos cabos FAB e FAC?",
+      "bbox": [
+        80,
+        511,
+        897,
+        577
+      ]
+    },
+    {
+      "id": 208,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        317,
+        578,
+        698,
+        786
+      ]
+    },
+    {
+      "id": 209,
+      "page": 9,
+      "category": "text",
+      "text": "a. FAB = 20/[20.5(1+30.5)] e FAC = 20/(1+30.5)",
+      "bbox": [
+        126,
+        786,
+        512,
+        806
+      ]
+    },
+    {
+      "id": 210,
+      "page": 9,
+      "category": "text",
+      "text": "b. \\(\\mathrm{FAB} = 20 / (1 + 3^{0.5})\\) e \\(\\mathrm{FAC} = 20 / [2^{0.5}(1 + 3^{0.5})]\\)",
+      "bbox": [
+        129,
+        809,
+        516,
+        829
+      ]
+    },
+    {
+      "id": 211,
+      "page": 9,
+      "category": "text",
+      "text": "c. \\( \\mathrm{FAB} = 10 / [2^{0.5}(1 + 3^{0.5})] \\in \\mathrm{FAC} = 10 / (1 + 3^{0.5}) \\)",
+      "bbox": [
+        129,
+        832,
+        512,
+        853
+      ]
+    },
+    {
+      "id": 212,
+      "page": 9,
+      "category": "text",
+      "text": "d. \\( \\mathrm{{FAB}} = {10}/\\left( {1 + {3}^{0.5}}\\right)  \\cdot  \\mathrm{{eFAC}} = {10}/\\left\\lbrack  {{2}^{0.5}\\left( {1 + {3}^{0.5}}\\right) }\\right\\rbrack \\)",
+      "bbox": [
+        129,
+        856,
+        512,
+        876
+      ]
+    },
+    {
+      "id": 213,
+      "page": 9,
+      "category": "text",
+      "text": "e. FAB = 20/(1+30.5) e FAC = 10/(1+30.5) 10",
+      "bbox": [
+        129,
+        880,
+        497,
+        899
+      ]
+    },
+    {
+      "id": 214,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        786,
+        516,
+        899
+      ]
+    },
+    {
+      "id": 215,
+      "page": 9,
+      "category": "page_number",
+      "text": "9/11",
+      "bbox": [
+        881,
+        933,
+        917,
+        945
+      ]
+    },
+    {
+      "id": 216,
+      "page": 9,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 217,
+      "page": 10,
+      "category": "text",
+      "text": "17. More than 50 years ago, two scientists coined the word \"cyborg\" for an imaginary organism - part human, part machine. It seemed science fiction, but today around 20000 people have some sort of electronic device implanted in their bodies. Neil Harbisson, who can perceive colors only by transforming them into sounds (he can hear through an antenna implanted in his head), sees a future vastly improved by widening our senses with such technology. \"Night vision,\" he says, \"would give us the ability to adapt to the environment: design ourselves instead of the planet. Designing the planet is harming it\". However, human enhancements neefer 'conter superhuman powers. Hundreds of people have radio-frequency identification (RFID) devices embedded in their bodies that allow them to unlock their doors or to open to their computers while working in a room. The technology in Wawa was designed for engineering at Reading and Coventry University, in England, was the first to have an RFID system implanted in his body, back in 1998. His decision had been a natural emanation of working in a building with computerized locks and automatic sensors for temperature and light; he wanted to be as smart as the structure that housed him. \"Being a human was OK\", Warwick told a British newspaper in 2002. \"I even enjoyed some of it. But being a cyborg has a lot more to offer\".",
+      "bbox": [
+        80,
+        59,
+        897,
+        304
+      ]
+    },
+    {
+      "id": 218,
+      "page": 10,
+      "category": "text",
+      "text": "(Fonte: Adaptado de Can Humans Adapt to the red planet? - National Geographic, April 2017)",
+      "bbox": [
+        126,
+        304,
+        644,
+        318
+      ]
+    },
+    {
+      "id": 219,
+      "page": 10,
+      "category": "text",
+      "text": "From the text above, it is right to say that:",
+      "bbox": [
+        126,
+        323,
+        472,
+        340
+      ]
+    },
+    {
+      "id": 220,
+      "page": 10,
+      "category": "text",
+      "text": "a. \"Cyborg\" organisms are a distant future fact.",
+      "bbox": [
+        126,
+        347,
+        525,
+        363
+      ]
+    },
+    {
+      "id": 221,
+      "page": 10,
+      "category": "text",
+      "text": "b. \"Cyborg\" technology will allow humans to change the planet.",
+      "bbox": [
+        126,
+        370,
+        661,
+        389
+      ]
+    },
+    {
+      "id": 222,
+      "page": 10,
+      "category": "text",
+      "text": "c. People can use RFID devices to enter buildings and pass through security checks.",
+      "bbox": [
+        126,
+        394,
+        818,
+        411
+      ]
+    },
+    {
+      "id": 223,
+      "page": 10,
+      "category": "text",
+      "text": "d. Kevin Warwick hated working in a building with automatic sensors for temperature and light.",
+      "bbox": [
+        126,
+        416,
+        872,
+        450
+      ]
+    },
+    {
+      "id": 224,
+      "page": 10,
+      "category": "text",
+      "text": "e. Products with RFID devices can also be called \"Cyborgs\".",
+      "bbox": [
+        126,
+        457,
+        633,
+        474
+      ]
+    },
+    {
+      "id": 225,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        347,
+        872,
+        474
+      ]
+    },
+    {
+      "id": 226,
+      "page": 10,
+      "category": "text",
+      "text": "18. Um robe se comunica sua base atraverse de sinais sonoros e luminosus utilizingo o brokerage. Vese jeaba o afoabo tmeor e significado de someculos regados do meu robo:",
+      "bbox": [
+        80,
+        488,
+        895,
+        521
+      ]
+    },
+    {
+      "id": 227,
+      "page": 10,
+      "category": "text",
+      "text": "Cadação do robo, logo après ser executada, é transmitida para uma base e é registada. A ultima mensagem éviada ao robo antes de desigilar e parar de funcionar pode esta boaxa:",
+      "bbox": [
+        125,
+        527,
+        593,
+        592
+      ]
+    },
+    {
+      "id": 228,
+      "page": 10,
+      "category": "table",
+      "text": "<table><tr><td>Hora</td><td>Mensagem</td></tr><tr><td>9:10h</td><td>- - - - -</td></tr><tr><td>9:23h</td><td>- - - - - - - - -</td></tr><tr><td>9:23h</td><td>- - - - - - - - -</td></tr><tr><td>9:23h</td><td>- - - - - - - - -</td></tr></table>",
+      "bbox": [
+        130,
+        607,
+        387,
+        732
+      ]
+    },
+    {
+      "id": 229,
+      "page": 10,
+      "category": "table",
+      "text": "<table><tr><td>A</td><td>*</td><td>J</td><td>*</td><td>S</td><td>*</td><td>Z</td><td>*</td><td>A</td><td>*</td></tr><tr><td>B</td><td>*</td><td>K</td><td>*</td><td>T</td><td>*</td><td>C</td><td>*</td><td>*</td><td>*</td></tr><tr><td>C</td><td>*</td><td>L</td><td>*</td><td>L</td><td>*</td><td>U</td><td>*</td><td>*</td><td>*</td></tr><tr><td>D</td><td>*</td><td>M</td><td>*</td><td>V</td><td>*</td><td>V</td><td>*</td><td>*</td><td>*</td></tr><tr><td>E</td><td>*</td><td>N</td><td>*</td><td>W</td><td>*</td><td>W</td><td>*</td><td>*</td><td>*</td></tr><tr><td>F</td><td>*</td><td>X</td><td>*</td><td>Y</td><td>*</td><td>Y</td><td>*</td><td>*</td><td>*</td></tr><tr><td>G</td><td>*</td><td>P</td><td>*</td><td>Y</td><td>*</td><td>R</td><td>*</td><td>*</td><td>*</td></tr><tr><td>H</td><td>*</td><td>Q</td><td>*</td><td>Z</td><td>*</td><td>Z</td><td>*</td><td>*</td><td>*</td></tr><tr><td>I</td><td>*</td><td>R</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td></tr></table>",
+      "bbox": [
+        606,
+        523,
+        900,
+        653
+      ]
+    },
+    {
+      "id": 230,
+      "page": 10,
+      "category": "table",
+      "text": "<table><tr><td>C印章</td><td>Signatucre</td></tr><tr><td>BAT</td><td>Problema na bacteria</td></tr><tr><td>POW</td><td>Proh, na plaza de prolecia</td></tr><tr><td>OBJ</td><td>Obstacua detectado</td></tr><tr><td>LOG</td><td>Erro de ligida</td></tr><tr><td>ON</td><td>Rotu ligoado</td></tr><tr><td>OFF</td><td>Dsigandigo</td></tr></table>",
+      "bbox": [
+        678,
+        657,
+        890,
+        791
+      ]
+    },
+    {
+      "id": 231,
+      "page": 10,
+      "category": "text",
+      "text": "Qual das descrições abaixo poderia descver o que houve com o robó?",
+      "bbox": [
+        126,
+        740,
+        663,
+        772
+      ]
+    },
+    {
+      "id": 232,
+      "page": 10,
+      "category": "text",
+      "text": "a. O robo teve um problema de bateria e desigou, 13关键时刻 opos lagar.",
+      "bbox": [
+        126,
+        780,
+        635,
+        814
+      ]
+    },
+    {
+      "id": 233,
+      "page": 10,
+      "category": "text",
+      "text": "b. O robó encontrarou除外o robó e desligou.",
+      "bbox": [
+        126,
+        821,
+        480,
+        837
+      ]
+    },
+    {
+      "id": 234,
+      "page": 10,
+      "category": "text",
+      "text": "c. A placá de potência do robó queimou.",
+      "bbox": [
+        126,
+        844,
+        463,
+        860
+      ]
+    },
+    {
+      "id": 235,
+      "page": 10,
+      "category": "text",
+      "text": "d. O robó teve um problema de origemógica, provavelmente na rotina de detectação de obstáculos.",
+      "bbox": [
+        126,
+        867,
+        833,
+        898
+      ]
+    },
+    {
+      "id": 236,
+      "page": 10,
+      "category": "text",
+      "text": "e. O robô ficou semarga.",
+      "bbox": [
+        126,
+        907,
+        350,
+        924
+      ]
+    },
+    {
+      "id": 237,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        780,
+        833,
+        924
+      ]
+    },
+    {
+      "id": 238,
+      "page": 10,
+      "category": "page_number",
+      "text": "10/11",
+      "bbox": [
+        873,
+        930,
+        917,
+        943
+      ]
+    },
+    {
+      "id": 239,
+      "page": 10,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 240,
+      "page": 11,
+      "category": "text",
+      "text": "19. Um carrinho robístico con 3 rods, sendo各行 traseiras e uma dianteira, é representado na figura. As rods traseiras tem rairo \\( r_2 = 2 \\) em eixo positionalu a uma distança de 10 cm uma da othera e são运作adas de forma independente por meio de micromotoneores acoplados a caixes reduroras de engrenagens. Analisando o movimento isolado de uma das rodas, a relatione entre a velocidade v de seu centro, rotação \\( n \\) [rpm] e seu rairo, \\( r_2 \\) é representado na figura. Desçase-se que o carrinho percorra a trajetória circularo de rairo \\( R = 2 \\) m, com 2 volts por分钟后. A partir dasissas informações podem affirmar que a区域内a entre rotações da rodra externa \\( (o) \\) e da rodra interna \\( (i) \\) a trajetória, definida por \\( (no - ni) \\) delve se dar:",
+      "bbox": [
+        80,
+        59,
+        897,
+        192
+      ]
+    },
+    {
+      "id": 241,
+      "page": 11,
+      "category": "text",
+      "text": "a. 0,1 rpm",
+      "bbox": [
+        145,
+        230,
+        245,
+        248
+      ]
+    },
+    {
+      "id": 242,
+      "page": 11,
+      "category": "text",
+      "text": "b. 1 rpm",
+      "bbox": [
+        146,
+        255,
+        230,
+        272
+      ]
+    },
+    {
+      "id": 243,
+      "page": 11,
+      "category": "text",
+      "text": "c. \\(5\\mathrm{rpm}\\)",
+      "bbox": [
+        146,
+        278,
+        230,
+        295
+      ]
+    },
+    {
+      "id": 244,
+      "page": 11,
+      "category": "text",
+      "text": "d. 10 rpm",
+      "bbox": [
+        146,
+        301,
+        238,
+        318
+      ]
+    },
+    {
+      "id": 245,
+      "page": 11,
+      "category": "text",
+      "text": "e. 15 rpm",
+      "bbox": [
+        146,
+        325,
+        238,
+        342
+      ]
+    },
+    {
+      "id": 246,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        145,
+        230,
+        245,
+        342
+      ]
+    },
+    {
+      "id": 247,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        414,
+        202,
+        646,
+        368
+      ]
+    },
+    {
+      "id": 248,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        695,
+        296,
+        785,
+        364
+      ]
+    },
+    {
+      "id": 249,
+      "page": 11,
+      "category": "text",
+      "text": "20. A robística cooperativa está relacionada a um��adro de robos que são empegrablos para realização a tareafe en conjunto. Considere um��ro de robos que éso contralados remotamente por meio de um computer central, por rede Wi-Fi. Os robos podem ser inseridos em umaasury abaerta e iniciair o desolamento no ambiente at estarunar um incidó, que sera indicado quando o sensor deatura nuta sua dianteira apolarar umaatura maior que \\(30^{\\circ}\\) (observar a figura abixo). Quando isto ocurre, o��ro THATou incidó deverEAR sua mensagem para todos os demais robos e o algoprogramato de busca de incidóve disparar para que os robos realizem a proxima tareafe.",
+      "bbox": [
+        79,
+        381,
+        896,
+        513
+      ]
+    },
+    {
+      "id": 250,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        167,
+        525,
+        531,
+        737
+      ]
+    },
+    {
+      "id": 251,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        536,
+        526,
+        853,
+        737
+      ]
+    },
+    {
+      "id": 252,
+      "page": 11,
+      "category": "text",
+      "text": "Marque a opção que melhor representa os trechos deprogramming que devem ser implementados no computador central para substituir os números [1], [2], [3] e [4] respectivamente, tornando posível a realização da tarea.",
+      "bbox": [
+        124,
+        749,
+        895,
+        799
+      ]
+    },
+    {
+      "id": 253,
+      "page": 11,
+      "category": "text",
+      "text": "a. [1]: parar; [2]: j < i; [3] parar <- verdadeiro; [4] enviar_mensagem(i, j)",
+      "bbox": [
+        126,
+        805,
+        725,
+        824
+      ]
+    },
+    {
+      "id": 254,
+      "page": 11,
+      "category": "text",
+      "text": "b. [1]: parar = falso; [2]: i <> j; [3] enviar_mensagem(i, j); [4] parar <- verdadeiro",
+      "bbox": [
+        126,
+        828,
+        797,
+        847
+      ]
+    },
+    {
+      "id": 255,
+      "page": 11,
+      "category": "text",
+      "text": "c. [1]: i <> j; [2]: parar; [3] parar <- false; [4] enviar_mensagem(i, j)",
+      "bbox": [
+        126,
+        852,
+        690,
+        871
+      ]
+    },
+    {
+      "id": 256,
+      "page": 11,
+      "category": "text",
+      "text": "d. [1]: não parar; [2]: id1 <> id2; [3] enviar_effectsem(i); [4] parar",
+      "bbox": [
+        126,
+        875,
+        682,
+        894
+      ]
+    },
+    {
+      "id": 257,
+      "page": 11,
+      "category": "text",
+      "text": "e. [1]: parar = false; [2]: i = j; [3] enviar Mensagem(i, j); [4] parar <- false",
+      "bbox": [
+        126,
+        899,
+        739,
+        917
+      ]
+    },
+    {
+      "id": 258,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        805,
+        797,
+        917
+      ]
+    },
+    {
+      "id": 259,
+      "page": 11,
+      "category": "page_number",
+      "text": "11/11",
+      "bbox": [
+        873,
+        929,
+        917,
+        942
+      ]
+    },
+    {
+      "id": 260,
+      "page": 11,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ]
+]

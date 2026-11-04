@@ -1,0 +1,1828 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        43,
+        47,
+        896,
+        280
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 0 - 1° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        202,
+        284,
+        886,
+        308
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SERIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        41,
+        314,
+        896,
+        478
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        294,
+        499,
+        650,
+        518
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Car(a) Professor(a).",
+      "bbox": [
+        50,
+        531,
+        283,
+        549
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- España: Prove contém 7 páginas;",
+      "bbox": [
+        85,
+        562,
+        443,
+        580
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 1 hora;",
+      "bbox": [
+        85,
+        583,
+        403,
+        601
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        84,
+        602,
+        544,
+        619
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida consulta a qualquer tipo de material;",
+      "bbox": [
+        84,
+        622,
+        694,
+        640
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Apenas se necessario, leia a question para o aluno;",
+      "bbox": [
+        84,
+        642,
+        676,
+        660
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente;",
+      "bbox": [
+        84,
+        662,
+        595,
+        679
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Oriente o aluno na forma de marca dareshopsta, caso elneno esteja habitualao este forma do prova;",
+      "bbox": [
+        84,
+        682,
+        888,
+        719
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Permita que seu aluno demonstre apenas oproprio conheicao. Não ao auxilie na resolucao das quostes.",
+      "bbox": [
+        84,
+        721,
+        886,
+        758
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        562,
+        888,
+        758
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        74,
+        861,
+        865,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 15,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        61,
+        71,
+        224,
+        91
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "text",
+      "text": "BILLY É UM MENINO Muito ESPERO. ELE PROGRAMOU UM ROBO PARA TRACAR CAMINHOS SEGUROS PARA IR A CASUE DE A SUVA. MARQUE COM UM X EM CADA QUADRADO DO CAMINHO MAIS LONGO ENTRE O RETANGULO 'A' E O QUADRADO 'B'.",
+      "bbox": [
+        52,
+        118,
+        946,
+        161
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        219,
+        162,
+        839,
+        398
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        61,
+        415,
+        226,
+        435
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "ADAM TEM VARIOS AMIGOS ROBOS. DENTRE ELES ESTAO: LUCAS, QUE SABE TUDO SOBRE CINEMA; MARCELA, QUE ADORA PASSEAR PELO ESPACO; E JOANA, QUE E UMA ROBO MUITO INTELEIGENTE.",
+      "bbox": [
+        52,
+        455,
+        946,
+        498
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        220,
+        504,
+        331,
+        602
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Adam",
+      "bbox": [
+        242,
+        607,
+        301,
+        620
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        342,
+        506,
+        472,
+        598
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Lucas",
+      "bbox": [
+        377,
+        607,
+        434,
+        619
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        485,
+        505,
+        609,
+        594
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Marcela",
+      "bbox": [
+        511,
+        607,
+        586,
+        620
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        619,
+        506,
+        765,
+        598
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Joana",
+      "bbox": [
+        653,
+        607,
+        712,
+        620
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "FAÇA UM X EM CIMA DO OBJETO QUE O ROBÓ JOANA USA PARA SE LOCOMOVER.",
+      "bbox": [
+        54,
+        642,
+        790,
+        657
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        99,
+        690,
+        226,
+        776
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "image_caption",
+      "text": "ESFERA",
+      "bbox": [
+        114,
+        781,
+        204,
+        795
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        268,
+        699,
+        397,
+        757
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "image_caption",
+      "text": "ESTEIRA",
+      "bbox": [
+        282,
+        781,
+        378,
+        794
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        441,
+        671,
+        563,
+        774
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "image_caption",
+      "text": "RODAS",
+      "bbox": [
+        452,
+        781,
+        531,
+        794
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        599,
+        661,
+        709,
+        775
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "image_caption",
+      "text": "PERNAS",
+      "bbox": [
+        601,
+        781,
+        692,
+        794
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        741,
+        675,
+        898,
+        776
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "image_caption",
+      "text": "FOGUETE",
+      "bbox": [
+        761,
+        781,
+        868,
+        794
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "((Esfera) Imagem extraida de https://www.soesferas.com.briesfera-metal-duro)",
+      "bbox": [
+        54,
+        817,
+        517,
+        828
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "(Esteiras) Imagem extraida de",
+      "bbox": [
+        55,
+        829,
+        240,
+        838
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "https://www.techbricks.com.br/lego-technic-esteira-correla-de-borracha-granda-36-links-par-preto-pn-53992-cn-4502834)",
+      "bbox": [
+        56,
+        839,
+        758,
+        848
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "((Rodas) Imagem extraida de https://quenembanana.com/loja/kit-4-rodas-robotica-atha-tracao-7-cm')",
+      "bbox": [
+        56,
+        850,
+        640,
+        859
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "(Pernas) Imagem extraida de",
+      "bbox": [
+        56,
+        861,
+        234,
+        870
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "https://revistagaleu.globo.com/Tecnologia/nticia/2019/09/prolese-permile-que-ppssas-amputadas-sintam-pernas-novamenle.html",
+      "bbox": [
+        56,
+        871,
+        835,
+        880
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "((Foguete) Imagem extraida de https://www.flatican.com/br/utores/flant-Icons)",
+      "bbox": [
+        56,
+        882,
+        510,
+        892
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        814,
+        909,
+        831,
+        923
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        530,
+        992
+      ]
+    }
+  ],
+  [
+    {
+      "id": 48,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        64,
+        101,
+        224,
+        119
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "MUITOS PERSONAGENs DESEHNOSS POSSEUM ROBOS COMO AMIGOS. CIRCULE A IMAGEM DO DESENHO ANIMDO QUEPOSSIUM ROBOS.",
+      "bbox": [
+        54,
+        150,
+        941,
+        178
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        129,
+        190,
+        449,
+        328
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "image_caption",
+      "text": "A.",
+      "bbox": [
+        85,
+        328,
+        105,
+        338
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "(Imagem extraida de https://pt.wikipedia.org/wiki/The_Flintstones)",
+      "bbox": [
+        119,
+        340,
+        506,
+        351
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        118,
+        352,
+        465,
+        472
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "image_caption",
+      "text": "B.",
+      "bbox": [
+        86,
+        463,
+        104,
+        473
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "(Imagem extraida de https://www.maioresemelhores.com/melhores-desenhos-animados/)",
+      "bbox": [
+        116,
+        475,
+        640,
+        485
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        118,
+        486,
+        448,
+        592
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "image_caption",
+      "text": "C.",
+      "bbox": [
+        86,
+        582,
+        105,
+        592
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "Imagem extraia de https://www.einerd.com.br/carmen-sandiego-vira-heroina-em-vez-de-vila-em-nova-animalacao-da-netflix'",
+      "bbox": [
+        115,
+        594,
+        846,
+        605
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        118,
+        615,
+        335,
+        737
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "image_caption",
+      "text": "D.",
+      "bbox": [
+        86,
+        728,
+        104,
+        739
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "(Imagem extraida de https://or pinterest.com/pin/825214331698629086/)",
+      "bbox": [
+        116,
+        741,
+        539,
+        752
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        118,
+        753,
+        432,
+        860
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "image_caption",
+      "text": "E.",
+      "bbox": [
+        86,
+        851,
+        104,
+        861
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "(Imagem extraida de https://www.eio7.com.br/projeito-proshow-producer-convite-pl-masks/ep/EEC10A)",
+      "bbox": [
+        114,
+        863,
+        714,
+        874
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        530,
+        994
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        815,
+        940,
+        831,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 67,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        64,
+        95,
+        224,
+        114
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "A ROBO LAURA ACABOU DE COLOCAR SUA BATERIA PARA CARREGAR. SABENDO QUE A BATERIA DEMORA 3 HORAS PARA CARREGAR QUE A GORSA SANO 10 HORAS DA MANHA. PINTE O RELOGIO QUE MARCA O HORARIO DO FIM DO CARREGAMENTO DA BATERIA.",
+      "bbox": [
+        53,
+        134,
+        941,
+        176
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        298,
+        180,
+        701,
+        287
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        388,
+        309,
+        671,
+        400
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        315,
+        404,
+        744,
+        500
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "image_footnote",
+      "text": "(Desenhos adaptados de https://www.fiaticon.com/authors/freepik e https://www.fiaticon.com/br/autosers/mirschwolf)",
+      "bbox": [
+        163,
+        505,
+        834,
+        517
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        61,
+        545,
+        225,
+        564
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "ANDROIDES SÉO ROBOS QUE SE ASSEMBLHAM FISICAMENTE COM SERES HUMANOS. PINTE COM SUAS CORES PREFERADOS A ROBÉ ANDROIDE.",
+      "bbox": [
+        53,
+        587,
+        925,
+        614
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        57,
+        638,
+        177,
+        770
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        184,
+        636,
+        364,
+        763
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        369,
+        638,
+        495,
+        761
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        539,
+        643,
+        725,
+        761
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        745,
+        643,
+        904,
+        752
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "image_footnote",
+      "text": "(Desenhos extraldo de: https://orfreepik.com/https://roots.colorin.com/https://or/pinterest.com/)",
+      "bbox": [
+        202,
+        770,
+        793,
+        781
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        443,
+        945,
+        530,
+        994
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        814,
+        945,
+        831,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 83,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        64,
+        72,
+        225,
+        91
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "ROBOS PODEM TRABALHAM EM DIVERSOS LOCAIS. ALGUNS TRABALHAM NO AR, OUTROS TRABALHAM NA AGUA (POR EXAMPLE: SUBMARINOES PEIXES) E OUTROS PODEM TRABALHAM NA TERRA (POR EXAMPLE:",
+      "bbox": [
+        242,
+        76,
+        942,
+        118
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "text",
+      "text": "TRANSPORTADORES DE CARGAS E CACHORROS).ESCRAVE NO RETANGULO QUE ESTA ABAIXO DA IMAGEM DE CADA RO, O NOME DO SEU LOCAL DE TRALHBO: MAR, TERRA O CEU.",
+      "bbox": [
+        54,
+        119,
+        941,
+        146
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        64,
+        159,
+        299,
+        239
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "text",
+      "text": "image (https://www.podcastwatch.com/?v=1&x=1&x2=0&",
+      "bbox": [
+        64,
+        241,
+        343,
+        270
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        361,
+        159,
+        593,
+        239
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "text",
+      "text": "(ingestion de la   \nmateriaux de la   \nwete meles meles ariisante cete centimetre   \na 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        359,
+        241,
+        637,
+        279
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        711,
+        160,
+        876,
+        249
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "(Imaging exodrta de  \n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 2. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 11. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 3. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1  \n2. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 2  \n3. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 2",
+      "bbox": [
+        652,
+        252,
+        932,
+        346
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        67,
+        394,
+        299,
+        497
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "text",
+      "text": "(imanex tradacion de)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ahm)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(oh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(eh)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ah)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ah)   \n(ah)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ah)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ah)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ahr)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ah)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ah)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ahl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ahr)   \n(ahr)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(ohl)   \n(oh)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(ohl)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ahr)   \n(oh)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ahr)   \n(ohl)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(oh)   \n(ahr)   \n(ahr)   \n(ohl)   \n(oh)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n(ohl)   \n",
+      "bbox": [
+        64,
+        499,
+        341,
+        525
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        361,
+        394,
+        593,
+        470
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "[Imagino estrada de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturа de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturaN de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natural de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturas de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturan de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturata de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturaf de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturasa de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturaa de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturra de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturaal de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturn de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natur a de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturia de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturae de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturrta de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la naturu a de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la Natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la Naturra de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la Naturrta de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de la natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de da natura de dasn",
+      "bbox": [
+        359,
+        473,
+        633,
+        499
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        654,
+        394,
+        887,
+        488
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "[Imagem estaté de] A douleur de l'ordre de la société de 2015-2016.  \nRéserve differential de l'ordre et d'une valeur de l'ordre et d'une valeur de l'ordre.",
+      "bbox": [
+        652,
+        491,
+        932,
+        524
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        62,
+        571,
+        225,
+        590
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "UMA INDUSTRIA, QUE MONT A MOTORES, CONTRATOU VARIOS ROBOS PARA TRABALHAR NA SUJA LINHA DE PRODUCÇÃO, CADA ROB TEM UM HORARIO DE CHEGADA PARA QUE NÃO HAZ A EXCESSO DE ROBOS AN ENTRADA DA FABRICA E CAUSE ALGUM TIPO DE ACIDENTE. MARQUE UX NA ALTERNativa QUE INDICA A ORDEM CORRETA DA CHEGADA DOS ROBOS, DE ACORDO COM AS IMAGENS ABAIXO.",
+      "bbox": [
+        52,
+        614,
+        942,
+        685
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        153,
+        694,
+        273,
+        801
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "image_caption",
+      "text": "A",
+      "bbox": [
+        204,
+        809,
+        220,
+        819
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        301,
+        694,
+        422,
+        801
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "image_caption",
+      "text": "B",
+      "bbox": [
+        352,
+        809,
+        365,
+        819
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        449,
+        694,
+        569,
+        801
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "image_caption",
+      "text": "C",
+      "bbox": [
+        500,
+        809,
+        514,
+        818
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        596,
+        694,
+        716,
+        801
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "image_caption",
+      "text": "D",
+      "bbox": [
+        646,
+        809,
+        661,
+        819
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        744,
+        694,
+        864,
+        801
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "image_caption",
+      "text": "E",
+      "bbox": [
+        804,
+        809,
+        817,
+        819
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "text",
+      "text": "(Adaptado de https://www.fiaticon.com/authors/eucalyp)",
+      "bbox": [
+        55,
+        832,
+        387,
+        842
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "text",
+      "text": "A. A, B, C, D, E.",
+      "bbox": [
+        86,
+        844,
+        225,
+        856
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "B. A, E, D, B, C.",
+      "bbox": [
+        87,
+        858,
+        225,
+        870
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "C.B,A,D,C,E.",
+      "bbox": [
+        87,
+        872,
+        225,
+        885
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "D. D, E, A, B, C.",
+      "bbox": [
+        87,
+        887,
+        225,
+        899
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "E. D, B, C, A, E.",
+      "bbox": [
+        87,
+        901,
+        225,
+        914
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        86,
+        844,
+        225,
+        914
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        443,
+        945,
+        530,
+        992
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        812,
+        937,
+        830,
+        952
+      ]
+    }
+  ],
+  [
+    {
+      "id": 119,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        43,
+        101,
+        209,
+        120
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "text",
+      "text": "UM ROBO COM UMA CAMERA E UTILIZATION PARA AUXILIAR NA COLETA SELETIVA FAZENDO A SEPARACOLO DO LIXO. SABENDO QUE NAS COLETA OS TIGLES MAIS COMUNIS DE LIXO SAÑO PLASTICO, METAL, PEAPEL, VIDRO e COMIDA (não recicláque). LIGUE CADA MATERIAL AO SEU CESTO DE LIXO CORRETO.",
+      "bbox": [
+        53,
+        142,
+        945,
+        200
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "text",
+      "text": "Imagem extraia de https://rolog.blogosferu.ucl.com.br/2019/12/01/esses-robos-sao-muito-melhoros-que-voce-para-separar-iso-reciclavel/",
+      "bbox": [
+        54,
+        203,
+        891,
+        214
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        228,
+        573,
+        300
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        336,
+        573,
+        448
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        592,
+        232,
+        959,
+        395
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        62,
+        478,
+        225,
+        497
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "BRAÇONS ROBOTICOS TÉM SIDO UTILIZADOS PARA A Construição DE PEQUENAS CASAS EM VARIOS LUGARES DO MUNDO. ELES AJUDAM NA ECONOMIA DE MATERIAL E NA DIMINUIÇÃO DE TEMPO NECCESSARIO PARA ConstrUIR CADA CASA. O ROBO APIE LEVA EM TORNDE 4 HORAS PARA ConstrUIR UMA CASA PEQUENA. QUANTAS HORAS ELE LEVÁRIA PARA ConstrUIR 3 CASAS?",
+      "bbox": [
+        53,
+        519,
+        946,
+        591
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        115,
+        598,
+        360,
+        684
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Imagem extraida de",
+      "bbox": [
+        173,
+        695,
+        299,
+        704
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "https://qz.com/924909 apis-cor-can-3d-print-and-entire-house-in",
+      "bbox": [
+        49,
+        705,
+        424,
+        714
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "Just-one-day!",
+      "bbox": [
+        191,
+        715,
+        282,
+        724
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        643,
+        597,
+        804,
+        684
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Desinho extraido de",
+      "bbox": [
+        663,
+        695,
+        793,
+        704
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "https://www.flatican.com/author/smallikeard",
+      "bbox": [
+        595,
+        705,
+        865,
+        715
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "A. 7H.",
+      "bbox": [
+        82,
+        753,
+        147,
+        766
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "B. \\( {14}\\mathrm{H} \\) .",
+      "bbox": [
+        85,
+        767,
+        155,
+        779
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "C. 12H",
+      "bbox": [
+        86,
+        782,
+        155,
+        793
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "D. 9H.",
+      "bbox": [
+        86,
+        797,
+        145,
+        808
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "E. 10H.",
+      "bbox": [
+        86,
+        811,
+        155,
+        822
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        753,
+        155,
+        822
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        531,
+        994
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        814,
+        932,
+        834,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 142,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        49,
+        93,
+        224,
+        113
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "text",
+      "text": "MARTA POSSUI UM ROBO COMPLETAMENTE FORMADO DE FORMAS GEOMETRICAS CHAMADO JLUK. ELE DECIDIU COMPRAR U NOVO ROBO UM PUOCO DIFERENTE DO ANTERIOR. AO SEPARAR SUAS PEÇAS, VIU QUE PODERIA SEPARAR TÁMÉN POR FORMAS GEOMETRICAS, ASSIM COMO FAZIA COM JLUK.",
+      "bbox": [
+        52,
+        144,
+        945,
+        199
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "text",
+      "text": "AJUDE MARTA, LIGANDO CADA UMA DAS PEÇAS DO NOVO ROBÓ A SUA FORMA GEOMETRICA CORRESPONDENTE.",
+      "bbox": [
+        52,
+        206,
+        946,
+        234
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        371,
+        245,
+        627,
+        434
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "image_caption",
+      "text": "(Desenho adaptado de http://tusat.info/robo-para-colorir/robo-para-colorir-robaijo-robo-desenho-colorir/)",
+      "bbox": [
+        191,
+        437,
+        807,
+        449
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        76,
+        462,
+        873,
+        727
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "image_footnote",
+      "text": "<Imagens retradas de http://www.dapipts.ftu.edu/colestam/peariev3/documents/FVG-Parts-List.pdf>",
+      "bbox": [
+        112,
+        740,
+        690,
+        752
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "footer",
+      "text": "OPN",
+      "bbox": [
+        442,
+        945,
+        532,
+        994
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        815,
+        962,
+        831,
+        976
+      ]
+    }
+  ]
+]

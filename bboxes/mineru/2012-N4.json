@@ -1,0 +1,2226 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        77,
+        75,
+        181,
+        165
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        190,
+        88,
+        769,
+        121
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "58a",
+      "bbox": [
+        776,
+        85,
+        938,
+        155
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "2012",
+      "bbox": [
+        416,
+        146,
+        511,
+        172
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "Modalidade: Teorica Nivel 4 (8° e 9° anodo ensino fundamental) Duração: 2 horas",
+      "bbox": [
+        137,
+        209,
+        854,
+        226
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Nome do Aluno: Matr:",
+      "bbox": [
+        137,
+        235,
+        854,
+        251
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Escola: Cidade: Estado:",
+      "bbox": [
+        138,
+        262,
+        855,
+        278
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        449,
+        302,
+        548,
+        318
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        177,
+        331,
+        252,
+        385
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        254,
+        340,
+        415,
+        381
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "UERN",
+      "bbox": [
+        421,
+        340,
+        605,
+        376
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "",
+      "bbox": [
+        420,
+        376,
+        599,
+        383
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        321,
+        714,
+        408
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "58",
+      "bbox": [
+        718,
+        331,
+        893,
+        401
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        468,
+        530,
+        530,
+        546
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        269,
+        570,
+        430,
+        640
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "OBA!",
+      "bbox": [
+        437,
+        566,
+        543,
+        583
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        437,
+        584,
+        543,
+        639
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        547,
+        587,
+        734,
+        640
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        249,
+        644,
+        326,
+        699
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "text",
+      "text": "MNR",
+      "bbox": [
+        332,
+        643,
+        594,
+        689
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "text",
+      "text": "Mostra Nacional de Robotica",
+      "bbox": [
+        334,
+        689,
+        514,
+        700
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "text",
+      "text": "NatalNet",
+      "bbox": [
+        598,
+        650,
+        751,
+        687
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "title",
+      "text": "AVISO:",
+      "bbox": [
+        453,
+        755,
+        537,
+        772
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        235,
+        791,
+        414,
+        807
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        265,
+        825,
+        626,
+        841
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material;",
+      "bbox": [
+        265,
+        845,
+        683,
+        881
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente.",
+      "bbox": [
+        265,
+        887,
+        667,
+        902
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        265,
+        825,
+        683,
+        902
+      ]
+    }
+  ],
+  [
+    {
+      "id": 29,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        40,
+        660,
+        55
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "title",
+      "text": "1) Questão",
+      "bbox": [
+        138,
+        115,
+        245,
+        131
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        117,
+        855,
+        131
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        108,
+        945,
+        138
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "Eiko cognitivo: Il. Enfantur situações-problema. Area: Matemática. Descrições: Números e Operações/Algebra e funções",
+      "bbox": [
+        167,
+        134,
+        813,
+        166
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "Um robb precise complement o jogo de Sudeku abixo para resolver uma equação \"Sudeku é um jogo de racionico e Legalo quando o jogo de quadraisutilizando zeromqre é a 1 a9. Para complementa-os não poder haveereros repetidos nas linhashorizontales e verticals, assim os como quadrais grandes. Qual o valor de 2 para a��aqueira: \\(Z^{2} = X^{2} + Y^{2}\\)",
+      "bbox": [
+        135,
+        198,
+        858,
+        269
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        203,
+        321,
+        343,
+        470
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        353,
+        274,
+        710,
+        546
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "(A) \\(\\sqrt{20}\\)",
+      "bbox": [
+        228,
+        562,
+        296,
+        580
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "(B) \\(\\sqrt{17}\\)",
+      "bbox": [
+        230,
+        582,
+        296,
+        598
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "(C) \\(\\sqrt{65}\\)",
+      "bbox": [
+        230,
+        601,
+        296,
+        618
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "(D) \\(\\sqrt{145}\\)",
+      "bbox": [
+        230,
+        620,
+        306,
+        638
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "(E)√50",
+      "bbox": [
+        230,
+        640,
+        296,
+        657
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        228,
+        562,
+        306,
+        657
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "title",
+      "text": "2) Questao",
+      "bbox": [
+        137,
+        702,
+        244,
+        718
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        793,
+        703,
+        855,
+        717
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        696,
+        945,
+        725
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "Eiko cognitivo: III. Enfrentar situaciones-problema. Aarea: Matematica. Descrirores: Grandezes e Medidas.",
+      "bbox": [
+        166,
+        721,
+        823,
+        752
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "En robotsica soit realizas diversas tecnicas para realizar a etapa do controle da tarea a ser executada. Diversas tecnicas que ne involvelem informatique artificial vlim, a cada dia, torno-se mas presentesneste cenario. Particularamente a Lógica Fuzzy vem ganhando quando mais algo, pois seguee exprirconce impecimento es resolver problemas onede a modelagem conveniional se torna dificil e cara. Um Modelo de Controlador Fuzzy para aplicações en robotsica pode ser vsito na figura segmente.",
+      "bbox": [
+        135,
+        767,
+        855,
+        876
+      ]
+    }
+  ],
+  [
+    {
+      "id": 50,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        5,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        40,
+        660,
+        55
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        143,
+        83,
+        853,
+        158
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "Dentre os blocos do controlador o Defuzzicfador tem o papel de transformar a variavel difusa em uma variavel numero que atuau no robó. Uma das tecnicas mais realizoulations Defuzzicfador é o Modelo do Centrozero, que nada mais é do que o centro de area (média ponderada) da saida fuzzié retegue a Defuzzicfador.",
+      "bbox": [
+        136,
+        180,
+        858,
+        252
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "Supondo que a saía fuzzy entrega ao Defuzzificador seja a segunte:",
+      "bbox": [
+        137,
+        266,
+        668,
+        283
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        153,
+        304,
+        831,
+        493
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "E que os centroids deAreas de cuesta triangulo esteyamosea a abscissa indica no grpico para 2,0e 8,0respectivel,que a造血omaica X enteguelo pro controlador ao robb?",
+      "bbox": [
+        136,
+        523,
+        858,
+        558
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "(A) 2,0",
+      "bbox": [
+        169,
+        572,
+        227,
+        588
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "(B) 4,0",
+      "bbox": [
+        170,
+        596,
+        227,
+        610
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "(C) 5,2",
+      "bbox": [
+        170,
+        619,
+        227,
+        634
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "(D) 6,4",
+      "bbox": [
+        170,
+        642,
+        227,
+        656
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "(E) 8,4",
+      "bbox": [
+        170,
+        665,
+        227,
+        680
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        169,
+        572,
+        227,
+        680
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "title",
+      "text": "O texto a seguir deve ser uso para responder as quostoes 3 e 4:",
+      "bbox": [
+        137,
+        710,
+        691,
+        726
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "\"Evolvement e a mudança dascharacteristicas de uma population de uma geração para outra. O fimel Wall-e se passao no ano 2805, com a Terra sendo a planeta abandonto e coberto por lixo, como o resultado deecessas de consumismo em massa. Desistindo de restuarou o ecosystema a population terrestre fo escvado na vaves estrelles totalmente automatizadas, deixaando no planeta es exerço de robos compactados de lixo chamaos: \"WALLE\" para limpeza durante um periodo de cinco anos. No ano 2110, entretanto, o ar da Terra se tornou muito tóxico para Supporting a vida, forciando a humanidade a permanecer no espo. Como o fimel do algo, apesa umaunities WALLE permanece ativa, tendo desenvolvimento a consciência e coletó various artefotos do lixo quando suaver do seu der. Dia o fimel, WALLE descobre a很小a peguena planta crescido entre o lixo e a leva para casa, um deposito. Muito",
+      "bbox": [
+        136,
+        743,
+        858,
+        903
+      ]
+    }
+  ],
+  [
+    {
+      "id": 66,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        5,
+        76,
+        57
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        660,
+        57
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "tarde, una españocar aterrissa e implanta EVA, um avançado robó enviado pelos humanos com a função de procurar sinais de vegetação na Terra.",
+      "bbox": [
+        135,
+        84,
+        858,
+        117
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "title",
+      "text": "3) Questão",
+      "bbox": [
+        138,
+        177,
+        245,
+        194
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        179,
+        856,
+        194
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "Eiko cognitive: Il. Enfantur situações-problema. Avenida: Biologia. Descrirores: Tramento da informação.",
+      "bbox": [
+        166,
+        197,
+        815,
+        229
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "Com base no texto e nos seuis conhecimentos, é possivel affirmar que:",
+      "bbox": [
+        137,
+        266,
+        664,
+        281
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "(A) Assim como os seres vivos, os robos também evoluem.",
+      "bbox": [
+        172,
+        290,
+        625,
+        305
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "(B) Os seres vivos evoluem, os robos por sua vez sempre mantém as vezes caractéctricas e funções.",
+      "bbox": [
+        172,
+        312,
+        856,
+        344
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "(C) Os seres vivos não evoluem, os robés por sua vez sempre está tão melhorado e desenvolvimento, jintos com a Tecnologia.",
+      "bbox": [
+        172,
+        351,
+        856,
+        382
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "(D) Não é posível affirmar que haja o fenomeno da evolução, uma vez que nunca houve a leiça que explicaçá tal reconço.",
+      "bbox": [
+        172,
+        390,
+        856,
+        421
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "(E) WALL-E é um robô muito mais evoluido que EVA e por isto tem a função de limpar o planeta.",
+      "bbox": [
+        172,
+        429,
+        856,
+        460
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        172,
+        290,
+        856,
+        460
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "title",
+      "text": "4) Questão",
+      "bbox": [
+        137,
+        497,
+        245,
+        512
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        498,
+        856,
+        512
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "Eiko cognitivo: Il-Comprehender Fenomenos. Area: Biologia. Descrirtes: Tratumenta da Informacao",
+      "bbox": [
+        166,
+        516,
+        778,
+        547
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "text",
+      "text": "O robó WALLY é responsativo por limpar a Terra, que virou um mundo abandonado e chejo de loxo. Usando eles acontecimentos sobre o assunto é correto reframar:",
+      "bbox": [
+        135,
+        562,
+        856,
+        598
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "(A) Uma forma de evaporar queippo a accumulando oixo em caso ao invej de jogá-lo em lixóes, que contribuem muito para a poluição.",
+      "bbox": [
+        172,
+        614,
+        856,
+        645
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "(B) Uma forma de evaporar que algo aconteça é parar de produiryxeros manufaturados eutilizar somenteyxeros que a naturezae provem.",
+      "bbox": [
+        172,
+        650,
+        856,
+        682
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "(C) Isto não pode ser evitado, poised as políticas dos povises desenvívados não temenhun projeto que vise a economia sustentavel.",
+      "bbox": [
+        172,
+        688,
+        856,
+        719
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": "(D) Ilso podeserévietadoarparradopesquisaseSolutiondesnovosmateriaisecomreciclagem.",
+      "bbox": [
+        172,
+        725,
+        856,
+        758
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "(E) As alternativas a e b estao corretas.",
+      "bbox": [
+        173,
+        763,
+        481,
+        779
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        172,
+        614,
+        856,
+        779
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "title",
+      "text": "Texto para as quostoes 5 e 6:",
+      "bbox": [
+        138,
+        811,
+        385,
+        827
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "Nas aguas rasas do porto de Gjón, no norte da Espanha, um peixe grande e amarelto atravessa as ondas. A censa semeria comum se o peixe não fosse feito de fibra de carbono e metal. Traça do robo-fish (peixe-robó), a maior recente arma da ciência contra a poluição martima.",
+      "bbox": [
+        135,
+        852,
+        856,
+        903
+      ]
+    }
+  ],
+  [
+    {
+      "id": 92,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        5,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "De forma autônoma, o equipoamento rastreia contaminação nas vezes e notificá agentes na Costa. Na Espanha, dispersos robo-fish está em fase de testes, para avaliar sua capacidade em se tornar futuros \"guardas\" marinhos.",
+      "bbox": [
+        135,
+        87,
+        855,
+        136
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "text",
+      "text": "\"A idea é monitorar a poluição em tempo real, para que, se alguem despazar químicos (na água) ou se houver alg umazamento, passosagem agar imeditamente, descorbir a causa do problema e impedo-lo\", explicá Luke Speller, cientista-sénior de pesquisas do BMT Group, de consulória em Tecnologia.",
+      "bbox": [
+        136,
+        140,
+        855,
+        208
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "AEmpresa è parte do consorcio Shoal, um equipo finanziado pela Commissão Europeia (braço politico da UE) para desenvolver os robés.",
+      "bbox": [
+        136,
+        211,
+        855,
+        243
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "\"No momento, nos portos, eles estão obterndo amoras (da água) uma vez por mês\", diz Speller.",
+      "bbox": [
+        136,
+        246,
+        855,
+        279
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "title",
+      "text": "Inspiração na natureza",
+      "bbox": [
+        161,
+        283,
+        341,
+        298
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "O robô, que mede 1,5 metro, é maior do que um peixe real, mas imita seu movimentos.",
+      "bbox": [
+        161,
+        301,
+        831,
+        315
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "text",
+      "text": "\"Ao longo mihiñes de años, peixes evoluiramar para um胍 hidrodinamico, e TNTamos copiar ese no robó\", contean Iándules, da Universidad de Essex, que también faz parte do consorcio. \"Sua barbatana é muitoutil em agasas rasaes, especialmente em locais comuns inadejos.\"",
+      "bbox": [
+        136,
+        318,
+        855,
+        386
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "O aparecido yo un banco de datos de microletrados para identificar a contaminación, inclindo metas pesados como cobre,能做到 de monitorir os niveis de oxigenio e sol na agua. O estudos en的表情 en Gjón visam ayudar os ciintistes a finalizar o design dos robos. A expectativa é poder commercialí-los nosproximosanos.",
+      "bbox": [
+        136,
+        390,
+        855,
+        457
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "text",
+      "text": "\"No futuro, también queramos que os robos sejam capazes de fazer varías tarefas, como buscas e resgate, monitoramento de mergulhadores, ao mesmo tempo em que investigam a poluição\", afirma Speller.",
+      "bbox": [
+        136,
+        461,
+        855,
+        511
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "title",
+      "text": "Custos e obstáculos",
+      "bbox": [
+        161,
+        515,
+        318,
+        528
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "Os protótiços custam atuaiteme o equivalente a RS 60 ml reais, mas Speller diz que esse custo pode bixinar se equipoamento producer producido em maior escaça.",
+      "bbox": [
+        136,
+        532,
+        855,
+        564
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "A bateria é um obstáculo importante: nomomento, o robó tem de ser recarregado a cada oito horas. Para Richard Harrington, da Sociedade de Conservação Marina, se o equipamento supesar eses desaos, pode ser uma arma importante.",
+      "bbox": [
+        136,
+        568,
+        855,
+        618
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "\"Portos e estuarios são locals de dificil monitoramento do poluição, porque germ ahol ha um longo periodo de tempo entre a coleta de amoras e a analyse de laboratório\", diz. \"Um aparecido operado remotamente pode ser despaschado rápidamente em ambientes de águaRSA, permitindo uma resista rápida para que se temoin deciseis mais rápidas.\"",
+      "bbox": [
+        136,
+        621,
+        855,
+        689
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "text",
+      "text": "Fonte: BBC Brasil",
+      "bbox": [
+        724,
+        690,
+        855,
+        704
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "title",
+      "text": "5) Questao",
+      "bbox": [
+        137,
+        780,
+        245,
+        794
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        793,
+        781,
+        855,
+        794
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar Linguagem. Area: Portugues. Descrições: Procedimentos de Leltura",
+      "bbox": [
+        167,
+        796,
+        819,
+        810
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "De accordo o textualo que é posível affirmar? Marque todas as alternativas que achar conveniente.",
+      "bbox": [
+        136,
+        841,
+        855,
+        873
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "(A) Na Italià, diverso robo-fishstick ésat en fase de testes, para avaluer sua capacité em se tornar futuros \"guardas\" marinho.",
+      "bbox": [
+        167,
+        877,
+        855,
+        911
+      ]
+    }
+  ],
+  [
+    {
+      "id": 114,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 115,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        660,
+        56
+      ]
+    },
+    {
+      "id": 116,
+      "page": 5,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 117,
+      "page": 5,
+      "category": "text",
+      "text": "[8] O robo-fish usa um banco de dados de microletrados para identar a contaminacao.",
+      "bbox": [
+        167,
+        84,
+        858,
+        119
+      ]
+    },
+    {
+      "id": 118,
+      "page": 5,
+      "category": "text",
+      "text": "(C) A bateria é um obstáculo importante, sentido que o robô tem de ser recarregado a cada oito horas.",
+      "bbox": [
+        167,
+        121,
+        856,
+        154
+      ]
+    },
+    {
+      "id": 119,
+      "page": 5,
+      "category": "text",
+      "text": "(D) O robó, que meede 1,5 metros é do tamanho de um peixe real é imita seu-. movimentos.",
+      "bbox": [
+        168,
+        158,
+        856,
+        190
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "text",
+      "text": " (E) Actualmente os protótiços custam o equivalente à R$ 60 mil reais, esse custo não pode ser abaxado.",
+      "bbox": [
+        168,
+        194,
+        856,
+        227
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        84,
+        858,
+        227
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "title",
+      "text": "6) Questao",
+      "bbox": [
+        137,
+        260,
+        245,
+        274
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        260,
+        856,
+        274
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "Elxo cognitivo: I. Dominar Linguagem. Area: Portugues. Descritores:Procedimentos de Leitura",
+      "bbox": [
+        167,
+        276,
+        823,
+        290
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "text",
+      "text": "No txtto, o autor utilizationar variousistivos para se referir ao robo-fish. Qual das alternativas abiaixo nao corresponde a um substantivoutilizado peler autor para substituiar a palavra robofish?",
+      "bbox": [
+        135,
+        332,
+        858,
+        382
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "(A) Equipamento.",
+      "bbox": [
+        168,
+        387,
+        310,
+        403
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "(B) Aparelho.",
+      "bbox": [
+        168,
+        405,
+        277,
+        421
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "(C) Protólico.",
+      "bbox": [
+        168,
+        424,
+        280,
+        440
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "(D) Robo.",
+      "bbox": [
+        169,
+        442,
+        249,
+        457
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "(E) Microeletrodo.",
+      "bbox": [
+        169,
+        460,
+        317,
+        475
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        168,
+        387,
+        317,
+        475
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "title",
+      "text": "7) Questao",
+      "bbox": [
+        137,
+        535,
+        244,
+        550
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        535,
+        856,
+        549
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "Eiko cognitivo: I. Dominar linguagens. Area: Lingua Portuguesa. Descritores: Procedimientos de Leitura",
+      "bbox": [
+        167,
+        552,
+        831,
+        579
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "8)",
+      "bbox": [
+        137,
+        581,
+        157,
+        594
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "O Robo humanoide IHM1, première parte desenvoludo della propieto \"I, Hamlet\" vencedor de concupo Rumes de ate cibernetica faz a umaulaspecifica artistica na qual declarao versus do texto de William Shakespeare, Hamlet. Se eu enuma uma Nova espunca o humanidade declara a sua voz: \"aquena minna, Maria, passou a dia todo a我会 encantar.\" O termo \"Mani\" representa:",
+      "bbox": [
+        135,
+        608,
+        858,
+        687
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "(A) Um adjetivo.",
+      "bbox": [
+        159,
+        703,
+        300,
+        719
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "(B) Um adverbio.",
+      "bbox": [
+        160,
+        732,
+        304,
+        748
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "(C) Um aposto.",
+      "bbox": [
+        160,
+        763,
+        291,
+        780
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "text",
+      "text": "(D) Um pronome.",
+      "bbox": [
+        160,
+        793,
+        307,
+        810
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "text",
+      "text": "(E) Uma interjeicao.",
+      "bbox": [
+        160,
+        824,
+        327,
+        840
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        159,
+        703,
+        327,
+        840
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        486,
+        716,
+        821,
+        847
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        867,
+        908,
+        955,
+        939
+      ]
+    }
+  ],
+  [
+    {
+      "id": 145,
+      "page": 6,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        57
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        660,
+        56
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "title",
+      "text": "9) Questão",
+      "bbox": [
+        137,
+        85,
+        245,
+        100
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        86,
+        856,
+        99
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "Eiko cognitivo: I-Dominar linguagens. Area: Lingua Ingea. Descritores: Tramento da Informacao",
+      "bbox": [
+        166,
+        103,
+        775,
+        135
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "Ao receber uma mensagem de terra um robb humano é ter que traduzir o Revenge para os astronautas brasileiros: \"Human error prevention is very important to support the safety and efficiency of human-machine systems\", qual das alternativas contem as tratudes adequadas das respectivas palavras da hora:",
+      "bbox": [
+        135,
+        167,
+        858,
+        237
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "(A) Prevention, important, systems - Previne, important, sitemas.",
+      "bbox": [
+        167,
+        259,
+        686,
+        273
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "text",
+      "text": "(B) Human, very, safety - Humano, muito, segurarça.",
+      "bbox": [
+        167,
+        277,
+        580,
+        291
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "text",
+      "text": "(C) Support, efficiency, systems - Suporte, eficiencia, sistemas.",
+      "bbox": [
+        167,
+        296,
+        647,
+        310
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "(D) Prevention, important, support - Previne, importancia, suporte.",
+      "bbox": [
+        167,
+        313,
+        682,
+        329
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "(E) Human, important, systems - Humano, importante, sistematizzato.",
+      "bbox": [
+        168,
+        332,
+        703,
+        347
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        259,
+        703,
+        347
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "title",
+      "text": "10) Questao",
+      "bbox": [
+        138,
+        386,
+        244,
+        401
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        388,
+        856,
+        401
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "Eiko cognitivom: Dominar linguagens. Avenida: Lingua Iglesia, Descrirutos: Relacoes entre Recursos Expressivos e Elétricos de Sentido.",
+      "bbox": [
+        166,
+        405,
+        840,
+        436
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "\"Number 5 is one of five prototype robots proposed for Cold War use by the U.S. military, although the scientist mainly responsible for creating them, Newton Graham Crosby, and his partner Ben Jabituya, are more interested in peaceful uses of their artificial intelligence, like playing musical instruments.\"",
+      "bbox": [
+        137,
+        449,
+        838,
+        522
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "text",
+      "text": "O texto acima foi retirado da sinose de um nome chamado Short Circuit, de 1986. Este nome foi um dos primeiros à registrar do robés e conta àória de Johnny 5, um robô que é entrega pegu correiro por engo e vivem muitas aventuras.",
+      "bbox": [
+        137,
+        542,
+        848,
+        595
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "text",
+      "text": "A partir do textualo em inlgés é possivel affirmar que:",
+      "bbox": [
+        137,
+        609,
+        517,
+        625
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "text",
+      "text": "(A) Existiram 6 robos iguais a Johnny 5 que foram descartados, sobrando apenas um.",
+      "bbox": [
+        159,
+        639,
+        809,
+        653
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "text",
+      "text": "(B) Newton Graham queria usa-lo para fins militares e Bem Jabituya queria usa-lo para fins pacificos.",
+      "bbox": [
+        159,
+        662,
+        855,
+        692
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "text",
+      "text": "(C) Johnny 5 sera um prototipo Criado para tocar instrumentos musicais, mas seu criadores querque usa-lo para fisis militares.",
+      "bbox": [
+        159,
+        702,
+        783,
+        731
+      ]
+    },
+    {
+      "id": 167,
+      "page": 6,
+      "category": "text",
+      "text": "(D) Cinco protótiços foram criados com o intuito de serem usados na Guerra Friathose militares.",
+      "bbox": [
+        159,
+        739,
+        825,
+        770
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "text",
+      "text": "(E) Robás não tem inteligência artificial, eles somente reproduzem fonções e impulsosétricos.",
+      "bbox": [
+        159,
+        779,
+        855,
+        809
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        159,
+        639,
+        855,
+        809
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "title",
+      "text": "11) Questao",
+      "bbox": [
+        138,
+        844,
+        244,
+        859
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "text",
+      "text": "Pontos:",
+      "bbox": [
+        792,
+        845,
+        856,
+        858
+      ]
+    },
+    {
+      "id": 172,
+      "page": 6,
+      "category": "text",
+      "text": "Eiko cognitivo. Il. Enfrontar situacoes-problema. Area: Matematica. Descritores: Numeros e Operacoes/Algebra e Funchos",
+      "bbox": [
+        166,
+        862,
+        807,
+        894
+      ]
+    },
+    {
+      "id": 173,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        865,
+        836,
+        948,
+        866
+      ]
+    }
+  ],
+  [
+    {
+      "id": 174,
+      "page": 7,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        40,
+        660,
+        55
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        880,
+        18,
+        969,
+        53
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "text",
+      "text": "Um braco robotico encaixa 200 tampas de um recipiente em 30 horas. Quantas tampas ele encaixare em 6 horas e 15 horas.",
+      "bbox": [
+        137,
+        84,
+        856,
+        115
+      ]
+    },
+    {
+      "id": 178,
+      "page": 7,
+      "category": "text",
+      "text": "(A) 1100",
+      "bbox": [
+        164,
+        137,
+        241,
+        152
+      ]
+    },
+    {
+      "id": 179,
+      "page": 7,
+      "category": "text",
+      "text": "(8) \\(\\frac{7800}{6}\\)",
+      "bbox": [
+        164,
+        166,
+        235,
+        191
+      ]
+    },
+    {
+      "id": 180,
+      "page": 7,
+      "category": "text",
+      "text": "(C) 1200",
+      "bbox": [
+        164,
+        204,
+        241,
+        219
+      ]
+    },
+    {
+      "id": 181,
+      "page": 7,
+      "category": "text",
+      "text": "(D) \\(\\frac{5200}{2}\\)",
+      "bbox": [
+        164,
+        233,
+        235,
+        258
+      ]
+    },
+    {
+      "id": 182,
+      "page": 7,
+      "category": "text",
+      "text": "(E) 1300",
+      "bbox": [
+        165,
+        273,
+        241,
+        288
+      ]
+    },
+    {
+      "id": 183,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        164,
+        137,
+        241,
+        288
+      ]
+    }
+  ]
+]

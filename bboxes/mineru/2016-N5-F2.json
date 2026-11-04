@@ -1,0 +1,3616 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        79,
+        81,
+        623,
+        105
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBÓTICA 2016",
+      "bbox": [
+        82,
+        108,
+        622,
+        191
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "text",
+      "text": "Qualquer série ou ano do ensino medio ou tecnico",
+      "bbox": [
+        91,
+        217,
+        519,
+        235
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        659,
+        69,
+        936,
+        245
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 5 - FASE II",
+      "bbox": [
+        633,
+        269,
+        921,
+        300
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>Série/ANO:</td><td>NOTA DA PROVA (0-100 PONTOS)</td></tr><tr><td>Cidade:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        45,
+        328,
+        958,
+        518
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        291,
+        570,
+        669,
+        591
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        59,
+        621,
+        235,
+        636
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- España prova content 12 páginas.",
+      "bbox": [
+        89,
+        652,
+        375,
+        667
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "Tempo minimo de prova: 30关键时刻.",
+      "bbox": [
+        89,
+        668,
+        425,
+        682
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Tempo maximalo de prova: 4 horas.",
+      "bbox": [
+        89,
+        684,
+        402,
+        699
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "A folha de respostas deve ser preenchida a caneta, sem rasuras.",
+      "bbox": [
+        89,
+        700,
+        653,
+        715
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras.",
+      "bbox": [
+        89,
+        715,
+        440,
+        730
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material.",
+      "bbox": [
+        89,
+        732,
+        569,
+        746
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        89,
+        747,
+        478,
+        761
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "- Casonecessario,utilize \\(\\pi = 3,14\\)",
+      "bbox": [
+        89,
+        763,
+        395,
+        778
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        652,
+        653,
+        778
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "ORGANIZACADE APOIO",
+      "bbox": [
+        70,
+        854,
+        102,
+        916
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        117,
+        859,
+        184,
+        898
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNICAMP",
+      "bbox": [
+        117,
+        900,
+        182,
+        908
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        869,
+        288,
+        907
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        325,
+        853,
+        374,
+        888
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image_caption",
+      "text": "unesp",
+      "bbox": [
+        308,
+        893,
+        391,
+        914
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        393,
+        888,
+        417,
+        904
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        430,
+        859,
+        483,
+        911
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        856,
+        583,
+        886
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        503,
+        891,
+        530,
+        910
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        534,
+        890,
+        593,
+        910
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        851,
+        690,
+        915
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        727,
+        852,
+        780,
+        878
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image_caption",
+      "text": "CAPES",
+      "bbox": [
+        730,
+        880,
+        776,
+        886
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "text",
+      "text": "Hinatdo na Cibicna e Tecnologia Hninatdo na Educao",
+      "bbox": [
+        845,
+        854,
+        928,
+        884
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        704,
+        890,
+        731,
+        912
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image_caption",
+      "text": "CNPq",
+      "bbox": [
+        735,
+        890,
+        804,
+        910
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        816,
+        889,
+        928,
+        914
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        371,
+        956,
+        628,
+        968
+      ]
+    }
+  ],
+  [
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "1. Um robó Manipulador como o da figura abaixo é composto por das juntas rotativas e uma junta Prismática.",
+      "bbox": [
+        73,
+        60,
+        911,
+        76
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        204,
+        87,
+        797,
+        284
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "Nesse rob, as juntas rotalas executam movimento angulares in torno do eixo \\( z \\), portanto, sua posicao é indica em graus (JRU ou JRZ), sentido que o sinal positivo indica roção no sentido anti-horizonte. A junta prasmática executa um movimento translacional ao longo do eixo \\( z \\), portanto, sua posicao é indica em centimelos (J7P), sentido que o sinal positivo indica deslocamento para cima. Àlemé也是如此, o manipulador posso como ferramenta final uma ventosa que pode seroes comandos acconar (1) ou desiglar (0). A junta prasmática posicao a ventosa na altra adequaca.",
+      "bbox": [
+        101,
+        297,
+        932,
+        384
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "Este硬度可实现让aarena to capture um cubo, como o dia figura ao lugar,ndo a ventosa, colocao-na posicao desejada e voltar a posicao incial.",
+      "bbox": [
+        102,
+        395,
+        752,
+        424
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Utilizando os@dados dàtabela a seguir,determine a sequência de comandos a ser programada e seleciona a alternativa correta.",
+      "bbox": [
+        102,
+        436,
+        752,
+        465
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        763,
+        392,
+        927,
+        461
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "table",
+      "text": "<table><tr><td>Comando do robó</td><td>robot(JR1, JR2, JP)</td></tr><tr><td>Comando da ventosa</td><td>tool(ventosa)</td></tr><tr><td>JR1</td><td>[-360°, 360°]</td></tr><tr><td>JP</td><td>[-360°, 360°]</td></tr><tr><td>JP</td><td>[-50m, 0cm]</td></tr><tr><td>ventosa</td><td>0 m</td></tr><tr><td>Posão inicial do robó</td><td>(0°, 0°, 0cm)</td></tr><tr><td>Posão inicial do cubo (x1, y1)</td><td>(1.86cm, 6.86cm)</td></tr><tr><td>Posão final do cubo (x2, y2)</td><td>(-8.66cm, 0cm)</td></tr></table>",
+      "bbox": [
+        264,
+        476,
+        733,
+        622
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "title",
+      "text": "A.",
+      "bbox": [
+        115,
+        629,
+        136,
+        642
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "code",
+      "text": "robot \\((90^{\\circ},30^{\\circ},0\\mathrm{cm})\\) robot \\((90^{\\circ},30^{\\circ}, - 3\\mathrm{cm})\\) robot \\((90^{\\circ},30^{\\circ},0\\mathrm{cm})\\) robot \\((60^{\\circ},150^{\\circ},0\\mathrm{cm})\\) robot \\((60^{\\circ},150^{\\circ},0\\mathrm{cm})\\) robot \\((60^{\\circ},150^{\\circ},0\\mathrm{cm})\\) robot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)",
+      "bbox": [
+        117,
+        643,
+        331,
+        740
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "title",
+      "text": "B.",
+      "bbox": [
+        404,
+        628,
+        425,
+        641
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "code",
+      "text": "robot \\((30^{\\circ},90^{\\circ}, - 1,\\mathrm{cm})\\)   \nrobot \\((30^{\\circ},90^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((90^{\\circ},30^{\\circ}, - 3,\\mathrm{cm})\\)   \nrobot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)",
+      "bbox": [
+        405,
+        643,
+        637,
+        726
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "title",
+      "text": "C.",
+      "bbox": [
+        692,
+        629,
+        714,
+        642
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "code",
+      "text": "robot \\((60^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((60^{\\circ},60^{\\circ},2\\mathrm{cm})\\)   \ntool \\((1)\\)   \nrobot \\((60^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((150^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((150^{\\circ},60^{\\circ},2\\mathrm{cm})\\)   \ntool \\((0)\\)   \nrobot \\((150^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)",
+      "bbox": [
+        691,
+        643,
+        895,
+        766
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "title",
+      "text": "D.",
+      "bbox": [
+        115,
+        781,
+        136,
+        793
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "code",
+      "text": "robot \\((30^{\\circ},90^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((30^{\\circ},90^{\\circ}, - 3\\mathrm{cm})\\)   \ntool1(0)   \nrobot \\((30^{\\circ},90^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((150^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((150^{\\circ},60^{\\circ}, - 3\\mathrm{cm})\\)   \ntool0(0)   \nrobot \\((150^{\\circ},60^{\\circ},0\\mathrm{cm})\\)   \nrobot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)",
+      "bbox": [
+        117,
+        795,
+        327,
+        918
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "title",
+      "text": "E.",
+      "bbox": [
+        404,
+        781,
+        424,
+        793
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "code",
+      "text": "tool(1)  \nrobot \\((60^{\\circ},30^{\\circ},0\\mathrm{cm})\\)  \nrobot \\((30^{\\circ},60^{\\circ},-1\\mathrm{cm})\\)  \ntool(0)  \nrobot \\((60^{\\circ},30^{\\circ},0\\mathrm{cm})\\)  \nrobot \\((30^{\\circ},30^{\\circ},2\\mathrm{cm})\\)  \ntool(0)  \nrobot \\((90^{\\circ},30^{\\circ},0\\mathrm{cm})\\)  \nrobot \\((0^{\\circ},0^{\\circ},0\\mathrm{cm})\\)",
+      "bbox": [
+        404,
+        795,
+        636,
+        919
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/12",
+      "bbox": [
+        911,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "2. Durante una partida de futebol de robos, os robos estanconstantamente se Movementandoelo,. disposos a partir a une estrategia de formacao que busca fazer a posse da bola e longa-ia em direcção ao gol adversario. Um robo mvel como Sistema de locomocipao por robos de um dos times em tempoqueceu� voque a parte do gol. A parte do gol é de 15 segculos. A figura a segue meura o grifo de variação da velocidade do robo ao longo do tempo.",
+      "bbox": [
+        73,
+        59,
+        932,
+        130
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        148,
+        139,
+        860,
+        400
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "Após aanalise do gráfico de movimento, determinne, respectivamente:",
+      "bbox": [
+        103,
+        410,
+        630,
+        424
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "a distancia total percorrida belo robo durante os 15 segundos,",
+      "bbox": [
+        133,
+        425,
+        631,
+        438
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "a acceleration escalr media entre o intervalo de tempo de 7 e 8 segundos, e",
+      "bbox": [
+        133,
+        439,
+        735,
+        453
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "- em quais intervalos de tempo o movimento do robó é retardado.",
+      "bbox": [
+        133,
+        455,
+        645,
+        469
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        133,
+        425,
+        735,
+        469
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "A. \\( {24}\\mathrm{\\;m};1\\mathrm{\\;m}/{\\mathrm{s}}^{2};\\mathrm{{IV}},\\mathrm{V},\\mathrm{{IX}} \\) .",
+      "bbox": [
+        103,
+        495,
+        308,
+        510
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "B. \\(15,8 \\mathrm{~m}; -2 \\mathrm{~m} / \\mathrm{s}^{2}; \\mathrm{I}, \\mathrm{V}, \\mathrm{VI} \\mathrm{eVII}.\\)",
+      "bbox": [
+        103,
+        525,
+        354,
+        540
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "C. \\(19.5 \\mathrm{~m}; -2 \\mathrm{~m} / \\mathrm{s}^{2}; \\mathrm{I}, \\mathrm{IV}, \\mathrm{VII} \\mathrm{e} \\mid \\mathrm{X}\\).",
+      "bbox": [
+        103,
+        556,
+        358,
+        571
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "D. \\(18 \\mathrm{~m}; 3 \\mathrm{~m} / \\mathrm{s}^{2}; \\mathrm{III}, \\mathrm{VI} \\in \\mathrm{X}\\).",
+      "bbox": [
+        104,
+        586,
+        314,
+        601
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "E. \\(19.5 \\mathrm{~m}; 1.5 \\mathrm{~m} / \\mathrm{s}^{2}; 1, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 01, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, ",
+      "bbox": [
+        103,
+        615,
+        368,
+        630
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        103,
+        495,
+        368,
+        630
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "3. Os robos este se tornando cada vez mais superfisocados. So no futuro, um des esculcir爭 umanother robos. Otro doze, um des, um dos. Otro robos identico em 1 dia, qual o éminho de dias necessarias para o numero de robos ultrapassos a 1 milho.",
+      "bbox": [
+        73,
+        678,
+        931,
+        723
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "A. 340 dias.",
+      "bbox": [
+        103,
+        737,
+        201,
+        752
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "text",
+      "text": "B. 20 dias.",
+      "bbox": [
+        103,
+        767,
+        192,
+        782
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "C. 57 dias.",
+      "bbox": [
+        103,
+        798,
+        192,
+        813
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "D. 130 dias.",
+      "bbox": [
+        103,
+        828,
+        201,
+        842
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "E. 1 milhao de dias.",
+      "bbox": [
+        103,
+        858,
+        258,
+        872
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        103,
+        737,
+        258,
+        872
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        374,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/12",
+      "bbox": [
+        910,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "Considere o enunciado a seguir para as Questoes 4 e 5.",
+      "bbox": [
+        103,
+        57,
+        558,
+        74
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "Os humanoides são uma grande atracação na RoboCup. Neste desafio, os robos devem manter o equilibrio e chubar a bolé em direção ao gol.",
+      "bbox": [
+        101,
+        85,
+        933,
+        114
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "Um robb humanoide se posicione para chuatar uma bola. A massa da bola é igai a \\(25\\%\\) da massa do robb \\((m_{\\mathrm{B}})\\). A bola está parada. A chutar, o motu do seu quadril se movimenta a 30 rotações para minuto (rpm) e execua um movimento circular com sua pena, fazendo seu pae a cabter a bola em chelo. A bola rola por 2 sec e é fechado. A chutar, o motu do seu quadril é fechado. A chutar não tem articuições intermediadas e meode um centimeros de comprimento, admitis a seguides hypósteles:",
+      "bbox": [
+        101,
+        127,
+        933,
+        196
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "text",
+      "text": "O pé do robô e a bola são corpos indeformáveis;",
+      "bbox": [
+        133,
+        197,
+        533,
+        210
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "O pé do robó tem massa igual à da bola;",
+      "bbox": [
+        133,
+        211,
+        473,
+        224
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "A coliso ento o pe do rob o a bola e unidimensional, perfeitamente elastica e instantanea.",
+      "bbox": [
+        133,
+        225,
+        856,
+        239
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        133,
+        197,
+        856,
+        239
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "4. Calcule a forca de atrito (em Newtons), exercida pelo contato entre a bola e ocampo, que fez com que a bola parasse de rolar.",
+      "bbox": [
+        71,
+        268,
+        931,
+        297
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "A. \\(56,25 * m_{\\mathrm{g}} \\mathrm{~N}\\)",
+      "bbox": [
+        102,
+        310,
+        232,
+        327
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "B. \\(5 * \\pi^{2} * 10^{-3} * m_{R} N\\)",
+      "bbox": [
+        102,
+        339,
+        285,
+        357
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": "C. \\(112.5 * m_{\\mathrm{g}} \\mathrm{~N}\\)",
+      "bbox": [
+        102,
+        370,
+        232,
+        387
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "D. \\(\\pi^2 \\cdot 10^{-2} \\cdot m_R N\\)",
+      "bbox": [
+        102,
+        400,
+        261,
+        417
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "E. \\(2,5 * \\pi^{2} * 10^{-3} * m_{R} N\\)",
+      "bbox": [
+        102,
+        430,
+        296,
+        447
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        310,
+        296,
+        447
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "5. Se for necessário fazer esta mesma bola percorrer 5 metros não mesmo campo, que tipo de ajuste seria maior necessário?",
+      "bbox": [
+        72,
+        474,
+        931,
+        505
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "A. Diminuir o comprimento das pernas do robó.",
+      "bbox": [
+        102,
+        517,
+        464,
+        533
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "B. Aumentar a massa do robó, \\( m_R \\).",
+      "bbox": [
+        102,
+        548,
+        375,
+        564
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "C. Diminuir a massa dos pés do robô.",
+      "bbox": [
+        102,
+        578,
+        393,
+        593
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "D. Aumentar a velocidade de rotação do motor do quadril do robô.",
+      "bbox": [
+        102,
+        607,
+        604,
+        623
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "E. Aumentar o alcance do Sistema de visao do robo.",
+      "bbox": [
+        102,
+        637,
+        501,
+        652
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        517,
+        604,
+        652
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "6. Um rob è composto con varímos componentes que podemunarment funções semelhantes à紊 de orglos do corpo humano. Objivamente a maior qualida de vida a pessoas that soferam accidentos ou possuem deconças que comprimirem as funções de seu organismo, a medicina tem custado a substituição de orglos humanos por miguiças ou outros elementos. Acerca this assunto, considere as seguinhas féncções:",
+      "bbox": [
+        72,
+        681,
+        931,
+        739
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "(1) O coração pode ser substituído por uma bomba hidráulica.",
+      "bbox": [
+        110,
+        750,
+        617,
+        765
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "text",
+      "text": "(II) Um compressor de ar poderia auxiliar os pulmoes no desempenho de sua funcao.",
+      "bbox": [
+        110,
+        765,
+        789,
+        778
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "(III) Juntas e articulações podem ser substituidas por engrenagens, eixos e rolamentos.",
+      "bbox": [
+        110,
+        779,
+        801,
+        792
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "(IV) Veias e arterias podem ser trocadas por correias e polias.",
+      "bbox": [
+        110,
+        793,
+        609,
+        806
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "(V) Os rins possuem funcao equivalente a de uma bateria.",
+      "bbox": [
+        110,
+        807,
+        586,
+        820
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        110,
+        750,
+        801,
+        820
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "Estao corretas as affirmacoes:",
+      "bbox": [
+        103,
+        833,
+        331,
+        848
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "A. III, IV e V.",
+      "bbox": [
+        123,
+        861,
+        228,
+        877
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "B. I, II e III.",
+      "bbox": [
+        414,
+        861,
+        504,
+        876
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "text",
+      "text": "C. II, III e V.",
+      "bbox": [
+        704,
+        861,
+        798,
+        876
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "D.I, IV e V.",
+      "bbox": [
+        125,
+        891,
+        219,
+        906
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "E.II IV.",
+      "bbox": [
+        415,
+        891,
+        491,
+        906
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        959
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/12",
+      "bbox": [
+        909,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "7. Em um aplicativo de desenhços, um usoário desenvolvimento uSCPdo para realizar automaticamente a illustrateo ao fazer.",
+      "bbox": [
+        73,
+        60,
+        697,
+        89
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        710,
+        49,
+        801,
+        119
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        118,
+        123,
+        396,
+        518
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        484,
+        121,
+        761,
+        507
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "text",
+      "text": "Considere as posicao incial e final do \"desenhista\" no aplicativo e a descricao dos comandos a seguir.",
+      "bbox": [
+        104,
+        533,
+        880,
+        549
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        140,
+        558,
+        859,
+        711
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>Comandos</td><td>Descrição</td></tr><tr><td>move</td><td>Mover o desenhanta quando é riscá o papel</td></tr><tr><td>jump</td><td>Mover o desenhanta sem riscá o papel</td></tr><tr><td>turn</td><td>Girrar desenhanta o papel</td></tr><tr><td>repeat</td><td>Repêque a sequência de comandos</td></tr></table>",
+      "bbox": [
+        205,
+        733,
+        794,
+        809
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        374,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/12",
+      "bbox": [
+        910,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "Identifique as sequencias de commandos \\(①\\) e \\(②\\) que está errando no４cgo para realizar a tarefa.",
+      "bbox": [
+        103,
+        53,
+        886,
+        80
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "A.",
+      "bbox": [
+        102,
+        135,
+        129,
+        151
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        151,
+        90,
+        434,
+        149
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        477,
+        101,
+        734,
+        135
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "B.",
+      "bbox": [
+        102,
+        212,
+        129,
+        227
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        151,
+        165,
+        420,
+        223
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        475,
+        176,
+        721,
+        209
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "C.",
+      "bbox": [
+        103,
+        289,
+        129,
+        303
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        142,
+        243,
+        428,
+        301
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        471,
+        255,
+        719,
+        287
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "D.",
+      "bbox": [
+        103,
+        365,
+        128,
+        379
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        152,
+        319,
+        436,
+        378
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        495,
+        330,
+        764,
+        364
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "E.",
+      "bbox": [
+        104,
+        442,
+        128,
+        456
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        151,
+        396,
+        423,
+        454
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        477,
+        407,
+        737,
+        439
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "8. \"Isaac Asimov ushered in the Robot Age with these stories. Far removed from the metal monsters of pulp science fiction, his posttronic robots gave him the scope to examine the minefield of human psychology by examining the human mind. The robot is a real person, and the human mind is a real person. The robots seem more human than people, the Three Laws of Robotics ensure that mankind remains superior and the robots are kept in their rightful place. But an insane telepathic robot is produced by an error; a robot assembled in space logically deduces its superiority to non-rational humanity; and when machines serve mankind rather than individual humans, a machine's idea of what is good for society is a false. The Robots in the Real Lives.\" (From: 1. robot. Voyager Classics, 2001)",
+      "bbox": [
+        72,
+        495,
+        932,
+        607
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "Esse tio t rado a crello do lro 1, rob de Isaac Maimov, reimpresco in 2001 pola coieo Voyager 1000. In 1999, he began grandest workas n aie de ficcione. Aisio o estudt raza this text a idea of principal do do, que sera:",
+      "bbox": [
+        101,
+        618,
+        931,
+        661
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "text",
+      "text": "A. O Arabia de Isaac Asimov retrata o robos como monstros de metal con poderes telepaticos. Esses robos se exilados no esquço quando se perceber imacapes de seguir a Trés Leis para protegar a humanidade.",
+      "bbox": [
+        102,
+        675,
+        931,
+        706
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "text",
+      "text": "B. Nesta obira, Isaac Asimov explora as possidades da inteligencia artificialia ao cri um rob e que cepace de identificar-se superior ao humanos e que passa a rever a ideia do que o bem para a humanidade como um",
+      "bbox": [
+        102,
+        719,
+        931,
+        761
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "text",
+      "text": "C. Neste livro, robos humanoides perfeitos se confundem com as pessoas de verida e passam a desesperar at Reis Leis da Róbitica por meio de ações telepáicas insanas.",
+      "bbox": [
+        102,
+        775,
+        931,
+        806
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "text",
+      "text": "D. Isaac Asimov cna, este nolo, uma planeta gerenciado por maluinas. Nesse mundo, as Tres Leis da Robblica não mais社会发展ulr para eseciao a nado do roos teletipaculos fabricados por engo, enquanto de umas das malas.",
+      "bbox": [
+        102,
+        819,
+        931,
+        862
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "text",
+      "text": "E. Nessa obra. Isaac Asimov faz una critically direta alla regime de travailamento organizational. OsROS descritos como a forma de esculpar a um dos sociedade, servindo cada humano, recerebem, ordens telepontamente e travaholando peço bem de toda humanidade.",
+      "bbox": [
+        102,
+        876,
+        931,
+        921
+      ]
+    },
+    {
+      "id": 145,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        675,
+        931,
+        921
+      ]
+    },
+    {
+      "id": 146,
+      "page": 5,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 147,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/12",
+      "bbox": [
+        910,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "Considere o enunciado a seguir para as Questoes 9 e 10.",
+      "bbox": [
+        103,
+        57,
+        566,
+        73
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "Um robó móvil de das rodas deve seguir uma trajetória elliptica como na figura a seguir.",
+      "bbox": [
+        103,
+        86,
+        775,
+        101
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        348,
+        103,
+        685,
+        235
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "9. Considerar as dimensionalo caminho representadas a seguir, quala eo decribe esta trajetory elipcna no plano cartesiano definido posicao incido do rob？",
+      "bbox": [
+        72,
+        248,
+        930,
+        278
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        214,
+        284,
+        793,
+        511
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "text",
+      "text": "A. \\( y^{2} - 40y = -x^{2} + 12x + 83 \\)",
+      "bbox": [
+        124,
+        537,
+        404,
+        557
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "text",
+      "text": "D. \\(y^{2} - 36y = x^{2} + 12x + 144\\)",
+      "bbox": [
+        505,
+        538,
+        778,
+        557
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "B. \\(\\frac{x^2}{144} + \\frac{y^2}{36} = 1\\)",
+      "bbox": [
+        125,
+        571,
+        260,
+        600
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "E. \\(\\frac{x^2}{18} + \\frac{y^2}{11} = 83\\)",
+      "bbox": [
+        506,
+        571,
+        641,
+        600
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "C.y=√-x+36",
+      "bbox": [
+        125,
+        615,
+        291,
+        650
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "10. Suponha que o robé sera submetido a um teste de rodagem durante 12h. Considerando que seu pneu se desgastam por proporcionalmente à distânca percorrida, espera-se que:",
+      "bbox": [
+        74,
+        677,
+        931,
+        708
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "A. O pneu do fazer esqueço de segaste mais do que o pneu do fazer direito se o robo percorrer a pista no sentido ant-horario.",
+      "bbox": [
+        102,
+        721,
+        930,
+        751
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "B. O pneu do lado direto se desgaste mais do que o pneu do lado esquerdo se o robo percorrer a pista no sentido horario.",
+      "bbox": [
+        102,
+        764,
+        930,
+        793
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "C. O pneu do bajo direito se desgaste mais do que o pneu do bajo esquerdo em quando sentido que o robo percorra a pista.",
+      "bbox": [
+        102,
+        808,
+        930,
+        838
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "text",
+      "text": "D. Ambos os pneus, do lado direito e do lado esquardo, de segastemamente, uma vez que percorraria a mesma distança em quando sentido.",
+      "bbox": [
+        102,
+        852,
+        928,
+        882
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "text",
+      "text": "E. O pneu do lado esquerdo se desgaste mais do que o pneu do lado direto se o robó percorrer a pista no sentido hoarão.",
+      "bbox": [
+        102,
+        896,
+        930,
+        925
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        721,
+        930,
+        925
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/12",
+      "bbox": [
+        909,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 167,
+      "page": 7,
+      "category": "text",
+      "text": "11.Leia os textos e identifique a alternativa que contentos graficos que representam o comportamento descrito.",
+      "bbox": [
+        73,
+        58,
+        918,
+        73
+      ]
+    },
+    {
+      "id": 168,
+      "page": 7,
+      "category": "text",
+      "text": "\"Um modele de sensor resistive multo comum e o termistor, um componente destinado a medir variações de temperatura. Existem dosypes de termistores, NTC e PTC. Os termistores NTC (Negative Temperature Current) e os termistores PTC (Positive Temperature Current) é a parte de a distribuição de estelmírica dessentem componentes diminui quando a temperatura augmente, ou está, eles possumu um coeficiente de temperatura negativa. Os termistores PTC, por及其他, aparecem coeficiente de temperatura positivo.\"",
+      "bbox": [
+        101,
+        86,
+        933,
+        157
+      ]
+    },
+    {
+      "id": 169,
+      "page": 7,
+      "category": "text",
+      "text": "\"Existem various modelos de senseores de distancia discrepemente no mercado, baseados em radar, ultrason, laser ou infravelhemoth. O sensor de distancia típica GP2Y0A21YK é baseado em infravelhemoth. Elle reieu em umunico componente das funções necessarias para um sensor de distancia, como emissor de infravelhemoth, vertor de fotodólicos e módulo de processamento. quando alimentado correamente, o@módulo de processamento do sensor gera um seminal de��uiaça coula tensão varia de accordo com a distancia do objeto. Objetos a uma distancia de 5 a 80 cm do sensor poder ser fácilmente identificados. quando a distancia entre os sensores do sensor e a distancia do sensor é constante, correspondira a distancia do objeto. Observar que quando maior a distancia do objeto, melhor sera a tensão no terminal de��uia do sensor. Para distancias acima de 80 cm, o sensor não responds bem, pois a variação da tensão torna-to-seça vez menor. Para distanciasolenhas que 5 cm, o sensor永远不会 não é recommendado, pois o sinal de��uia do sensor não corresponde a distancia real do objeto.\"",
+      "bbox": [
+        101,
+        168,
+        933,
+        321
+      ]
+    },
+    {
+      "id": 170,
+      "page": 7,
+      "category": "image_caption",
+      "text": "A.",
+      "bbox": [
+        105,
+        332,
+        127,
+        346
+      ]
+    },
+    {
+      "id": 171,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        108,
+        350,
+        490,
+        504
+      ]
+    },
+    {
+      "id": 172,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        349,
+        822,
+        504
+      ]
+    },
+    {
+      "id": 173,
+      "page": 7,
+      "category": "image_caption",
+      "text": "B.",
+      "bbox": [
+        106,
+        531,
+        128,
+        545
+      ]
+    },
+    {
+      "id": 174,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        108,
+        548,
+        490,
+        702
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        548,
+        822,
+        703
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "image_caption",
+      "text": "C.",
+      "bbox": [
+        106,
+        730,
+        128,
+        743
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        108,
+        746,
+        490,
+        900
+      ]
+    },
+    {
+      "id": 178,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        525,
+        746,
+        829,
+        901
+      ]
+    },
+    {
+      "id": 179,
+      "page": 7,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        374,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 180,
+      "page": 7,
+      "category": "page_number",
+      "text": "7/12",
+      "bbox": [
+        910,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 181,
+      "page": 8,
+      "category": "image_caption",
+      "text": "D.",
+      "bbox": [
+        105,
+        43,
+        129,
+        57
+      ]
+    },
+    {
+      "id": 182,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        107,
+        60,
+        491,
+        214
+      ]
+    },
+    {
+      "id": 183,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        60,
+        822,
+        215
+      ]
+    },
+    {
+      "id": 184,
+      "page": 8,
+      "category": "image_caption",
+      "text": "E.",
+      "bbox": [
+        105,
+        241,
+        127,
+        255
+      ]
+    },
+    {
+      "id": 185,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        108,
+        259,
+        490,
+        413
+      ]
+    },
+    {
+      "id": 186,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        259,
+        821,
+        412
+      ]
+    },
+    {
+      "id": 187,
+      "page": 8,
+      "category": "text",
+      "text": "12. Veluçios aerores não-tripulados, ou VANTs, são equipados com um Conjunto de senores que identifiquem seu estado em various aspectos. UmaUniforma de体质ine, imi, UMO, pode fazer os dados povidentantes de acelermbrotmos, girosciplos e magnetoimetros nas tres dimensão. Observar o exo carreiro colocao no VANT de acelermbrotmos, é a identificacao das ángulos de rolagem, afargam e guniada que fazer o orientação espacual do VONT.",
+      "bbox": [
+        73,
+        468,
+        933,
+        538
+      ]
+    },
+    {
+      "id": 188,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        540,
+        497,
+        682
+      ]
+    },
+    {
+      "id": 189,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        522,
+        543,
+        830,
+        686
+      ]
+    },
+    {
+      "id": 190,
+      "page": 8,
+      "category": "text",
+      "text": "Considerate que atitude inccal do robot, ja no ar, e \\((\\phi ,\\theta ,\\psi) = (0^{\\circ},0^{\\circ},0^{\\circ})\\) . Apuno me umico do operador, e a velocidade de rotação do robot e a velocidade de ataqueamento de datas: \\((\\phi ,\\theta ,\\psi) = (10^{\\circ},40^{\\circ};20^{\\circ})\\) . Qual fola a velocidade media de rotação em cada xedo?",
+      "bbox": [
+        101,
+        701,
+        931,
+        748
+      ]
+    },
+    {
+      "id": 191,
+      "page": 8,
+      "category": "text",
+      "text": "A. \\((\\omega_{\\phi},\\omega_{\\theta},\\omega_{\\psi}) = (0,035;0,14;0,07)\\) rad/s",
+      "bbox": [
+        102,
+        759,
+        492,
+        780
+      ]
+    },
+    {
+      "id": 192,
+      "page": 8,
+      "category": "text",
+      "text": "B. \\((\\omega_{\\phi}, \\omega_{\\theta}, \\omega_{\\psi}) = (2; 8; 4) \\mathrm{rad/s}\\)",
+      "bbox": [
+        102,
+        796,
+        397,
+        816
+      ]
+    },
+    {
+      "id": 193,
+      "page": 8,
+      "category": "text",
+      "text": "C. \\(\\left(\\omega_{\\phi}, \\omega_{\\theta}, \\omega_{\\psi}\\right) = (573; 2293; 1146) \\mathrm{rad/s}\\)",
+      "bbox": [
+        102,
+        832,
+        482,
+        851
+      ]
+    },
+    {
+      "id": 194,
+      "page": 8,
+      "category": "text",
+      "text": "D. \\(\\left(\\omega_{\\phi}, \\omega_{\\theta}, \\omega_{\\psi}\\right) = (10; 40; 20) * / \\mathrm{s}\\)",
+      "bbox": [
+        102,
+        868,
+        403,
+        889
+      ]
+    },
+    {
+      "id": 195,
+      "page": 8,
+      "category": "text",
+      "text": "E. \\((\\omega_{\\phi},\\omega_{\\theta},\\omega_{\\psi}) = (50;200;100)^{*}/s\\)",
+      "bbox": [
+        102,
+        904,
+        428,
+        924
+      ]
+    },
+    {
+      "id": 196,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        759,
+        492,
+        924
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "page_number",
+      "text": "8/12",
+      "bbox": [
+        910,
+        947,
+        939,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 199,
+      "page": 9,
+      "category": "text",
+      "text": "Considere o enunciado a seguir para as Questoes 13, 14 e 15.",
+      "bbox": [
+        103,
+        43,
+        607,
+        59
+      ]
+    },
+    {
+      "id": 200,
+      "page": 9,
+      "category": "text",
+      "text": "Observe o diagrama abaixo:",
+      "bbox": [
+        103,
+        72,
+        320,
+        87
+      ]
+    },
+    {
+      "id": 201,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        154,
+        103,
+        868,
+        179
+      ]
+    },
+    {
+      "id": 202,
+      "page": 9,
+      "category": "text",
+      "text": "Nesseysteme, u部主任运营管理 o os橡penantes de um sensor para auximar na要考虑 de decussao. Acredite a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estender a estendera.",
+      "bbox": [
+        101,
+        188,
+        930,
+        230
+      ]
+    },
+    {
+      "id": 203,
+      "page": 9,
+      "category": "equation",
+      "text": "\\[\ne _ {i} = s _ {d _ {i}} - s _ {r _ {i}}.\n\\]",
+      "bbox": [
+        452,
+        233,
+        581,
+        248
+      ]
+    },
+    {
+      "id": 204,
+      "page": 9,
+      "category": "text",
+      "text": "tal que \\( s_{d_1} \\) a身处目標e de do roo no instante \\( t_1 \\) e \\( t_{d_2} \\) a身处 real do roo no instante \\( t_1 \\). Cobjective do controlleré éenvair ao roo um anal para que elle ajuste sua排列égia, e consequentemente, anute o erro de acompanhimento. Existem divers estrategias de controle. Um dos控制器és maisutilizados em do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do daque aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirce a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�aça aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirz a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�açu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu aleguirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a�a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄²çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegirze a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a⁻¹⁄₂çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegigne a� a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi ye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiYE a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi YE a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiYe a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi Ye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi ie a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiyme a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiyo a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiyes a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiying a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiys a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiy a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiyer a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi,y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi, y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg iye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg iYE a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg i YE a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg iY a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi: y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegie y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegigye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegig y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegige y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegigiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegigey a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg iYe a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg i Ye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg i ye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu aleg i y a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegis a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegi 1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a -1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a-1⁄2çu alegiye a",
+      "bbox": [
+        101,
+        248,
+        931,
+        319
+      ]
+    },
+    {
+      "id": 205,
+      "page": 9,
+      "category": "equation",
+      "text": "\\[\n\\boldsymbol {u} _ {i} = \\boldsymbol {P} _ {i} + \\boldsymbol {I} _ {i} + \\boldsymbol {D} _ {i}\n\\]",
+      "bbox": [
+        438,
+        320,
+        596,
+        336
+      ]
+    },
+    {
+      "id": 206,
+      "page": 9,
+      "category": "text",
+      "text": "sendo a primeira parcela, denominada proporcional, dada por \\(P_{i} = K_{p} * e_{i}\\).",
+      "bbox": [
+        102,
+        350,
+        685,
+        368
+      ]
+    },
+    {
+      "id": 207,
+      "page": 9,
+      "category": "text",
+      "text": "a segunda parcela, denominada integral, dada por \\(I_{i} = K_{I}*\\sum_{j = 0}^{i}e_{j}\\)",
+      "bbox": [
+        102,
+        371,
+        637,
+        390
+      ]
+    },
+    {
+      "id": 208,
+      "page": 9,
+      "category": "text",
+      "text": "e a terreira parcela, denominada derivativa, dada por \\(D_{i} = K_{D}*(e_{i} - e_{i - 1})\\)",
+      "bbox": [
+        102,
+        393,
+        701,
+        412
+      ]
+    },
+    {
+      "id": 209,
+      "page": 9,
+      "category": "text",
+      "text": "Consido e gratico abixo representando os dados da posicao desejada do rob a cada instante e os dados de posicao real do rob a cada instante:",
+      "bbox": [
+        101,
+        425,
+        929,
+        453
+      ]
+    },
+    {
+      "id": 210,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        161,
+        454,
+        868,
+        691
+      ]
+    },
+    {
+      "id": 211,
+      "page": 9,
+      "category": "text",
+      "text": "13. Definindo \\( K_P = 2 \\), \\( K_I = 0 \\), \\( 5 \\in K_D = 3 \\), no instante \\( t_5 = 5s \\), qual o valor da ação de controle \\( u_5 \\)?",
+      "bbox": [
+        73,
+        706,
+        870,
+        724
+      ]
+    },
+    {
+      "id": 212,
+      "page": 9,
+      "category": "text",
+      "text": "A. \\(u_{5} \\cong 0, 58\\)",
+      "bbox": [
+        102,
+        735,
+        228,
+        754
+      ]
+    },
+    {
+      "id": 213,
+      "page": 9,
+      "category": "text",
+      "text": "B. \\(u_{5} \\cong -0, 46\\)",
+      "bbox": [
+        102,
+        769,
+        243,
+        787
+      ]
+    },
+    {
+      "id": 214,
+      "page": 9,
+      "category": "text",
+      "text": "C. \\(u_{5} \\cong -1, 6\\)",
+      "bbox": [
+        102,
+        802,
+        231,
+        820
+      ]
+    },
+    {
+      "id": 215,
+      "page": 9,
+      "category": "text",
+      "text": "D. \\(u_{5} \\cong 2, 6\\)",
+      "bbox": [
+        102,
+        835,
+        216,
+        853
+      ]
+    },
+    {
+      "id": 216,
+      "page": 9,
+      "category": "text",
+      "text": "E. \\(u_{5} \\cong 0\\)",
+      "bbox": [
+        102,
+        868,
+        195,
+        886
+      ]
+    },
+    {
+      "id": 217,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        735,
+        243,
+        886
+      ]
+    },
+    {
+      "id": 218,
+      "page": 9,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 219,
+      "page": 9,
+      "category": "page_number",
+      "text": "9/12",
+      "bbox": [
+        910,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 220,
+      "page": 10,
+      "category": "text",
+      "text": "14. Sabenque da response do robó ilustrada no gráfxo pode ser modelada por \\(s_{r i + 1} = 0.5 * u_{i} + 0.8\\), o robó ter a alcancado:",
+      "bbox": [
+        73,
+        42,
+        930,
+        76
+      ]
+    },
+    {
+      "id": 221,
+      "page": 10,
+      "category": "text",
+      "text": "A. a posicao desejada, \\(s_{r_6} = s_{d_6}\\) , no instante \\(t_6 = 6\\)",
+      "bbox": [
+        102,
+        89,
+        538,
+        108
+      ]
+    },
+    {
+      "id": 222,
+      "page": 10,
+      "category": "text",
+      "text": "B.erro de accompanying de trajetoria nulo no instante \\(t_3 = 3s\\)",
+      "bbox": [
+        102,
+        122,
+        618,
+        139
+      ]
+    },
+    {
+      "id": 223,
+      "page": 10,
+      "category": "text",
+      "text": "C.erro de accompanying de trajetoria \\(e_6\\cong 0\\) 1cm no instante \\(t_6 = 6s\\)",
+      "bbox": [
+        102,
+        152,
+        693,
+        169
+      ]
+    },
+    {
+      "id": 224,
+      "page": 10,
+      "category": "text",
+      "text": "D. a posicao \\(s_{r_6} \\cong 0, 6 \\, \\text{cm}\\), no instante \\(t_6 = 6s\\).",
+      "bbox": [
+        102,
+        183,
+        495,
+        200
+      ]
+    },
+    {
+      "id": 225,
+      "page": 10,
+      "category": "text",
+      "text": "E. a posicao \\( s_{r_6} \\cong 1, 4 \\, cm \\), no instante \\( t_6 = 6s \\).",
+      "bbox": [
+        102,
+        215,
+        495,
+        233
+      ]
+    },
+    {
+      "id": 226,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        89,
+        693,
+        233
+      ]
+    },
+    {
+      "id": 227,
+      "page": 10,
+      "category": "text",
+      "text": "15. Sobre o modo de ataqueo do controller PID, com base na funcao formacao no enunciado, complete o texto abaxio com os termos na ordem corrente:",
+      "bbox": [
+        73,
+        274,
+        930,
+        303
+      ]
+    },
+    {
+      "id": 228,
+      "page": 10,
+      "category": "text",
+      "text": "A ação de controle definiça pelo PID e determinar por ____________. A parcela relacionada ao termo ____________. traz uma ação ____________. proporcional ao ____________. instantânque. A parcela relacionada ao termo derivativo promove uma ação de controle relacionada à ____________. do erró entre um instante e Outro. A parcela relacionada ao termo ____________. utilize a ____________. dos values de erró de ____________. da realização da tarea.",
+      "bbox": [
+        101,
+        315,
+        932,
+        414
+      ]
+    },
+    {
+      "id": 229,
+      "page": 10,
+      "category": "text",
+      "text": "A. très; integral; inversamente; erró; diferência; proportional; variação; todos os instantes.",
+      "bbox": [
+        102,
+        434,
+        776,
+        451
+      ]
+    },
+    {
+      "id": 230,
+      "page": 10,
+      "category": "text",
+      "text": "B. trés; proporcional; diretamente;erro;variação; integral; adição; todos os instantes.",
+      "bbox": [
+        102,
+        464,
+        744,
+        480
+      ]
+    },
+    {
+      "id": 231,
+      "page": 10,
+      "category": "text",
+      "text": "C. trés; proporcional; inversamente;erro; diferência; integral; adição; umignon instante.",
+      "bbox": [
+        102,
+        494,
+        757,
+        510
+      ]
+    },
+    {
+      "id": 232,
+      "page": 10,
+      "category": "text",
+      "text": "D. très; proporcional; diretamente; erre; adição; integral; variação; um único instante.",
+      "bbox": [
+        102,
+        524,
+        741,
+        540
+      ]
+    },
+    {
+      "id": 233,
+      "page": 10,
+      "category": "text",
+      "text": "E. trés; integral; diretamente;erro;variação;proporcional;adão;todos os instantes.",
+      "bbox": [
+        102,
+        554,
+        743,
+        570
+      ]
+    },
+    {
+      "id": 234,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        434,
+        776,
+        570
+      ]
+    },
+    {
+      "id": 235,
+      "page": 10,
+      "category": "text",
+      "text": "16. Um drone seraemyeprograma o mapeamento topografico de uma fazenda. O cliente solicitou a precisiona minima de 10 cm nas medicas, ou sua, GSD = \"Ground Sample Distance\". A aeronave e equipada com a camera com sensor CCD de dimensiones 20.4 mm x 13.6 mm, capaz de produir uma imagen de 5100 pixels x 3400 pixels. O Conjunto de lentes da camera ecarbonizarao por uma distancia focal f \\(\\mathbf{1} = 18\\mathbf{mm}\\) . Considerado as images a seguir, determinar a maximum altura h de voo do drone para alcancar a precision dissejadaLEE o cliente no mapeamento.",
+      "bbox": [
+        73,
+        612,
+        930,
+        697
+      ]
+    },
+    {
+      "id": 236,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        107,
+        707,
+        648,
+        873
+      ]
+    },
+    {
+      "id": 237,
+      "page": 10,
+      "category": "text",
+      "text": "A. \\(h = 72m\\)",
+      "bbox": [
+        113,
+        898,
+        209,
+        914
+      ]
+    },
+    {
+      "id": 238,
+      "page": 10,
+      "category": "text",
+      "text": "B. \\(h = 220 \\mathrm{~m}\\)",
+      "bbox": [
+        280,
+        899,
+        383,
+        914
+      ]
+    },
+    {
+      "id": 239,
+      "page": 10,
+      "category": "text",
+      "text": "C. \\(h = 882 \\mathrm{~m}\\)",
+      "bbox": [
+        446,
+        899,
+        549,
+        914
+      ]
+    },
+    {
+      "id": 240,
+      "page": 10,
+      "category": "text",
+      "text": "D. \\(h = 133 \\mathrm{~m}\\)",
+      "bbox": [
+        612,
+        899,
+        715,
+        914
+      ]
+    },
+    {
+      "id": 241,
+      "page": 10,
+      "category": "text",
+      "text": "E.h=450m",
+      "bbox": [
+        779,
+        899,
+        881,
+        914
+      ]
+    },
+    {
+      "id": 242,
+      "page": 10,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 243,
+      "page": 10,
+      "category": "page_number",
+      "text": "10/12",
+      "bbox": [
+        903,
+        946,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 244,
+      "page": 11,
+      "category": "text",
+      "text": "17. Observe as formas de onda a seguir e respondera.",
+      "bbox": [
+        73,
+        43,
+        474,
+        59
+      ]
+    },
+    {
+      "id": 245,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        132,
+        69,
+        463,
+        328
+      ]
+    },
+    {
+      "id": 246,
+      "page": 11,
+      "category": "text",
+      "text": "A modulación por largura de pulso (MLP) ou también conocida como PWM (singla en argues por Pulse-Width Modulación), involvá a modulación de suracialcicla (duty cycle) para transporte qualque inforamenso sobre um canal de通讯icao ou controlar o valor da alimentacion ou entregue a caria.",
+      "bbox": [
+        515,
+        99,
+        922,
+        183
+      ]
+    },
+    {
+      "id": 247,
+      "page": 11,
+      "category": "text",
+      "text": "Este mecanismo è allamente utilizzato, atuando in localis come transference di potenza, regulazione di tenso, effelto di audio, controle di velocidade de motores, controde luminosidale, dentro及其他.",
+      "bbox": [
+        515,
+        195,
+        922,
+        250
+      ]
+    },
+    {
+      "id": 248,
+      "page": 11,
+      "category": "text",
+      "text": "Se a frequencia da onda modulada for 4Hz, qual a largura do pulso de um sinai PWM com duty cycle de \\(75\\%\\)?",
+      "bbox": [
+        102,
+        344,
+        930,
+        373
+      ]
+    },
+    {
+      "id": 249,
+      "page": 11,
+      "category": "text",
+      "text": "A. \\( {250}\\mathrm{\\;{ms}} \\)",
+      "bbox": [
+        113,
+        387,
+        199,
+        402
+      ]
+    },
+    {
+      "id": 250,
+      "page": 11,
+      "category": "text",
+      "text": "B. 3 s",
+      "bbox": [
+        281,
+        387,
+        331,
+        402
+      ]
+    },
+    {
+      "id": 251,
+      "page": 11,
+      "category": "text",
+      "text": "C. \\( {750}\\mathrm{\\;{ms}} \\)",
+      "bbox": [
+        446,
+        387,
+        528,
+        402
+      ]
+    },
+    {
+      "id": 252,
+      "page": 11,
+      "category": "text",
+      "text": "D. \\(187.5 \\mathrm{~ms}\\)",
+      "bbox": [
+        612,
+        387,
+        709,
+        402
+      ]
+    },
+    {
+      "id": 253,
+      "page": 11,
+      "category": "text",
+      "text": "E. 62.5 ms",
+      "bbox": [
+        779,
+        387,
+        865,
+        402
+      ]
+    },
+    {
+      "id": 254,
+      "page": 11,
+      "category": "text",
+      "text": "18. Um diodo emisso del Luz (LED) fosconce a una categoria di prototypagem elettronica per meio do pinto 3, conforce o diagrama abixo. Essa pinto se configuro para asumpter escondidos digitais (liquado ou desigdo) ou configurado para gerar um sinon do tipo de modulacao para largura de pulso (PWM), que pode ser uso para aproximar um sinon analógico.",
+      "bbox": [
+        73,
+        445,
+        930,
+        500
+      ]
+    },
+    {
+      "id": 255,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        228,
+        502,
+        804,
+        682
+      ]
+    },
+    {
+      "id": 256,
+      "page": 11,
+      "category": "text",
+      "text": "Usoando apenas recursos de programacao da plata formaizada na figura, é posivel controlar a intensidade de iluminação do LED?",
+      "bbox": [
+        102,
+        700,
+        930,
+        728
+      ]
+    },
+    {
+      "id": 257,
+      "page": 11,
+      "category": "text",
+      "text": "A. Nao. Uma saida digital so permite os estados ligado ou desligado.",
+      "bbox": [
+        102,
+        742,
+        625,
+        758
+      ]
+    },
+    {
+      "id": 258,
+      "page": 11,
+      "category": "text",
+      "text": "B. Sim. A luminosidide pode ser controlada por software ao determinar parâmos do sinai PWM gerado no peso 3.",
+      "bbox": [
+        102,
+        772,
+        929,
+        800
+      ]
+    },
+    {
+      "id": 259,
+      "page": 11,
+      "category": "text",
+      "text": "C. Sim. A intensidade de iluminação pode ser controlada por softwareutilizando a configuração digital de�� do pinto 3 para assumir um dos seuis estados discretos.",
+      "bbox": [
+        102,
+        815,
+        928,
+        844
+      ]
+    },
+    {
+      "id": 260,
+      "page": 11,
+      "category": "text",
+      "text": "D. Sim. A luminosidade pode ser controlada por hardware ao conectar e desconectar o fio no pino GND em intervals de 0.5s.",
+      "bbox": [
+        102,
+        859,
+        928,
+        888
+      ]
+    },
+    {
+      "id": 261,
+      "page": 11,
+      "category": "text",
+      "text": "E. Nao. A intensidade luminosa do LED so podera ser controlaa ao substituir o resistor por um potenciometro.",
+      "bbox": [
+        102,
+        903,
+        928,
+        918
+      ]
+    },
+    {
+      "id": 262,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        742,
+        929,
+        918
+      ]
+    },
+    {
+      "id": 263,
+      "page": 11,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 264,
+      "page": 11,
+      "category": "page_number",
+      "text": "11/12",
+      "bbox": [
+        904,
+        947,
+        940,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 265,
+      "page": 12,
+      "category": "text",
+      "text": "19. Um robó muye delve se des locarionizar una trajeción retirulina unidimensional x(t), paritido un punto otro y el robo. En un instant, el robo se quise un comportamento suáve como um polinólico de terceiro grau, tal que:",
+      "bbox": [
+        73,
+        57,
+        932,
+        101
+      ]
+    },
+    {
+      "id": 266,
+      "page": 12,
+      "category": "equation",
+      "text": "\\[\n\\boldsymbol {x} (t) = \\boldsymbol {k} _ {3} t ^ {3} + \\boldsymbol {k} _ {2} t ^ {2} + \\boldsymbol {k} _ {1} t + \\boldsymbol {k} _ {0}.\n\\]",
+      "bbox": [
+        377,
+        106,
+        655,
+        126
+      ]
+    },
+    {
+      "id": 267,
+      "page": 12,
+      "category": "text",
+      "text": "sendo \\(\\left[k_{0}, k_{1}, k_{2}, k_{3}\\right]\\) um velor de coefficientes a ser definido. Nesse casa, o velor de velocidade se compaça como um polinômio de grau \\(z\\) que tal \\(v(t) = 3k_{3}t^{2} + 2k_{2}t + k_{1}\\), e ainda, a aceleração do robão obecelerou o segunte modalo \\(a(t) = 6k_{3}t + 2k_{2}\\).",
+      "bbox": [
+        101,
+        132,
+        932,
+        184
+      ]
+    },
+    {
+      "id": 268,
+      "page": 12,
+      "category": "text",
+      "text": "Sobre o comportamento da velocidade, considere ainda os seguiços requisitos:",
+      "bbox": [
+        102,
+        188,
+        706,
+        202
+      ]
+    },
+    {
+      "id": 269,
+      "page": 12,
+      "category": "text",
+      "text": "- robo deve partir com velocidade nula;",
+      "bbox": [
+        133,
+        203,
+        463,
+        216
+      ]
+    },
+    {
+      "id": 270,
+      "page": 12,
+      "category": "text",
+      "text": "- o robó delve chegar ao punto final da trajetória com velocidade nula;",
+      "bbox": [
+        133,
+        217,
+        674,
+        231
+      ]
+    },
+    {
+      "id": 271,
+      "page": 12,
+      "category": "text",
+      "text": "- o instante de velocidade maxima se está em \\( t = 2s \\).",
+      "bbox": [
+        134,
+        233,
+        568,
+        247
+      ]
+    },
+    {
+      "id": 272,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        133,
+        203,
+        674,
+        247
+      ]
+    },
+    {
+      "id": 273,
+      "page": 12,
+      "category": "text",
+      "text": "Nessas condições, qual o valor dos coeficientes \\([k_0, k_1, k_2, k_3]\\)?",
+      "bbox": [
+        102,
+        258,
+        605,
+        275
+      ]
+    },
+    {
+      "id": 274,
+      "page": 12,
+      "category": "text",
+      "text": "A. \\([k_0; k_1; k_2; k_3] = [0; 0; 3; -0.5]\\)",
+      "bbox": [
+        102,
+        283,
+        408,
+        302
+      ]
+    },
+    {
+      "id": 275,
+      "page": 12,
+      "category": "text",
+      "text": "B. \\([k_{0}; k_{1}; k_{2}; k_{3}] = [-1; 0; 0.3; 5]\\)",
+      "bbox": [
+        102,
+        315,
+        408,
+        334
+      ]
+    },
+    {
+      "id": 276,
+      "page": 12,
+      "category": "text",
+      "text": "C. \\([k_{0}; k_{1}; k_{2}; k_{3}] = [0, 5; 0; 1; -2]\\)",
+      "bbox": [
+        102,
+        349,
+        408,
+        367
+      ]
+    },
+    {
+      "id": 277,
+      "page": 12,
+      "category": "text",
+      "text": "D. \\([k_{0}; k_{1}; k_{2}; k_{3}] = [0; -2; 0; -0.5]\\)",
+      "bbox": [
+        102,
+        382,
+        424,
+        400
+      ]
+    },
+    {
+      "id": 278,
+      "page": 12,
+      "category": "text",
+      "text": "E. \\([k_{0}; k_{1}; k_{2}; k_{3}] = [0; 16; 3; 0,5]\\)",
+      "bbox": [
+        102,
+        414,
+        402,
+        433
+      ]
+    },
+    {
+      "id": 279,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        102,
+        283,
+        424,
+        433
+      ]
+    },
+    {
+      "id": 280,
+      "page": 12,
+      "category": "text",
+      "text": "20. Quais technologias de autonoma disponveis nos automóveis commerciais atualemente são aparecções no texto a seguir?",
+      "bbox": [
+        72,
+        473,
+        931,
+        503
+      ]
+    },
+    {
+      "id": 281,
+      "page": 12,
+      "category": "text",
+      "text": "\"Os primeiros protólicos de carros que dirigem sozinhos apareceram na腱e de 1980. Naquela epoca, Hollywood feetazestados crediratem que existiam skates浮动ores em 2015 (anno em que passa \"De volta para o futuro 2\") e carros��congenood os eles em 2019 (\"Blade Roller\"). Muito es concreto e que às vezes é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredita a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é acredica a que é o tempo que o não tem sido tão muito.\"",
+      "bbox": [
+        101,
+        514,
+        932,
+        692
+      ]
+    },
+    {
+      "id": 282,
+      "page": 12,
+      "category": "text",
+      "text": "(Fonte: Peter Fussy e Luciana de Oliveira; http://g1.globo.com/carros/noticia/2015/11/o-futura-e-o-carro-sem-motorista.html)",
+      "bbox": [
+        102,
+        692,
+        847,
+        705
+      ]
+    },
+    {
+      "id": 283,
+      "page": 12,
+      "category": "text",
+      "text": "(1) Detecção e alerta sobre mudança não intencional de faixa;",
+      "bbox": [
+        110,
+        716,
+        617,
+        730
+      ]
+    },
+    {
+      "id": 284,
+      "page": 12,
+      "category": "text",
+      "text": "(II) Conteio programada de fluidos aps os colisao para minimizar ocorrencia de explosoes;",
+      "bbox": [
+        110,
+        731,
+        837,
+        745
+      ]
+    },
+    {
+      "id": 285,
+      "page": 12,
+      "category": "text",
+      "text": "(III) Ligação para o resgate se \"perceber\" que o motorista não reagiu antes uma colisão;",
+      "bbox": [
+        110,
+        745,
+        800,
+        758
+      ]
+    },
+    {
+      "id": 286,
+      "page": 12,
+      "category": "text",
+      "text": "(IV) Acionamento automatico de farol e limpador de para-brisa;",
+      "bbox": [
+        110,
+        759,
+        616,
+        772
+      ]
+    },
+    {
+      "id": 287,
+      "page": 12,
+      "category": "text",
+      "text": "(V) Manutenção de velocidade pré-seLECTIONA;",
+      "bbox": [
+        110,
+        772,
+        509,
+        785
+      ]
+    },
+    {
+      "id": 288,
+      "page": 12,
+      "category": "text",
+      "text": "(VI) Ajuste automatico da pressao dos pneus;",
+      "bbox": [
+        110,
+        786,
+        488,
+        799
+      ]
+    },
+    {
+      "id": 289,
+      "page": 12,
+      "category": "text",
+      "text": "(VII) A Companiondo carro da frete em comboio, mantendo a velocidade do grupo;",
+      "bbox": [
+        110,
+        799,
+        807,
+        813
+      ]
+    },
+    {
+      "id": 290,
+      "page": 12,
+      "category": "text",
+      "text": "(VIII) Frenagem automatica para evitar colisos.",
+      "bbox": [
+        110,
+        813,
+        496,
+        827
+      ]
+    },
+    {
+      "id": 291,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        110,
+        716,
+        837,
+        827
+      ]
+    },
+    {
+      "id": 292,
+      "page": 12,
+      "category": "text",
+      "text": "A. Somente I, Ve VIII.",
+      "bbox": [
+        111,
+        841,
+        288,
+        856
+      ]
+    },
+    {
+      "id": 293,
+      "page": 12,
+      "category": "text",
+      "text": "B. Todas as technologias listedas, de la VIII.",
+      "bbox": [
+        422,
+        841,
+        756,
+        857
+      ]
+    },
+    {
+      "id": 294,
+      "page": 12,
+      "category": "text",
+      "text": "C. Somente II, III, IV e V.",
+      "bbox": [
+        113,
+        871,
+        306,
+        886
+      ]
+    },
+    {
+      "id": 295,
+      "page": 12,
+      "category": "text",
+      "text": "D. Somente I, II, VII e VIII.",
+      "bbox": [
+        422,
+        871,
+        624,
+        886
+      ]
+    },
+    {
+      "id": 296,
+      "page": 12,
+      "category": "text",
+      "text": "E. Somente I, III, IV, V e VII.",
+      "bbox": [
+        113,
+        900,
+        330,
+        915
+      ]
+    },
+    {
+      "id": 297,
+      "page": 12,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2016",
+      "bbox": [
+        373,
+        946,
+        623,
+        958
+      ]
+    },
+    {
+      "id": 298,
+      "page": 12,
+      "category": "page_number",
+      "text": "12/12",
+      "bbox": [
+        903,
+        946,
+        940,
+        957
+      ]
+    }
+  ]
+]

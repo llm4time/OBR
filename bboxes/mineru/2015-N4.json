@@ -1,0 +1,2692 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        80,
+        81,
+        624,
+        105
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBOTICA",
+      "bbox": [
+        82,
+        108,
+        623,
+        159
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "2015",
+      "bbox": [
+        493,
+        161,
+        622,
+        190
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "\\(7^{a}\\) e \\(8^{a}\\) série ou \\(8^{0}\\) e \\(9^{0}\\) ano do novo regime do ensino fundamental",
+      "bbox": [
+        91,
+        216,
+        660,
+        235
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 4",
+      "bbox": [
+        779,
+        269,
+        937,
+        298
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SERIE/ANO:</td><td>NOTA DA PROVA (0-100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        45,
+        328,
+        958,
+        519
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        296,
+        572,
+        676,
+        593
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        82,
+        617,
+        255,
+        632
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- España prova contém 12 páginas",
+      "bbox": [
+        85,
+        640,
+        349,
+        657
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas",
+      "bbox": [
+        85,
+        660,
+        320,
+        675
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "A prova delve ser preenchida a caneta",
+      "bbox": [
+        85,
+        679,
+        410,
+        694
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        85,
+        698,
+        419,
+        713
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        85,
+        717,
+        548,
+        732
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        85,
+        736,
+        456,
+        751
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "- Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        85,
+        755,
+        609,
+        771
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        640,
+        609,
+        771
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "ORGANIZACAO",
+      "bbox": [
+        71,
+        854,
+        85,
+        916
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "EAP010",
+      "bbox": [
+        91,
+        862,
+        105,
+        916
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        124,
+        862,
+        201,
+        903
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "text",
+      "text": "（1）TDRDTHDLTAH",
+      "bbox": [
+        117,
+        903,
+        206,
+        908
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        223,
+        859,
+        274,
+        903
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "text",
+      "text": "#",
+      "bbox": [
+        228,
+        903,
+        268,
+        908
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        313,
+        857,
+        338,
+        888
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        340,
+        861,
+        396,
+        876
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "#",
+      "bbox": [
+        341,
+        876,
+        365,
+        882
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        368,
+        893,
+        422,
+        912
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        438,
+        853,
+        488,
+        885
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        479,
+        888,
+        554,
+        918
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        631,
+        856,
+        702,
+        884
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        664,
+        893,
+        753,
+        914
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        741,
+        856,
+        807,
+        884
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "text",
+      "text": "Véhicules de Technologie Véhicules de Écología",
+      "bbox": [
+        828,
+        858,
+        905,
+        886
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        803,
+        888,
+        905,
+        914
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        371,
+        956,
+        628,
+        968
+      ]
+    }
+  ],
+  [
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "1. PX36 e um robé educational que utilizes a linguagem de programação em blocos. Que tipo de atividade PX35 realizou quando é programado com a sequência de comando naforma?",
+      "bbox": [
+        91,
+        65,
+        908,
+        100
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        215,
+        113,
+        785,
+        460
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "a. PX35 perguntas_do他们在 suaularo, realiza a SOMA entre eles e diz es resultado é maior do que zero.",
+      "bbox": [
+        122,
+        504,
+        904,
+        536
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "b. PX35 sorteiaoisnumbers,verificaseosnumberssaoiguaisepreteapoperaçãoacada2segundos.",
+      "bbox": [
+        122,
+        544,
+        905,
+        576
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "c. PX35 perguntá todos).\"os ao.),realiza a comparação entre eles e diz se são iguais ou que whiles é maior.",
+      "bbox": [
+        122,
+        584,
+        904,
+        616
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "d. PX35 escoathe doserosúnos emuma lista,multiplica cada número por 2e diz se oresulto é igual ou maior que 2.",
+      "bbox": [
+        122,
+        624,
+        905,
+        656
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "e. PX35 não realiza nenhuma atividade, poised o programa contentém umerro grave de lógica e trava.",
+      "bbox": [
+        122,
+        664,
+        899,
+        681
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        504,
+        905,
+        681
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/12",
+      "bbox": [
+        895,
+        944,
+        933,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "2. Um Manipulador robólico é utilizado para soldar peças de metal em uma fibrácia. A ferramenta de soldagem está个人观点a em sua gara e devecorro o caminho programado para realizar a solda em todo o contorno da peça como na figura à seguir:",
+      "bbox": [
+        90,
+        65,
+        908,
+        117
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        90,
+        130,
+        346,
+        324
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "image_caption",
+      "text": "(Fonte: www.solucoesindustriais.com.br)",
+      "bbox": [
+        90,
+        328,
+        346,
+        342
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        353,
+        131,
+        903,
+        346
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "text",
+      "text": "A posicao inicial da ferramento do robó é identificadora pela seta na figura. Se a garra se movimenta com velocidade de \\(2.5\\mathrm{cm / s}\\), utilize os@códigos naanela para indicar ao robó o caminho que a garra depercorre para realizar a solda.",
+      "bbox": [
+        121,
+        381,
+        909,
+        434
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "table",
+      "text": "<table><tr><td>Movimento</td><td>Horizontal/Frente</td><td>Horizontal/Trás</td><td>Vertical/Cima</td><td>Vertical/Baixo</td></tr><tr><td>Códico</td><td>HF(x)</td><td>HT(x)</td><td>VC(x)</td><td>VB(x)</td></tr></table>",
+      "bbox": [
+        92,
+        463,
+        907,
+        572
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "O valor de x, no.), é o tempo em segundos que o robão pode permanecer executando o movimento. Por exemplo, o.), significa que a garra vai se mover na vertical para cima por 30 segundos.",
+      "bbox": [
+        121,
+        601,
+        909,
+        651
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "Fomeça a lista adequada de comandos para o robó realizar a tarefa.",
+      "bbox": [
+        123,
+        667,
+        663,
+        686
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        356,
+        947,
+        640,
+        962
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/12",
+      "bbox": [
+        894,
+        944,
+        934,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 54,
+      "page": 3,
+      "category": "text",
+      "text": "3. Interpolatio numérica permette construiu um novo conjunto de informacoes tendo como referencia um另一位 conjunto. Um exemplo esta aplicacao e a conversao das unidas de graus Celius para graus Fahrenheit, ou mesmo converter as informacoes obtidas de um senor que opera comendale na sua faixa de corrente de \\(4\\mathrm{mA}\\) a \\(20\\mathrm{mA}\\) para leituras de pressao, vazao, temperatura, entreculos.",
+      "bbox": [
+        91,
+        65,
+        906,
+        148
+      ]
+    },
+    {
+      "id": 55,
+      "page": 3,
+      "category": "text",
+      "text": "Suponha que se tenha umsystema址ado em pressao cujo minimo de leitura sera 2 bar e o maior obtido传感 are 10 bar, sabendo que a saida对该传感 apresenta leitura de 0V a 10V, qual o valor da pressao obtida quando a leitura do equipoamento aponta 5V?",
+      "bbox": [
+        122,
+        165,
+        907,
+        216
+      ]
+    },
+    {
+      "id": 56,
+      "page": 3,
+      "category": "text",
+      "text": "a. 4 bar.",
+      "bbox": [
+        123,
+        232,
+        203,
+        247
+      ]
+    },
+    {
+      "id": 57,
+      "page": 3,
+      "category": "text",
+      "text": "b. 5 bar.",
+      "bbox": [
+        126,
+        255,
+        201,
+        269
+      ]
+    },
+    {
+      "id": 58,
+      "page": 3,
+      "category": "text",
+      "text": "c. 2 bar.",
+      "bbox": [
+        126,
+        279,
+        201,
+        293
+      ]
+    },
+    {
+      "id": 59,
+      "page": 3,
+      "category": "text",
+      "text": "d. 6 bar.",
+      "bbox": [
+        126,
+        302,
+        201,
+        317
+      ]
+    },
+    {
+      "id": 60,
+      "page": 3,
+      "category": "text",
+      "text": "e. 10 bar.",
+      "bbox": [
+        126,
+        325,
+        211,
+        339
+      ]
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        232,
+        211,
+        339
+      ]
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "category": "text",
+      "text": "4. Em uma atividade da aula de Ciências, a turbu fo dividida em dosentes para montar um coração robístico que demonstrasse a filiologia do orgão humano. As espécografies do projeto foram fornecidasleo professor por meio dabela:",
+      "bbox": [
+        89,
+        407,
+        906,
+        458
+      ]
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "category": "table",
+      "text": "<table><tr><td>Grupo</td><td>Atividade a ser demonstrada</td><td>Pulsação</td></tr><tr><td>01</td><td>Altela corrente em um parque</td><td>140 bpm</td></tr><tr><td>02</td><td>Pessoa dormindo</td><td>70 bpm</td></tr></table>",
+      "bbox": [
+        93,
+        490,
+        615,
+        554
+      ]
+    },
+    {
+      "id": 64,
+      "page": 3,
+      "category": "text",
+      "text": "Considerando que se optou por um Conjunto de bombas, cada uma representando o functimento de uma cavidade, quando grandza feice deva ser considerada na programação desistuções robotics?",
+      "bbox": [
+        122,
+        586,
+        563,
+        653
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        652,
+        458,
+        764,
+        615
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "image_caption",
+      "text": "CORACAO ARTIFICIAL",
+      "bbox": [
+        655,
+        617,
+        753,
+        629
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        781,
+        458,
+        889,
+        614
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "image_caption",
+      "text": "CORAZHOUMANO",
+      "bbox": [
+        796,
+        618,
+        889,
+        631
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(Fonte: Modificado de transplants.ucla.edu)",
+      "bbox": [
+        651,
+        635,
+        896,
+        648
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "a. Volume das camarvas,送达 que o volume das camarvas do grupo 01 deve ser maior do que o volume das camarvas do grupo 2.",
+      "bbox": [
+        123,
+        675,
+        905,
+        709
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "b. Temperatura do motor das bombas, sentido que a temperatura do motor doroupo 01 deve ser menor do que a temperatura do motor doroupo 2.",
+      "bbox": [
+        123,
+        715,
+        905,
+        749
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "c. Aceleration do motor das bombas, sentido que a acceleration do motor do grupo 01 deve ser menor do que a acceleration do motor do Grupo 2.",
+      "bbox": [
+        123,
+        755,
+        905,
+        790
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "d. Umidade das bombas, sentido que a umidade da bomba doroupo 01 delve ser maior do que a umidade da bomba doroupo 2.",
+      "bbox": [
+        123,
+        795,
+        905,
+        829
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "e. Velocidade de rotação do motor da bomba, sentido que a velocidade do motor doroupo 01 devesei ser maior do que a velocidade do motor doroupo 2.",
+      "bbox": [
+        123,
+        835,
+        905,
+        869
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        675,
+        905,
+        869
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/12",
+      "bbox": [
+        894,
+        944,
+        933,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 78,
+      "page": 4,
+      "category": "text",
+      "text": "5. Um rob便秘可以 2 ridas,culos dielmetos saze de 4 cm,consegeta atingir una velocidade continua de \\(10\\mathrm{cm} / \\mathrm{s}\\) .Esse rob sera testado em uma prova da Modalidade Prática o DRA na qual. que elera que percorrer \\(50~\\mathrm{m}\\) em sua红线. Sabendo que sua bateria lhe fornce autonoma de 15 instantos, pode-dize quando:",
+      "bbox": [
+        91,
+        64,
+        908,
+        131
+      ]
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "category": "text",
+      "text": "(Observação: Considere \\(\\pi = 3,14\\)",
+      "bbox": [
+        123,
+        157,
+        398,
+        174
+      ]
+    },
+    {
+      "id": 80,
+      "page": 4,
+      "category": "text",
+      "text": "a. O robó não complementar a tarefa, e suas rodas darão aproximamente 40 voltas antes de acabar a bateria.",
+      "bbox": [
+        122,
+        190,
+        905,
+        224
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "text",
+      "text": "b. O robô completeness atare a tarefa em pouco mais de 8 minutos, e suas rodas darão quase 400 voltas.",
+      "bbox": [
+        122,
+        229,
+        900,
+        247
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "text",
+      "text": "c. O robó completará a tarefa em 5 horas, e suas rodas darão pouco menos de 4 voltas.",
+      "bbox": [
+        122,
+        253,
+        856,
+        270
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "d. O robócompletea tareafe en menos de 10 min, e sus rodas daraoapproximadamente 200 voltas.",
+      "bbox": [
+        122,
+        276,
+        905,
+        308
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "e. O robó não completará a tarea, e sus rodas darão exatamente 150 voltas antes deaabar a bateria.",
+      "bbox": [
+        122,
+        315,
+        905,
+        349
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        190,
+        905,
+        349
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "text",
+      "text": "6. LX35 é um robé educacional projetado para sistemas de equações de primarye grau interrogando com eles do Ensino Fundamental.",
+      "bbox": [
+        89,
+        415,
+        908,
+        451
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "text",
+      "text": "O professor prepara um Conjunto de cartoes com uma equacao impressa, como os da figura.",
+      "bbox": [
+        122,
+        465,
+        860,
+        484
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "equation",
+      "text": "\\[\n\\boxed {2 x + 3 y = - 7} \\boxed {3 x + y = 0} \\boxed {\\frac {x}{2} + \\frac {5}{2} = - y} \\boxed {x + y + 4 = 2} \\boxed {4 x + 6 y = - 1 4}\n\\]",
+      "bbox": [
+        124,
+        501,
+        887,
+        545
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "text",
+      "text": "Um algo selección aleatoriamente um dos cartões e minha para o robó. LX35 capta a idade e identifica a equação. Na sequência,及其他 algo selección may a maior cartão dess o que sorabram e也是非常 minha para o LX35, que quando faz a leitura de tãoção cartão. O robó é另一边leição as das equações calculando os values das incognitas eEPROMado a resultação ou展示了 meu visor.",
+      "bbox": [
+        121,
+        565,
+        908,
+        633
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "text",
+      "text": "Pode-se affirmar que o resultou obido para o Conjunto de car�õespresentado na figura, independente da escola aletrácia dos alunos, para x e y, respectively; fo:",
+      "bbox": [
+        121,
+        648,
+        908,
+        683
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "a. 1 e-3.",
+      "bbox": [
+        122,
+        706,
+        205,
+        722
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "text",
+      "text": "b. \\( 3 \\in  2 \\) .",
+      "bbox": [
+        124,
+        729,
+        199,
+        745
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "text",
+      "text": "c. -1 e 4.",
+      "bbox": [
+        125,
+        752,
+        205,
+        767
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "text",
+      "text": "d. 3 e 4.",
+      "bbox": [
+        125,
+        776,
+        198,
+        791
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "e. 4 e-3.",
+      "bbox": [
+        125,
+        800,
+        205,
+        815
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        706,
+        205,
+        815
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/12",
+      "bbox": [
+        894,
+        944,
+        934,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 99,
+      "page": 5,
+      "category": "text",
+      "text": "7. \"Imagine um exericoe de robos com proporcios microscopicos entrando em seu corpo para atacar celulos cancerigares, detruir bacterias e virus, inserir medicamentos em celulos especialicas, desobtruir arterias erealizarcirugas minimamente invasivas...A) Ianotecinogloquia:aqueve subserviente particaes e disposvidos que medem poucos nanometros (milioneosimulos de milimetro) aplicada a acredite a acredite a eficina, como e chamada, e a grande aposta da ciencia para os diagnosticos e tratamentos de diversas doengas de noto de 5 a 20 anos.",
+      "bbox": [
+        92,
+        65,
+        669,
+        213
+      ]
+    },
+    {
+      "id": 100,
+      "page": 5,
+      "category": "text",
+      "text": "(Fonte: http://curiosidades-mundacurioso.blogspot.com.br)",
+      "bbox": [
+        319,
+        218,
+        666,
+        231
+      ]
+    },
+    {
+      "id": 101,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        683,
+        67,
+        905,
+        257
+      ]
+    },
+    {
+      "id": 102,
+      "page": 5,
+      "category": "text",
+      "text": "(Forte.https://falandodedna.wordpress.com)",
+      "bbox": [
+        685,
+        257,
+        901,
+        269
+      ]
+    },
+    {
+      "id": 103,
+      "page": 5,
+      "category": "text",
+      "text": "Suponha que um desses nanorrobôs atuando no corpo humano",
+      "bbox": [
+        123,
+        265,
+        668,
+        281
+      ]
+    },
+    {
+      "id": 104,
+      "page": 5,
+      "category": "text",
+      "text": "préciasse recarregar sus baterias para将持续 função e que sus baterias foramecem energia por meio do processamento de proteinas. Para thiso es possuira um disposito que absore proteinelas de algumas celulas, dentro de uma limitação que não as prejudicasse.",
+      "bbox": [
+        123,
+        282,
+        906,
+        332
+      ]
+    },
+    {
+      "id": 105,
+      "page": 5,
+      "category": "text",
+      "text": "Observado a estrutura geral de uma CELLa na figura a seguir, respondera: Qual organela poderia auxiliar o nanorrobó formencede proteinas?",
+      "bbox": [
+        124,
+        348,
+        906,
+        381
+      ]
+    },
+    {
+      "id": 106,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        329,
+        404,
+        667,
+        619
+      ]
+    },
+    {
+      "id": 107,
+      "page": 5,
+      "category": "text",
+      "text": "(Fonte: http://www.universitario.com.br)",
+      "bbox": [
+        377,
+        627,
+        620,
+        641
+      ]
+    },
+    {
+      "id": 108,
+      "page": 5,
+      "category": "text",
+      "text": "a. Nucleo.",
+      "bbox": [
+        125,
+        664,
+        217,
+        678
+      ]
+    },
+    {
+      "id": 109,
+      "page": 5,
+      "category": "text",
+      "text": "b. Mitochondria.",
+      "bbox": [
+        126,
+        688,
+        258,
+        702
+      ]
+    },
+    {
+      "id": 110,
+      "page": 5,
+      "category": "text",
+      "text": "c. Ribossomo.",
+      "bbox": [
+        126,
+        712,
+        247,
+        726
+      ]
+    },
+    {
+      "id": 111,
+      "page": 5,
+      "category": "text",
+      "text": "d. Complexo de Golgi.",
+      "bbox": [
+        126,
+        734,
+        313,
+        751
+      ]
+    },
+    {
+      "id": 112,
+      "page": 5,
+      "category": "text",
+      "text": "e. Centriolo.",
+      "bbox": [
+        126,
+        758,
+        234,
+        772
+      ]
+    },
+    {
+      "id": 113,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        664,
+        313,
+        772
+      ]
+    },
+    {
+      "id": 114,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 115,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/12",
+      "bbox": [
+        894,
+        944,
+        934,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 116,
+      "page": 6,
+      "category": "text",
+      "text": "8. Leia os textos a seguir e respondera:",
+      "bbox": [
+        90,
+        65,
+        401,
+        82
+      ]
+    },
+    {
+      "id": 117,
+      "page": 6,
+      "category": "title",
+      "text": "(TEXTO I) ROBOS QUE IMITAM INSETOS",
+      "bbox": [
+        124,
+        98,
+        472,
+        114
+      ]
+    },
+    {
+      "id": 118,
+      "page": 6,
+      "category": "text",
+      "text": "\\(^{\\mathrm{a}}\\)O groupe europeu de pesquisa L-Swarm (exames intestigentes) vem travailhando haanos no desenvolvimento de microrobros capazes de atuarem em conjunto em insumeto, reproducindo o comportamento coletivo de formigas, abelhas e cupins. (Fonte: www.inovacatologia.com.br)",
+      "bbox": [
+        122,
+        116,
+        908,
+        166
+      ]
+    },
+    {
+      "id": 119,
+      "page": 6,
+      "category": "title",
+      "text": "(TEXTO II) O INSETO NANO-ROBÔ ESPIÃO",
+      "bbox": [
+        124,
+        181,
+        493,
+        197
+      ]
+    },
+    {
+      "id": 120,
+      "page": 6,
+      "category": "text",
+      "text": "\\*O ineto-robo e capaz de yoar e pousar en qualquearea. Pode seguir pessoas ato e seu destino ses essays ao menos perceberem a sua presence. Alemé de seguir pessoas, o inoto alto-robo podera tirar fosos, filiar com sons en tempo real, localizar pessoas en catastrophes, ou refres presos, transmitindo informações das armas, a localização e atir tirar o sangué para amostras de DNA. Este nano-robo podera ser feito em diversas formas de differentes insettos, como abelhas, moscas, libelulas entre outros.\" (Fonte: www.yntermix.com)",
+      "bbox": [
+        122,
+        199,
+        906,
+        298
+      ]
+    },
+    {
+      "id": 121,
+      "page": 6,
+      "category": "title",
+      "text": "(TEXTO III) PESQUISA BUSCA DESVENDAR O DESAPARECIMENTO DE ABELHAS",
+      "bbox": [
+        124,
+        315,
+        800,
+        331
+      ]
+    },
+    {
+      "id": 122,
+      "page": 6,
+      "category": "text",
+      "text": "\"Uma农业科技 inovadora está协助ando américa abelhas e tento descolver para que eles estão desaparecido. Microsenores são colocados na costas dos insetiros para registrar e MPEGar todos os trajetos percorridos. (...) De都知道 com Souza, com os dati recolhidos, está possivel identificant mudacunas no comportamento dos animais e estudar como eles estendem aproducao de um dos meus meios. O meio é acredenda de um meio de meio. O meio é acredenda de um collaborador com a fecundação das flares que, por sua vez, germam novos frutos e sementes, é oprocesso de polinização. Quase esta coisa é intermédia, a reprodução FHA comprometida.\"",
+      "bbox": [
+        122,
+        332,
+        906,
+        448
+      ]
+    },
+    {
+      "id": 123,
+      "page": 6,
+      "category": "text",
+      "text": "(Fonte: www.jornaldaciencia.org.br)",
+      "bbox": [
+        693,
+        451,
+        905,
+        464
+      ]
+    },
+    {
+      "id": 124,
+      "page": 6,
+      "category": "text",
+      "text": "As你想as descritasns no textos I e II podem, de alguma forma, ser aplicadas para solucciono or problema identificado no texto IlI?",
+      "bbox": [
+        122,
+        498,
+        906,
+        531
+      ]
+    },
+    {
+      "id": 125,
+      "page": 6,
+      "category": "text",
+      "text": "a. Sim. A Tecnología descriña no texto II所提供 se aplicada para coher os/DDs Necessaryos, os\\\nque Sixth may be used for the purposes of the project.",
+      "bbox": [
+        122,
+        547,
+        906,
+        598
+      ]
+    },
+    {
+      "id": 126,
+      "page": 6,
+      "category": "text",
+      "text": "b. Nao. Os assentes tratados nos textos I, II e III nao está relacionados.",
+      "bbox": [
+        122,
+        603,
+        701,
+        620
+      ]
+    },
+    {
+      "id": 127,
+      "page": 6,
+      "category": "text",
+      "text": "c. Sim. Os insetos citados no texto Il se adaptariam para receber os robos citados no texto I como membros do ename x, posterioriere, seriam treinados por esses hospededes robos para executar funções como as descriitas no texto Il.",
+      "bbox": [
+        122,
+        627,
+        906,
+        678
+      ]
+    },
+    {
+      "id": 128,
+      "page": 6,
+      "category": "text",
+      "text": "d. Não. Não é posível reproduir o comportamento coletivo dos insettos citados no texto III, portanto a pesquisa descira no texto I não se aplicá. Àlem disse, os robos citados no texto II não seriam acétos como membros da colmeia.",
+      "bbox": [
+        122,
+        684,
+        906,
+        734
+      ]
+    },
+    {
+      "id": 129,
+      "page": 6,
+      "category": "text",
+      "text": "e. Não. O processo de polinização está Completely descaparada por sua不解ção dos robos que não estou. Il é, portanto, a pesquisa describa no texto I sou teria efeito no caso de robos que itimam o部分地区 de cupins e moscas.",
+      "bbox": [
+        122,
+        740,
+        906,
+        791
+      ]
+    },
+    {
+      "id": 130,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        547,
+        906,
+        791
+      ]
+    },
+    {
+      "id": 131,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 132,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/12",
+      "bbox": [
+        901,
+        944,
+        941,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 133,
+      "page": 7,
+      "category": "text",
+      "text": "9. Para operar um rob e fazerce a ele os comandos correto, é precisio conhecer seu espo de做工. O espo de做工 é a regiao do espo que o rob seconce可以使ar e depende da configuração geométrica do manipulador e das restricções fisicas das juntas (limites mecanicos).",
+      "bbox": [
+        88,
+        65,
+        906,
+        117
+      ]
+    },
+    {
+      "id": 134,
+      "page": 7,
+      "category": "text",
+      "text": "Os Manipuladores mostados na figura本次活动 suaorra conforme a indentacao das setas e os他们在samos limitados de acontec o os dados da tabela.",
+      "bbox": [
+        120,
+        132,
+        907,
+        166
+      ]
+    },
+    {
+      "id": 135,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        214,
+        196,
+        517,
+        344
+      ]
+    },
+    {
+      "id": 136,
+      "page": 7,
+      "category": "image_caption",
+      "text": "Cartesiano",
+      "bbox": [
+        331,
+        347,
+        451,
+        364
+      ]
+    },
+    {
+      "id": 137,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        552,
+        195,
+        785,
+        368
+      ]
+    },
+    {
+      "id": 138,
+      "page": 7,
+      "category": "image_caption",
+      "text": "Cilindrico",
+      "bbox": [
+        626,
+        371,
+        732,
+        388
+      ]
+    },
+    {
+      "id": 139,
+      "page": 7,
+      "category": "table",
+      "text": "<table><tr><td>Manipulador</td><td>a</td><td>b</td><td>c</td><td>d</td><td>Comprimento maior do braço</td></tr><tr><td>Cartesiano</td><td>200 mm</td><td>520 mm</td><td>300 mm</td><td>---</td><td>---</td></tr><tr><td>Cilindrico</td><td>720 mm</td><td>324°</td><td>330 mm</td><td>350 mm</td><td>680 mm</td></tr></table>",
+      "bbox": [
+        92,
+        430,
+        905,
+        515
+      ]
+    },
+    {
+      "id": 140,
+      "page": 7,
+      "category": "text",
+      "text": "Qual o volume do espaço de trabalho destos robos, cartesiano e cilindrico, respectivamente?",
+      "bbox": [
+        122,
+        545,
+        856,
+        562
+      ]
+    },
+    {
+      "id": 141,
+      "page": 7,
+      "category": "text",
+      "text": "(Observacao: Considere \\(\\pi = 3,14\\)",
+      "bbox": [
+        122,
+        588,
+        405,
+        604
+      ]
+    },
+    {
+      "id": 142,
+      "page": 7,
+      "category": "text",
+      "text": "a. \\(69,2\\mathrm{cm}^3\\) . \\(312\\mathrm{mm}^3\\)",
+      "bbox": [
+        122,
+        637,
+        307,
+        655
+      ]
+    },
+    {
+      "id": 143,
+      "page": 7,
+      "category": "text",
+      "text": "b. 31,2 dm³, 0,692 m³.",
+      "bbox": [
+        125,
+        660,
+        310,
+        677
+      ]
+    },
+    {
+      "id": 144,
+      "page": 7,
+      "category": "text",
+      "text": "c. 69,2 mm³, 312 dm³.",
+      "bbox": [
+        125,
+        684,
+        307,
+        700
+      ]
+    },
+    {
+      "id": 145,
+      "page": 7,
+      "category": "text",
+      "text": "d. 0,312 m³; 691,6 dm³.",
+      "bbox": [
+        125,
+        708,
+        320,
+        724
+      ]
+    },
+    {
+      "id": 146,
+      "page": 7,
+      "category": "text",
+      "text": "e. \\(312~\\mathrm{cm}^3\\) 6,92 dm3.",
+      "bbox": [
+        125,
+        731,
+        302,
+        746
+      ]
+    },
+    {
+      "id": 147,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        637,
+        320,
+        746
+      ]
+    },
+    {
+      "id": 148,
+      "page": 7,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 149,
+      "page": 7,
+      "category": "page_number",
+      "text": "7/12",
+      "bbox": [
+        897,
+        947,
+        936,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 150,
+      "page": 8,
+      "category": "text",
+      "text": "10. Um AGV (Veiculo Auto Guido) move-se dentro de uma ferr体制o as linhas que se entrainçam pintadas no chão. Exemir 4 estações de做工amento (A, B, C e D) e uma estação de recarga energetica das baterias do robé (E). As quatro estações de做工amento estaixas formando um quadrado e o punto de recarga, formando um triangular equilatero com as estações A e B.",
+      "bbox": [
+        92,
+        65,
+        909,
+        134
+      ]
+    },
+    {
+      "id": 151,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        337,
+        160,
+        642,
+        380
+      ]
+    },
+    {
+      "id": 152,
+      "page": 8,
+      "category": "text",
+      "text": "Sabendo que o robé POSSU a limitação mecanica que não permitse que elaança curvas menores que \\(30^{\\circ}\\), qual dos caminhos indicados eles não es capaz de realizar?",
+      "bbox": [
+        122,
+        398,
+        909,
+        434
+      ]
+    },
+    {
+      "id": 153,
+      "page": 8,
+      "category": "text",
+      "text": "a. A-D-E.",
+      "bbox": [
+        124,
+        448,
+        204,
+        463
+      ]
+    },
+    {
+      "id": 154,
+      "page": 8,
+      "category": "text",
+      "text": "b.C-D-E",
+      "bbox": [
+        126,
+        470,
+        202,
+        485
+      ]
+    },
+    {
+      "id": 155,
+      "page": 8,
+      "category": "text",
+      "text": "c.A-B-E.",
+      "bbox": [
+        126,
+        495,
+        198,
+        509
+      ]
+    },
+    {
+      "id": 156,
+      "page": 8,
+      "category": "text",
+      "text": "d. D-C-B.",
+      "bbox": [
+        126,
+        518,
+        206,
+        533
+      ]
+    },
+    {
+      "id": 157,
+      "page": 8,
+      "category": "text",
+      "text": "e.C-B-E.",
+      "bbox": [
+        126,
+        541,
+        201,
+        555
+      ]
+    },
+    {
+      "id": 158,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        448,
+        206,
+        555
+      ]
+    },
+    {
+      "id": 159,
+      "page": 8,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 160,
+      "page": 8,
+      "category": "page_number",
+      "text": "8/12",
+      "bbox": [
+        894,
+        947,
+        934,
+        961
+      ]
+    }
+  ],
+  [
+    {
+      "id": 161,
+      "page": 9,
+      "category": "text",
+      "text": "11. Robo seguido de linha e Instrumentado com um encoder em cada roda para fazer a distancia percorrida. Eu系统的 sera testado em uma pista em forma de 8 como a figura:",
+      "bbox": [
+        90,
+        65,
+        905,
+        100
+      ]
+    },
+    {
+      "id": 162,
+      "page": 9,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        347,
+        118,
+        671,
+        267
+      ]
+    },
+    {
+      "id": 163,
+      "page": 9,
+      "category": "text",
+      "text": "O Objective esta prova è percerar a pista por 12 vezes e parar na posicao em que o robôcameçu, identificada na imagem com um X. Considerando os@dados técnicos da pista e do robô naabela, quando pulsos espemar-seatarna saldo de encoder duranteolta a prova?",
+      "bbox": [
+        121,
+        298,
+        905,
+        349
+      ]
+    },
+    {
+      "id": 164,
+      "page": 9,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">Dados&amp;Técnicos da pista</td></tr><tr><td>a</td><td>90 cm</td></tr><tr><td>b</td><td>60 cm</td></tr><tr><td></td><td></td></tr><tr><td colspan=\"2\">Dados&amp;Técnicos do robô</td></tr><tr><td>Resolução do encoder</td><td>100 pulos por revolução</td></tr><tr><td>Diámetro de cada roda</td><td>30 mm</td></tr></table>",
+      "bbox": [
+        235,
+        364,
+        781,
+        507
+      ]
+    },
+    {
+      "id": 165,
+      "page": 9,
+      "category": "text",
+      "text": "(Observacao: Considere \\(\\pi = 3,14\\)",
+      "bbox": [
+        123,
+        548,
+        405,
+        565
+      ]
+    },
+    {
+      "id": 166,
+      "page": 9,
+      "category": "text",
+      "text": "a. Aproximadamente 60.000 pulsos.",
+      "bbox": [
+        122,
+        582,
+        421,
+        598
+      ]
+    },
+    {
+      "id": 167,
+      "page": 9,
+      "category": "text",
+      "text": "b. Aproximadamente 188.000 pulsos.",
+      "bbox": [
+        122,
+        605,
+        430,
+        621
+      ]
+    },
+    {
+      "id": 168,
+      "page": 9,
+      "category": "text",
+      "text": "c. Aproximadamente 107.000 pulsos.",
+      "bbox": [
+        122,
+        628,
+        430,
+        645
+      ]
+    },
+    {
+      "id": 169,
+      "page": 9,
+      "category": "text",
+      "text": "d. Aproximamente 18.800 pulsos.",
+      "bbox": [
+        122,
+        652,
+        420,
+        669
+      ]
+    },
+    {
+      "id": 170,
+      "page": 9,
+      "category": "text",
+      "text": "e. Aproximamente 20.100 pulsos.",
+      "bbox": [
+        122,
+        675,
+        420,
+        691
+      ]
+    },
+    {
+      "id": 171,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        582,
+        430,
+        691
+      ]
+    },
+    {
+      "id": 172,
+      "page": 9,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 173,
+      "page": 9,
+      "category": "page_number",
+      "text": "9/12",
+      "bbox": [
+        894,
+        947,
+        934,
+        961
+      ]
+    }
+  ],
+  [
+    {
+      "id": 174,
+      "page": 10,
+      "category": "text",
+      "text": "12. O trecho de programa a seguirlo soit desenvolvimento o可以帮助 de produir a figura (a), partindo do centro da terra do calculador. No entanto, o resulto obtido lo fial a figura (b).",
+      "bbox": [
+        91,
+        64,
+        908,
+        98
+      ]
+    },
+    {
+      "id": 175,
+      "page": 10,
+      "category": "table",
+      "text": "<table><tr><td>Linha</td><td>Código</td></tr><tr><td>1</td><td>var controle;</td></tr><tr><td>2</td><td>for (contador = 1; controle &lt;= 150; controle += 5) {</td></tr><tr><td>3</td><td>penColour(colour_random());</td></tr><tr><td>4</td><td>moveForward(contador);</td></tr><tr><td>5</td><td>turnRight(45);</td></tr><tr><td>6</td><td>}</td></tr></table>",
+      "bbox": [
+        108,
+        116,
+        891,
+        269
+      ]
+    },
+    {
+      "id": 176,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        197,
+        342,
+        332,
+        442
+      ]
+    },
+    {
+      "id": 177,
+      "page": 10,
+      "category": "image_caption",
+      "text": "(a)",
+      "bbox": [
+        255,
+        450,
+        282,
+        466
+      ]
+    },
+    {
+      "id": 178,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        550,
+        290,
+        861,
+        496
+      ]
+    },
+    {
+      "id": 179,
+      "page": 10,
+      "category": "image_caption",
+      "text": "(b)",
+      "bbox": [
+        698,
+        503,
+        726,
+        518
+      ]
+    },
+    {
+      "id": 180,
+      "page": 10,
+      "category": "text",
+      "text": "Onde está o errdo programa? Qual o commando correto?:",
+      "bbox": [
+        123,
+        546,
+        593,
+        563
+      ]
+    },
+    {
+      "id": 181,
+      "page": 10,
+      "category": "text",
+      "text": "a. Oerro está na linha 1. O commando correto é \"var penColour;\".",
+      "bbox": [
+        123,
+        580,
+        692,
+        598
+      ]
+    },
+    {
+      "id": 182,
+      "page": 10,
+      "category": "text",
+      "text": "b. O errors está na linha 2. O commando correto é \"while (contador = 1; contador <= 150; contador += 50) { \"",
+      "bbox": [
+        123,
+        606,
+        907,
+        640
+      ]
+    },
+    {
+      "id": 183,
+      "page": 10,
+      "category": "text",
+      "text": "c. Oerro está na红线 3. O comando correto é \"penColour(red)\";",
+      "bbox": [
+        123,
+        650,
+        703,
+        667
+      ]
+    },
+    {
+      "id": 184,
+      "page": 10,
+      "category": "text",
+      "text": "d. Oerro está naLINHA4. Ocomando correto é\"moveBackward(contador)\";",
+      "bbox": [
+        123,
+        676,
+        791,
+        693
+      ]
+    },
+    {
+      "id": 185,
+      "page": 10,
+      "category": "text",
+      "text": "e. O erro está na LINHA 5. O comando correto é \"turnRight(90)\";",
+      "bbox": [
+        123,
+        703,
+        691,
+        720
+      ]
+    },
+    {
+      "id": 186,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        580,
+        907,
+        720
+      ]
+    },
+    {
+      "id": 187,
+      "page": 10,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        356,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 188,
+      "page": 10,
+      "category": "page_number",
+      "text": "10/12",
+      "bbox": [
+        895,
+        947,
+        943,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 189,
+      "page": 11,
+      "category": "text",
+      "text": "13. O disposicao RHT03 é um senor de umidade relativa que fornece como sina de uma corrente elettrica variael de acordo com a variedão da umidade relativa do ar. Assim, quando mais umido o ambiente, maior em corrente na sina.",
+      "bbox": [
+        91,
+        65,
+        906,
+        116
+      ]
+    },
+    {
+      "id": 190,
+      "page": 11,
+      "category": "text",
+      "text": "Um desses sensores foi acoplado a um VANT (veiculo aereo não tripulado) instrumentado que sobrevou网点 estrategicos do Brasil durante 60 dias, fomecendo como resultado o segunte grácico:",
+      "bbox": [
+        122,
+        132,
+        907,
+        183
+      ]
+    },
+    {
+      "id": 191,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        104,
+        198,
+        575,
+        395
+      ]
+    },
+    {
+      "id": 192,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        589,
+        197,
+        876,
+        398
+      ]
+    },
+    {
+      "id": 193,
+      "page": 11,
+      "category": "text",
+      "text": "O Brasil, por poussir grande extensione norte-sul, conta with diversifica variede climática, possuindo regions com differentes umidades em seu territorio. Levando em conta os clmas do Brasil, identificou o local por onde o VANT provavelmente passou nos dias 29 e 47, respectivamente.",
+      "bbox": [
+        122,
+        431,
+        907,
+        483
+      ]
+    },
+    {
+      "id": 194,
+      "page": 11,
+      "category": "text",
+      "text": "a. Manaus/AM e Brasília/DF",
+      "bbox": [
+        124,
+        497,
+        356,
+        513
+      ]
+    },
+    {
+      "id": 195,
+      "page": 11,
+      "category": "text",
+      "text": "b. Porto Seguro/BA e Foz do Iguaçu/PR.",
+      "bbox": [
+        123,
+        520,
+        446,
+        537
+      ]
+    },
+    {
+      "id": 196,
+      "page": 11,
+      "category": "text",
+      "text": "c. Niterói/RJ e Manaus/AM.",
+      "bbox": [
+        124,
+        544,
+        351,
+        560
+      ]
+    },
+    {
+      "id": 197,
+      "page": 11,
+      "category": "text",
+      "text": "d. Brasilia/DF e Foz do Iguaçu/PR.",
+      "bbox": [
+        124,
+        568,
+        397,
+        584
+      ]
+    },
+    {
+      "id": 198,
+      "page": 11,
+      "category": "text",
+      "text": "e. Niterói/RJ e Porto Seguro/BA.",
+      "bbox": [
+        124,
+        591,
+        383,
+        607
+      ]
+    },
+    {
+      "id": 199,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        497,
+        446,
+        607
+      ]
+    },
+    {
+      "id": 200,
+      "page": 11,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 201,
+      "page": 11,
+      "category": "page_number",
+      "text": "11/12",
+      "bbox": [
+        891,
+        947,
+        938,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 202,
+      "page": 12,
+      "category": "text",
+      "text": "14. Read the text below:",
+      "bbox": [
+        92,
+        65,
+        295,
+        81
+      ]
+    },
+    {
+      "id": 203,
+      "page": 12,
+      "category": "text",
+      "text": "\"ROB-42X is a human size robot that was in RoboCup 2014. He helped to organize all the competition and he had a lot of trouble. In addition, he had a lot of fun during the event. He worked along many robots, of all kinds: the lazy ones, the good workers etc. He had to do many things, from carrying tables to welcoming all the competitors. However, he also saw many competitions. He saw his colleagues from human size league losing to the Germans 7-1. He saw an epic game between Netherlands and the Chinese mid-size robots, and he cheered a lot for the Netherlands. He did not have time to see the Japanese win in the kid size soccer, but he heard it was cool and the Japanese commemorated like crazy ones. When the event was over, ROB-42X was very happy and grateful for the opportunity to be there, wishing that it could happen every year.\"",
+      "bbox": [
+        121,
+        98,
+        907,
+        249
+      ]
+    },
+    {
+      "id": 204,
+      "page": 12,
+      "category": "text",
+      "text": "From the text above, it is right to say:",
+      "bbox": [
+        123,
+        265,
+        424,
+        282
+      ]
+    },
+    {
+      "id": 205,
+      "page": 12,
+      "category": "text",
+      "text": "a. ROB-42X is a kid size robot that loves to play soccer.",
+      "bbox": [
+        123,
+        298,
+        565,
+        316
+      ]
+    },
+    {
+      "id": 206,
+      "page": 12,
+      "category": "text",
+      "text": "b. Chinese mid-size robots invited ROB-42X to join the team.",
+      "bbox": [
+        123,
+        320,
+        612,
+        338
+      ]
+    },
+    {
+      "id": 207,
+      "page": 12,
+      "category": "text",
+      "text": "c. Netherlands robot team and ROB-42X were built by the same industry.",
+      "bbox": [
+        123,
+        344,
+        706,
+        362
+      ]
+    },
+    {
+      "id": 208,
+      "page": 12,
+      "category": "text",
+      "text": "d. ROB-42X commemorated with the Japanese all day long.",
+      "bbox": [
+        123,
+        368,
+        601,
+        386
+      ]
+    },
+    {
+      "id": 209,
+      "page": 12,
+      "category": "text",
+      "text": "e. ROB-42X carried tables during the event to help the organization.",
+      "bbox": [
+        123,
+        390,
+        667,
+        409
+      ]
+    },
+    {
+      "id": 210,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        298,
+        706,
+        409
+      ]
+    },
+    {
+      "id": 211,
+      "page": 12,
+      "category": "text",
+      "text": "15. A maior parte dos robos espalhados polo mundo desenvolve as attivitàas mostradas no grfico.",
+      "bbox": [
+        90,
+        455,
+        883,
+        472
+      ]
+    },
+    {
+      "id": 212,
+      "page": 12,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        243,
+        492,
+        776,
+        721
+      ]
+    },
+    {
+      "id": 213,
+      "page": 12,
+      "category": "text",
+      "text": "Supondo que operam en Actividades de Manipulacao cercara de 33.750 robos, segundo o grafico, quantos robos que aplicados en Actividades de pintura e montagem?",
+      "bbox": [
+        121,
+        737,
+        905,
+        772
+      ]
+    },
+    {
+      "id": 214,
+      "page": 12,
+      "category": "text",
+      "text": "a. 8.750 robos.",
+      "bbox": [
+        123,
+        787,
+        249,
+        804
+      ]
+    },
+    {
+      "id": 215,
+      "page": 12,
+      "category": "text",
+      "text": "b. 13.750 robos.",
+      "bbox": [
+        126,
+        809,
+        259,
+        826
+      ]
+    },
+    {
+      "id": 216,
+      "page": 12,
+      "category": "text",
+      "text": "c. 22.500 robos.",
+      "bbox": [
+        126,
+        834,
+        258,
+        850
+      ]
+    },
+    {
+      "id": 217,
+      "page": 12,
+      "category": "text",
+      "text": "d. 33.150 robos.",
+      "bbox": [
+        126,
+        857,
+        259,
+        874
+      ]
+    },
+    {
+      "id": 218,
+      "page": 12,
+      "category": "text",
+      "text": "e. 65.250 robos.",
+      "bbox": [
+        126,
+        880,
+        258,
+        896
+      ]
+    },
+    {
+      "id": 219,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        787,
+        259,
+        896
+      ]
+    },
+    {
+      "id": 220,
+      "page": 12,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2015",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 221,
+      "page": 12,
+      "category": "page_number",
+      "text": "12/12",
+      "bbox": [
+        895,
+        946,
+        943,
+        960
+      ]
+    }
+  ]
+]

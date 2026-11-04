@@ -1,0 +1,2256 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OBR",
+      "bbox": [
+        442,
+        111,
+        554,
+        140
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "Modalidade Teorica",
+      "bbox": [
+        255,
+        199,
+        743,
+        236
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        114,
+        250,
+        287,
+        372
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIRAI BRAISILEIRA DE ROBOTICA",
+      "bbox": [
+        394,
+        269,
+        703,
+        286
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "#OBR 2022",
+      "bbox": [
+        239,
+        284,
+        871,
+        356
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "title",
+      "text": "NIVEL 0 - FASE 1 - 1° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        82,
+        382,
+        898,
+        407
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        62,
+        432,
+        937,
+        630
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        305,
+        649,
+        693,
+        670
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        72,
+        689,
+        279,
+        707
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Este prova contenté 5 páginas e 10 questões;",
+      "bbox": [
+        72,
+        720,
+        494,
+        739
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 1 hora;",
+      "bbox": [
+        72,
+        739,
+        329,
+        754
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        72,
+        755,
+        444,
+        770
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        72,
+        771,
+        584,
+        787
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "- O professor用户提供 auxiliar o aluno na leitura e entendimento da prova",
+      "bbox": [
+        72,
+        787,
+        709,
+        803
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        72,
+        804,
+        486,
+        820
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        72,
+        720,
+        709,
+        820
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Realização",
+      "bbox": [
+        133,
+        854,
+        227,
+        869
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        871,
+        182,
+        926
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNISAM",
+      "bbox": [
+        93,
+        931,
+        177,
+        941
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        197,
+        873,
+        272,
+        926
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image_caption",
+      "text": "COTUCA",
+      "bbox": [
+        184,
+        931,
+        277,
+        946
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Apollo",
+      "bbox": [
+        306,
+        854,
+        358,
+        869
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        289,
+        879,
+        318,
+        907
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image_caption",
+      "text": "INSTITUTO FEDERI",
+      "bbox": [
+        321,
+        892,
+        411,
+        900
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image_caption",
+      "text": "1.2018年12月27日",
+      "bbox": [
+        321,
+        900,
+        411,
+        906
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        411,
+        886,
+        502,
+        909
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UP-100",
+      "bbox": [
+        512,
+        888,
+        579,
+        902
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        591,
+        868,
+        632,
+        907
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        637,
+        877,
+        711,
+        907
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        721,
+        875,
+        795,
+        907
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        805,
+        877,
+        895,
+        907
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        294,
+        920,
+        402,
+        947
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        414,
+        926,
+        588,
+        944
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        595,
+        914,
+        636,
+        953
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        637,
+        923,
+        701,
+        943
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "image_caption",
+      "text": "MINISTEROCA CHICNA, TECHNOLOGIA ENINACOCAS",
+      "bbox": [
+        709,
+        927,
+        787,
+        944
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        798,
+        924,
+        840,
+        944
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "image_caption",
+      "text": "PATRIA ANAGA  \nBRASIL",
+      "bbox": [
+        841,
+        923,
+        910,
+        942
+      ]
+    }
+  ],
+  [
+    {
+      "id": 38,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        35,
+        53,
+        191,
+        75
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "A Kate é uma robé que é conheça por ser muito boa em matemática, e faz calculos como ninguém. Sus estrutura robética é um pouco DIFFÉ do que normalmente Vermos",
+      "bbox": [
+        202,
+        43,
+        744,
+        93
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "nos robos, perché a Kate so tem 1 roda e se equilibra sobre ella.",
+      "bbox": [
+        55,
+        93,
+        636,
+        109
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "Ligue as palavras indicando as caractéristicas da Kate.",
+      "bbox": [
+        55,
+        109,
+        558,
+        126
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        754,
+        40,
+        926,
+        222
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "title",
+      "text": "POSSUI UMA",
+      "bbox": [
+        57,
+        135,
+        191,
+        152
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "title",
+      "text": "ESTEIRA",
+      "bbox": [
+        360,
+        136,
+        451,
+        151
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "Nioposui",
+      "bbox": [
+        57,
+        168,
+        131,
+        187
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "matematica",
+      "bbox": [
+        359,
+        167,
+        469,
+        182
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "Usa um",
+      "bbox": [
+        57,
+        202,
+        131,
+        217
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "mao",
+      "bbox": [
+        359,
+        205,
+        395,
+        217
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "Posui daas",
+      "bbox": [
+        57,
+        237,
+        133,
+        252
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "óculos",
+      "bbox": [
+        360,
+        236,
+        423,
+        251
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "SABEMUITA",
+      "bbox": [
+        57,
+        270,
+        185,
+        285
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "voda",
+      "bbox": [
+        359,
+        273,
+        396,
+        286
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        35,
+        329,
+        194,
+        350
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "A Eva é uma robô inspirada no Wall-E e na Eva do fimel Wall-E, ela sabee todo sobre diminução da poluição no mundo e sobre o uso de energias renovaveis. quando a Eva false sobre",
+      "bbox": [
+        202,
+        321,
+        774,
+        371
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "cuidar do meu ambiente, ela tenta sempre fazer uma rima, para fazer os seu discussos mais importantes.",
+      "bbox": [
+        55,
+        372,
+        774,
+        403
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "Ajdé a Eva a identificar quais palavras rimam com aquelas que ela quer usar no seuISCO:",
+      "bbox": [
+        55,
+        404,
+        774,
+        435
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        785,
+        318,
+        926,
+        490
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "text",
+      "text": "Energia",
+      "bbox": [
+        57,
+        453,
+        131,
+        470
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "Honestas",
+      "bbox": [
+        360,
+        453,
+        450,
+        468
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "Poliço",
+      "bbox": [
+        57,
+        484,
+        139,
+        501
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "Auto suffiente",
+      "bbox": [
+        359,
+        484,
+        496,
+        500
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "Meio ambiente",
+      "bbox": [
+        57,
+        514,
+        194,
+        529
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "Milanos",
+      "bbox": [
+        360,
+        514,
+        439,
+        529
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "Florestas",
+      "bbox": [
+        57,
+        545,
+        145,
+        560
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "text",
+      "text": "Alergia",
+      "bbox": [
+        360,
+        545,
+        427,
+        562
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "text",
+      "text": "Oceanos",
+      "bbox": [
+        57,
+        576,
+        143,
+        591
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "text",
+      "text": "Destrução",
+      "bbox": [
+        360,
+        576,
+        461,
+        593
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        35,
+        633,
+        194,
+        654
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "text",
+      "text": "Os robos可以帮助 os humanos a fazer半导vas de casa, cozinhar, fazer o que queremos fazer. O que queremos fazer é quando das roupas, o robos tem que saber para quando eles querem a temperatura do local.",
+      "bbox": [
+        202,
+        623,
+        940,
+        671
+      ]
+    },
+    {
+      "id": 70,
+      "page": 1,
+      "category": "text",
+      "text": "Joãoaqueassepassarnonqueperumdiaquenteverao.QualdasroupasaibaixoorrobdoJoãodeve escolherparaeléutilizar?",
+      "bbox": [
+        55,
+        672,
+        940,
+        706
+      ]
+    },
+    {
+      "id": 71,
+      "page": 1,
+      "category": "text",
+      "text": "a)",
+      "bbox": [
+        57,
+        769,
+        81,
+        785
+      ]
+    },
+    {
+      "id": 72,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        86,
+        720,
+        177,
+        781
+      ]
+    },
+    {
+      "id": 73,
+      "page": 1,
+      "category": "text",
+      "text": "b)",
+      "bbox": [
+        57,
+        849,
+        80,
+        865
+      ]
+    },
+    {
+      "id": 74,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        86,
+        791,
+        160,
+        853
+      ]
+    },
+    {
+      "id": 75,
+      "page": 1,
+      "category": "text",
+      "text": "c)",
+      "bbox": [
+        371,
+        769,
+        392,
+        785
+      ]
+    },
+    {
+      "id": 76,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        404,
+        728,
+        482,
+        770
+      ]
+    },
+    {
+      "id": 77,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        408,
+        786,
+        495,
+        860
+      ]
+    },
+    {
+      "id": 78,
+      "page": 1,
+      "category": "text",
+      "text": "d)",
+      "bbox": [
+        371,
+        849,
+        393,
+        866
+      ]
+    },
+    {
+      "id": 79,
+      "page": 1,
+      "category": "text",
+      "text": "e)",
+      "bbox": [
+        683,
+        785,
+        706,
+        801
+      ]
+    },
+    {
+      "id": 80,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        709,
+        718,
+        806,
+        798
+      ]
+    },
+    {
+      "id": 81,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        59,
+        938,
+        72,
+        952
+      ]
+    },
+    {
+      "id": 82,
+      "page": 1,
+      "category": "footer",
+      "text": "OR",
+      "bbox": [
+        843,
+        932,
+        940,
+        993
+      ]
+    }
+  ],
+  [
+    {
+      "id": 83,
+      "page": 2,
+      "category": "header",
+      "text": "QUESTAO4",
+      "bbox": [
+        37,
+        53,
+        195,
+        74
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "Júlia vai a uma boa de robos para comparar um robo para ela. Na loja, são vendidos quatrooples de robos.",
+      "bbox": [
+        205,
+        43,
+        868,
+        76
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        207,
+        76,
+        304,
+        171
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Kate",
+      "bbox": [
+        240,
+        171,
+        284,
+        185
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        364,
+        76,
+        448,
+        169
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Eva",
+      "bbox": [
+        389,
+        171,
+        427,
+        184
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        547,
+        78,
+        677,
+        170
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Estvão",
+      "bbox": [
+        576,
+        171,
+        652,
+        184
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        781,
+        77,
+        854,
+        168
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Valter",
+      "bbox": [
+        783,
+        170,
+        840,
+        184
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "A Julia consegue ver todos os robos que foram vendidos naquele dia.",
+      "bbox": [
+        55,
+        202,
+        684,
+        220
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "title",
+      "text": "VENDAS DO DIA",
+      "bbox": [
+        416,
+        235,
+        582,
+        251
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        56,
+        261,
+        929,
+        453
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "text",
+      "text": "Marque a opção verdadeira:",
+      "bbox": [
+        56,
+        463,
+        293,
+        479
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "text",
+      "text": "a) O robô mais vendido FOi o Valter",
+      "bbox": [
+        56,
+        489,
+        348,
+        504
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "b) Foram vendidas mais robos Eva do que robos Kate",
+      "bbox": [
+        56,
+        506,
+        506,
+        522
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "c) Foram vendidos 4 robos Estevao",
+      "bbox": [
+        58,
+        523,
+        356,
+        537
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "text",
+      "text": "d) Foram vendidos mais robos Estvelo do que Kate",
+      "bbox": [
+        56,
+        538,
+        490,
+        555
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "text",
+      "text": "e) Foi vendido a mesma quantidade de robos Estevao e Valter",
+      "bbox": [
+        56,
+        556,
+        576,
+        571
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        56,
+        489,
+        576,
+        571
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTAO5",
+      "bbox": [
+        34,
+        622,
+        194,
+        643
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "text",
+      "text": "Em casa e na escola, existem atividades que podem ser desempenhadas por uma criança, quando outras atividades devem ser desempenhadas por pais e professores.",
+      "bbox": [
+        202,
+        618,
+        940,
+        667
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "text",
+      "text": "Isabella é uma minha de 7 anos que tem uma robó que a ajuda, a Maria. Isabella está doente, e me quando a Maria para fazer algumas das suas atividades em casa e na academia, enqueço a boa es recuperou.",
+      "bbox": [
+        54,
+        668,
+        940,
+        716
+      ]
+    },
+    {
+      "id": 106,
+      "page": 2,
+      "category": "text",
+      "text": "Qual das atividades abaixo é uma tarefa que sera desempenhada por Isabella e que Maria poderia ajuda-a!a?",
+      "bbox": [
+        54,
+        717,
+        940,
+        751
+      ]
+    },
+    {
+      "id": 107,
+      "page": 2,
+      "category": "text",
+      "text": "a) Arrumar os brinquedos",
+      "bbox": [
+        56,
+        762,
+        290,
+        778
+      ]
+    },
+    {
+      "id": 108,
+      "page": 2,
+      "category": "text",
+      "text": "b) Cortar as verduras para cozinhar",
+      "bbox": [
+        56,
+        779,
+        380,
+        795
+      ]
+    },
+    {
+      "id": 109,
+      "page": 2,
+      "category": "text",
+      "text": "c) Dirigir o carro para ir a escola",
+      "bbox": [
+        56,
+        796,
+        349,
+        811
+      ]
+    },
+    {
+      "id": 110,
+      "page": 2,
+      "category": "text",
+      "text": "d) Ensinar os alunos sobre matemática",
+      "bbox": [
+        56,
+        812,
+        411,
+        827
+      ]
+    },
+    {
+      "id": 111,
+      "page": 2,
+      "category": "text",
+      "text": "e) Corrigir as provas da turma",
+      "bbox": [
+        56,
+        828,
+        329,
+        844
+      ]
+    },
+    {
+      "id": 112,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        56,
+        762,
+        411,
+        844
+      ]
+    },
+    {
+      "id": 113,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        58,
+        938,
+        71,
+        951
+      ]
+    },
+    {
+      "id": 114,
+      "page": 2,
+      "category": "footer",
+      "text": "OR",
+      "bbox": [
+        845,
+        932,
+        938,
+        993
+      ]
+    }
+  ],
+  [
+    {
+      "id": 115,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTAO6",
+      "bbox": [
+        35,
+        54,
+        195,
+        74
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "O robó Solanina limpa as praías coletando o lixo para el lópez. O robó el lópez para el lópez. O robó también Separar a lópez poeloo lo xico de tipo material.",
+      "bbox": [
+        204,
+        44,
+        635,
+        93
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "fazendo uma coleta seletiva.",
+      "bbox": [
+        56,
+        93,
+        316,
+        108
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "Qual dos lixos abaixo seriam armazenados jintos na coleta selevita?",
+      "bbox": [
+        56,
+        109,
+        595,
+        141
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        647,
+        42,
+        945,
+        161
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Fonte:https://onderzo.meal.nl.br/croisolaro-beachcleaner-a-robo-coletor-de-luo-de-pralas/",
+      "bbox": [
+        662,
+        163,
+        929,
+        184
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "image_caption",
+      "text": "a)",
+      "bbox": [
+        58,
+        284,
+        80,
+        299
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "image_caption",
+      "text": "b)",
+      "bbox": [
+        58,
+        355,
+        80,
+        372
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "image_caption",
+      "text": "c)",
+      "bbox": [
+        58,
+        432,
+        79,
+        448
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        85,
+        190,
+        190,
+        298
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        191,
+        227,
+        243,
+        291
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        189,
+        304,
+        284,
+        365
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        100,
+        302,
+        155,
+        367
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        100,
+        371,
+        167,
+        445
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        191,
+        371,
+        277,
+        445
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "image_caption",
+      "text": "d)",
+      "bbox": [
+        527,
+        261,
+        549,
+        278
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        563,
+        190,
+        636,
+        278
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        681,
+        194,
+        724,
+        274
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "image_caption",
+      "text": "e)",
+      "bbox": [
+        528,
+        350,
+        549,
+        366
+      ]
+    },
+    {
+      "id": 134,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        562,
+        302,
+        701,
+        353
+      ]
+    },
+    {
+      "id": 135,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        708,
+        287,
+        861,
+        359
+      ]
+    },
+    {
+      "id": 136,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTAO7",
+      "bbox": [
+        36,
+        489,
+        195,
+        510
+      ]
+    },
+    {
+      "id": 137,
+      "page": 3,
+      "category": "text",
+      "text": "Vincius está terminado de montar o seu robo para fazer das tarefas da escola. No tempo de tantas pesca, eles preciseearas às partes do robo que a fazer a pegar objetos.",
+      "bbox": [
+        204,
+        493,
+        940,
+        525
+      ]
+    },
+    {
+      "id": 138,
+      "page": 3,
+      "category": "text",
+      "text": "Circule essas peças.",
+      "bbox": [
+        58,
+        524,
+        231,
+        539
+      ]
+    },
+    {
+      "id": 139,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        137,
+        558,
+        904,
+        913
+      ]
+    },
+    {
+      "id": 140,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        59,
+        938,
+        73,
+        951
+      ]
+    },
+    {
+      "id": 141,
+      "page": 3,
+      "category": "footer",
+      "text": "DTR",
+      "bbox": [
+        843,
+        935,
+        940,
+        993
+      ]
+    }
+  ],
+  [
+    {
+      "id": 142,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        35,
+        53,
+        195,
+        75
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "text",
+      "text": "Oîme wall-e, nos conta a storia de como o se estenderá a um passagem de um passagem de humanidade. Para resolver a situação do planeta para",
+      "bbox": [
+        204,
+        43,
+        658,
+        88
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "text",
+      "text": "ser haberado新动能othoselevhumanos,forcadeixados robocobos com alegoria, que acredite a planeta. Wal-e fo o ultimate robistante do planeta para limpar os entulhos.",
+      "bbox": [
+        55,
+        89,
+        655,
+        134
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "O Wall-e deve localizar, compactar e desfazer o lixo existente.",
+      "bbox": [
+        56,
+        134,
+        588,
+        148
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "1. LOCALIZAR O LIXO: 11 MINUTOS;",
+      "bbox": [
+        87,
+        148,
+        418,
+        162
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "2. IRATEO LIXO:6 MINUTOS;",
+      "bbox": [
+        87,
+        163,
+        364,
+        177
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "text",
+      "text": "3. PEGAR O LIXO: 2 MINUTOSE E 15 SEGUNDOS;",
+      "bbox": [
+        87,
+        178,
+        523,
+        192
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "text",
+      "text": "4. COMPACTAR O LIXO: 8 MINUTOSE 15 SEGUNDOS;",
+      "bbox": [
+        87,
+        193,
+        575,
+        208
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "text",
+      "text": "5. DESFAZER O LIXO: 4 MINUTOS;",
+      "bbox": [
+        87,
+        209,
+        403,
+        223
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        148,
+        575,
+        223
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        679,
+        44,
+        905,
+        164
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Fonte:https://pngwing.com/pt/free-png-bxslk",
+      "bbox": [
+        669,
+        166,
+        905,
+        177
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "Quanto tempo ele gastrara para conclusir todas as instruções?",
+      "bbox": [
+        55,
+        250,
+        560,
+        266
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "a) 20 Minutes e 30segundos",
+      "bbox": [
+        56,
+        277,
+        295,
+        292
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "text",
+      "text": "b) 31关键时刻 30 segundos",
+      "bbox": [
+        56,
+        293,
+        300,
+        308
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "text",
+      "text": "c) 18 minutes e 15 segundos",
+      "bbox": [
+        56,
+        308,
+        300,
+        323
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "text",
+      "text": "d) 32关键时刻 e 15 segundos",
+      "bbox": [
+        56,
+        323,
+        300,
+        338
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "text",
+      "text": "e) 22 instantos e 30 segundos",
+      "bbox": [
+        56,
+        338,
+        300,
+        353
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        56,
+        277,
+        300,
+        353
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTAO 9",
+      "bbox": [
+        35,
+        375,
+        194,
+        396
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "text",
+      "text": "Imagine um robó que so consegue conversar por性和.",
+      "bbox": [
+        205,
+        368,
+        719,
+        385
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td></tr><tr><td>01</td><td>02</td><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td><td>10</td><td>11</td><td>12</td><td>13</td></tr></table>",
+      "bbox": [
+        208,
+        385,
+        790,
+        420
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td><td>U</td><td>W</td><td>X</td><td>Y</td><td>Z</td></tr><tr><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr></table>",
+      "bbox": [
+        208,
+        433,
+        745,
+        468
+      ]
+    },
+    {
+      "id": 165,
+      "page": 4,
+      "category": "text",
+      "text": "Se o robó diz a uma pessoa o seu nome da seguinfe forma:",
+      "bbox": [
+        56,
+        479,
+        551,
+        495
+      ]
+    },
+    {
+      "id": 166,
+      "page": 4,
+      "category": "equation",
+      "text": "\\[\n0 3 - 1 0 - 1 1 - 2 2 - 0 1\n\\]",
+      "bbox": [
+        285,
+        498,
+        707,
+        525
+      ]
+    },
+    {
+      "id": 167,
+      "page": 4,
+      "category": "text",
+      "text": "Qual o nombre desse robo?",
+      "bbox": [
+        56,
+        543,
+        275,
+        558
+      ]
+    },
+    {
+      "id": 168,
+      "page": 4,
+      "category": "text",
+      "text": "a) MEIOR",
+      "bbox": [
+        56,
+        559,
+        144,
+        573
+      ]
+    },
+    {
+      "id": 169,
+      "page": 4,
+      "category": "text",
+      "text": "b) CIAWA",
+      "bbox": [
+        56,
+        574,
+        144,
+        589
+      ]
+    },
+    {
+      "id": 170,
+      "page": 4,
+      "category": "text",
+      "text": "c)CJKWA",
+      "bbox": [
+        56,
+        589,
+        148,
+        603
+      ]
+    },
+    {
+      "id": 171,
+      "page": 4,
+      "category": "text",
+      "text": "d) NOABC",
+      "bbox": [
+        56,
+        604,
+        149,
+        619
+      ]
+    },
+    {
+      "id": 172,
+      "page": 4,
+      "category": "text",
+      "text": "e) XRSDA",
+      "bbox": [
+        56,
+        619,
+        149,
+        635
+      ]
+    },
+    {
+      "id": 173,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        56,
+        559,
+        149,
+        635
+      ]
+    },
+    {
+      "id": 174,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        21,
+        655,
+        194,
+        675
+      ]
+    },
+    {
+      "id": 175,
+      "page": 4,
+      "category": "text",
+      "text": "Existem robos que functionam na agua, no ar e na terra. O Robo Guepardo funciona terra, e O SeaBoxto funciona na agua. Conecte as caracteristicas de cada vez deleite.",
+      "bbox": [
+        202,
+        649,
+        940,
+        697
+      ]
+    },
+    {
+      "id": 176,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        60,
+        714,
+        353,
+        871
+      ]
+    },
+    {
+      "id": 177,
+      "page": 4,
+      "category": "text",
+      "text": "Possui garras paraPEGar  \nobjet",
+      "bbox": [
+        387,
+        714,
+        601,
+        745
+      ]
+    },
+    {
+      "id": 178,
+      "page": 4,
+      "category": "text",
+      "text": "Precisa de parnas para se locomover",
+      "bbox": [
+        384,
+        758,
+        604,
+        788
+      ]
+    },
+    {
+      "id": 179,
+      "page": 4,
+      "category": "text",
+      "text": "Possui quatro patas",
+      "bbox": [
+        409,
+        802,
+        578,
+        818
+      ]
+    },
+    {
+      "id": 180,
+      "page": 4,
+      "category": "text",
+      "text": "Acessa locais profundos no oceano",
+      "bbox": [
+        378,
+        832,
+        609,
+        861
+      ]
+    },
+    {
+      "id": 181,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        639,
+        708,
+        945,
+        872
+      ]
+    },
+    {
+      "id": 182,
+      "page": 4,
+      "category": "text",
+      "text": "Fonle:",
+      "bbox": [
+        56,
+        892,
+        96,
+        902
+      ]
+    },
+    {
+      "id": 183,
+      "page": 4,
+      "category": "text",
+      "text": "https://www.bitmag.com.br/robo-guepardo-sprende-a-corr-azinho-a-alcanca-14-km-h/",
+      "bbox": [
+        56,
+        902,
+        523,
+        912
+      ]
+    },
+    {
+      "id": 184,
+      "page": 4,
+      "category": "text",
+      "text": "https://opeetroe.com.br/roboes-subsequaticos-sao-atraca0-da-15a-marimtec-south-america-no-no-de-janeiro/",
+      "bbox": [
+        56,
+        912,
+        618,
+        922
+      ]
+    },
+    {
+      "id": 185,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        61,
+        945,
+        73,
+        958
+      ]
+    },
+    {
+      "id": 186,
+      "page": 4,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        845,
+        932,
+        940,
+        993
+      ]
+    }
+  ]
+]

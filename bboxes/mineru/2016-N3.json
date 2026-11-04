@@ -1,0 +1,3426 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        79,
+        81,
+        623,
+        105
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBÓTICA 2016",
+      "bbox": [
+        80,
+        107,
+        623,
+        190
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "text",
+      "text": "\\(5^{\\text{a}}\\) e \\(6^{\\text{a}}\\) série ou \\(6^{\\text{o}}\\) e \\(7^{\\text{o}}\\) ano do novo regime do ensino fundamental",
+      "bbox": [
+        91,
+        216,
+        660,
+        235
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        709,
+        68,
+        936,
+        245
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 3",
+      "bbox": [
+        791,
+        269,
+        921,
+        300
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0-100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        45,
+        328,
+        958,
+        519
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        300,
+        574,
+        678,
+        594
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        85,
+        624,
+        258,
+        639
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- España prova content 13 páginas.",
+      "bbox": [
+        85,
+        647,
+        356,
+        663
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Duração da prova: 2 horas.",
+      "bbox": [
+        85,
+        666,
+        327,
+        682
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "A prova delve ser preenchida a caneta.",
+      "bbox": [
+        85,
+        685,
+        419,
+        701
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitado ou uso de calculadoras.",
+      "bbox": [
+        85,
+        705,
+        431,
+        720
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material.",
+      "bbox": [
+        85,
+        724,
+        555,
+        739
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        85,
+        743,
+        463,
+        758
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "- Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        84,
+        762,
+        615,
+        778
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        647,
+        615,
+        778
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "ONEANIZACIO",
+      "bbox": [
+        70,
+        854,
+        85,
+        916
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "EAPQID ",
+      "bbox": [
+        87,
+        861,
+        99,
+        916
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        117,
+        859,
+        184,
+        899
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image_caption",
+      "text": "UNISAMP",
+      "bbox": [
+        117,
+        900,
+        182,
+        908
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        861,
+        288,
+        909
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image_caption",
+      "text": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        328,
+        854,
+        373,
+        864
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        324,
+        865,
+        375,
+        887
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image_caption",
+      "text": "unesp",
+      "bbox": [
+        308,
+        893,
+        391,
+        914
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        393,
+        888,
+        417,
+        904
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        433,
+        861,
+        483,
+        910
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image_caption",
+      "text": "",
+      "bbox": [
+        434,
+        910,
+        482,
+        914
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        856,
+        583,
+        886
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        503,
+        891,
+        528,
+        910
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        532,
+        889,
+        591,
+        910
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        851,
+        636,
+        887
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image_caption",
+      "text": "ohoCup",
+      "bbox": [
+        638,
+        859,
+        690,
+        870
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        614,
+        887,
+        649,
+        915
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        651,
+        889,
+        686,
+        909
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        727,
+        852,
+        780,
+        878
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "image_caption",
+      "text": "CAPES",
+      "bbox": [
+        729,
+        879,
+        776,
+        885
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        704,
+        891,
+        731,
+        915
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "image_caption",
+      "text": "CNPq",
+      "bbox": [
+        734,
+        891,
+        804,
+        910
+      ]
+    },
+    {
+      "id": 38,
+      "page": 0,
+      "category": "text",
+      "text": "Ministão de",
+      "bbox": [
+        876,
+        853,
+        928,
+        861
+      ]
+    },
+    {
+      "id": 39,
+      "page": 0,
+      "category": "text",
+      "text": "\\( \\therefore \\overrightarrow{AB} \\cdot  \\overrightarrow{AC} = 0 \\)",
+      "bbox": [
+        845,
+        862,
+        928,
+        868
+      ]
+    },
+    {
+      "id": 40,
+      "page": 0,
+      "category": "text",
+      "text": "特此公告。",
+      "bbox": [
+        876,
+        871,
+        928,
+        877
+      ]
+    },
+    {
+      "id": 41,
+      "page": 0,
+      "category": "text",
+      "text": "（2023）苏0583民初123号",
+      "bbox": [
+        876,
+        878,
+        928,
+        883
+      ]
+    },
+    {
+      "id": 42,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        816,
+        889,
+        928,
+        909
+      ]
+    },
+    {
+      "id": 43,
+      "page": 0,
+      "category": "text",
+      "text": "A",
+      "bbox": [
+        816,
+        910,
+        928,
+        914
+      ]
+    },
+    {
+      "id": 44,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        371,
+        956,
+        628,
+        968
+      ]
+    }
+  ],
+  [
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "1. Sistemas automaticos utilizeam sensores para colocar informacoes do ambiente e executar atividades de acordo com o acontecimiento desses dados. As seguients tarefas poder ser realizadas por sistemas automaticos:",
+      "bbox": [
+        91,
+        65,
+        908,
+        116
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "(I) Alertar um deficiente visual de que ha um obstaculo em seu caminho;",
+      "bbox": [
+        122,
+        132,
+        710,
+        148
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "(II) Reproduzir MPEGas de ninar assim que a lampada do quarto do bebe se apagar;",
+      "bbox": [
+        122,
+        149,
+        790,
+        166
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "(III) Acender um sinai luminoso quando a sala de espera de um centro medico estiver comível de ruido maior que o recomendedo;",
+      "bbox": [
+        122,
+        166,
+        901,
+        197
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "(IV) Diferenciar graos de café torrados e não torrados;",
+      "bbox": [
+        122,
+        198,
+        558,
+        215
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "(V) Encher a vasilha de raçao quando um cachorro subir sobre uma plataforma.",
+      "bbox": [
+        122,
+        215,
+        757,
+        233
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        132,
+        901,
+        233
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "Considerando que cada sensor sera o mais indicado para auxiliar em umaunjica tarefa,indique a sequencia de senores que auxiliariam na conduccao das tarefas (I), (II), (III), (IV) e (V), respectively.",
+      "bbox": [
+        122,
+        248,
+        908,
+        298
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "a. toque, luz, som, distancia, cor.",
+      "bbox": [
+        122,
+        321,
+        395,
+        338
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "b. distancia, luz, som, cor, toque.",
+      "bbox": [
+        122,
+        344,
+        395,
+        361
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "c. cor, luz, som, toque, distancia.",
+      "bbox": [
+        122,
+        369,
+        395,
+        385
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "d. som, distancia, toque, luz, cor.",
+      "bbox": [
+        122,
+        391,
+        395,
+        407
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "e. distancia, cor, som, luz, toque.",
+      "bbox": [
+        122,
+        415,
+        395,
+        431
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        321,
+        395,
+        431
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "2. Um rob como rodas corregua um lápis que rísa o chão quando o robó realiza um perçu. A seguente lista de commandosuído não ao robé.",
+      "bbox": [
+        89,
+        497,
+        908,
+        532
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "(A) Vá em frrente 4 metros;",
+      "bbox": [
+        122,
+        547,
+        343,
+        564
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "(B) Vire 90 graus para a direita;",
+      "bbox": [
+        122,
+        565,
+        375,
+        581
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "(C) Vá em fronte 2 metros;",
+      "bbox": [
+        122,
+        582,
+        343,
+        597
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "(D) Vire 90 graus para a direita;",
+      "bbox": [
+        122,
+        598,
+        380,
+        614
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "(E) Repita os comandos (A), (B) e (C);",
+      "bbox": [
+        122,
+        615,
+        424,
+        631
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "text",
+      "text": "(F) Pare.",
+      "bbox": [
+        122,
+        632,
+        194,
+        647
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        547,
+        424,
+        647
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "text",
+      "text": "O desheno que o robó fãra com o lapise aproximar mais de quando图表 geométrica?",
+      "bbox": [
+        122,
+        664,
+        475,
+        698
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "text",
+      "text": "Qual distancia o robò percorrerào ao realizar esta tarea?",
+      "bbox": [
+        122,
+        698,
+        474,
+        730
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "text",
+      "text": "a. Um quadrado. 16 metros.",
+      "bbox": [
+        122,
+        736,
+        361,
+        754
+      ]
+    },
+    {
+      "id": 70,
+      "page": 1,
+      "category": "text",
+      "text": "b. Um triangulo equilatero. 12 metros.",
+      "bbox": [
+        122,
+        760,
+        438,
+        778
+      ]
+    },
+    {
+      "id": 71,
+      "page": 1,
+      "category": "text",
+      "text": "c. Um triangulo retangulo. 6 metros.",
+      "bbox": [
+        122,
+        784,
+        424,
+        801
+      ]
+    },
+    {
+      "id": 72,
+      "page": 1,
+      "category": "text",
+      "text": "d. Um retangulo. 12 metros.",
+      "bbox": [
+        122,
+        807,
+        361,
+        824
+      ]
+    },
+    {
+      "id": 73,
+      "page": 1,
+      "category": "text",
+      "text": "e. Um pentagonalo. 16 metros.",
+      "bbox": [
+        122,
+        830,
+        370,
+        848
+      ]
+    },
+    {
+      "id": 74,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        736,
+        438,
+        848
+      ]
+    },
+    {
+      "id": 75,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        522,
+        537,
+        883,
+        777
+      ]
+    },
+    {
+      "id": 76,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 77,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/13",
+      "bbox": [
+        905,
+        944,
+        944,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "3. Robos Manipuladores utilize um ferramenta na extremidade do braço para executar determinadas tarefas. Observe as ferrugias a seguir e indique a afirmação correta.",
+      "bbox": [
+        90,
+        65,
+        908,
+        100
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        197,
+        114,
+        455,
+        340
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "image_caption",
+      "text": "PINCA",
+      "bbox": [
+        277,
+        353,
+        348,
+        375
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        568,
+        128,
+        904,
+        325
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "image_caption",
+      "text": "VENTOSA",
+      "bbox": [
+        685,
+        339,
+        793,
+        356
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        215,
+        389,
+        456,
+        655
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        578,
+        416,
+        854,
+        636
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "a. A garra utilize tresrientos de apoyo para capturar um objeto,ensa a ferramenta mais adequada para所提供ar pesados con superficies las, como um video de automóvole.",
+      "bbox": [
+        122,
+        664,
+        907,
+        698
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "b. A ventosa让用户romo de succion de ar para capturar um objeto,sono adequada para suportar objetos pesados con superficies irregulares, como uma escala domestica.",
+      "bbox": [
+        122,
+        714,
+        907,
+        747
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "c. A piçautiliza apesa dos pontos de apoio, sensu a ferramenta mais adequada para captura e posicionamento de peças微量元素 com dimensores uniformes, como uma caixa de remédios.",
+      "bbox": [
+        122,
+        763,
+        907,
+        798
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "d. A ferramenta de solde é adequada para captuar objetos com dimensores circulares e estruturas vazadas, como uma mola.",
+      "bbox": [
+        122,
+        813,
+        907,
+        846
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "e. Todas as ferramentas aparecimentos são adequadas para capturar objetivos de quasiquear dimensoes, peso e superficies.",
+      "bbox": [
+        122,
+        863,
+        905,
+        898
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        664,
+        907,
+        898
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/13",
+      "bbox": [
+        905,
+        945,
+        944,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "4. Quando lavorado en equipo, os robos podem ser communicates entre si por meio de uma codificacao chamada binária, na quando eles os algarmicos 0 e 1 são realizados.",
+      "bbox": [
+        89,
+        65,
+        908,
+        99
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "Uma forma de entender as mensagens binarias é a segunte:",
+      "bbox": [
+        123,
+        105,
+        604,
+        122
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "- Em uma transicao de subida, no meio de um intervalo, deve-se ler o bit 1;",
+      "bbox": [
+        125,
+        128,
+        738,
+        145
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "- Em uma transicao de descida, no meio de um intervalo, deve-se ler o bit 0;",
+      "bbox": [
+        126,
+        146,
+        745,
+        160
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "- Caso a transicao ocorro no limite do intervalo, nao ha interpretacao.",
+      "bbox": [
+        126,
+        162,
+        692,
+        179
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        128,
+        745,
+        179
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "Assim,",
+      "bbox": [
+        123,
+        195,
+        181,
+        211
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        382,
+        220,
+        620,
+        349
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "Considerando o segunte sinal, identifique a mensagem binaria de acordo com a codificacao presente;.",
+      "bbox": [
+        122,
+        377,
+        908,
+        412
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        147,
+        426,
+        907,
+        525
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "a. 10101010101",
+      "bbox": [
+        124,
+        551,
+        269,
+        566
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "b. 01110110111",
+      "bbox": [
+        126,
+        574,
+        268,
+        589
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "c. 10001001111",
+      "bbox": [
+        126,
+        598,
+        268,
+        613
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "d. 11111100000",
+      "bbox": [
+        126,
+        621,
+        270,
+        637
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "e. 01110110000",
+      "bbox": [
+        126,
+        644,
+        270,
+        659
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        551,
+        270,
+        659
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/13",
+      "bbox": [
+        905,
+        944,
+        944,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 111,
+      "page": 4,
+      "category": "title",
+      "text": "5. Read the text bellow:",
+      "bbox": [
+        91,
+        65,
+        299,
+        81
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "title",
+      "text": "PARTS OF A ROBOT",
+      "bbox": [
+        125,
+        99,
+        300,
+        114
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "(Article and image from <http://idahoptv.org/sciencetrek/topics/robots/facts.cfm>)",
+      "bbox": [
+        124,
+        115,
+        802,
+        133
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "\"Robots can be made from a variety of materials including metals and plastics. Most robots are composed of 3 main parts:",
+      "bbox": [
+        124,
+        148,
+        591,
+        198
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "1. The Controller - also known as the \"brain\" which is run by a computer program. Often, the program is very detailed as it gives commands for the moving parts of the robot to follow.",
+      "bbox": [
+        125,
+        205,
+        593,
+        271
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "text",
+      "text": "2. Mechanical parts - motors, pistons, grippers, wheels, and gears that make the robot move, grab, turn, and lift. These parts are usually actuated by air, water, or electricity.",
+      "bbox": [
+        124,
+        278,
+        592,
+        345
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "text",
+      "text": "3. Sensors - to tell the robot about its surroundings. Sensors allow the robot to determine sizes, shapes, space between objects, direction, and other relations and properties of substances. Many robots can even identify the amount of pressure necessary to apply to grab an item without crushing it.",
+      "bbox": [
+        125,
+        352,
+        907,
+        436
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        205,
+        907,
+        436
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        645,
+        159,
+        895,
+        380
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "text",
+      "text": "All of these parts work together to control how the robot operates.\"",
+      "bbox": [
+        124,
+        451,
+        667,
+        469
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "text",
+      "text": "From the text above, it is right to say:",
+      "bbox": [
+        124,
+        485,
+        425,
+        501
+      ]
+    },
+    {
+      "id": 122,
+      "page": 4,
+      "category": "text",
+      "text": "a. Sensors are run by a computer program.",
+      "bbox": [
+        124,
+        509,
+        476,
+        526
+      ]
+    },
+    {
+      "id": 123,
+      "page": 4,
+      "category": "text",
+      "text": "b. Mechanical parts give commands to the brain.",
+      "bbox": [
+        124,
+        531,
+        521,
+        548
+      ]
+    },
+    {
+      "id": 124,
+      "page": 4,
+      "category": "text",
+      "text": "c. The controller sets the behavior of mechanical parts of the robot.",
+      "bbox": [
+        124,
+        555,
+        668,
+        571
+      ]
+    },
+    {
+      "id": 125,
+      "page": 4,
+      "category": "text",
+      "text": "d. Controller, mechanical parts and computers are operated together by the robot.",
+      "bbox": [
+        124,
+        578,
+        785,
+        596
+      ]
+    },
+    {
+      "id": 126,
+      "page": 4,
+      "category": "text",
+      "text": "e. The program of the brain gives commands to the sensors, so the robot can move.",
+      "bbox": [
+        124,
+        601,
+        797,
+        618
+      ]
+    },
+    {
+      "id": 127,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        509,
+        797,
+        618
+      ]
+    },
+    {
+      "id": 128,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 129,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/13",
+      "bbox": [
+        905,
+        945,
+        944,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "6. Paraataro cormo del um robodepomerosutilfita,ola,elsticos et atealgnsparafusos.Existem varidostiposdeparafusoscomoosdàfiguraa seguir:",
+      "bbox": [
+        90,
+        65,
+        906,
+        100
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        95,
+        112,
+        220,
+        202
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "image_caption",
+      "text": "A",
+      "bbox": [
+        143,
+        209,
+        164,
+        224
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        264,
+        113,
+        388,
+        202
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "image_caption",
+      "text": "B",
+      "bbox": [
+        324,
+        209,
+        340,
+        224
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        435,
+        113,
+        557,
+        202
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "image_caption",
+      "text": "C",
+      "bbox": [
+        485,
+        209,
+        504,
+        224
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        606,
+        115,
+        728,
+        202
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "image_caption",
+      "text": "D",
+      "bbox": [
+        651,
+        209,
+        671,
+        224
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        775,
+        114,
+        898,
+        202
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "image_caption",
+      "text": "E",
+      "bbox": [
+        829,
+        209,
+        845,
+        224
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "text",
+      "text": "Cada tipo de parafuso pode ser representado por um símbolo como os desenhos abaixo:",
+      "bbox": [
+        123,
+        248,
+        825,
+        266
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        107,
+        283,
+        216,
+        363
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "image_caption",
+      "text": "1",
+      "bbox": [
+        146,
+        374,
+        160,
+        389
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        278,
+        283,
+        387,
+        360
+      ]
+    },
+    {
+      "id": 145,
+      "page": 5,
+      "category": "image_caption",
+      "text": "2",
+      "bbox": [
+        317,
+        368,
+        333,
+        383
+      ]
+    },
+    {
+      "id": 146,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        451,
+        280,
+        556,
+        356
+      ]
+    },
+    {
+      "id": 147,
+      "page": 5,
+      "category": "image_caption",
+      "text": "3",
+      "bbox": [
+        499,
+        367,
+        514,
+        382
+      ]
+    },
+    {
+      "id": 148,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        621,
+        281,
+        729,
+        358
+      ]
+    },
+    {
+      "id": 149,
+      "page": 5,
+      "category": "image_caption",
+      "text": "4",
+      "bbox": [
+        669,
+        367,
+        686,
+        382
+      ]
+    },
+    {
+      "id": 150,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        787,
+        280,
+        898,
+        358
+      ]
+    },
+    {
+      "id": 151,
+      "page": 5,
+      "category": "image_caption",
+      "text": "5",
+      "bbox": [
+        828,
+        367,
+        844,
+        382
+      ]
+    },
+    {
+      "id": 152,
+      "page": 5,
+      "category": "text",
+      "text": "Além disso, cada tipo de parafuso exige uma ferramenta adequada, como:",
+      "bbox": [
+        123,
+        414,
+        715,
+        432
+      ]
+    },
+    {
+      "id": 153,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        106,
+        449,
+        240,
+        546
+      ]
+    },
+    {
+      "id": 154,
+      "page": 5,
+      "category": "image_caption",
+      "text": "m",
+      "bbox": [
+        161,
+        556,
+        182,
+        569
+      ]
+    },
+    {
+      "id": 155,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        270,
+        449,
+        402,
+        548
+      ]
+    },
+    {
+      "id": 156,
+      "page": 5,
+      "category": "image_caption",
+      "text": "n",
+      "bbox": [
+        320,
+        557,
+        335,
+        569
+      ]
+    },
+    {
+      "id": 157,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        427,
+        449,
+        562,
+        548
+      ]
+    },
+    {
+      "id": 158,
+      "page": 5,
+      "category": "image_caption",
+      "text": "0",
+      "bbox": [
+        483,
+        557,
+        500,
+        569
+      ]
+    },
+    {
+      "id": 159,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        586,
+        450,
+        721,
+        547
+      ]
+    },
+    {
+      "id": 160,
+      "page": 5,
+      "category": "image_caption",
+      "text": "p",
+      "bbox": [
+        643,
+        557,
+        661,
+        572
+      ]
+    },
+    {
+      "id": 161,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        746,
+        450,
+        878,
+        548
+      ]
+    },
+    {
+      "id": 162,
+      "page": 5,
+      "category": "image_caption",
+      "text": "q",
+      "bbox": [
+        802,
+        557,
+        818,
+        572
+      ]
+    },
+    {
+      "id": 163,
+      "page": 5,
+      "category": "text",
+      "text": "Identifique o SYMBOL e a ferramenta adequada para cada parafuso e preencha a tabela com a assocacao corrente.",
+      "bbox": [
+        122,
+        597,
+        905,
+        631
+      ]
+    },
+    {
+      "id": 164,
+      "page": 5,
+      "category": "table",
+      "text": "<table><tr><td>Parafuso</td><td></td><td>B</td><td></td><td></td><td></td></tr><tr><td>Simbolo</td><td></td><td></td><td></td><td>2</td><td></td></tr><tr><td>Ferramenta</td><td>p</td><td></td><td></td><td></td><td></td></tr></table>",
+      "bbox": [
+        125,
+        652,
+        870,
+        733
+      ]
+    },
+    {
+      "id": 165,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 166,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/13",
+      "bbox": [
+        905,
+        947,
+        943,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 167,
+      "page": 6,
+      "category": "text",
+      "text": "7. UmaEmpresa de hortifrutouposui um rob paraeparasasmáicas,bananas e laranas en cestos.Osystemaelynda seguinto forma:as frutas,mosidasmudas,vao passando poruma esteiue;um sensor de cor detecta a cor da fruta e informa ao robotócotico qual e a cor da fruta passando.O robototócotudoverapagara e fruta e colocar no cesto correto.O cesto a direita do robot devera corte asbananas,O cesto a esquedula,máças,e o de trás,laranas.",
+      "bbox": [
+        91,
+        65,
+        909,
+        150
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        248,
+        161,
+        752,
+        446
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "text",
+      "text": "A programação do braço robétrico é dada na segunte forma:",
+      "bbox": [
+        123,
+        481,
+        606,
+        499
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "text",
+      "text": "SE COR = AMARELO,",
+      "bbox": [
+        123,
+        514,
+        307,
+        529
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "text",
+      "text": "ENTAO COLOQUE A FRUTA NO CESTO (1)",
+      "bbox": [
+        123,
+        531,
+        542,
+        549
+      ]
+    },
+    {
+      "id": 172,
+      "page": 6,
+      "category": "text",
+      "text": "SECOR \\(=\\) (2)",
+      "bbox": [
+        123,
+        564,
+        300,
+        581
+      ]
+    },
+    {
+      "id": 173,
+      "page": 6,
+      "category": "text",
+      "text": "ENTAO COLOQUE A FRUTA NO CESTO (3)",
+      "bbox": [
+        123,
+        581,
+        541,
+        598
+      ]
+    },
+    {
+      "id": 174,
+      "page": 6,
+      "category": "text",
+      "text": "SE COR = VERMELHO,",
+      "bbox": [
+        123,
+        614,
+        317,
+        629
+      ]
+    },
+    {
+      "id": 175,
+      "page": 6,
+      "category": "text",
+      "text": "ENTAO COLOQUE A FRUTA NO CESTO (4)",
+      "bbox": [
+        123,
+        631,
+        541,
+        648
+      ]
+    },
+    {
+      "id": 176,
+      "page": 6,
+      "category": "text",
+      "text": "Qual Serbia a ordem correta das palavras que está faltando no�� do commando do robó:",
+      "bbox": [
+        123,
+        664,
+        851,
+        681
+      ]
+    },
+    {
+      "id": 177,
+      "page": 6,
+      "category": "text",
+      "text": "a. (1) de trás; (2) alaranjado; (3) da direita; (4) da esquerda.",
+      "bbox": [
+        123,
+        697,
+        603,
+        713
+      ]
+    },
+    {
+      "id": 178,
+      "page": 6,
+      "category": "text",
+      "text": "b. (1) da direita; (2) alaranjado; (3) deTRS; (4) da esquerda.",
+      "bbox": [
+        123,
+        730,
+        603,
+        747
+      ]
+    },
+    {
+      "id": 179,
+      "page": 6,
+      "category": "text",
+      "text": "c. (1) da esquerda; (2) alaranjado; (3) da direita; (4) deTRS.",
+      "bbox": [
+        123,
+        764,
+        602,
+        780
+      ]
+    },
+    {
+      "id": 180,
+      "page": 6,
+      "category": "text",
+      "text": "d. (1) da direita; (2) vermelho; (3) da esquerda; (4) deTRS.",
+      "bbox": [
+        123,
+        797,
+        595,
+        813
+      ]
+    },
+    {
+      "id": 181,
+      "page": 6,
+      "category": "text",
+      "text": "e. (1) da direita; (2) alaranjado; (3) da esquerda; (4) deTRS.",
+      "bbox": [
+        123,
+        830,
+        603,
+        846
+      ]
+    },
+    {
+      "id": 182,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        697,
+        603,
+        846
+      ]
+    },
+    {
+      "id": 183,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 184,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/13",
+      "bbox": [
+        905,
+        947,
+        944,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 185,
+      "page": 7,
+      "category": "text",
+      "text": "8. Ladaughter participa deun competié de robos mousés con rodas. Os robos devem percorrer umaLINA reta durante 10segundos. O robos que chegarmais longe ganhá a corrida.",
+      "bbox": [
+        89,
+        65,
+        906,
+        99
+      ]
+    },
+    {
+      "id": 186,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        289,
+        106,
+        720,
+        371
+      ]
+    },
+    {
+      "id": 187,
+      "page": 7,
+      "category": "text",
+      "text": "Considerando que todas as rodas gimar na mesma velocidade, se você puder escolher o tamanho da roda do seu robão,QUAL fora rou à robô chegar mais longe?",
+      "bbox": [
+        122,
+        398,
+        907,
+        433
+      ]
+    },
+    {
+      "id": 188,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        129,
+        481,
+        374,
+        650
+      ]
+    },
+    {
+      "id": 189,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        447,
+        477,
+        634,
+        652
+      ]
+    },
+    {
+      "id": 190,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        699,
+        476,
+        911,
+        652
+      ]
+    },
+    {
+      "id": 191,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        241,
+        720,
+        455,
+        874
+      ]
+    },
+    {
+      "id": 192,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        719,
+        776,
+        873
+      ]
+    },
+    {
+      "id": 193,
+      "page": 7,
+      "category": "text",
+      "text": "d.",
+      "bbox": [
+        209,
+        860,
+        228,
+        873
+      ]
+    },
+    {
+      "id": 194,
+      "page": 7,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 195,
+      "page": 7,
+      "category": "page_number",
+      "text": "7/13",
+      "bbox": [
+        904,
+        944,
+        943,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 196,
+      "page": 8,
+      "category": "text",
+      "text": "9. Os seres vivoposuem comportamento e estruturas que possibilitam maior adapcao ao ecossistemas. Alguns robos são construidos com a inteigno de mimetizar estas caracteristicas. Sao chamados robos biomimeticos. Veja os exemplos a seguir a respondera:",
+      "bbox": [
+        90,
+        65,
+        908,
+        117
+      ]
+    },
+    {
+      "id": 197,
+      "page": 8,
+      "category": "text",
+      "text": "EXEMPLO 1:",
+      "bbox": [
+        125,
+        149,
+        232,
+        164
+      ]
+    },
+    {
+      "id": 198,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        93,
+        190,
+        497,
+        310
+      ]
+    },
+    {
+      "id": 199,
+      "page": 8,
+      "category": "image_caption",
+      "text": "(Fonte: Festo/Divulgacao)",
+      "bbox": [
+        94,
+        319,
+        248,
+        333
+      ]
+    },
+    {
+      "id": 200,
+      "page": 8,
+      "category": "text",
+      "text": "EXEMPLO 2:",
+      "bbox": [
+        575,
+        149,
+        681,
+        164
+      ]
+    },
+    {
+      "id": 201,
+      "page": 8,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        557,
+        188,
+        900,
+        336
+      ]
+    },
+    {
+      "id": 202,
+      "page": 8,
+      "category": "text",
+      "text": "Que aplicações podem ser visulmbradas para os robos dos exemplos 1 e 2? (Vocé pode marcar mais de uma alternativa)",
+      "bbox": [
+        122,
+        381,
+        905,
+        414
+      ]
+    },
+    {
+      "id": 203,
+      "page": 8,
+      "category": "text",
+      "text": "a. Os robos dos exemplos 1 e 2 não podem ser construindo,PGA não é posível reproduir ou comportamento de seres vivios, mesmo que parcialmente, em aplicações reais.",
+      "bbox": [
+        123,
+        431,
+        907,
+        466
+      ]
+    },
+    {
+      "id": 204,
+      "page": 8,
+      "category": "text",
+      "text": "b. A relationação harmonica de cooperação mimetizada nos robos do exemple 1 pode ser aplicada ao transporte de equipamentos pesados.",
+      "bbox": [
+        123,
+        481,
+        906,
+        516
+      ]
+    },
+    {
+      "id": 205,
+      "page": 8,
+      "category": "text",
+      "text": "c. O rob o não exemple 2 apareça uma estrutura de locomocção típica de animais invertebrados, podendo ser aplicado exclusivamente em situações que exigem posicaoamento sem conta com outros objetivos.",
+      "bbox": [
+        123,
+        531,
+        905,
+        582
+      ]
+    },
+    {
+      "id": 206,
+      "page": 8,
+      "category": "text",
+      "text": "d. A estuadora de lococondo do robo no eshowe 2 possi de inquezao de areas en terrenos difices e de aseco finalno, podendo ser aplicado a limpeza interna doutes e encanimentos.",
+      "bbox": [
+        123,
+        597,
+        905,
+        632
+      ]
+    },
+    {
+      "id": 207,
+      "page": 8,
+      "category": "text",
+      "text": "e. Os robos do exemplo 1amptonagem uma relacao biomimetica de competicao e, por isso, poder ser aplicados como na montagem de estruturas complexas.",
+      "bbox": [
+        123,
+        647,
+        905,
+        681
+      ]
+    },
+    {
+      "id": 208,
+      "page": 8,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        431,
+        907,
+        681
+      ]
+    },
+    {
+      "id": 209,
+      "page": 8,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 210,
+      "page": 8,
+      "category": "page_number",
+      "text": "8/13",
+      "bbox": [
+        905,
+        947,
+        944,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 211,
+      "page": 9,
+      "category": "text",
+      "text": "10. Dada uma combinacao de senhas, um robó domestico executas suas半导acoes ao longo do dia. ATELAGA SEUINDA a referencia entre as senhas e as半导acoes.",
+      "bbox": [
+        91,
+        65,
+        908,
+        99
+      ]
+    },
+    {
+      "id": 212,
+      "page": 9,
+      "category": "table",
+      "text": "<table><tr><td>SENHA</td><td>ATIVIDADE</td></tr><tr><td>642</td><td>Ligar a cafeteria</td></tr><tr><td>325</td><td>Ligar o alarme</td></tr><tr><td>189</td><td>Desligar o alarme</td></tr><tr><td>962</td><td>Limpar a sala</td></tr><tr><td>732</td><td>Limpar o quarto</td></tr><tr><td>416</td><td>Ligar o forno</td></tr><tr><td>611</td><td>Ligar a区管委会 de lavar</td></tr><tr><td>874</td><td>Desligar o forno</td></tr><tr><td>219</td><td>Ligar a televisão</td></tr><tr><td>156</td><td>Desligar a televisão</td></tr></table>",
+      "bbox": [
+        273,
+        139,
+        723,
+        402
+      ]
+    },
+    {
+      "id": 213,
+      "page": 9,
+      "category": "text",
+      "text": "Para que sua configuração está executada apenso每一天 do余家, está um truque em sua programação: o robho executava as半导has definidas por senhas como quando seira divisado.",
+      "bbox": [
+        121,
+        448,
+        907,
+        496
+      ]
+    },
+    {
+      "id": 214,
+      "page": 9,
+      "category": "text",
+      "text": "De accordo com a tabuela, qual sequencia de Actividades sera executada pelo robo se el for programado com a seguite sequencia de senhas?",
+      "bbox": [
+        122,
+        497,
+        907,
+        532
+      ]
+    },
+    {
+      "id": 215,
+      "page": 9,
+      "category": "text",
+      "text": "732-156-611-189-416-642-962-325-874",
+      "bbox": [
+        124,
+        568,
+        873,
+        591
+      ]
+    },
+    {
+      "id": 216,
+      "page": 9,
+      "category": "text",
+      "text": "a. Limpar o quarto; Desligar a televisio; Ligar a MQquina de lavar; Desligar o alarme; Ligar oorno; Ligar a cafeteria; Limpar a sala; Ligar o alarme.",
+      "bbox": [
+        122,
+        630,
+        907,
+        665
+      ]
+    },
+    {
+      "id": 217,
+      "page": 9,
+      "category": "text",
+      "text": "b. Ligar a teileisao; Limpar o quarto; Ligar a maquina de lavar; Ligar o alarme; Ligar a cafeira.",
+      "bbox": [
+        122,
+        669,
+        898,
+        687
+      ]
+    },
+    {
+      "id": 218,
+      "page": 9,
+      "category": "text",
+      "text": "c. Desligar a televisiono; Limpar a sala; Ligar a cafeteria; Ligar o forno; Ligar a televisiono; Ligar o alarmo; Ligar o quarto; Desligar o forno.",
+      "bbox": [
+        122,
+        693,
+        906,
+        728
+      ]
+    },
+    {
+      "id": 219,
+      "page": 9,
+      "category": "text",
+      "text": "d. Desligar a teilevisao; Ligar a maquina de lavar; Ligar o forno; Limpar a sala; Ligar o alarme.",
+      "bbox": [
+        122,
+        734,
+        875,
+        752
+      ]
+    },
+    {
+      "id": 220,
+      "page": 9,
+      "category": "text",
+      "text": "e. limpar o quarto; Ligar o alarmé; Ligar o fornso; Desiglar a televisão; Ligar a maior de lavar; Desiglar o fornso.",
+      "bbox": [
+        122,
+        756,
+        905,
+        791
+      ]
+    },
+    {
+      "id": 221,
+      "page": 9,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        630,
+        907,
+        791
+      ]
+    },
+    {
+      "id": 222,
+      "page": 9,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        640,
+        961
+      ]
+    },
+    {
+      "id": 223,
+      "page": 9,
+      "category": "page_number",
+      "text": "9/13",
+      "bbox": [
+        899,
+        951,
+        938,
+        966
+      ]
+    }
+  ],
+  [
+    {
+      "id": 224,
+      "page": 10,
+      "category": "text",
+      "text": "11. Para hacer o equilibrio, o fazer um passo de um robô bipede é proporcional o fazer o sua pena, e Dependé quando seu tipo de caminhada. Aabela abixo muito para a reliação entre o fazer um passo e o fazer uma pena da pena do robô para cada tipo de caminhada.",
+      "bbox": [
+        91,
+        65,
+        909,
+        117
+      ]
+    },
+    {
+      "id": 225,
+      "page": 10,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        154,
+        127,
+        404,
+        353
+      ]
+    },
+    {
+      "id": 226,
+      "page": 10,
+      "category": "table",
+      "text": "<table><tr><td>Tipo de caminhada</td><td>Tamanho do passo</td></tr><tr><td>Caminhada lenta</td><td>30%</td></tr><tr><td>Caminhada&lt;rpla&gt;</td><td>50%</td></tr><tr><td>Corrida</td><td>100%</td></tr></table>",
+      "bbox": [
+        465,
+        140,
+        881,
+        269
+      ]
+    },
+    {
+      "id": 227,
+      "page": 10,
+      "category": "text",
+      "text": "Qual distancia aproximada o robdo figura percorrerá se der 15 passos caminhando lentamente?",
+      "bbox": [
+        122,
+        364,
+        898,
+        382
+      ]
+    },
+    {
+      "id": 228,
+      "page": 10,
+      "category": "text",
+      "text": "a. 9 metros.",
+      "bbox": [
+        123,
+        389,
+        237,
+        404
+      ]
+    },
+    {
+      "id": 229,
+      "page": 10,
+      "category": "text",
+      "text": "b. 18 centimetres.",
+      "bbox": [
+        123,
+        412,
+        284,
+        427
+      ]
+    },
+    {
+      "id": 230,
+      "page": 10,
+      "category": "text",
+      "text": "c. 4 metros e 50 centimetres.",
+      "bbox": [
+        123,
+        435,
+        373,
+        451
+      ]
+    },
+    {
+      "id": 231,
+      "page": 10,
+      "category": "text",
+      "text": "d. 60 centimetres.",
+      "bbox": [
+        124,
+        459,
+        285,
+        474
+      ]
+    },
+    {
+      "id": 232,
+      "page": 10,
+      "category": "text",
+      "text": "e. 2 metros e 70 centimetres.",
+      "bbox": [
+        123,
+        483,
+        373,
+        498
+      ]
+    },
+    {
+      "id": 233,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        389,
+        373,
+        498
+      ]
+    },
+    {
+      "id": 234,
+      "page": 10,
+      "category": "text",
+      "text": "12. \"Máquinas dotadas de intellegencia artificial appendren bajo regras muitoproximas das que una persona se submetida, conforme explicá Alexandre Simões, professor de robólica e inteligencia artificial de Unesp (Universidade Estadual Paulista).\" \"Um ser humano appendre por reforço. Então se umacriança coloça a maior no fogo e sente dor, provavelmente não para fazer algo de novo. Mas se ela era uma coia boa e ganha um pirulito, repetétr a acola\", affirma. De sua mesma forma, uma maiorvaquivadordo quando é bem e rouim e, como o tempo, se aperfeçoandão.\"",
+      "bbox": [
+        91,
+        565,
+        907,
+        666
+      ]
+    },
+    {
+      "id": 235,
+      "page": 10,
+      "category": "text",
+      "text": "(Fonte: Texto adaptado de http://tabl.uol.com.br/robos/",
+      "bbox": [
+        574,
+        669,
+        905,
+        683
+      ]
+    },
+    {
+      "id": 236,
+      "page": 10,
+      "category": "text",
+      "text": "De acordo com o texto, é correto affirmar que:",
+      "bbox": [
+        123,
+        699,
+        494,
+        716
+      ]
+    },
+    {
+      "id": 237,
+      "page": 10,
+      "category": "text",
+      "text": "a. Maquinas com inteligencia artificial não sentem por quando colocam a maior no fogo, por istao não capazes de學習。",
+      "bbox": [
+        123,
+        721,
+        905,
+        755
+      ]
+    },
+    {
+      "id": 238,
+      "page": 10,
+      "category": "text",
+      "text": "b. Maquinas con inteligencia artificial se aperfeiçoadas por crianças que gostam de piriluto e, portanto, sempre fazem a coisa certa.",
+      "bbox": [
+        123,
+        761,
+        903,
+        795
+      ]
+    },
+    {
+      "id": 239,
+      "page": 10,
+      "category": "text",
+      "text": "c. Uma crianca que colocao a mao no fogo nao aplende o que é bom ou ruim.",
+      "bbox": [
+        123,
+        801,
+        751,
+        819
+      ]
+    },
+    {
+      "id": 240,
+      "page": 10,
+      "category": "text",
+      "text": "d. Uma crianca e uma maquina com inteligencia artificial aprendem de formas muito differs.",
+      "bbox": [
+        123,
+        824,
+        893,
+        842
+      ]
+    },
+    {
+      "id": 241,
+      "page": 10,
+      "category": "text",
+      "text": "e. Maquinas com integrazione artificiali adegend ao receber un refoço positivo quando executam uma atividade correamente.",
+      "bbox": [
+        123,
+        848,
+        905,
+        881
+      ]
+    },
+    {
+      "id": 242,
+      "page": 10,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        721,
+        905,
+        881
+      ]
+    },
+    {
+      "id": 243,
+      "page": 10,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 244,
+      "page": 10,
+      "category": "page_number",
+      "text": "10/13",
+      "bbox": [
+        896,
+        947,
+        944,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 245,
+      "page": 11,
+      "category": "text",
+      "text": "13. Robocup - Soccer Humanoid League",
+      "bbox": [
+        92,
+        65,
+        417,
+        81
+      ]
+    },
+    {
+      "id": 246,
+      "page": 11,
+      "category": "text",
+      "text": "(Text from http://www.robocup.org/robocup-soccer/humanoid/)",
+      "bbox": [
+        124,
+        82,
+        643,
+        98
+      ]
+    },
+    {
+      "id": 247,
+      "page": 11,
+      "category": "text",
+      "text": "\"In the Humanoid League, autonomous robots with a human-like body plan and human-like senses play soccer against each other. Dynamic walking, running, and kicking the ball while maintaining balance, visual perception of the ball, other players, and the field, self-localization, and team play are among the many research issues investigated in the league. The league is divided in 3 subleagues, according to robot sizes: Teen Size, Kid Size and Adult Size.\"",
+      "bbox": [
+        122,
+        115,
+        907,
+        199
+      ]
+    },
+    {
+      "id": 248,
+      "page": 11,
+      "category": "text",
+      "text": "De accordo com o texto, é correto affirmar que:",
+      "bbox": [
+        123,
+        215,
+        493,
+        232
+      ]
+    },
+    {
+      "id": 249,
+      "page": 11,
+      "category": "text",
+      "text": "a. A Liga de Futebol de Rotobos Humanoides subdividida em 3 sub-ligas de acordo com o tamanho dos robos.",
+      "bbox": [
+        122,
+        238,
+        903,
+        270
+      ]
+    },
+    {
+      "id": 250,
+      "page": 11,
+      "category": "text",
+      "text": "b. Na Liga de Futebol de Robos Humanoides, robos jogam futebol contra humanos.",
+      "bbox": [
+        122,
+        279,
+        800,
+        295
+      ]
+    },
+    {
+      "id": 251,
+      "page": 11,
+      "category": "text",
+      "text": "C. Na Liga de Futebol de Robos Humanoides, os robos tem conhevenida de sua localização no campos por meu dia comunicaçao com humanos.",
+      "bbox": [
+        122,
+        302,
+        903,
+        333
+      ]
+    },
+    {
+      "id": 252,
+      "page": 11,
+      "category": "text",
+      "text": "d. Manter o equilibrio quando corre ou chutam uma boa são preocupacoes das crianças que jogam na Liga de Futebol de Robos Humanoides.",
+      "bbox": [
+        122,
+        342,
+        903,
+        374
+      ]
+    },
+    {
+      "id": 253,
+      "page": 11,
+      "category": "text",
+      "text": "e. Na Liga de Futebol de Robos Humanoides poder jogar crianças, adolescentes e adultos em tres categorias distinctas.",
+      "bbox": [
+        122,
+        382,
+        903,
+        414
+      ]
+    },
+    {
+      "id": 254,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        238,
+        903,
+        414
+      ]
+    },
+    {
+      "id": 255,
+      "page": 11,
+      "category": "text",
+      "text": "14. Um robé está programado para pintar as linhas de um campos de futebol de robos como esqueça a seguir. Para cada quadrado de 10 centímeros de lado, o robó utilizes 100 milíros de tinta.",
+      "bbox": [
+        90,
+        449,
+        903,
+        482
+      ]
+    },
+    {
+      "id": 256,
+      "page": 11,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        102,
+        489,
+        891,
+        768
+      ]
+    },
+    {
+      "id": 257,
+      "page": 11,
+      "category": "text",
+      "text": "Quantos litres de tinta seront utilizados para pintar as linhas do campo se cada quadrado tivesse 20 centímidos de lado?",
+      "bbox": [
+        121,
+        781,
+        903,
+        813
+      ]
+    },
+    {
+      "id": 258,
+      "page": 11,
+      "category": "text",
+      "text": "a. 20 litres e 270 millilitros.",
+      "bbox": [
+        122,
+        820,
+        352,
+        837
+      ]
+    },
+    {
+      "id": 259,
+      "page": 11,
+      "category": "text",
+      "text": "b. 6 litros e 800 mililitros.",
+      "bbox": [
+        122,
+        844,
+        341,
+        859
+      ]
+    },
+    {
+      "id": 260,
+      "page": 11,
+      "category": "text",
+      "text": "c. 27 litres e 200 mililitros.",
+      "bbox": [
+        122,
+        868,
+        350,
+        883
+      ]
+    },
+    {
+      "id": 261,
+      "page": 11,
+      "category": "text",
+      "text": "d. 13 litres e 600 millilitres.",
+      "bbox": [
+        122,
+        891,
+        350,
+        906
+      ]
+    },
+    {
+      "id": 262,
+      "page": 11,
+      "category": "text",
+      "text": "e. 3 litros e 400 mililitros.",
+      "bbox": [
+        122,
+        914,
+        341,
+        929
+      ]
+    },
+    {
+      "id": 263,
+      "page": 11,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        820,
+        352,
+        929
+      ]
+    },
+    {
+      "id": 264,
+      "page": 11,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 265,
+      "page": 11,
+      "category": "page_number",
+      "text": "11/13",
+      "bbox": [
+        896,
+        946,
+        944,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 266,
+      "page": 12,
+      "category": "text",
+      "text": "15. Um robó cartesiano, como o da figura, pode ser utilisé para(desenhar estampas en una=fabrica de tecidos.",
+      "bbox": [
+        91,
+        65,
+        908,
+        96
+      ]
+    },
+    {
+      "id": 267,
+      "page": 12,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        96,
+        109,
+        469,
+        296
+      ]
+    },
+    {
+      "id": 268,
+      "page": 12,
+      "category": "image_caption",
+      "text": "(Fonte: Modificado de http://global.yamaha-motor.com)",
+      "bbox": [
+        182,
+        300,
+        513,
+        313
+      ]
+    },
+    {
+      "id": 269,
+      "page": 12,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        534,
+        108,
+        907,
+        398
+      ]
+    },
+    {
+      "id": 270,
+      "page": 12,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        145,
+        354,
+        376,
+        442
+      ]
+    },
+    {
+      "id": 271,
+      "page": 12,
+      "category": "text",
+      "text": "Considerando a direção de movimento indica pelas setas na figura, qual sequência de instruções formára atessa da direita?",
+      "bbox": [
+        122,
+        464,
+        907,
+        498
+      ]
+    },
+    {
+      "id": 272,
+      "page": 12,
+      "category": "text",
+      "text": "a. SEM TINTA - DIREITA - 3 QUADRADOS  \nCOM TINTA - DIREITA - 1 QUADRADOS  \nCOM TINTA - FRENTE - 1 QUADRADOS  \nCOM TINTA - DIREITA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 3 QUADRADOS  \nCOM TINTA - ESQUERDA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 3 QUADRADOS  \nCOM TINTA - DIREITA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 3 QUADRADOS  \nCOM TINTA - ESQUERDA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 2 QUADRADOS",
+      "bbox": [
+        123,
+        514,
+        524,
+        697
+      ]
+    },
+    {
+      "id": 273,
+      "page": 12,
+      "category": "text",
+      "text": "b. SEM TINTA - DIREITA - 4 QUADRADOS  \nCOM TINTA - FRENTE - 2 QUADRADOS  \nCOM TINTA - DIREITA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 3 QUADRADOS  \nCOM TINTA - DIREITA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 3 QUADRADOS  \nCOM TINTA - DIREITA - 6 QUADRADOS  \nCOM TINTA - TRÁS - 3 QUADRADOS  \nCOM TINTA - ESQUERDA - 6 QUADRADOS  \nCOM TINTA - FRENTE - 2 QUADRADOS",
+      "bbox": [
+        123,
+        730,
+        524,
+        896
+      ]
+    },
+    {
+      "id": 274,
+      "page": 12,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        514,
+        524,
+        896
+      ]
+    },
+    {
+      "id": 275,
+      "page": 12,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 276,
+      "page": 12,
+      "category": "page_number",
+      "text": "12/13",
+      "bbox": [
+        897,
+        947,
+        944,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 277,
+      "page": 13,
+      "category": "text",
+      "text": "c. COM TINTA - DIRETA - 3 QUADRADOS SEM TINTA - FRENTE - 1 QUADRADOS COM TINTA - DIRETA - 6 QUADRADOS SEM TINTA - FRENTE - 2 QUADRADOS COM TINTA - ESQUERDA - 6 QUADRADOS SEM TINTA - FRENTE - 2 QUADRADOS COM TINTA - DIRETA - 6 QUADRADOS SEM TINTA - FRENTE - 2 QUADRADOS COM TINTA - ESQUERDA - 6 QUADRADOS SEM TINTA - FRENTE - 2 QUADRADOS",
+      "bbox": [
+        125,
+        64,
+        524,
+        230
+      ]
+    },
+    {
+      "id": 278,
+      "page": 13,
+      "category": "text",
+      "text": "d. SEM TINTA-FRENTE-13 QUADRADOS SEM TINTA-DIREITA-3 QUADRADOS COM TINTA-DIREITA-1 QUADRADOS COM TINTA-TRAS-2 QUADRADOS COM TINTA-DIREITA-6 QUADRADOS COM TINTA-TRAS-3 QUADRADOS COM TINTA-ESQUERDA-6 QUADRADOS COM TINTA-TRAS-3 QUADRADOS COM TINTA-DIREITA-6 QUADRADOS COM TINTA-TRAS-3 QUADRADOS COM TINTA-ESQUERDA-6 QUADRADOS COM TINTA-TRAS-3 QUADRADOS",
+      "bbox": [
+        125,
+        263,
+        524,
+        463
+      ]
+    },
+    {
+      "id": 279,
+      "page": 13,
+      "category": "text",
+      "text": "e. COM TINTA - DIRETA - 4 QUADRADOS COM TINTA - FRENTE - 1 QUADRADOS COM TINTA - DIRETA - 7 QUADRADOS COM TINTA - FRENTE - 4 QUADRADOS COM TINTA - ESQUERDA - 7 QUADRADOS COM TINTA - FRENTE - 4 QUADRADOS COM TINTA - DIRETA - 7 QUADRADOS COM TINTA - FRENTE - 4 QUADRADOS COM TINTA - ESQUERDA - 7 QUADRADOS COM TINTA - FRENTE - 3 QUADRADOS",
+      "bbox": [
+        125,
+        496,
+        524,
+        661
+      ]
+    },
+    {
+      "id": 280,
+      "page": 13,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        125,
+        64,
+        524,
+        661
+      ]
+    },
+    {
+      "id": 281,
+      "page": 13,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2016",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 282,
+      "page": 13,
+      "category": "page_number",
+      "text": "13/13",
+      "bbox": [
+        897,
+        947,
+        944,
+        960
+      ]
+    }
+  ]
+]

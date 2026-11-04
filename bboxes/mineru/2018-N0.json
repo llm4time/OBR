@@ -1,0 +1,1116 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        32,
+        952,
+        314
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZão</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        44,
+        319,
+        952,
+        495
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "Instruções aos Professores",
+      "bbox": [
+        320,
+        515,
+        676,
+        536
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        53,
+        576,
+        280,
+        595
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\)Esta prova content 4 páginas;",
+      "bbox": [
+        85,
+        597,
+        375,
+        614
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Duração da prova: 1 hora;",
+      "bbox": [
+        85,
+        617,
+        346,
+        634
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido o uso de calculadoras;",
+      "bbox": [
+        85,
+        638,
+        458,
+        654
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        85,
+        657,
+        598,
+        674
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "Apenas se necessario, leia a quostao para o aluno;",
+      "bbox": [
+        85,
+        677,
+        565,
+        693
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente;",
+      "bbox": [
+        85,
+        697,
+        497,
+        713
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\text{Oriente o aluno na forma de marca da responça, caso ele não está Habitual ao this formato de prova;}\\)",
+      "bbox": [
+        85,
+        717,
+        941,
+        750
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "Permitte que seu aluno demonstre apenas oproprio acontecimiento. Não o auxilie na resolução das quostões.",
+      "bbox": [
+        85,
+        754,
+        941,
+        787
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        597,
+        941,
+        787
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "Atença: Algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        149,
+        790,
+        846,
+        810
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        850,
+        950,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "1. LEIA O CARTUM E MARQUE A RESPOSTA CORRETA.",
+      "bbox": [
+        73,
+        60,
+        476,
+        75
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        319,
+        83,
+        654,
+        268
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "DE ACORDO COM SEU DONO, O ROBDA IMAGEM E UTILIZADO COM MAIS FREQUENCA PARA QUE?",
+      "bbox": [
+        101,
+        276,
+        869,
+        293
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "A) JOGAR FUTEBOLE E EMPINAR PIPA.",
+      "bbox": [
+        72,
+        302,
+        357,
+        316
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "B) MANDAR MENSAGENE ESCUTAR MUSICA.",
+      "bbox": [
+        73,
+        326,
+        428,
+        340
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "C) ESCUTAR MUSICA E DANCAR.",
+      "bbox": [
+        73,
+        348,
+        321,
+        362
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "D) SALVAR O MUNDO E RESGATAR CRIANÇAS.",
+      "bbox": [
+        73,
+        372,
+        420,
+        387
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "E) TOCAR MUSICAS E DANCAR.",
+      "bbox": [
+        73,
+        395,
+        311,
+        409
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        72,
+        302,
+        428,
+        409
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "2. O COMPUTADOR ARMAZENA TEXTE USANO USU NUM CODIGO QUE TRANSFORMA PALAVRAS EN MÉNORES. O UNICOICE MOSTRANDO NO TABELA EUM DOS CODIGOS MAIS POPULARES. USE O GUIA PARA DESCORRIBI O O",
+      "bbox": [
+        73,
+        440,
+        930,
+        487
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        499,
+        343,
+        650
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        387,
+        481,
+        888,
+        664
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "table",
+      "text": "<table><tr><td>65 =</td><td>A</td><td>72 =</td><td>H</td><td>79 =</td><td>O</td><td>86 =</td><td>V</td><td>97 =</td><td>a</td><td>104 =</td><td>h</td><td>111 =</td><td>o</td><td>118 =</td><td>v</td></tr><tr><td>66 =</td><td>B</td><td>73 =</td><td>I</td><td>80 =</td><td>P</td><td>87 =</td><td>W</td><td>98 =</td><td>b</td><td>105 =</td><td>i</td><td>112 =</td><td>p</td><td>119 =</td><td>w</td></tr><tr><td>67 =</td><td>C</td><td>74 =</td><td>J</td><td>81 =</td><td>Q</td><td>88 =</td><td>X</td><td>99 =</td><td>c</td><td>106 =</td><td>j</td><td>113 =</td><td>q</td><td>120 =</td><td>x</td></tr><tr><td>68 =</td><td>D</td><td>75 =</td><td>K</td><td>82 =</td><td>R</td><td>89 =</td><td>Y</td><td>100 =</td><td>d</td><td>107 =</td><td>k</td><td>114 =</td><td>r</td><td>121 =</td><td>y</td></tr><tr><td>69 =</td><td>E</td><td>76 =</td><td>L</td><td>83 =</td><td>S</td><td>90 =</td><td>Z</td><td>101 =</td><td>e</td><td>108 =</td><td>l</td><td>115 =</td><td>s</td><td>122 =</td><td>z</td></tr><tr><td>70 =</td><td>F</td><td>77 =</td><td>M</td><td>84 =</td><td>T</td><td></td><td></td><td>102 =</td><td>f</td><td>109 =</td><td>m</td><td>116 =</td><td>t</td><td></td><td></td></tr><tr><td>71 =</td><td>G</td><td>78 =</td><td>N</td><td>85 =</td><td>U</td><td></td><td></td><td>103 =</td><td>g</td><td>110 =</td><td>n</td><td>117 =</td><td>u</td><td></td><td></td></tr></table>",
+      "bbox": [
+        59,
+        681,
+        941,
+        810
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "A) Wizz, Buzz, Spark",
+      "bbox": [
+        73,
+        825,
+        233,
+        839
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "text",
+      "text": "B) Bnss, bbss, Lyakd",
+      "bbox": [
+        73,
+        849,
+        230,
+        863
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "C) Ctyv, Viss, Lpork",
+      "bbox": [
+        73,
+        871,
+        223,
+        886
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "D) BUZZ, WOZZ, SPORK",
+      "bbox": [
+        73,
+        895,
+        255,
+        909
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "E)BuzZ, wSs, ZiVrk",
+      "bbox": [
+        73,
+        918,
+        227,
+        932
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        73,
+        825,
+        255,
+        932
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        951,
+        616,
+        964
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "page_number",
+      "text": "1",
+      "bbox": [
+        908,
+        947,
+        952,
+        961
+      ]
+    }
+  ],
+  [
+    {
+      "id": 36,
+      "page": 2,
+      "category": "text",
+      "text": "2O ROBO MARE EST EXPERIMENTADO UMA CARCAOA NOVA. MARQUE COM UM X O BRAO DIRETO DO ROBO MARE, NAS DUSAS FIGURES, QUE MOSTRAM O ROBO DE FRENTE E DE COSTAS.",
+      "bbox": [
+        73,
+        59,
+        930,
+        91
+      ]
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        316,
+        103,
+        474,
+        264
+      ]
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        564,
+        102,
+        723,
+        263
+      ]
+    },
+    {
+      "id": 39,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Fonte: robots.dibujos.net",
+      "bbox": [
+        423,
+        277,
+        551,
+        290
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "text",
+      "text": "4. O ROBO JOAO FOI DESMONTAO. AUJE A SUA DONA O ROBO NOVAMENTE, LIGANDO CADA PARTE AO SEU LOCAL CORRETO.",
+      "bbox": [
+        72,
+        298,
+        930,
+        329
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        102,
+        336,
+        354,
+        580
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        423,
+        322,
+        528,
+        565
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        571,
+        328,
+        677,
+        571
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        698,
+        340,
+        866,
+        523
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "5. VAMOS COLORIKO OS ROBOS QUE ESTÁND RICANDO? PINTE O ROBO MAIS À ESQUERDA DE AMARELO, E O ROBO MAIS À DIREITA DE VERMELHO. PARA FINALizar, PINTE O ROBO QUE ESTÁMÁ ACIMA DE AZUL.",
+      "bbox": [
+        73,
+        595,
+        930,
+        626
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        123,
+        632,
+        837,
+        941
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        965
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        924,
+        950,
+        939,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 49,
+      "page": 3,
+      "category": "text",
+      "text": "6. O ROBO DA FIGURA E UM ROBO HUMANOIDE, OU SEIA, EE POSSUI UM CORPO SEMELHANTE OU DE UM SER HUMANO. PINTE DE AZULUS MEMBERS SUPERIORES DO ROBO E DE LARANIA SEUS MEMBERS INFERIORES.",
+      "bbox": [
+        73,
+        59,
+        930,
+        91
+      ]
+    },
+    {
+      "id": 50,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        396,
+        102,
+        600,
+        290
+      ]
+    },
+    {
+      "id": 51,
+      "page": 3,
+      "category": "text",
+      "text": "7. O BRAO MECHANICO DA FIGURA CONSEGE MOVER 1 PECA EM 3 SEGUNDOS. EM QUANTOS SEGUNDOS ESSE BRAO CONSEGE MOVER 14 PEÇAS?",
+      "bbox": [
+        73,
+        304,
+        930,
+        336
+      ]
+    },
+    {
+      "id": 52,
+      "page": 3,
+      "category": "text",
+      "text": "A) 57",
+      "bbox": [
+        74,
+        346,
+        122,
+        362
+      ]
+    },
+    {
+      "id": 53,
+      "page": 3,
+      "category": "text",
+      "text": "B) 14",
+      "bbox": [
+        75,
+        370,
+        121,
+        385
+      ]
+    },
+    {
+      "id": 54,
+      "page": 3,
+      "category": "text",
+      "text": "C) 42",
+      "bbox": [
+        75,
+        393,
+        121,
+        408
+      ]
+    },
+    {
+      "id": 55,
+      "page": 3,
+      "category": "text",
+      "text": "D) 36",
+      "bbox": [
+        75,
+        416,
+        121,
+        431
+      ]
+    },
+    {
+      "id": 56,
+      "page": 3,
+      "category": "text",
+      "text": "E)32",
+      "bbox": [
+        75,
+        440,
+        121,
+        454
+      ]
+    },
+    {
+      "id": 57,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        74,
+        346,
+        122,
+        454
+      ]
+    },
+    {
+      "id": 58,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        448,
+        325,
+        621,
+        442
+      ]
+    },
+    {
+      "id": 59,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Fonle: https://www.cgtrader.com/3d-modelsindustrial/boiindustrial-robot-arm",
+      "bbox": [
+        450,
+        442,
+        834,
+        454
+      ]
+    },
+    {
+      "id": 60,
+      "page": 3,
+      "category": "text",
+      "text": "8. UN ROBO FOI BRINCAR NO PARQUE E PERDEU ALGUMAS DE SUAS PEÇAS. QUANTAS PEÇAS DE CADA FORMA GEOMETRICA ELF REPERDEU",
+      "bbox": [
+        73,
+        478,
+        930,
+        508
+      ]
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        178,
+        520,
+        514,
+        802
+      ]
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        520,
+        520,
+        855,
+        802
+      ]
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Fonte:Adaptado de http://usat.info/rofo-para-colonit/rofo-para-colonir-robsjpg-robo-desenho-colonit",
+      "bbox": [
+        238,
+        805,
+        735,
+        817
+      ]
+    },
+    {
+      "id": 64,
+      "page": 3,
+      "category": "text",
+      "text": "A) 4 CIRCUNFERENCIAS, 2 RETANGULOS, 1 TRIANGULO E 1 QUADRADO.",
+      "bbox": [
+        73,
+        826,
+        617,
+        841
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "B) 3 CIRCUNFERENCIAS, 1 RETANGULO, 2 TRIANGULOS E 2 QUADRADOS.",
+      "bbox": [
+        74,
+        849,
+        623,
+        863
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "text",
+      "text": "C) 3 CIRCUNFERENCIAS, 2 RETANGULOS, 2 TRIANGULOS E 1 QUADRADO.",
+      "bbox": [
+        74,
+        872,
+        623,
+        887
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "D) 4 CIRCUNFERENCIAS, 1 RETANGULO, 1 TRIANGULO E 2 QUADRADOS.",
+      "bbox": [
+        74,
+        894,
+        617,
+        910
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "E) 2 CIRCUNFERENCIAS, 3 RETANGULOS, 2 TRIANGULOS E 1 QUADRADO.",
+      "bbox": [
+        74,
+        918,
+        623,
+        933
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        73,
+        826,
+        623,
+        933
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Robotica 2018",
+      "bbox": [
+        382,
+        952,
+        616,
+        965
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        911,
+        948,
+        946,
+        961
+      ]
+    }
+  ],
+  [
+    {
+      "id": 72,
+      "page": 4,
+      "category": "text",
+      "text": "9. O CRACHA DE CADA ROBO MOSTRA A DATA EM QUE ELE COMEÇU A TRABALHAR. CIRCULE O ROBO QUE COMEÇU A TRABALHAR PRIMEIRO.",
+      "bbox": [
+        73,
+        59,
+        930,
+        91
+      ]
+    },
+    {
+      "id": 73,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        195,
+        117,
+        355,
+        282
+      ]
+    },
+    {
+      "id": 74,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        401,
+        117,
+        560,
+        280
+      ]
+    },
+    {
+      "id": 75,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        608,
+        116,
+        768,
+        278
+      ]
+    },
+    {
+      "id": 76,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        302,
+        298,
+        465,
+        464
+      ]
+    },
+    {
+      "id": 77,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        499,
+        296,
+        668,
+        469
+      ]
+    },
+    {
+      "id": 78,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Fonte:Adaptado de robots.dibujos.net",
+      "bbox": [
+        395,
+        470,
+        585,
+        482
+      ]
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "category": "text",
+      "text": "10. ZEA ESTAVA BRINCANDO COM SEU ROBO QUANDO FOI SUPRRENDIDO POR SEU TIO JORGE. O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD, O TIO DE ZEA FIOLO INDOINGD.",
+      "bbox": [
+        76,
+        497,
+        930,
+        545
+      ]
+    },
+    {
+      "id": 80,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        275,
+        552,
+        427,
+        716
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        463,
+        568,
+        738,
+        716
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Fonto: Estradas de https://www.rolmashop.com.br/producarinho-de-rolima-e-freiro-no-peio-sob-encendora https://www.robel-advance.com/ENiaw-seowee-mip-white-robert-1281.html",
+      "bbox": [
+        215,
+        720,
+        759,
+        742
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "OBSERVE NASE FIGURAS O BRINQUEDO DE ZECA E O DE SEU TIO. QUAL FOI A SEMELHANCA QUE ZECA VIU NOS DOIS BRINQUEDOS?",
+      "bbox": [
+        104,
+        752,
+        928,
+        783
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "text",
+      "text": "A) OS BRINQUEDOS POSSUEM OLHOS.",
+      "bbox": [
+        75,
+        793,
+        370,
+        808
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "text",
+      "text": "B) OS BRINQUEDOS SÃO FEITOS DE MADEIRA.",
+      "bbox": [
+        76,
+        817,
+        424,
+        831
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "text",
+      "text": "C) OS BRINQUEDOS POSSUEM RODAS.",
+      "bbox": [
+        76,
+        840,
+        369,
+        854
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "text",
+      "text": "D) OS BRINQUEDOS POSSUEM BRAÇOS.",
+      "bbox": [
+        76,
+        863,
+        379,
+        877
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "text",
+      "text": "E) OS BRINQUEDOS POSSEUEM FORMATO DE CRIANCA.",
+      "bbox": [
+        76,
+        886,
+        489,
+        901
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        75,
+        793,
+        489,
+        901
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "footer",
+      "text": "Olimpiada Brasileira de Roboica 2018",
+      "bbox": [
+        382,
+        952,
+        615,
+        964
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        924,
+        950,
+        939,
+        960
+      ]
+    }
+  ]
+]

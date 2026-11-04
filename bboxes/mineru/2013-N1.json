@@ -1,0 +1,1226 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        79,
+        69,
+        660,
+        96
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBÓTICA 2013",
+      "bbox": [
+        79,
+        98,
+        695,
+        153
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        695,
+        60,
+        950,
+        223
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "\\(1^{\\circ}, 2^{\\circ}\\) e \\(3^{\\circ}\\) ano do ensino fundamental no regime de 9 anos ou \\(1^{\\circ}\\) e \\(2^{\\circ}\\) série no regime de 8 anos",
+      "bbox": [
+        103,
+        195,
+        633,
+        236
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 1",
+      "bbox": [
+        735,
+        260,
+        910,
+        293
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td>IDENTIFICAZÉO DO ALUNO</td></tr><tr><td>NOME:</td></tr><tr><td>ESCOLA:</td></tr><tr><td>SÉRIÉ/ANO:</td></tr><tr><td>CIDADE:</td></tr><tr><td>ESTADO:</td></tr></table>",
+      "bbox": [
+        45,
+        324,
+        958,
+        536
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        296,
+        571,
+        721,
+        595
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        83,
+        617,
+        295,
+        637
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Este prova content 5 páginas",
+      "bbox": [
+        82,
+        644,
+        397,
+        663
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas",
+      "bbox": [
+        82,
+        666,
+        373,
+        684
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "A prova pode ser preenchida a lápis",
+      "bbox": [
+        82,
+        687,
+        469,
+        706
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        82,
+        709,
+        493,
+        726
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        82,
+        730,
+        651,
+        748
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        82,
+        751,
+        538,
+        770
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "- Apenas se nécessario, leia a question para o aluno",
+      "bbox": [
+        82,
+        773,
+        606,
+        791
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        82,
+        644,
+        651,
+        791
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "ORGANIZAZAO E APOIO",
+      "bbox": [
+        80,
+        858,
+        114,
+        926
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        134,
+        864,
+        223,
+        910
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image_caption",
+      "text": "",
+      "bbox": [
+        127,
+        909,
+        227,
+        916
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        243,
+        865,
+        294,
+        916
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        348,
+        856,
+        400,
+        890
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image_caption",
+      "text": "特别提示",
+      "bbox": [
+        355,
+        891,
+        399,
+        897
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        316,
+        907,
+        400,
+        924
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        433,
+        864,
+        461,
+        890
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        462,
+        865,
+        525,
+        890
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        435,
+        903,
+        463,
+        922
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        464,
+        904,
+        521,
+        922
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        867,
+        631,
+        892
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        555,
+        901,
+        648,
+        924
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        665,
+        867,
+        737,
+        884
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        664,
+        896,
+        737,
+        926
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        765,
+        875,
+        826,
+        899
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image_caption",
+      "text": "FAPCOM ",
+      "bbox": [
+        764,
+        901,
+        826,
+        912
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        857,
+        877,
+        916,
+        893
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Fondre Bernoulli on Combinations 11",
+      "bbox": [
+        857,
+        895,
+        915,
+        909
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "footer",
+      "text": "© Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        354,
+        964,
+        643,
+        978
+      ]
+    }
+  ],
+  [
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "1. Marque com um X as diferencas.",
+      "bbox": [
+        91,
+        65,
+        389,
+        83
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        93,
+        107,
+        495,
+        404
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        506,
+        108,
+        906,
+        404
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "2. Ajude o rob o escolher a mao ideal para cada peça ligando com uma LINHA a mao com cada peça.",
+      "bbox": [
+        89,
+        464,
+        903,
+        484
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        152,
+        622,
+        493,
+        858
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        551,
+        523,
+        667,
+        881
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        773,
+        523,
+        873,
+        881
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/5",
+      "bbox": [
+        895,
+        944,
+        925,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "3. Ajudo o robò ROBERTO o colacor os parafusos nestrais caixas. Quantos parafusos ROBERTO devecol colocar em caixa样本ando queaisrcaixasdevem convermaaquestudamente deparafusos?",
+      "bbox": [
+        90,
+        65,
+        908,
+        100
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        245,
+        103,
+        891,
+        476
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "text",
+      "text": "4. Pinte os desenhos que ilustram a faldo robó",
+      "bbox": [
+        90,
+        530,
+        491,
+        549
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        214,
+        594,
+        808,
+        925
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "footer",
+      "text": "Olimplada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        962
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/5",
+      "bbox": [
+        894,
+        944,
+        925,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 51,
+      "page": 3,
+      "category": "text",
+      "text": "5. O robozinho precise chegar na esca o 8h. Elle acorda, olha para o relogio e se assista. Por que o robozinho se assista?",
+      "bbox": [
+        90,
+        65,
+        908,
+        99
+      ]
+    },
+    {
+      "id": 52,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        159,
+        115,
+        410,
+        550
+      ]
+    },
+    {
+      "id": 53,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        419,
+        214,
+        730,
+        511
+      ]
+    },
+    {
+      "id": 54,
+      "page": 3,
+      "category": "text",
+      "text": "a.()Porqueeleestátrasadouma hora",
+      "bbox": [
+        122,
+        581,
+        467,
+        596
+      ]
+    },
+    {
+      "id": 55,
+      "page": 3,
+      "category": "text",
+      "text": "b.()Porqueele estáadiantado1hora",
+      "bbox": [
+        123,
+        598,
+        453,
+        613
+      ]
+    },
+    {
+      "id": 56,
+      "page": 3,
+      "category": "text",
+      "text": "c. () Porque ele está atrasado 2 horas",
+      "bbox": [
+        124,
+        615,
+        451,
+        630
+      ]
+    },
+    {
+      "id": 57,
+      "page": 3,
+      "category": "text",
+      "text": "d. () Porque ele está adiantado 2 horas",
+      "bbox": [
+        124,
+        632,
+        461,
+        646
+      ]
+    },
+    {
+      "id": 58,
+      "page": 3,
+      "category": "text",
+      "text": "e. () Porque ele deveria ter chegado na escola 1 hora atras",
+      "bbox": [
+        124,
+        648,
+        615,
+        664
+      ]
+    },
+    {
+      "id": 59,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        581,
+        615,
+        664
+      ]
+    },
+    {
+      "id": 60,
+      "page": 3,
+      "category": "text",
+      "text": "6. Leia a seguinfe frase e responda a pergunta:",
+      "bbox": [
+        90,
+        714,
+        477,
+        730
+      ]
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "category": "text",
+      "text": "\"O rob João foi ao mercado. Não sabia o que comprar. Comprou um robó velho para poder brincar. João entanto brincou àte que o robó velho quebrou. João chorou, chorou, porça do dinheiro que gastou\".",
+      "bbox": [
+        122,
+        731,
+        905,
+        781
+      ]
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "category": "text",
+      "text": "Por que João chorou?",
+      "bbox": [
+        124,
+        781,
+        300,
+        797
+      ]
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "category": "text",
+      "text": "a.()Porqueelefoiaomercado",
+      "bbox": [
+        122,
+        814,
+        401,
+        829
+      ]
+    },
+    {
+      "id": 64,
+      "page": 3,
+      "category": "text",
+      "text": "b. () Porque ele gastou dinheiro e o robó quebrou",
+      "bbox": [
+        124,
+        831,
+        547,
+        846
+      ]
+    },
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "c.（）Porque o robó era velho",
+      "bbox": [
+        125,
+        848,
+        384,
+        862
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "text",
+      "text": "d.（）Porque ele não sabia o que comprar",
+      "bbox": [
+        125,
+        865,
+        477,
+        880
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "e.（）Porque ele nãoedinha dinheiro para comprar o robó",
+      "bbox": [
+        125,
+        881,
+        593,
+        897
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        814,
+        593,
+        897
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/5",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 71,
+      "page": 4,
+      "category": "text",
+      "text": "7. Conte quantas vezes cada forma aparece no robó abaixo?",
+      "bbox": [
+        90,
+        64,
+        586,
+        81
+      ]
+    },
+    {
+      "id": 72,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        134,
+        102,
+        500,
+        375
+      ]
+    },
+    {
+      "id": 73,
+      "page": 4,
+      "category": "text",
+      "text": "a. () 4 CIRCULOS, 3 QUADRADOS, 3 RETANGULOS, 2 TRIANGULOS",
+      "bbox": [
+        124,
+        395,
+        713,
+        412
+      ]
+    },
+    {
+      "id": 74,
+      "page": 4,
+      "category": "text",
+      "text": "b. () 3 CIRCULOS, 3 QUADRADOS, 2 RETANGULOS, 1 TRIANGULOS",
+      "bbox": [
+        126,
+        414,
+        712,
+        428
+      ]
+    },
+    {
+      "id": 75,
+      "page": 4,
+      "category": "text",
+      "text": "c. () 4 CIRCULOS, 2 QUADRADOS, 3 RETANGULOS, 1 TRIANGULOS",
+      "bbox": [
+        127,
+        430,
+        711,
+        445
+      ]
+    },
+    {
+      "id": 76,
+      "page": 4,
+      "category": "text",
+      "text": "d. () 2 CIRCULOS, 3 QUADRADOS, 2 RETANGULOS, 2 TRIANGULOS",
+      "bbox": [
+        127,
+        447,
+        711,
+        462
+      ]
+    },
+    {
+      "id": 77,
+      "page": 4,
+      "category": "text",
+      "text": "e. () 4 CIRCULOS, 2 QUADRADOS, 2 RETANGULOS, 3 TRIANGULOS",
+      "bbox": [
+        127,
+        464,
+        711,
+        479
+      ]
+    },
+    {
+      "id": 78,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        124,
+        395,
+        713,
+        479
+      ]
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "category": "text",
+      "text": "8. Observe as figuras abaixo e pinte as que NAO está presentes no corpo do robô.",
+      "bbox": [
+        88,
+        529,
+        766,
+        546
+      ]
+    },
+    {
+      "id": 80,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        116,
+        568,
+        560,
+        925
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        607,
+        646,
+        914,
+        818
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        356,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/5",
+      "bbox": [
+        894,
+        945,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 84,
+      "page": 5,
+      "category": "text",
+      "text": "9. Um rob sōrveftei tem 12 sorvetes e peculiaris distribui-los en quantias iguais para uma ou maior cianas, sem saber nenhuma. Para quantias cianas ela podar os sorvetes?",
+      "bbox": [
+        91,
+        65,
+        906,
+        100
+      ]
+    },
+    {
+      "id": 85,
+      "page": 5,
+      "category": "text",
+      "text": "a.（）5e8crianças",
+      "bbox": [
+        123,
+        115,
+        304,
+        131
+      ]
+    },
+    {
+      "id": 86,
+      "page": 5,
+      "category": "text",
+      "text": "b.（）2,4e8criangcas",
+      "bbox": [
+        126,
+        133,
+        324,
+        148
+      ]
+    },
+    {
+      "id": 87,
+      "page": 5,
+      "category": "text",
+      "text": "c.（）1,2,3,4,6e12crianças",
+      "bbox": [
+        127,
+        149,
+        395,
+        165
+      ]
+    },
+    {
+      "id": 88,
+      "page": 5,
+      "category": "text",
+      "text": "d. () Somente 12 crianças",
+      "bbox": [
+        127,
+        166,
+        358,
+        182
+      ]
+    },
+    {
+      "id": 89,
+      "page": 5,
+      "category": "text",
+      "text": "e. () Somente 1 cianca",
+      "bbox": [
+        127,
+        183,
+        341,
+        199
+      ]
+    },
+    {
+      "id": 90,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        115,
+        395,
+        199
+      ]
+    },
+    {
+      "id": 91,
+      "page": 5,
+      "category": "text",
+      "text": "10. Actuale,多数 adversitas repetitivas são realizadas por robos. Um desse robos está ilustrado na figura abia quais que as alternativas abixo são realizadas realizadas solo robo da imagen?",
+      "bbox": [
+        92,
+        248,
+        905,
+        283
+      ]
+    },
+    {
+      "id": 92,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        142,
+        314,
+        790,
+        711
+      ]
+    },
+    {
+      "id": 93,
+      "page": 5,
+      "category": "text",
+      "text": "a. ()Mover objetos",
+      "bbox": [
+        123,
+        747,
+        312,
+        764
+      ]
+    },
+    {
+      "id": 94,
+      "page": 5,
+      "category": "text",
+      "text": "b. () Furar a parede",
+      "bbox": [
+        127,
+        765,
+        309,
+        780
+      ]
+    },
+    {
+      "id": 95,
+      "page": 5,
+      "category": "text",
+      "text": "c.（）Segurar objetos",
+      "bbox": [
+        127,
+        782,
+        319,
+        797
+      ]
+    },
+    {
+      "id": 96,
+      "page": 5,
+      "category": "text",
+      "text": "d.（）Limpar um local",
+      "bbox": [
+        128,
+        798,
+        321,
+        813
+      ]
+    },
+    {
+      "id": 97,
+      "page": 5,
+      "category": "text",
+      "text": "e. () Tocar musica",
+      "bbox": [
+        128,
+        815,
+        296,
+        829
+      ]
+    },
+    {
+      "id": 98,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        747,
+        321,
+        829
+      ]
+    },
+    {
+      "id": 99,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 100,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/5",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ]
+]

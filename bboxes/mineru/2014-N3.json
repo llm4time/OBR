@@ -1,0 +1,2226 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        30,
+        958,
+        296
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>Série/ANO:</td><td>NOTA DA PROVA (0-100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        44,
+        301,
+        959,
+        515
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        295,
+        532,
+        720,
+        555
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        85,
+        578,
+        295,
+        596
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "-Esta prova content 8 páginas",
+      "bbox": [
+        85,
+        605,
+        395,
+        623
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- Duração da prova: 3 horas",
+      "bbox": [
+        85,
+        626,
+        372,
+        644
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser preenchida a caneta",
+      "bbox": [
+        85,
+        648,
+        484,
+        665
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido ou uso de calculadoras",
+      "bbox": [
+        85,
+        669,
+        492,
+        686
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        85,
+        690,
+        649,
+        709
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        85,
+        712,
+        538,
+        729
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        85,
+        735,
+        729,
+        753
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        605,
+        729,
+        753
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        774,
+        958,
+        943
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        354,
+        964,
+        642,
+        978
+      ]
+    }
+  ],
+  [
+    {
+      "id": 14,
+      "page": 1,
+      "category": "text",
+      "text": "1. Bob is a new Robot that can travel around the world. He met his friend Tess and told her how his last travel was. Read the conversation below:",
+      "bbox": [
+        90,
+        64,
+        909,
+        96
+      ]
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: What did you do on your last travel?",
+      "bbox": [
+        131,
+        122,
+        455,
+        138
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "text",
+      "text": "Bob: I visited my creator in Japan.",
+      "bbox": [
+        130,
+        147,
+        390,
+        162
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: Did you enjoy your trip?",
+      "bbox": [
+        130,
+        171,
+        361,
+        186
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "Bob: Yes, I did. In fact I did a lot of things that I never do here.",
+      "bbox": [
+        136,
+        195,
+        609,
+        211
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: Really?! What did you do?",
+      "bbox": [
+        130,
+        219,
+        381,
+        235
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "Bob: In the morning I walked along an artificial lake full of mechanical fishes. In the afternoon I watched the new bionic birds and the sunset. And at night I played chess with my creator.",
+      "bbox": [
+        124,
+        244,
+        907,
+        277
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: Did you win?",
+      "bbox": [
+        127,
+        285,
+        274,
+        300
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "Bob: Of course yes. He is excited about it and want me to compete in a world championship. He wants me to train a lot.",
+      "bbox": [
+        127,
+        310,
+        906,
+        342
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: So you think you can do it? I'll cheer for you.",
+      "bbox": [
+        134,
+        351,
+        517,
+        367
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "Bob: Oh I hope so. I just have to practice. Do you want to play with me?",
+      "bbox": [
+        140,
+        376,
+        687,
+        392
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "Tess: I'll try, but I don't have any chance with the future world champion.",
+      "bbox": [
+        136,
+        400,
+        693,
+        416
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "Escolha a(s) alternativa(s) correta(s) com relaço ao texto:",
+      "bbox": [
+        131,
+        434,
+        573,
+        451
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "a. () Bob watched the sunrise at Japan",
+      "bbox": [
+        90,
+        471,
+        408,
+        487
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "text",
+      "text": "b. () Bob visited his creator in Moscow",
+      "bbox": [
+        90,
+        489,
+        408,
+        504
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "text",
+      "text": "c. () To be a champion Bob said he only needs to train",
+      "bbox": [
+        90,
+        508,
+        524,
+        523
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "d. () Tess doubts about Bob winning the chess championship",
+      "bbox": [
+        90,
+        527,
+        573,
+        543
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "e. () Bob didn't win the game against his creator",
+      "bbox": [
+        90,
+        546,
+        481,
+        560
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        471,
+        573,
+        560
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "2. Em um campeonato, um robó, que possui rodas de 2,5 cm de raio,��e percorrer 1,2 m em minha找了a, pegar uma bola e voltar para o mesmo. Sabendo que o trajeto de ia e voltai foi feitoapanas eminha reta, ou sido, o robô não fez curvas,que o robô terminou o percuroso em 5 s,quantas voltas a roda do robó deu a qual sua velocidade MSDa.",
+      "bbox": [
+        88,
+        631,
+        907,
+        699
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "a. () 7,63 volts e 0,85 km/h",
+      "bbox": [
+        89,
+        718,
+        330,
+        734
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "b. () 3,81 volts e 0,24 km/h",
+      "bbox": [
+        90,
+        738,
+        330,
+        753
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "c. () 15,3 volts e 1,7 km/h",
+      "bbox": [
+        90,
+        757,
+        321,
+        771
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "d. () 0,03 voltas e 0,48 km/h",
+      "bbox": [
+        90,
+        775,
+        330,
+        790
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "e. () 48 volts e 1,7 km/h",
+      "bbox": [
+        90,
+        794,
+        307,
+        808
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        718,
+        330,
+        808
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "page_number",
+      "text": "2/8",
+      "bbox": [
+        895,
+        945,
+        924,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 42,
+      "page": 2,
+      "category": "text",
+      "text": "3. Um rob dele domestico é usado paraRAR a soma retangular com 5 metros de comprimento e 2,4 metros de largura. A limpe comoce a n canto da sala indica como \"Partida\" na figura abixo. O robo atravesse a sala na direção do comprimento,indo e voltando conforme indicado pelas setas na figura. Sabendo que o robo tem \\(48\\mathrm{cm}\\) de largura e que leva 30 segundos para percorrer 2,5 metros, en quando tempo a variacao da sala sera conclusa?",
+      "bbox": [
+        88,
+        64,
+        909,
+        150
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "text",
+      "text": "a. () 1 minute",
+      "bbox": [
+        90,
+        169,
+        225,
+        185
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "b. () 2 horas e 30 segundos",
+      "bbox": [
+        91,
+        189,
+        342,
+        204
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "c. () 4 minutos",
+      "bbox": [
+        91,
+        207,
+        230,
+        222
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "text",
+      "text": "d. () 5 minutes",
+      "bbox": [
+        91,
+        226,
+        230,
+        240
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "text",
+      "text": "e. () 6cretos e 48 segundos",
+      "bbox": [
+        91,
+        244,
+        342,
+        259
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        169,
+        342,
+        259
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "(desenho fora de escala)",
+      "bbox": [
+        126,
+        294,
+        315,
+        310
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        471,
+        166,
+        701,
+        475
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "4. As 3 Leis da Robotica enunciadas por Isaac Asimov em seu livre \"EU, ROBÖ\", dizem o segunte:",
+      "bbox": [
+        88,
+        547,
+        839,
+        563
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "1. Lei: Um rob não pode ferir um ser humano ou, por inaço, permitir que um ser humano sobra algo mal;",
+      "bbox": [
+        122,
+        583,
+        907,
+        625
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "28 Lei: um robo微妙 aberrce as ordres que lhe sejam dadas por seres humanos excesso nos casos em que tais ordres entremem en confitto with a Primeira Lei;",
+      "bbox": [
+        122,
+        645,
+        907,
+        679
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "3a Lei: Um robéouve proteger sua proprieté existência de quando tal proteção não entra em conflito com a Primeira ou Segunda Lei.",
+      "bbox": [
+        122,
+        699,
+        907,
+        731
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        583,
+        907,
+        731
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "Considerando as 3 Leis da Robotica, se uma pessoa pedir para um robô se desmontar, o robô delve:",
+      "bbox": [
+        126,
+        750,
+        875,
+        767
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "a. () Ficar parado e se proteger, segundo a 3° Lei",
+      "bbox": [
+        89,
+        786,
+        485,
+        802
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "b. () Desligar-se, segundo a 13 Lei",
+      "bbox": [
+        91,
+        806,
+        370,
+        821
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "c. ( ) Dar uma bronca na pessoas, segudo a \\(2^{\\text{th}}\\) Lei",
+      "bbox": [
+        91,
+        824,
+        487,
+        838
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "d. () Desmontar-se, segundo a 2a Lei",
+      "bbox": [
+        91,
+        842,
+        393,
+        857
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "e. () Nao desmontar-se pois a 3 lei diz que o robo deve proteger sua propria existencia",
+      "bbox": [
+        91,
+        861,
+        779,
+        877
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        786,
+        779,
+        877
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "page_number",
+      "text": "3/8",
+      "bbox": [
+        895,
+        945,
+        924,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 65,
+      "page": 3,
+      "category": "text",
+      "text": "5. Um robó entende o seguidorowninga:",
+      "bbox": [
+        90,
+        64,
+        531,
+        79
+      ]
+    },
+    {
+      "id": 66,
+      "page": 3,
+      "category": "table",
+      "text": "<table><tr><td>ANDE</td><td>CORRA</td><td>PULE</td><td>PEGUE</td><td>CHUTE</td><td>CANTE</td><td>BOLA</td><td>DADO</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+      "bbox": [
+        129,
+        82,
+        816,
+        131
+      ]
+    },
+    {
+      "id": 67,
+      "page": 3,
+      "category": "text",
+      "text": "Joao quer que o robó execute a segunte sequencia de ações:",
+      "bbox": [
+        127,
+        145,
+        571,
+        159
+      ]
+    },
+    {
+      "id": 68,
+      "page": 3,
+      "category": "text",
+      "text": "CHUTE A BOLA; CORRA; PULE; PULE; ANDE; CANTE, PEGUE O DADO E CHUTE A BOLA.",
+      "bbox": [
+        127,
+        161,
+        810,
+        176
+      ]
+    },
+    {
+      "id": 69,
+      "page": 3,
+      "category": "text",
+      "text": "Qual programa está correto?",
+      "bbox": [
+        131,
+        192,
+        345,
+        207
+      ]
+    },
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "a）中中",
+      "bbox": [
+        128,
+        223,
+        442,
+        249
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "text",
+      "text": "中",
+      "bbox": [
+        129,
+        262,
+        448,
+        288
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "中中中",
+      "bbox": [
+        129,
+        301,
+        449,
+        328
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "中中中中中",
+      "bbox": [
+        129,
+        340,
+        453,
+        366
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中",
+      "bbox": [
+        129,
+        379,
+        457,
+        405
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        128,
+        223,
+        457,
+        405
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "6. Os Correiros estão testando uma nova Tecnologia de serviçosutilizando robóus autônomos. As tarefas aseyarseyestadas:",
+      "bbox": [
+        88,
+        439,
+        905,
+        472
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "Tarea 1: Entregar um computer na casa do João. João mora a 3 quarteiros do prédio dos Correiros. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIXA. AUNIX",
+      "bbox": [
+        97,
+        493,
+        907,
+        526
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "Tarea 2: Observe oétritos na acontecido principalis da idade para que os Correiros possam programar suaserahas. O robéouve enviar他们在 doétritos para e escrétrico dos Correiros em tempo real.",
+      "bbox": [
+        97,
+        529,
+        905,
+        561
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "Tarea 3: Entregar una CARTA para a Mariana. Mariana vais passar a tarde no escritario dos Correiros. O robbe dese prefercionar a CARTA de a Mariana enumacka praxima e entregale-la para Mariana.",
+      "bbox": [
+        97,
+        565,
+        905,
+        597
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "text",
+      "text": "Escolha, dentre os robos disponiveis, o robo certify para cada tarefa. Robos disponiveis:",
+      "bbox": [
+        135,
+        616,
+        790,
+        632
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "a. () Tarefa 1: Robo humanoide; Tarefa 2: Veiculo aereo não-tripulado; Tarefa 3: Submarino",
+      "bbox": [
+        88,
+        651,
+        805,
+        666
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "b. () Tarefa 1: Robo molev com rodas; Tarefa 2: Manipulador; Tarefa 3: Humanoide",
+      "bbox": [
+        89,
+        669,
+        740,
+        684
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "text",
+      "text": "c. () Tarefa 1: Robo movel hexapode; Tarefa 2: Submarino; Tarefa 3: Veiculo aereo nao-tripulado",
+      "bbox": [
+        89,
+        687,
+        843,
+        703
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "d. () Tarefa 1: Manipulador; Tarefa 2: Veiculo aereo não-tripulado; Tarefa 3: Robo móvil hexapode",
+      "bbox": [
+        89,
+        707,
+        858,
+        722
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "e. () Tarefa 1: Robo movel com rodas; Tarefa 2: Veiculo aereo nao-tripulado; Tarefa 3: Manipulador",
+      "bbox": [
+        89,
+        725,
+        862,
+        739
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        88,
+        651,
+        862,
+        739
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        269,
+        742,
+        728,
+        915
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(^ { \\text{念} }\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        356,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "page_number",
+      "text": "4/8",
+      "bbox": [
+        894,
+        945,
+        923,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 90,
+      "page": 4,
+      "category": "text",
+      "text": "7. Robaldo é um robó que reside em uma%cda do sertão nordestino que necessita de agua. Etem a missão de, todos os dias buscar agua, para as habitanes, no Rio São Francisco que fica a 10 quolómete de quando e me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me-me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ma me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me m me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mi me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me my me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me te me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me be me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ne me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mes me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me men me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me met me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mir me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mer me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ment me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ME me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me je me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me/me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mo me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me que me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me meg me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ie me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mel me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me我 me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me med me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me re me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me die me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me let me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me yes me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me am me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me le me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ke me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me fe me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me the me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me we me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me a me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me may me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me maybe me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me more me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mot me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mor me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mole me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me ide me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me move me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me mou me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me no me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me e me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me m e me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me ME Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me ME Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me ME Me ME Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me me me Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me Me Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me Me Me me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME ME Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me ME M Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me M Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me ME MO Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Mo Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Ma Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me-me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Me Myassistant",
+      "bbox": [
+        88,
+        63,
+        909,
+        166
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "a. () 750 baldes; 150 Km",
+      "bbox": [
+        89,
+        187,
+        307,
+        203
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "text",
+      "text": "b. () 75 baldes; 750 Km",
+      "bbox": [
+        91,
+        206,
+        297,
+        222
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "text",
+      "text": "c. () 750 baldes; 1500 Km",
+      "bbox": [
+        91,
+        226,
+        310,
+        240
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "text",
+      "text": "d. () 75 baldes; 1500 Km",
+      "bbox": [
+        91,
+        244,
+        300,
+        259
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "e. () 7500 baldes; 200 Km",
+      "bbox": [
+        91,
+        262,
+        310,
+        277
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        187,
+        310,
+        277
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "8. Associe a第一位 coluna (lua algunos不适idos humanos), com a segunda coluna (lua algunos不适idos sensoricos roboticos), relacionando umbas as colunas en relationa a sua funcionalidade:",
+      "bbox": [
+        88,
+        353,
+        909,
+        386
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "1.Visao ( )Acelererometro e Giroscopo",
+      "bbox": [
+        90,
+        408,
+        585,
+        425
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "2. Tato ( ) Microfone e Eletreto",
+      "bbox": [
+        91,
+        427,
+        521,
+        442
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "3. Audiço ( ) Sensor piezoeletrico",
+      "bbox": [
+        91,
+        446,
+        517,
+        460
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "text",
+      "text": "4.Olfato Camera de Video",
+      "bbox": [
+        91,
+        464,
+        495,
+        479
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "5.Senso de Equilibrio Sensor de \\(\\mathrm{CO}_{2}\\) eoutsros gases",
+      "bbox": [
+        91,
+        482,
+        583,
+        497
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        408,
+        585,
+        497
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "text",
+      "text": "9. Em um robó molev (veiculo autônico), foram colocacoes quatre rodas, de diametrosidenticos, equivalentes a \\(80~\\mathrm{mm}\\) cada. As rodas foram connectadas a pares por eixos. Em um dos eixos fai opaclado um pouco motor e um encoder, que mede um 100 pulsos elétricos a cada volta completinga da roa. Ao fazer o robó por um tempo, o Sistema registrou 350 pulsos. Sabendo que o robó desiocu-se em minha reta, sem escarregamento e em um uniquo sentido, escolha a alternativa que melhor beschve a distancia linear (em mm) que ele percorreir.",
+      "bbox": [
+        88,
+        576,
+        909,
+        680
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "a. () 440",
+      "bbox": [
+        90,
+        700,
+        183,
+        716
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "b. () 140",
+      "bbox": [
+        91,
+        719,
+        183,
+        735
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "c. () 280",
+      "bbox": [
+        91,
+        739,
+        183,
+        754
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "text",
+      "text": "d. () 880",
+      "bbox": [
+        91,
+        757,
+        183,
+        772
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "text",
+      "text": "e. ()590",
+      "bbox": [
+        91,
+        775,
+        183,
+        790
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        700,
+        183,
+        790
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "page_number",
+      "text": "5/8",
+      "bbox": [
+        895,
+        945,
+        924,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 113,
+      "page": 5,
+      "category": "text",
+      "text": "10. Um robó é formado por diversos componentes, sentido que os principais são:",
+      "bbox": [
+        90,
+        64,
+        702,
+        80
+      ]
+    },
+    {
+      "id": 114,
+      "page": 5,
+      "category": "text",
+      "text": "-Estrutura mecanica",
+      "bbox": [
+        90,
+        101,
+        253,
+        116
+      ]
+    },
+    {
+      "id": 115,
+      "page": 5,
+      "category": "text",
+      "text": "Sensores",
+      "bbox": [
+        90,
+        120,
+        175,
+        134
+      ]
+    },
+    {
+      "id": 116,
+      "page": 5,
+      "category": "text",
+      "text": "- Atuadores",
+      "bbox": [
+        90,
+        138,
+        186,
+        152
+      ]
+    },
+    {
+      "id": 117,
+      "page": 5,
+      "category": "text",
+      "text": "- Computador e programa de controle.",
+      "bbox": [
+        90,
+        157,
+        388,
+        172
+      ]
+    },
+    {
+      "id": 118,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        101,
+        388,
+        172
+      ]
+    },
+    {
+      "id": 119,
+      "page": 5,
+      "category": "text",
+      "text": "Escolha a alternativa incorrente a respeito dos componentes dos robos:",
+      "bbox": [
+        97,
+        192,
+        631,
+        209
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "text",
+      "text": "a. () Os atuadores, ou motores, poder ser considerados como os@músicos de um robó,sendo que eles são responsveis por fornecer a potência mecanica para a movimentação",
+      "bbox": [
+        89,
+        229,
+        831,
+        263
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "text",
+      "text": "b. () A estrutura meçancia技术支持 a integrazione do robo e é responsavel para suppurar as forças enovolvimento da realização de um trabalho",
+      "bbox": [
+        89,
+        266,
+        790,
+        298
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "c. () Sensores São responsaveis por controlar os motores enviando sinais de controle, como por exemplo, a区内a poder para controlar a movimento de um carro robo",
+      "bbox": [
+        89,
+        301,
+        836,
+        335
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "d. () No comptador é executado o programa com comandos para que o robô possa realizar uma tareça especialica",
+      "bbox": [
+        89,
+        337,
+        815,
+        370
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "e. () Nenhuma das anteriores",
+      "bbox": [
+        89,
+        373,
+        337,
+        389
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        229,
+        836,
+        389
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "11. Muito projetas usam um Arduino para construiir os robos. O Arduino é umPEGuito computador que custa重点领域 de RS 50,00 e pode ser connectado as sensores, motores, e executar programas feitos pelos inventores doros robos. Alguns sensores, conhecidos como analógicos, podem ser ligados ao Arduino e aparecem uma variação de voltagem,indo de 0 até 5 Volts. Paraexample, um senor de temperatura tem na sua saida voltagem que representa a temperatura do comproção de 0,01 Volts para cada grau Celsius de temperatura. Assim,por example, a temperatura de 21 graus érepresentada pela voltagem de 0,21 volts. Indefinamente eses valor de voltagem dos sensores alogicos não podern ser reconhecidos por um computador, de forma que é necessário converter o valor analógico (decimal) para um valor que o computador entende (binário).",
+      "bbox": [
+        89,
+        447,
+        909,
+        602
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "No caso do Arduino, os senores tem suas leituras representadas por \\(2^{10}\\)能满足es binários distinctos,indo o 0 ate \\(2^{10} - 1\\) . Sabendo que O e representado por 0, e SV e representado por \\(2^{10} - 1\\) , qual o valor em decimal da representation interna do Arduino para SV, 2,5V e para 0,21V respectively? (considere o valor maisproximo)",
+      "bbox": [
+        120,
+        622,
+        909,
+        690
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "a. () 1023,511e44",
+      "bbox": [
+        89,
+        709,
+        267,
+        726
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "text",
+      "text": "b. ()5,2,5e0,21",
+      "bbox": [
+        90,
+        729,
+        247,
+        744
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "c. () \\(2^{10}, 2^{5} \\in 0, 21\\)",
+      "bbox": [
+        90,
+        747,
+        253,
+        763
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "d. () 0,2,5∈5",
+      "bbox": [
+        90,
+        766,
+        224,
+        783
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "e. ()512,256e42",
+      "bbox": [
+        90,
+        786,
+        256,
+        802
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        709,
+        267,
+        802
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "page_number",
+      "text": "6/8",
+      "bbox": [
+        894,
+        945,
+        925,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 136,
+      "page": 6,
+      "category": "text",
+      "text": "12.",
+      "bbox": [
+        93,
+        65,
+        119,
+        78
+      ]
+    },
+    {
+      "id": 137,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        172,
+        77,
+        537,
+        242
+      ]
+    },
+    {
+      "id": 138,
+      "page": 6,
+      "category": "title",
+      "text": "Intel preparo robocomepesimpressas em 3D",
+      "bbox": [
+        559,
+        80,
+        871,
+        109
+      ]
+    },
+    {
+      "id": 139,
+      "page": 6,
+      "category": "text",
+      "text": "A Intel announced que até o final do ano devençar lanca-seu robu humanoide, chamaid Jimmy, para o mercado por USS 1,6 mil (cerca de RS 5.70). O preço inclui a novas ferras de até a novas impressas, como baterias, processadores, motores, entre outros. Todas as outras",
+      "bbox": [
+        545,
+        128,
+        882,
+        243
+      ]
+    },
+    {
+      "id": 140,
+      "page": 6,
+      "category": "text",
+      "text": "peças poder ser criadas com uma",
+      "bbox": [
+        523,
+        245,
+        786,
+        259
+      ]
+    },
+    {
+      "id": 141,
+      "page": 6,
+      "category": "text",
+      "text": "impressora 3D, a partir de arquivos disponibilizados gratuito.",
+      "bbox": [
+        150,
+        261,
+        660,
+        277
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "text",
+      "text": "Os robos seront controlados por um chip Edison, de boa custo e gasto de energia, fabricando para Intel, e terao algumas habilidades como andar, fazer e darnar. Eventually, novasopenhagena sido taxadas e instaladas ne Jimmy, fazendo com que es ele evoupos a para montagem initial. O que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é a coisa que é athing.",
+      "bbox": [
+        149,
+        279,
+        882,
+        361
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "text",
+      "text": "Brian David Johnson, da Intel, comparou Jimmy a um \"smartphone com pernas\". \"Seu robó sera Completely différente do meu. Você o customizable é programar à intensità artificial. Não sera necessário ter um PhD em robética, aplena bxair apps\". (...)",
+      "bbox": [
+        149,
+        362,
+        885,
+        412
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "text",
+      "text": "(Figura e trecho do texto extraidos de: http://olhardigital.uol.com.br/. Maio de 2014)",
+      "bbox": [
+        106,
+        444,
+        687,
+        460
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "text",
+      "text": "Com relaço ao texto da reportagem acima, marque as afirmações corretas:",
+      "bbox": [
+        94,
+        477,
+        670,
+        493
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "text",
+      "text": "a. () Cada pessoa que tiver um robó Jimmy poderá personalizá-lo",
+      "bbox": [
+        89,
+        511,
+        607,
+        526
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "text",
+      "text": "b. () As baterias, processadores e outros poderão ser impressas em impressoras 3D",
+      "bbox": [
+        90,
+        530,
+        742,
+        546
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "c. () O robó humanóide da Inteliñ custará cerca de R$ 3.600,00",
+      "bbox": [
+        90,
+        548,
+        577,
+        563
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "d. () O robó humanóide da Intel custará cerca de R$ 1.600,00",
+      "bbox": [
+        90,
+        567,
+        577,
+        582
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "e. () O robó irá evoluir sozinho après a montagem inicial usando inteligência artificial",
+      "bbox": [
+        90,
+        586,
+        748,
+        601
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        511,
+        748,
+        601
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "13. Um robó detetive está tentando Abrir um cofre secreto, que não abre se o robó digitar 3他们在. Cada um dos 3他们在; não se pode ser descoberto ao resolver uma equação. Ajude o robó a resolver as equações abaixo para Abrir o cofre:",
+      "bbox": [
+        89,
+        638,
+        908,
+        688
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "text",
+      "text": "Equacao para descobrir o primeiro numero: \\(5x - 40 = 2 - x\\)",
+      "bbox": [
+        117,
+        709,
+        540,
+        724
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "text",
+      "text": "Equacao para descobrir o segundo numero: 3(x-2) - (1-x) = 13",
+      "bbox": [
+        117,
+        728,
+        583,
+        743
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "Equacao para descobrir o terreiro numero: 5-a-11 = 4a-21",
+      "bbox": [
+        117,
+        746,
+        558,
+        761
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "O Smoke:",
+      "bbox": [
+        94,
+        784,
+        184,
+        799
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "a. ()653",
+      "bbox": [
+        90,
+        821,
+        192,
+        837
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "b. ()075",
+      "bbox": [
+        90,
+        839,
+        191,
+        855
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "c. ()753",
+      "bbox": [
+        90,
+        858,
+        191,
+        874
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "d. ()643",
+      "bbox": [
+        90,
+        877,
+        191,
+        893
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "e. ()752",
+      "bbox": [
+        90,
+        896,
+        191,
+        911
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        821,
+        192,
+        911
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "page_number",
+      "text": "7/8",
+      "bbox": [
+        895,
+        945,
+        924,
+        959
+      ]
+    }
+  ],
+  [
+    {
+      "id": 165,
+      "page": 7,
+      "category": "text",
+      "text": "14. O robé PR2 (foto) é capaz de buscar um suco na geladeira, obedecer commandos de voz, jogar jogo de sinica, dormar roupas, buscar lanches enuma lanchonete, alem de muito maior.",
+      "bbox": [
+        89,
+        64,
+        906,
+        96
+      ]
+    },
+    {
+      "id": 166,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        272,
+        99,
+        747,
+        288
+      ]
+    },
+    {
+      "id": 167,
+      "page": 7,
+      "category": "text",
+      "text": "Para configurar, o PR2 possuções que obtém他们在 do ambiente e as armazenam em sua memória interna. Se cada Foto tirada pelo PR2 ocupa 18874368 bytes de memória, quantasotosele pode armazenar em sua memória interna de 24GB?",
+      "bbox": [
+        112,
+        321,
+        907,
+        370
+      ]
+    },
+    {
+      "id": 168,
+      "page": 7,
+      "category": "text",
+      "text": "(marque a quantia mais proxima do valor que pode ser armazenado)",
+      "bbox": [
+        115,
+        374,
+        637,
+        390
+      ]
+    },
+    {
+      "id": 169,
+      "page": 7,
+      "category": "text",
+      "text": "a. () Aproximamente 1365 fotos",
+      "bbox": [
+        89,
+        409,
+        378,
+        426
+      ]
+    },
+    {
+      "id": 170,
+      "page": 7,
+      "category": "text",
+      "text": "b. () Aproximadamente 1333 fotos",
+      "bbox": [
+        91,
+        429,
+        378,
+        444
+      ]
+    },
+    {
+      "id": 171,
+      "page": 7,
+      "category": "text",
+      "text": "c. () Aproximamente 666otos",
+      "bbox": [
+        91,
+        447,
+        370,
+        461
+      ]
+    },
+    {
+      "id": 172,
+      "page": 7,
+      "category": "text",
+      "text": "d. () Aproximadamente 1000 fotos",
+      "bbox": [
+        91,
+        465,
+        378,
+        481
+      ]
+    },
+    {
+      "id": 173,
+      "page": 7,
+      "category": "text",
+      "text": "e. () Aproximadamente 1270 fotos",
+      "bbox": [
+        91,
+        485,
+        378,
+        500
+      ]
+    },
+    {
+      "id": 174,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        409,
+        378,
+        500
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "text",
+      "text": "15. Os especialistas affirmam que at2020 cada casa tera uma impressora 3D, capaz de imprimir objetivos. Alguns accreditation that não sera necessario comprar peças de plácico, decorações ou outros itenos do dia-a-día. Os interessados somente precisarsem esahor ou bairao da Internet o desenvso do documento deposicao e imprimir-lo em poucos minutos, sem precisar sase da casa. A arealde de travailho de uma impressora 3D é em germal um cubo. Uma certa impressora temarea de travailho em forma de cubo, com largura de 7cm. Qual o maior volume que esta impressora 3D pode imprimir?",
+      "bbox": [
+        89,
+        554,
+        907,
+        676
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "text",
+      "text": "a. ( ) 7cm",
+      "bbox": [
+        89,
+        703,
+        191,
+        718
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "text",
+      "text": "b. () \\(35\\mathrm{cm}^3\\)",
+      "bbox": [
+        91,
+        724,
+        207,
+        739
+      ]
+    },
+    {
+      "id": 178,
+      "page": 7,
+      "category": "text",
+      "text": "c.（）49cm³",
+      "bbox": [
+        91,
+        743,
+        206,
+        758
+      ]
+    },
+    {
+      "id": 179,
+      "page": 7,
+      "category": "text",
+      "text": "d. () 343 cm³",
+      "bbox": [
+        91,
+        761,
+        215,
+        776
+      ]
+    },
+    {
+      "id": 180,
+      "page": 7,
+      "category": "text",
+      "text": "e. () 343 cm²",
+      "bbox": [
+        91,
+        780,
+        215,
+        795
+      ]
+    },
+    {
+      "id": 181,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        703,
+        215,
+        795
+      ]
+    },
+    {
+      "id": 182,
+      "page": 7,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        946,
+        637,
+        960
+      ]
+    },
+    {
+      "id": 183,
+      "page": 7,
+      "category": "page_number",
+      "text": "8/8",
+      "bbox": [
+        894,
+        945,
+        923,
+        959
+      ]
+    }
+  ]
+]

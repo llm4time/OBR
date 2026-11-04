@@ -1,0 +1,2994 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        417,
+        70,
+        592,
+        183
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "Modalidade Teorica",
+      "bbox": [
+        255,
+        200,
+        743,
+        236
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "text",
+      "text": "OLIMPIADA BRASILEIRA DE RBOBOTICA",
+      "bbox": [
+        176,
+        273,
+        406,
+        290
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "#OBR 2023 TAPAPANATIONAL 0810.1810",
+      "bbox": [
+        175,
+        291,
+        899,
+        341
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 3 - FASE 1 - 6° e 7° ANOS DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        82,
+        382,
+        929,
+        406
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table_caption",
+      "text": "IDENTIFICAZAO",
+      "bbox": [
+        405,
+        441,
+        593,
+        463
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIÉ/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        64,
+        467,
+        936,
+        630
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        298,
+        651,
+        700,
+        671
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        72,
+        688,
+        279,
+        706
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Este prova contém 8 páginas e 15 questões;",
+      "bbox": [
+        75,
+        719,
+        492,
+        736
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas;",
+      "bbox": [
+        75,
+        737,
+        338,
+        752
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        75,
+        754,
+        443,
+        769
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulta a qualquer tipo de material;",
+      "bbox": [
+        75,
+        770,
+        583,
+        785
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        75,
+        786,
+        484,
+        800
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "- Oriente os alunos se as respostas das quostões devem ser marcadas na prova ou na Folha de Respostas",
+      "bbox": [
+        75,
+        802,
+        914,
+        835
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        75,
+        719,
+        914,
+        835
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "footer",
+      "text": "Realização",
+      "bbox": [
+        30,
+        865,
+        127,
+        881
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        32,
+        888,
+        105,
+        933
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "footer",
+      "text": "UNICAMP",
+      "bbox": [
+        32,
+        936,
+        104,
+        946
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        115,
+        888,
+        174,
+        930
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "footer",
+      "text": "COTUCA",
+      "bbox": [
+        107,
+        934,
+        180,
+        946
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "footer",
+      "text": "Apoio",
+      "bbox": [
+        193,
+        869,
+        241,
+        881
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "footer",
+      "text": "ERN",
+      "bbox": [
+        186,
+        888,
+        307,
+        910
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "footer",
+      "text": "INSTITUTIONAL FEDERAL",
+      "bbox": [
+        305,
+        896,
+        379,
+        905
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "footer",
+      "text": "华",
+      "bbox": [
+        305,
+        918,
+        348,
+        948
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "footer",
+      "text": "UFG",
+      "bbox": [
+        393,
+        892,
+        462,
+        910
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "footer",
+      "text": "GOVERINO DA PARABA",
+      "bbox": [
+        384,
+        925,
+        475,
+        946
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        478,
+        879,
+        515,
+        907
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "footer",
+      "text": "ROB",
+      "bbox": [
+        478,
+        900,
+        513,
+        916
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "footer",
+      "text": "RoboCup",
+      "bbox": [
+        528,
+        882,
+        605,
+        907
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "footer",
+      "text": "。",
+      "bbox": [
+        528,
+        900,
+        541,
+        916
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "footer",
+      "text": "Cup Cup",
+      "bbox": [
+        552,
+        882,
+        686,
+        907
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "footer",
+      "text": "u",
+      "bbox": [
+        695,
+        888,
+        755,
+        907
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "footer",
+      "text": "unesp",
+      "bbox": [
+        773,
+        890,
+        861,
+        909
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "footer",
+      "text": "1",
+      "bbox": [
+        882,
+        893,
+        896,
+        902
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "footer",
+      "text": "PETROBAS",
+      "bbox": [
+        899,
+        893,
+        974,
+        902
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "footer",
+      "text": "FNDCT",
+      "bbox": [
+        780,
+        927,
+        862,
+        941
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "footer",
+      "text": "中国证券報",
+      "bbox": [
+        894,
+        927,
+        956,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 38,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        35,
+        53,
+        191,
+        75
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "O Tesla Bot. um robo humanode  \nA new version of the originality revealed do o evento",
+      "bbox": [
+        205,
+        43,
+        566,
+        92
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Al Day da Empresa en 2022. Naquelle asociado, apenas una version desmontada do robò foi mostra, que mal consuya para certains passos à feste, muito menos realizar tarefasManuals no palco.",
+      "bbox": [
+        55,
+        92,
+        566,
+        158
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "Posterioramente, uma versão maisowitz como o Modelo de produção é xibida, mas está fixada em um superte e está capaz de ser a platéia. Agora, a Testa é a novidade do que é a novidade do que é a novidade do que é a novidade das vezes com a capacidade de se movementar de maneira.",
+      "bbox": [
+        55,
+        158,
+        566,
+        239
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "autonoma, ainda que em um ritmo mais lento.",
+      "bbox": [
+        56,
+        240,
+        393,
+        271
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "Font: https://www.leandro.com/mc/mercad/294211-odibio/  \nFont: https://www.leandro.com/mc/mercad/294211-odibio/  \nFont: https://www.leandro.com/mc/mercad/kymer-st-day-07-07",
+      "bbox": [
+        56,
+        272,
+        387,
+        311
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "Suponha que o Tesla Bot se movimenta quando areta apareceu ao lado. De como com as coordenas cartesian, indica os pontos \\((x,y)\\) de particia e de chegada:",
+      "bbox": [
+        55,
+        327,
+        393,
+        426
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "a) (2,2) e (8,8)",
+      "bbox": [
+        87,
+        442,
+        233,
+        459
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "b) (0,2) e (3,8)",
+      "bbox": [
+        89,
+        459,
+        227,
+        475
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "c) (1,1) e (9,3)",
+      "bbox": [
+        89,
+        476,
+        228,
+        491
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "d) \\((0,0)\\in (6,6)\\)",
+      "bbox": [
+        89,
+        492,
+        228,
+        508
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "e) (2,0) e (8,3)",
+      "bbox": [
+        89,
+        509,
+        228,
+        526
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        442,
+        233,
+        526
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        578,
+        42,
+        963,
+        246
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        410,
+        250,
+        978,
+        543
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        34,
+        580,
+        195,
+        604
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "As aplicações industriais com robos segue minha idade bem diversificadas, na grande rede de",
+      "bbox": [
+        204,
+        573,
+        528,
+        623
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "varejos Alibaba, eles会展cem a functorial con os propíncios do seguidor de linha, sentido responsveis能找到 energia do estoque. eles managed as prateléiras de produits dentro do estoque por meio de orientação de faixas no chão. Poussuem a frequência de transporte os materiais de um lugar para除外,ária para reajustar o estoque ou para fazer para umaarea de exportação.",
+      "bbox": [
+        55,
+        623,
+        529,
+        753
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "Fonte:https://portail.vidasesilico.com.bnrobo-seguidor-do-lnha/",
+      "bbox": [
+        56,
+        753,
+        395,
+        764
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "Um robò seguebine novo consqueozyarrotarumcarga de até 580 kg.Porém,com o passar dos anos.",
+      "bbox": [
+        56,
+        765,
+        528,
+        796
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "text",
+      "text": "seu Sistema mecánico vial ficando desgastado e supportando unaarga caía vez menor. Sabendo por suerte, el asesso robó seconce carregar \\(75\\%\\) daarga incaí, cuales gramas esse robósensecarregar?",
+      "bbox": [
+        55,
+        796,
+        940,
+        845
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        541,
+        570,
+        957,
+        793
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "a) 435",
+      "bbox": [
+        87,
+        862,
+        157,
+        878
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "b) 435000",
+      "bbox": [
+        89,
+        879,
+        190,
+        893
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "text",
+      "text": "c) 145000",
+      "bbox": [
+        89,
+        895,
+        190,
+        910
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "d) 145",
+      "bbox": [
+        89,
+        911,
+        156,
+        926
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "e) 750",
+      "bbox": [
+        89,
+        928,
+        156,
+        944
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        862,
+        190,
+        944
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        41,
+        974,
+        53,
+        986
+      ]
+    }
+  ],
+  [
+    {
+      "id": 67,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        35,
+        53,
+        195,
+        75
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "Ao longo dos ultimos anos, o sete de um novo é a principal parte de as Investimentos em inovacao, desde",
+      "bbox": [
+        205,
+        44,
+        551,
+        93
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "impressoras 3D, drones e até mesmo robos está通過 insertados naestruturacivil. Autilização dessas technologiaselem deutilizar eproporcionarajuldade neissosteque, contribui para os projetos ganharemformasdifferentes, como a可能性 dacriação depareados curvas.",
+      "bbox": [
+        55,
+        92,
+        551,
+        189
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        561,
+        42,
+        945,
+        195
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "Fonte:https://overbr.com.br/ataisidasres-roos-na-construcao-civil-ja-e-realidade",
+      "bbox": [
+        55,
+        190,
+        480,
+        201
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Dois robos empílhamadores trablabl umtos em uma construcção para levantar uma)carga que deveser levada o segundo andar do predo. A carga é composta por 10 sacos de cimento, 5 sacos de areia e 10 baras de ferro. O robos 1 leva apenas os sacos de cimento, enquanto o robos 2 leva a cima de areia e a cima de ferro. O robos 2 leva a cima de areia e a cima de ferroPGA 2 kg o e saço de cimento pesa 2,5kg, qai a massa do saco de areia?",
+      "bbox": [
+        54,
+        201,
+        941,
+        282
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "a) \\(500\\mathrm{g}\\)",
+      "bbox": [
+        87,
+        283,
+        173,
+        299
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "text",
+      "text": "b) \\(1\\mathrm{kg}\\)",
+      "bbox": [
+        87,
+        300,
+        161,
+        315
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "c) \\(1,5\\mathrm{kg}\\)",
+      "bbox": [
+        87,
+        315,
+        177,
+        331
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "d) \\(2\\mathrm{kg}\\)",
+      "bbox": [
+        87,
+        332,
+        161,
+        348
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "e) \\(2,5\\mathrm{kg}\\)",
+      "bbox": [
+        87,
+        348,
+        177,
+        365
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        283,
+        177,
+        365
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        35,
+        390,
+        195,
+        412
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "text",
+      "text": "Robos baseados na velho, mas não tem a chance para ser uma solucao",
+      "bbox": [
+        204,
+        381,
+        458,
+        430
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "text",
+      "text": "eficaz para o resgate de vilmas de desastres naturais, como terremotos. Essa Tecnologia é far esenviolada por alegre expresso de meus meios e georgicos Georgia, nos EUA, a ideia se base no",
+      "bbox": [
+        55,
+        430,
+        458,
+        511
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        469,
+        380,
+        945,
+        506
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "text",
+      "text": "movimento da centoieias, ja que os arropodes possem diferências na sua movimentação que Ihes garanto determinada vantageamento para se locomover em locals desolados por um terremoto.",
+      "bbox": [
+        55,
+        512,
+        941,
+        544
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "Fonla: htps:/ww.tecmundo.com.brciencia/263761-robos-centopeia-nova-technologia-salvar-ppssas-terremotos.htm",
+      "bbox": [
+        55,
+        544,
+        677,
+        554
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "Um terremoltoppe desencadeur autres desastreurs naturais,e por isso o robce centopoidea sever ser adaptado para se locomover en ambientes hostis,que possouSDKrasteosco:",
+      "bbox": [
+        55,
+        555,
+        941,
+        588
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "a) Espaço inundados, devido a tsunamis",
+      "bbox": [
+        85,
+        603,
+        474,
+        619
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "b) Altas temperatas, devido oefeito estufa",
+      "bbox": [
+        86,
+        620,
+        495,
+        636
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "c) Fortes chivas, devido à mudança climática",
+      "bbox": [
+        86,
+        637,
+        509,
+        653
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "d) Chuva de granizo, devido as altas temperatas",
+      "bbox": [
+        86,
+        653,
+        550,
+        669
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "text",
+      "text": "e) Neve, devido as baixas temperatas",
+      "bbox": [
+        86,
+        670,
+        455,
+        685
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        603,
+        550,
+        685
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        35,
+        710,
+        195,
+        732
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "Um inventor besteht einer robó que seja capaz de caminhar, corre e conversar con pessoas. O objevtivo é proporcional que o robó soit capaz de realizar uma grande interação com seres",
+      "bbox": [
+        204,
+        701,
+        769,
+        751
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "text",
+      "text": "humanos, principales crianías, tendo en vista que seu objetivo è fazer con que elas se intersectenPLLánea de robotica eveal a technologia con及其他 osds. Dessa forma, o robó delve ser semelhante a um ser humano, ou seja, deterve ser humanóle, e tanto sua programação quando sua montagem vem de ser humano. Qual alternatively representa os sistemas do corporo humano que devem servir de inspiração para que o robó facá as半导vas deideas)?",
+      "bbox": [
+        54,
+        751,
+        769,
+        865
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "text",
+      "text": "a) Sistemas muscular, endocrino e digestario",
+      "bbox": [
+        85,
+        866,
+        502,
+        882
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "text",
+      "text": "b) Sistemas endocrino, nervoso e cardiovascular",
+      "bbox": [
+        85,
+        883,
+        534,
+        898
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "text",
+      "text": "c) Sistemas sensorial, muscular nervoso",
+      "bbox": [
+        86,
+        899,
+        479,
+        914
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "d) Sistemas linfático, reproducor e muscular",
+      "bbox": [
+        86,
+        915,
+        488,
+        931
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "e) Sistemas esquelético, digestório e urinário",
+      "bbox": [
+        86,
+        932,
+        501,
+        948
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        866,
+        534,
+        948
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        808,
+        694,
+        957,
+        848
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        35,
+        969,
+        48,
+        982
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        944,
+        969,
+        1000
+      ]
+    }
+  ],
+  [
+    {
+      "id": 104,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTAO6",
+      "bbox": [
+        37,
+        53,
+        195,
+        74
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "text",
+      "text": "Na uía de pensamento COMPUTacional, a profesora passou a其中之一 para dar a dobro. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A dobro de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robô. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A dole de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robò. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A dooble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robí. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doles de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robá. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A dople de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robé. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doible de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robâ. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIble de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deform de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle deformation de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle de un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De un robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um robó. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um. A doIle De um.",
+      "bbox": [
+        205,
+        44,
+        940,
+        93
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "text",
+      "text": "OBS: O circulo marca a posicao inicial do robó",
+      "bbox": [
+        56,
+        92,
+        513,
+        109
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        148,
+        125,
+        502,
+        304
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        549,
+        117,
+        804,
+        307
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "O percuso está enumerado en linhas (de 1 até 4) e colunas (de 1 até 6). De correço o tropejo e o algoimétricoPRESENTados, seleciona o opço que indica a posicao final do robó.",
+      "bbox": [
+        54,
+        321,
+        940,
+        354
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "OBS: as alternativas estáoindicando (nromo da coluna, numero da linha linha)",
+      "bbox": [
+        55,
+        355,
+        829,
+        372
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "a) (4,2) d) (5,4)",
+      "bbox": [
+        89,
+        372,
+        635,
+        388
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "b) (2,6) e) (1,2)",
+      "bbox": [
+        89,
+        388,
+        635,
+        404
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "c) (3,3)",
+      "bbox": [
+        89,
+        404,
+        165,
+        421
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        372,
+        635,
+        421
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTAO7",
+      "bbox": [
+        34,
+        449,
+        194,
+        469
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "Análises feitas en amostras de rochas vulcânicas recolidas en Marte螵 bo rob norte-americo Perseverance, que poussou no planeta en 2021, indicam que as amostras foram alteradas para agua liquida, segundo estudos publicados esta",
+      "bbox": [
+        202,
+        436,
+        941,
+        486
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "quinta-faire. O车祸 robotoxico poussé en 18 de février 2012 na cratera Jezezo, onde havia un lago o um delta (foz de um Rio), no ambito de uma missão conduzida pelà agência espacada de um dosi.",
+      "bbox": [
+        54,
+        486,
+        940,
+        533
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "Fnte:https:/ennportugalolp/martelaguaexstiu-agua-em-marte-rochas-recoihidas-pelo-robo-preseverance-dizem-20220825/6307bc4a0f2ea367d4b1e8a",
+      "bbox": [
+        55,
+        533,
+        928,
+        545
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "Sabe-se que a agua liquida não pode ficar;nesse estado durante muito tempo marte Deoico como a chuance de estuário, o que é a principalidade, os poulos as mucandas de pressão e temperatura germinala, a transicao entre os Estados fisicos da aigua.",
+      "bbox": [
+        54,
+        545,
+        940,
+        593
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "text",
+      "text": "Assinale a alternativa correta referente à transicao entre os Estados da agua:",
+      "bbox": [
+        55,
+        593,
+        750,
+        610
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "text",
+      "text": "a) A passagem do estadoSolido para o estadoliquido se chama condensaçao.",
+      "bbox": [
+        85,
+        610,
+        804,
+        627
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "text",
+      "text": "b) A fusão é a transformação da fase liquida para gasosa.",
+      "bbox": [
+        85,
+        627,
+        618,
+        643
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "text",
+      "text": "c) A transformação da água do estado liquido para gasoso é a solidificação.",
+      "bbox": [
+        85,
+        643,
+        777,
+        659
+      ]
+    },
+    {
+      "id": 124,
+      "page": 3,
+      "category": "text",
+      "text": "d) A sublimação consiste na mudança do estado gasoso para solido.",
+      "bbox": [
+        86,
+        659,
+        713,
+        676
+      ]
+    },
+    {
+      "id": 125,
+      "page": 3,
+      "category": "text",
+      "text": "e) A passagem do estado solido para o estado liquido é a vaporização.",
+      "bbox": [
+        86,
+        676,
+        733,
+        693
+      ]
+    },
+    {
+      "id": 126,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        610,
+        804,
+        693
+      ]
+    },
+    {
+      "id": 127,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        34,
+        714,
+        194,
+        736
+      ]
+    },
+    {
+      "id": 128,
+      "page": 3,
+      "category": "text",
+      "text": "Leia o texto abaixo e responda.",
+      "bbox": [
+        203,
+        709,
+        490,
+        725
+      ]
+    },
+    {
+      "id": 129,
+      "page": 3,
+      "category": "text",
+      "text": "QUIESTO 6 \"Robólica é a ciência que estuda as technologias associadas à conceção e construição de robos. Os robos são mecanismos automaticos que utilizezem o circuitos integradados para realizar atividades e改动uras humanos simples ou complexos. A revista de aplicação em diversas areas de forma de produção industrial, medicina e atividades domesticas.\"",
+      "bbox": [
+        53,
+        726,
+        940,
+        805
+      ]
+    },
+    {
+      "id": 130,
+      "page": 3,
+      "category": "text",
+      "text": "A idea decrição de�asina é antigta. Na Grécia Antiga, credita-tva-se que os gregos e romanos jareshenvolvimento differentes tópos de�asina capazes derealizar movimento automatizados.",
+      "bbox": [
+        53,
+        806,
+        940,
+        839
+      ]
+    },
+    {
+      "id": 131,
+      "page": 3,
+      "category": "text",
+      "text": "Fonte:https://www.portaldaindustria.com.br/industria-de-a-z/robotica/",
+      "bbox": [
+        55,
+        839,
+        422,
+        849
+      ]
+    },
+    {
+      "id": 132,
+      "page": 3,
+      "category": "text",
+      "text": "Qual das palavras abaixo, retiradas do texto, é considerada um adjetivo:",
+      "bbox": [
+        55,
+        849,
+        707,
+        865
+      ]
+    },
+    {
+      "id": 133,
+      "page": 3,
+      "category": "text",
+      "text": "a) Circuits",
+      "bbox": [
+        87,
+        866,
+        202,
+        881
+      ]
+    },
+    {
+      "id": 134,
+      "page": 3,
+      "category": "text",
+      "text": "b) Medicina",
+      "bbox": [
+        87,
+        882,
+        203,
+        898
+      ]
+    },
+    {
+      "id": 135,
+      "page": 3,
+      "category": "text",
+      "text": "c) Antiga",
+      "bbox": [
+        87,
+        899,
+        181,
+        916
+      ]
+    },
+    {
+      "id": 136,
+      "page": 3,
+      "category": "text",
+      "text": "d) Realizarem",
+      "bbox": [
+        87,
+        916,
+        225,
+        931
+      ]
+    },
+    {
+      "id": 137,
+      "page": 3,
+      "category": "text",
+      "text": "e) Robótica",
+      "bbox": [
+        87,
+        932,
+        203,
+        948
+      ]
+    },
+    {
+      "id": 138,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        866,
+        225,
+        948
+      ]
+    },
+    {
+      "id": 139,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        49,
+        965,
+        62,
+        977
+      ]
+    },
+    {
+      "id": 140,
+      "page": 3,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        943,
+        969,
+        1000
+      ]
+    }
+  ],
+  [
+    {
+      "id": 141,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTAO 9",
+      "bbox": [
+        35,
+        53,
+        193,
+        74
+      ]
+    },
+    {
+      "id": 142,
+      "page": 4,
+      "category": "text",
+      "text": "Bem, o primo robo mecanico surgiu en 1924 e utilizzava o la mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine, e a mezzanine.",
+      "bbox": [
+        205,
+        44,
+        757,
+        93
+      ]
+    },
+    {
+      "id": 143,
+      "page": 4,
+      "category": "text",
+      "text": "pré悬崖 en 1937, um novo robó, chamado de Elektro,uícro e ganhou bastante evidência. Assim como oPrimeiro, elle semerahere teleperado. N entanto, executava fonções adiconais, como andar e mover aCESSA. J é 1954uísenvolvo oPrimeiro robó autônico.\"",
+      "bbox": [
+        58,
+        93,
+        757,
+        158
+      ]
+    },
+    {
+      "id": 144,
+      "page": 4,
+      "category": "text",
+      "text": "Fonle:https://lead.pucgoias.edu.bnblog/que-robotica",
+      "bbox": [
+        60,
+        158,
+        345,
+        167
+      ]
+    },
+    {
+      "id": 145,
+      "page": 4,
+      "category": "text",
+      "text": "Fonte: https://en.wikipedia.org/wiki/Elektron",
+      "bbox": [
+        60,
+        167,
+        282,
+        177
+      ]
+    },
+    {
+      "id": 146,
+      "page": 4,
+      "category": "text",
+      "text": "Qual das frases abaixo é definida como um periodo simples:",
+      "bbox": [
+        60,
+        178,
+        602,
+        194
+      ]
+    },
+    {
+      "id": 147,
+      "page": 4,
+      "category": "text",
+      "text": "a) Ele podia ligar e desligar os equipamentos.",
+      "bbox": [
+        83,
+        194,
+        506,
+        209
+      ]
+    },
+    {
+      "id": 148,
+      "page": 4,
+      "category": "text",
+      "text": "b) O primeiro robó mecánico surgiu em 1924 e utilizes a Sistema de telecomia.",
+      "bbox": [
+        83,
+        210,
+        799,
+        226
+      ]
+    },
+    {
+      "id": 149,
+      "page": 4,
+      "category": "text",
+      "text": "c) Executava funções adiconais, como andar e mover a cabeca.",
+      "bbox": [
+        83,
+        227,
+        675,
+        243
+      ]
+    },
+    {
+      "id": 150,
+      "page": 4,
+      "category": "text",
+      "text": "d) Assim como o primo, ele tambem era teleoperado.",
+      "bbox": [
+        83,
+        244,
+        593,
+        259
+      ]
+    },
+    {
+      "id": 151,
+      "page": 4,
+      "category": "text",
+      "text": "e) Um novo robô, chamado de Elektro, FOi criado e ganhou bastante evidência.",
+      "bbox": [
+        83,
+        259,
+        798,
+        275
+      ]
+    },
+    {
+      "id": 152,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        194,
+        799,
+        275
+      ]
+    },
+    {
+      "id": 153,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        22,
+        303,
+        193,
+        323
+      ]
+    },
+    {
+      "id": 154,
+      "page": 4,
+      "category": "text",
+      "text": "Hójo temos robos sentido desenvolvidos para auxiliar emdivasas tarefas do dia a dia. Esses robos posseu am Capacidade de interagir com seres humanos, executar",
+      "bbox": [
+        205,
+        292,
+        723,
+        342
+      ]
+    },
+    {
+      "id": 155,
+      "page": 4,
+      "category": "text",
+      "text": "comandosspecificos e atleastmysoplereadercomaexperiencia.Umexampledissoisosastantesstabolicosomesticos,quepodemelarizaterafasecoomiparacasa,cozinhariefomecntrainfoisesuteisosmoraderos.Alledmiso,abotolocemtdeno aplicadoaareaosomestococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococococ",
+      "bbox": [
+        58,
+        342,
+        723,
+        455
+      ]
+    },
+    {
+      "id": 156,
+      "page": 4,
+      "category": "text",
+      "text": "Fone: https://bibiqs.oglobo.globo.com/beto-longmanpostrobos-domesticos-estao-cada-vez-mais-qualificados-135851.html",
+      "bbox": [
+        60,
+        455,
+        699,
+        465
+      ]
+    },
+    {
+      "id": 157,
+      "page": 4,
+      "category": "text",
+      "text": "Fone:https://maislaudo.com/blogrobotica-na-medicina",
+      "bbox": [
+        60,
+        465,
+        368,
+        475
+      ]
+    },
+    {
+      "id": 158,
+      "page": 4,
+      "category": "text",
+      "text": "O texto descree como os roublos vem revolunacion as半导vantes e como os roublos vem revolunacion. O texto descree como o textualo que habilidades poderemos espacer dos roublos no futuro?",
+      "bbox": [
+        58,
+        476,
+        663,
+        525
+      ]
+    },
+    {
+      "id": 159,
+      "page": 4,
+      "category": "text",
+      "text": "a) A capacidade de Voor",
+      "bbox": [
+        83,
+        526,
+        312,
+        540
+      ]
+    },
+    {
+      "id": 160,
+      "page": 4,
+      "category": "text",
+      "text": "b) A habilidade de compreender emoções humanas.",
+      "bbox": [
+        83,
+        541,
+        559,
+        556
+      ]
+    },
+    {
+      "id": 161,
+      "page": 4,
+      "category": "text",
+      "text": "c) A realização de tarefas dométricas",
+      "bbox": [
+        83,
+        558,
+        430,
+        572
+      ]
+    },
+    {
+      "id": 162,
+      "page": 4,
+      "category": "text",
+      "text": "d) A substituicao dos medicos em cirurgias",
+      "bbox": [
+        83,
+        574,
+        475,
+        590
+      ]
+    },
+    {
+      "id": 163,
+      "page": 4,
+      "category": "text",
+      "text": "e) A habilidade de replicar as emoções humanas",
+      "bbox": [
+        83,
+        591,
+        528,
+        607
+      ]
+    },
+    {
+      "id": 164,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        83,
+        526,
+        559,
+        607
+      ]
+    },
+    {
+      "id": 165,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        769,
+        42,
+        945,
+        205
+      ]
+    },
+    {
+      "id": 166,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        736,
+        291,
+        951,
+        461
+      ]
+    },
+    {
+      "id": 167,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        675,
+        468,
+        953,
+        599
+      ]
+    },
+    {
+      "id": 168,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 11",
+      "bbox": [
+        22,
+        627,
+        191,
+        648
+      ]
+    },
+    {
+      "id": 169,
+      "page": 4,
+      "category": "text",
+      "text": "Robó's podem se Speakir comecer se atraves de um)códio chamado de codigo binário, que utilize apenas os algarismos 0 e 1. Por example, \"00111001\" é um)códio binário que pode ser enviado de um robó para outras. Este)códio pode ser",
+      "bbox": [
+        204,
+        622,
+        941,
+        672
+      ]
+    },
+    {
+      "id": 170,
+      "page": 4,
+      "category": "text",
+      "text": "representado atraves de una onda, em que una onda alta representa \"1\", e una onda baixa representa \"0\".",
+      "bbox": [
+        58,
+        673,
+        940,
+        703
+      ]
+    },
+    {
+      "id": 171,
+      "page": 4,
+      "category": "text",
+      "text": "Por exemple, a onda mostrada abaixo representa o documento binario \"010101010101\".",
+      "bbox": [
+        58,
+        704,
+        809,
+        721
+      ]
+    },
+    {
+      "id": 172,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        207,
+        722,
+        793,
+        779
+      ]
+    },
+    {
+      "id": 173,
+      "page": 4,
+      "category": "text",
+      "text": "Qual o documento binario que representa a mensagem transmitida pela onda abaixo:",
+      "bbox": [
+        58,
+        779,
+        785,
+        796
+      ]
+    },
+    {
+      "id": 174,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        207,
+        797,
+        793,
+        851
+      ]
+    },
+    {
+      "id": 175,
+      "page": 4,
+      "category": "text",
+      "text": "a) 100111001",
+      "bbox": [
+        89,
+        854,
+        222,
+        869
+      ]
+    },
+    {
+      "id": 176,
+      "page": 4,
+      "category": "text",
+      "text": "b) 10011111001",
+      "bbox": [
+        89,
+        870,
+        255,
+        886
+      ]
+    },
+    {
+      "id": 177,
+      "page": 4,
+      "category": "text",
+      "text": "c) 10101",
+      "bbox": [
+        89,
+        887,
+        177,
+        901
+      ]
+    },
+    {
+      "id": 178,
+      "page": 4,
+      "category": "text",
+      "text": "d) 100111100101",
+      "bbox": [
+        89,
+        902,
+        255,
+        918
+      ]
+    },
+    {
+      "id": 179,
+      "page": 4,
+      "category": "text",
+      "text": "e) 101101",
+      "bbox": [
+        89,
+        920,
+        187,
+        935
+      ]
+    },
+    {
+      "id": 180,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        89,
+        854,
+        255,
+        935
+      ]
+    },
+    {
+      "id": 181,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        42,
+        962,
+        55,
+        975
+      ]
+    },
+    {
+      "id": 182,
+      "page": 4,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        943,
+        969,
+        1000
+      ]
+    }
+  ],
+  [
+    {
+      "id": 183,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTAO 12",
+      "bbox": [
+        21,
+        54,
+        195,
+        74
+      ]
+    },
+    {
+      "id": 184,
+      "page": 5,
+      "category": "title",
+      "text": "Projeto de robotica e inclusao digital na USP receive apoio da IBM",
+      "bbox": [
+        204,
+        44,
+        840,
+        60
+      ]
+    },
+    {
+      "id": 185,
+      "page": 5,
+      "category": "text",
+      "text": "El tem um sonho:月至mear as rouns que é possivel estudar em umas universidade Pública e se tornar um clientista. Esso sonho foi se tornando realidade",
+      "bbox": [
+        205,
+        61,
+        941,
+        92
+      ]
+    },
+    {
+      "id": 186,
+      "page": 5,
+      "category": "text",
+      "text": "nosolestros, quando, voluntariamente, o professor do Instituto de Ciencias Matemáticas e de Computación (ICMC) Eduardo Simões, da Universidade de São Paulo (USP), se uui alunes alunos e começaram a construiar robos com sucata e a representá-los a crianças que estudam em quatro escaças na cidade de São Carlos, a hora de 240 quilometros da capital do Estado de São Paulo. Ao ver a transformação provocada com a iniciativa, o professor compreendou que era precisao ampliar o alcance de seu projet. Agora, com o apoyo de um programa Internacional de citadania corporativa do IBM, o Corporate Service Corps (CSC), Simões pretende disseminar a robística e a inclusão digital para maiis jovens brasilerais.",
+      "bbox": [
+        54,
+        93,
+        941,
+        223
+      ]
+    },
+    {
+      "id": 187,
+      "page": 5,
+      "category": "text",
+      "text": "Fonla:https://www.desenvolvimentoecmonico sp.gov.br/projeto-de-robotica-e-inclusao-digital-da-usp-recebe-apoio-da-ibm/",
+      "bbox": [
+        56,
+        223,
+        710,
+        235
+      ]
+    },
+    {
+      "id": 188,
+      "page": 5,
+      "category": "text",
+      "text": "Qual das seguimentos opçõesrepresenta corretoamente a questiona da inclusão e exclusão de pessoas no mundo da Tecnologia?",
+      "bbox": [
+        54,
+        249,
+        941,
+        283
+      ]
+    },
+    {
+      "id": 189,
+      "page": 5,
+      "category": "text",
+      "text": "a) A exclusión digital refere-se apenas a falta de acesso à internet, não influenciando a participation des pessoas naindustry Tecnológica.",
+      "bbox": [
+        85,
+        298,
+        941,
+        331
+      ]
+    },
+    {
+      "id": 190,
+      "page": 5,
+      "category": "text",
+      "text": "b) A inclusão no mundo da Tecnologia é exclusiva para pessoas com formação em ciência da computations ouAreas relacionadas.",
+      "bbox": [
+        85,
+        331,
+        941,
+        363
+      ]
+    },
+    {
+      "id": 191,
+      "page": 5,
+      "category": "text",
+      "text": "c) A exclusão no mundo da TECHNOLOGY está relacionada apenas a questions de género, não afelando outrosoples marginalizados.",
+      "bbox": [
+        85,
+        364,
+        941,
+        397
+      ]
+    },
+    {
+      "id": 192,
+      "page": 5,
+      "category": "text",
+      "text": "d) A inclusión no mundo da Tecnología envolve o acceso equitativo a��inuidades, recursos e educacion Tecnológica.",
+      "bbox": [
+        85,
+        397,
+        941,
+        429
+      ]
+    },
+    {
+      "id": 193,
+      "page": 5,
+      "category": "text",
+      "text": "e) A exclusión digital refere-se exclusivamente à falta de aulas de robética educacional nas escolas brasilERes",
+      "bbox": [
+        85,
+        429,
+        941,
+        462
+      ]
+    },
+    {
+      "id": 194,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        298,
+        941,
+        462
+      ]
+    },
+    {
+      "id": 195,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 13",
+      "bbox": [
+        21,
+        485,
+        194,
+        507
+      ]
+    },
+    {
+      "id": 196,
+      "page": 5,
+      "category": "title",
+      "text": "How a robotics competition increases learning",
+      "bbox": [
+        204,
+        478,
+        657,
+        495
+      ]
+    },
+    {
+      "id": 197,
+      "page": 5,
+      "category": "text",
+      "text": "You might have heard of competitive robotics. And yes, this might be a nice follow-up to that after-school robotics class your child took. Here, teams of students designing",
+      "bbox": [
+        204,
+        495,
+        941,
+        528
+      ]
+    },
+    {
+      "id": 198,
+      "page": 5,
+      "category": "text",
+      "text": "and build devices to accomplish a specific task, pitting their creations against others to do things like scale a wall, topple an opponent robot or move the robot through a timed obstacle course.",
+      "bbox": [
+        54,
+        529,
+        941,
+        561
+      ]
+    },
+    {
+      "id": 199,
+      "page": 5,
+      "category": "text",
+      "text": "Now, it is one thing to design and build a robot. But it's another thing entirely when your child joins the team. It's a team, and it's a team and it's a team and test it out against other creations. You can see how their drive and interest just kick into gear.",
+      "bbox": [
+        54,
+        562,
+        941,
+        610
+      ]
+    },
+    {
+      "id": 200,
+      "page": 5,
+      "category": "text",
+      "text": "In addition to all that creativity and problem solving, students will also have to apply math and technology concepts to guide a robot through a space. Dimension, velocity, volume and weight are just some of the things they'll have to take into account to design a robot that accomplishes its task. The students will be able to use the same concepts to design a robot that is able to use their mastery in the classroom, which could make your child more confident and engaged in school.",
+      "bbox": [
+        54,
+        611,
+        941,
+        692
+      ]
+    },
+    {
+      "id": 201,
+      "page": 5,
+      "category": "text",
+      "text": "When working on a team to build a robot, your child will hear other solutions from other kids. In this case, your child has a lot to learn from their peers. New solutions and ideas will feed your child's mind, and, hopefully, these ideas will inspire some of their own. In any case, your child gains new practical knowledge and concepts. Later on, when the robot is in the ring, everyone on the team will be intensely interested in how it's doing. Better yet, they will be eager to see what the competition has come up with.",
+      "bbox": [
+        54,
+        692,
+        941,
+        789
+      ]
+    },
+    {
+      "id": 202,
+      "page": 5,
+      "category": "text",
+      "text": "Fonla:https://www.brics4kidz.com/bloghow-a-robotics-competition-increases-learning",
+      "bbox": [
+        56,
+        789,
+        521,
+        801
+      ]
+    },
+    {
+      "id": 203,
+      "page": 5,
+      "category": "text",
+      "text": "The text discusses the benefits of enrolling children in robotics competitions. According to the text, we can state that participating in robotics competitions:",
+      "bbox": [
+        54,
+        816,
+        941,
+        848
+      ]
+    },
+    {
+      "id": 204,
+      "page": 5,
+      "category": "text",
+      "text": "a) Allows the child to be a leader and to define what everyone will do on the team",
+      "bbox": [
+        85,
+        849,
+        824,
+        865
+      ]
+    },
+    {
+      "id": 205,
+      "page": 5,
+      "category": "text",
+      "text": "b) It can help children define the size, speed, and volume of their robot for other competitions",
+      "bbox": [
+        85,
+        866,
+        927,
+        882
+      ]
+    },
+    {
+      "id": 206,
+      "page": 5,
+      "category": "text",
+      "text": "c) Shows children how good their creations are compared to others, which makes them more interested in robotics",
+      "bbox": [
+        85,
+        882,
+        941,
+        914
+      ]
+    },
+    {
+      "id": 207,
+      "page": 5,
+      "category": "text",
+      "text": "d) Makes students learn more mathematics to choose the right parts to add to their robot",
+      "bbox": [
+        85,
+        914,
+        888,
+        931
+      ]
+    },
+    {
+      "id": 208,
+      "page": 5,
+      "category": "text",
+      "text": "e) Helps with teamwork, allowing children to learn from each other",
+      "bbox": [
+        85,
+        931,
+        690,
+        948
+      ]
+    },
+    {
+      "id": 209,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        849,
+        941,
+        948
+      ]
+    },
+    {
+      "id": 210,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        49,
+        965,
+        62,
+        977
+      ]
+    },
+    {
+      "id": 211,
+      "page": 5,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        943,
+        969,
+        1000
+      ]
+    }
+  ],
+  [
+    {
+      "id": 212,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTAO 14",
+      "bbox": [
+        22,
+        54,
+        195,
+        75
+      ]
+    },
+    {
+      "id": 213,
+      "page": 6,
+      "category": "text",
+      "text": "Em um touroe de robotica, o besoin é identificar a presence a e cor de algumas obstáculos. Para participar, a equipe precise necessariamente colocar no robó alguns componentes espécicos. Selecione a opção que melhor exemplifica os",
+      "bbox": [
+        204,
+        43,
+        942,
+        93
+      ]
+    },
+    {
+      "id": 214,
+      "page": 6,
+      "category": "text",
+      "text": "componentes e susas funcionalesidads no robo.",
+      "bbox": [
+        55,
+        93,
+        474,
+        108
+      ]
+    },
+    {
+      "id": 215,
+      "page": 6,
+      "category": "text",
+      "text": "a) Sensor laser para identificar a cor da parede e sensor de presença para identificar o obstáculo",
+      "bbox": [
+        85,
+        109,
+        941,
+        142
+      ]
+    },
+    {
+      "id": 216,
+      "page": 6,
+      "category": "text",
+      "text": "b) Sensor de som para identificar objetivos proxies e sensor de luminosidade para identificar a cor do obstúculo",
+      "bbox": [
+        85,
+        142,
+        943,
+        174
+      ]
+    },
+    {
+      "id": 217,
+      "page": 6,
+      "category": "text",
+      "text": "c) Sensor de cor para identificar a cor dos obstáculos e o sensor ultrassónico para detectar o obstáculos",
+      "bbox": [
+        85,
+        174,
+        944,
+        207
+      ]
+    },
+    {
+      "id": 218,
+      "page": 6,
+      "category": "text",
+      "text": "d) Sensor ultrasonico para identificar a cor e sensor de luz para identificar a distancia",
+      "bbox": [
+        85,
+        207,
+        871,
+        224
+      ]
+    },
+    {
+      "id": 219,
+      "page": 6,
+      "category": "text",
+      "text": "e) Sensor PIR para identificar a cor e sensor ultrassónico para para identificar a proximidade do obstáculo",
+      "bbox": [
+        85,
+        224,
+        941,
+        256
+      ]
+    },
+    {
+      "id": 220,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        109,
+        944,
+        256
+      ]
+    },
+    {
+      "id": 221,
+      "page": 6,
+      "category": "title",
+      "text": "QUESTão 15",
+      "bbox": [
+        21,
+        282,
+        195,
+        304
+      ]
+    },
+    {
+      "id": 222,
+      "page": 6,
+      "category": "text",
+      "text": "Em uma competência, os competitores deformestrúçaremrogramm um robó parapercorrer o caminhopresentado abixo. O ponto de��do percursos é marcado por \\(②\\) e o ponto final é marcado ao. Para也是如此, oestrucidor do robó deve",
+      "bbox": [
+        202,
+        272,
+        942,
+        327
+      ]
+    },
+    {
+      "id": 223,
+      "page": 6,
+      "category": "text",
+      "text": "equipa-lo com doit sensores:",
+      "bbox": [
+        56,
+        327,
+        325,
+        342
+      ]
+    },
+    {
+      "id": 224,
+      "page": 6,
+      "category": "text",
+      "text": "1) Sensor ultrasonico: para identificar as paredes que está representadas no percusoPEGos bords pretas que contomam os caminhos do circuito, garantindo que ele faça as curvas sem esbarrar no percuso. O robé dee girar a direita se encontrar uma parede na suarente.",
+      "bbox": [
+        87,
+        342,
+        457,
+        473
+      ]
+    },
+    {
+      "id": 225,
+      "page": 6,
+      "category": "text",
+      "text": "2) Sensor de cor, para identificar as areas pretas no tabuleiro. Necessas areas, o robé deva ativar um contagador, que irá指示 no final por quantas casas pretas o robé passou no seu percusro.",
+      "bbox": [
+        87,
+        474,
+        457,
+        571
+      ]
+    },
+    {
+      "id": 226,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        87,
+        342,
+        457,
+        571
+      ]
+    },
+    {
+      "id": 227,
+      "page": 6,
+      "category": "text",
+      "text": "Ao finalizar este percuso Representado ao lado, quantas vezes o sensor ultrasonico foi ativelado para que o robo para a curva, e qual o valor final meadoso no contrato do robv.",
+      "bbox": [
+        55,
+        572,
+        457,
+        638
+      ]
+    },
+    {
+      "id": 228,
+      "page": 6,
+      "category": "text",
+      "text": "a) Sensor ultrasonico: 4/Contador: 14",
+      "bbox": [
+        85,
+        652,
+        456,
+        669
+      ]
+    },
+    {
+      "id": 229,
+      "page": 6,
+      "category": "text",
+      "text": "b) Sensor ultrasonico: 6/Contador: 14",
+      "bbox": [
+        87,
+        669,
+        456,
+        687
+      ]
+    },
+    {
+      "id": 230,
+      "page": 6,
+      "category": "text",
+      "text": "c) Sensor ultrassónico: 5/Contador: 13",
+      "bbox": [
+        87,
+        687,
+        456,
+        702
+      ]
+    },
+    {
+      "id": 231,
+      "page": 6,
+      "category": "text",
+      "text": "d) Sensor ultrassónico: 6 / Contador: 12",
+      "bbox": [
+        87,
+        702,
+        456,
+        719
+      ]
+    },
+    {
+      "id": 232,
+      "page": 6,
+      "category": "text",
+      "text": "e) Sensor ultrasonico: 5/Contador: 13",
+      "bbox": [
+        87,
+        719,
+        456,
+        736
+      ]
+    },
+    {
+      "id": 233,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        652,
+        456,
+        736
+      ]
+    },
+    {
+      "id": 234,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        478,
+        353,
+        950,
+        688
+      ]
+    },
+    {
+      "id": 235,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        37,
+        963,
+        50,
+        976
+      ]
+    },
+    {
+      "id": 236,
+      "page": 6,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        942,
+        970,
+        1000
+      ]
+    }
+  ],
+  [
+    {
+      "id": 237,
+      "page": 7,
+      "category": "header",
+      "text": "OLIMPIADA BRASILEIRA DE ROBOTICA",
+      "bbox": [
+        176,
+        72,
+        404,
+        88
+      ]
+    },
+    {
+      "id": 238,
+      "page": 7,
+      "category": "header",
+      "text": "#OBR 2023",
+      "bbox": [
+        173,
+        88,
+        795,
+        139
+      ]
+    },
+    {
+      "id": 239,
+      "page": 7,
+      "category": "header",
+      "text": "ETAPA NACIONAL 1210",
+      "bbox": [
+        796,
+        80,
+        900,
+        121
+      ]
+    },
+    {
+      "id": 240,
+      "page": 7,
+      "category": "header",
+      "text": "\\( {02.10}.{12}.{13}.{14} \\)",
+      "bbox": [
+        800,
+        121,
+        893,
+        130
+      ]
+    },
+    {
+      "id": 241,
+      "page": 7,
+      "category": "title",
+      "text": "NIVEL 3 - FASE 1 - 6° e 7° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        158,
+        179,
+        840,
+        200
+      ]
+    },
+    {
+      "id": 242,
+      "page": 7,
+      "category": "table_caption",
+      "text": "IDENTIFICAZAO",
+      "bbox": [
+        405,
+        215,
+        594,
+        237
+      ]
+    },
+    {
+      "id": 243,
+      "page": 7,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        62,
+        239,
+        936,
+        405
+      ]
+    },
+    {
+      "id": 244,
+      "page": 7,
+      "category": "table_caption",
+      "text": "GABARITO",
+      "bbox": [
+        435,
+        410,
+        563,
+        427
+      ]
+    },
+    {
+      "id": 245,
+      "page": 7,
+      "category": "table",
+      "text": "<table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>Questão 1</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 2</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 3</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 4</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 5</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 6</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 7</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 8</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 9</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 10</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 11</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 12</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 13</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 14</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>Questão 15</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr></table>",
+      "bbox": [
+        244,
+        456,
+        754,
+        846
+      ]
+    },
+    {
+      "id": 246,
+      "page": 7,
+      "category": "page_number",
+      "text": "8",
+      "bbox": [
+        47,
+        960,
+        59,
+        972
+      ]
+    },
+    {
+      "id": 247,
+      "page": 7,
+      "category": "footer",
+      "text": "OBR",
+      "bbox": [
+        875,
+        942,
+        969,
+        1000
+      ]
+    }
+  ]
+]

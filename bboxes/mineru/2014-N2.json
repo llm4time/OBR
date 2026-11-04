@@ -1,0 +1,1440 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        30,
+        958,
+        296
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICAZÉO DO ALUNO</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>Série/ANO:</td><td>NOTA DA PROVA (0-100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        44,
+        301,
+        960,
+        515
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        295,
+        532,
+        721,
+        555
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        85,
+        577,
+        295,
+        596
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "-Esta prova contente 5 páginas",
+      "bbox": [
+        85,
+        605,
+        397,
+        623
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "- Duração da prova: 2 horas",
+      "bbox": [
+        86,
+        626,
+        373,
+        644
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser preenchida a caneta",
+      "bbox": [
+        86,
+        648,
+        485,
+        665
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        86,
+        669,
+        493,
+        686
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        86,
+        690,
+        650,
+        708
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        86,
+        712,
+        538,
+        729
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- Atença: algumas questões podem ter mais de uma responça.",
+      "bbox": [
+        86,
+        733,
+        729,
+        751
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        85,
+        605,
+        729,
+        751
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        45,
+        774,
+        958,
+        943
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        354,
+        964,
+        643,
+        978
+      ]
+    }
+  ],
+  [
+    {
+      "id": 14,
+      "page": 1,
+      "category": "text",
+      "text": "1. O robó Lucas caiu e se quebrou. O engenheiro Henrique informou que sera necessária a substituição de tres parafusos e a troca deleo. Sabendo que oleo custa 3,45 botes e cada parafusso 2,21 bots quando Lucas gastar nareshoca?",
+      "bbox": [
+        91,
+        65,
+        906,
+        116
+      ]
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "category": "text",
+      "text": "a.（）6,90bots",
+      "bbox": [
+        123,
+        132,
+        272,
+        148
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "text",
+      "text": "b. () 11 bots",
+      "bbox": [
+        126,
+        149,
+        254,
+        163
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "c. () 10,08 bots",
+      "bbox": [
+        126,
+        166,
+        278,
+        181
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "text",
+      "text": "d. () 9,45 bots",
+      "bbox": [
+        126,
+        183,
+        269,
+        197
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "text",
+      "text": "e. () 7 bots",
+      "bbox": [
+        126,
+        199,
+        243,
+        213
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        132,
+        278,
+        213
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "2. Robo, o robé, precisaatarceisparafusos. Paraiso,procuroidesu manualede instruções e describuariabelaixo. QuenrosparafusosRoberto tem ao todo em seu corpo?",
+      "bbox": [
+        89,
+        265,
+        905,
+        299
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "text",
+      "text": "a.（）42 parafusos",
+      "bbox": [
+        123,
+        315,
+        295,
+        332
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "text",
+      "text": "b.（）58 parafusos",
+      "bbox": [
+        126,
+        333,
+        295,
+        348
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "c.（）47 parafusos",
+      "bbox": [
+        126,
+        350,
+        295,
+        364
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "d.（）40 parafusos",
+      "bbox": [
+        126,
+        366,
+        295,
+        381
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "e.（）46 parafusos",
+      "bbox": [
+        126,
+        383,
+        295,
+        398
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        315,
+        295,
+        398
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        127,
+        422,
+        485,
+        680
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "table",
+      "text": "<table><tr><td></td><td>NÉUMERO DE PARAFUSOS</td></tr><tr><td>1) CÂBEÇA</td><td>10</td></tr><tr><td>2)TRONCO</td><td>14</td></tr><tr><td>3)BRAÇO</td><td>5</td></tr><tr><td>4)PERNA</td><td>12</td></tr></table>",
+      "bbox": [
+        491,
+        454,
+        763,
+        646
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "3. Um robo varredor de casas configuracion con una velocidade de \\(1/2\\) metro porundy. Quanto tempo elé valeara para atravesasar una sola con 9 metros de comprimento?",
+      "bbox": [
+        89,
+        730,
+        905,
+        764
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "a.（）18segundos",
+      "bbox": [
+        123,
+        781,
+        295,
+        797
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "b. () 16 segundos",
+      "bbox": [
+        126,
+        799,
+        295,
+        813
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "c.（）4segundose meio",
+      "bbox": [
+        126,
+        815,
+        342,
+        830
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "d. () 9 segundos e meio",
+      "bbox": [
+        126,
+        832,
+        342,
+        847
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "e. () 18 segundos meio",
+      "bbox": [
+        126,
+        849,
+        352,
+        863
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        781,
+        352,
+        863
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "page_number",
+      "text": "2/5",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 39,
+      "page": 2,
+      "category": "text",
+      "text": "4. Aabela abaixo minha os pesos de algumas cargas que são transportadas por um robó molev. Para cada viagem de transporte, o robó (com a carga) passa por uma ponte que supota, no máximo, \\(1000\\mathrm{kg}\\).",
+      "bbox": [
+        88,
+        64,
+        906,
+        114
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "table",
+      "text": "<table><tr><td>Carga</td><td>Peso do Robó</td><td>Peso da Carga</td></tr><tr><td>1</td><td>250 kg</td><td>600 kg</td></tr><tr><td>2</td><td>250 kg</td><td>800 kg</td></tr><tr><td>3</td><td>250 kg</td><td>500 kg</td></tr><tr><td>4</td><td>250 kg</td><td>900 kg</td></tr></table>",
+      "bbox": [
+        124,
+        130,
+        895,
+        233
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "text",
+      "text": "Portanto, quais cargas nao poderao ser transporteas para que a ponte nao caia?",
+      "bbox": [
+        123,
+        245,
+        768,
+        264
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "text",
+      "text": "a.（）Carga 1",
+      "bbox": [
+        123,
+        279,
+        255,
+        295
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "text",
+      "text": "b. () Carga 2",
+      "bbox": [
+        126,
+        297,
+        256,
+        312
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "c. () Carga 3",
+      "bbox": [
+        126,
+        314,
+        256,
+        329
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "d. () Carga 4",
+      "bbox": [
+        126,
+        331,
+        257,
+        345
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "text",
+      "text": "e. () Nenhuma",
+      "bbox": [
+        126,
+        348,
+        271,
+        361
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        279,
+        271,
+        361
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "text",
+      "text": "1. Mu robho tína uma missedo: explorar uma determinada AREA para encontrar um objeto. El gastou 60 horas para encontrar o objerto. QuANTOs dias demorou a sua missedo?",
+      "bbox": [
+        88,
+        412,
+        906,
+        446
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "a.（）2 dias",
+      "bbox": [
+        123,
+        462,
+        242,
+        478
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "b. ( ) 1 dia",
+      "bbox": [
+        126,
+        481,
+        234,
+        493
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "c. () 3 dias",
+      "bbox": [
+        126,
+        497,
+        241,
+        510
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "d. () 12 dias",
+      "bbox": [
+        126,
+        513,
+        250,
+        527
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "e. () 2 dias emeio",
+      "bbox": [
+        126,
+        530,
+        298,
+        544
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        462,
+        298,
+        544
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "text",
+      "text": "6. Um rob è tem seu deslocamento que è descripto por uma figura geometrica com os quatro lados com a mesma media. Quais figuras poder ser realizadas pelo robé?",
+      "bbox": [
+        88,
+        595,
+        906,
+        630
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        127,
+        651,
+        288,
+        724
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Losango",
+      "bbox": [
+        163,
+        732,
+        237,
+        747
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        310,
+        655,
+        445,
+        723
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Retangulo",
+      "bbox": [
+        341,
+        733,
+        426,
+        748
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        474,
+        655,
+        570,
+        723
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Quadrado",
+      "bbox": [
+        482,
+        734,
+        564,
+        748
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        655,
+        741,
+        723
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "image_caption",
+      "text": "Trapezio",
+      "bbox": [
+        641,
+        733,
+        713,
+        747
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "a. () quadrado e trapézio",
+      "bbox": [
+        123,
+        778,
+        354,
+        795
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "b. () quadrado e retangulo",
+      "bbox": [
+        126,
+        796,
+        365,
+        811
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "c. () losango e quadrado",
+      "bbox": [
+        126,
+        813,
+        350,
+        828
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "d. () losango e trapézio",
+      "bbox": [
+        126,
+        829,
+        338,
+        844
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "e. () Todas as anteriores",
+      "bbox": [
+        126,
+        846,
+        343,
+        860
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        778,
+        365,
+        860
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "page_number",
+      "text": "3/5",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 72,
+      "page": 3,
+      "category": "text",
+      "text": "7. Em uma competência com 36 robês, circa de \\(66\\%\\) ficam sem cargo. Nessa competência, quanto os robês ficam sem cargo?",
+      "bbox": [
+        90,
+        65,
+        906,
+        99
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "text",
+      "text": "a. () 12 robos",
+      "bbox": [
+        123,
+        115,
+        267,
+        131
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "b. () 18 rob8s",
+      "bbox": [
+        126,
+        133,
+        264,
+        147
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "c. () 21 robos",
+      "bbox": [
+        126,
+        150,
+        264,
+        163
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "d. () 24 rob8s",
+      "bbox": [
+        126,
+        166,
+        264,
+        180
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "e. () 36 rob8s",
+      "bbox": [
+        126,
+        183,
+        264,
+        197
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        115,
+        267,
+        197
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "8. Observe o Campo de futebol de robos mostrado na figura abaixo:",
+      "bbox": [
+        90,
+        231,
+        646,
+        249
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        124,
+        256,
+        524,
+        445
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "A medida do perimetro do Campo, em metros, é de:",
+      "bbox": [
+        123,
+        464,
+        540,
+        481
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "a. ( ) 5,40 m",
+      "bbox": [
+        123,
+        497,
+        251,
+        513
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "text",
+      "text": "b. ( ) 2,7 m",
+      "bbox": [
+        126,
+        515,
+        241,
+        530
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "c. ( ) 2,7 cm",
+      "bbox": [
+        126,
+        532,
+        249,
+        547
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "d. () 1m",
+      "bbox": [
+        126,
+        549,
+        227,
+        563
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "e.（）540cm",
+      "bbox": [
+        126,
+        565,
+        254,
+        580
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        497,
+        254,
+        580
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "9. Durante a construccion dos robos de um time de futebol de robos, fai necessario comprar dois motores redutimentos e das rouasadoras para cada robos. O time é composto por cinco robos.",
+      "bbox": [
+        89,
+        614,
+        906,
+        647
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        141,
+        657,
+        312,
+        766
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "image_caption",
+      "text": "Motor Redutor RS 65,00",
+      "bbox": [
+        183,
+        771,
+        307,
+        799
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        396,
+        672,
+        612,
+        745
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "image_caption",
+      "text": " Par de rodas R$ 28,00",
+      "bbox": [
+        465,
+        762,
+        571,
+        789
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": " A conta foi paga com oito notas de R$ 100,00. Quanto foi recebido de troco?",
+      "bbox": [
+        123,
+        813,
+        744,
+        830
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "a. ( ) R$ 80,00",
+      "bbox": [
+        123,
+        847,
+        277,
+        862
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "b.（）R$335,00",
+      "bbox": [
+        126,
+        865,
+        276,
+        879
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "c. () R$ 10,00",
+      "bbox": [
+        126,
+        881,
+        276,
+        895
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "d. () R$ 140,00",
+      "bbox": [
+        126,
+        898,
+        276,
+        912
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "e.（）R$365,00",
+      "bbox": [
+        126,
+        915,
+        276,
+        928
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        847,
+        277,
+        928
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "page_number",
+      "text": "4/5",
+      "bbox": [
+        894,
+        945,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 102,
+      "page": 4,
+      "category": "text",
+      "text": "10. Texto e figura adaptados da fonte: http://www.technudo.com.br/ (Noticia de 28/05/2014)",
+      "bbox": [
+        90,
+        65,
+        848,
+        83
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        125,
+        121,
+        570,
+        332
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "title",
+      "text": "Google cra carro automoto, sem volante e para das pessoas",
+      "bbox": [
+        574,
+        116,
+        882,
+        150
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "O Google desenvoule um carque que dirige sozinho. Sem acelerador, freio, marchas e voltare, ela funciona atraves de eles comandos de localização. O automóvel, que tem esqueço para dos passagerais, pode ser colocado em circulácia em um prazo de até dos anos.",
+      "bbox": [
+        573,
+        165,
+        882,
+        297
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "O automóvé da gigante de buscas e életétrico, ANDA a 40 km/h prometre",
+      "bbox": [
+        573,
+        315,
+        882,
+        348
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "revoluccion o setor automobilístico. Seu design lembra os automóveis minis, com besoin arrendonto e compasto.",
+      "bbox": [
+        122,
+        349,
+        882,
+        381
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "text",
+      "text": "O inferior do caro tem das quoltonas esofadas, com cintos de segança. Volante, feiros, embreagem e alecradores são necessários para um veiculo que percorre distancias sem a intervenção humana. Sensitiveis evitam colisões com outros carros durante o tráfego. Para quando, não é posse confirmar se o automóvil的功能ariou com o Sistema Android.",
+      "bbox": [
+        122,
+        398,
+        882,
+        465
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "text",
+      "text": "A idea do Google eracriar um carro \"boninitinho\", economico, pratico e comfortavel a pontode transformar motoristas em passagerais. AEmpresa prevé produir 100 veloculos para testes na California nos prorimos dos anos.",
+      "bbox": [
+        122,
+        481,
+        882,
+        531
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "text",
+      "text": "Com relaço ao texto acima, pode-se affirmar (marque todas corretas):",
+      "bbox": [
+        122,
+        581,
+        682,
+        598
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "text",
+      "text": "a. () O carro pode levar até 2 pessoas",
+      "bbox": [
+        122,
+        614,
+        453,
+        631
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "b. () O carro é controlado remotamente por um motorista que fica no Google",
+      "bbox": [
+        122,
+        631,
+        767,
+        648
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "c.（）Este carro ainda nao pode ser uso,pois pode bater em outros carros",
+      "bbox": [
+        122,
+        648,
+        749,
+        664
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "d. () O carro uso o Sistema Android",
+      "bbox": [
+        122,
+        664,
+        434,
+        680
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "e. () O carro tem direção, embreagem e acelerador",
+      "bbox": [
+        122,
+        680,
+        558,
+        697
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        122,
+        614,
+        767,
+        697
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2014",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "page_number",
+      "text": "5/5",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ]
+]

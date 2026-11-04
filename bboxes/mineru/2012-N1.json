@@ -1,0 +1,2274 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        77,
+        75,
+        181,
+        165
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        190,
+        88,
+        768,
+        121
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        775,
+        84,
+        951,
+        155
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "2012",
+      "bbox": [
+        425,
+        146,
+        519,
+        172
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "MODALIDADE: TEORICA NIVEL 1 (1a 3 ANS ENSINO FUNDAMENTAL)",
+      "bbox": [
+        137,
+        208,
+        747,
+        226
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "DURAÇÃO: 2 HORAS",
+      "bbox": [
+        138,
+        234,
+        316,
+        252
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "NOME DO ALUNO: MATR:",
+      "bbox": [
+        137,
+        261,
+        857,
+        278
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "ESCOLA: CIDADE:",
+      "bbox": [
+        138,
+        287,
+        775,
+        304
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "ESTADO:",
+      "bbox": [
+        138,
+        315,
+        271,
+        331
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        449,
+        354,
+        548,
+        371
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        177,
+        382,
+        252,
+        438
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        254,
+        392,
+        415,
+        433
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "UERN",
+      "bbox": [
+        421,
+        393,
+        605,
+        425
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "AAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAG",
+      "bbox": [
+        420,
+        425,
+        599,
+        436
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        373,
+        713,
+        461
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "#",
+      "bbox": [
+        718,
+        384,
+        893,
+        454
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        468,
+        544,
+        529,
+        560
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        269,
+        583,
+        432,
+        653
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "text",
+      "text": "OBA!",
+      "bbox": [
+        439,
+        580,
+        543,
+        597
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        438,
+        598,
+        542,
+        653
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        547,
+        600,
+        734,
+        654
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        247,
+        658,
+        323,
+        713
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "text",
+      "text": "MNR Mostra Nacional de Robotica",
+      "bbox": [
+        331,
+        656,
+        593,
+        714
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        595,
+        656,
+        752,
+        706
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "title",
+      "text": "AVISO:",
+      "bbox": [
+        470,
+        769,
+        553,
+        787
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "text",
+      "text": "CARO(A) PROFESSOR(A) E ALUNO(A):",
+      "bbox": [
+        235,
+        805,
+        551,
+        822
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "text",
+      "text": "- NÃO É PERMITIDO O USO DE CALCULADORAS;",
+      "bbox": [
+        265,
+        837,
+        686,
+        855
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "text",
+      "text": "NAO ÉPERRITIDA A CONSULTA A QUALQUER TIPO DE MATERIAL;",
+      "bbox": [
+        265,
+        858,
+        753,
+        895
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "text",
+      "text": "A PROVA DEVE SER REALIZADA INDIVIDUALMENTE.",
+      "bbox": [
+        265,
+        900,
+        730,
+        915
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        265,
+        837,
+        753,
+        915
+      ]
+    }
+  ],
+  [
+    {
+      "id": 30,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        76,
+        57
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        40,
+        660,
+        57
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "title",
+      "text": "PARTI I: MATÉMATÉICA",
+      "bbox": [
+        138,
+        117,
+        463,
+        143
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "title",
+      "text": "1) QUESTão",
+      "bbox": [
+        138,
+        177,
+        256,
+        194
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        179,
+        809,
+        193
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "EIXO COLINIVITO: III- ENFENTRAI SITUACES-PROBLEMA. AREA: MATEMÁTICA, DESCRIPTORES: RESOLVER PROBLEMAS QUE ENVOLVAM AS IDEIAS DA MULTIPLICAÇÃO.",
+      "bbox": [
+        167,
+        197,
+        840,
+        228
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "UM ROBO USA 6 PILAS PARA FUNCIONAR. SE CADA PILHA PRODUZ 2 VOLTS, QUAL A ENERGIA TOTAL FORNECIDA AO ROBO?",
+      "bbox": [
+        137,
+        243,
+        846,
+        279
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "(A) 6 VOLTS",
+      "bbox": [
+        169,
+        295,
+        275,
+        312
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "(B) 3 VOLTS",
+      "bbox": [
+        170,
+        328,
+        274,
+        344
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "(C) 9 VOLTS",
+      "bbox": [
+        170,
+        360,
+        277,
+        376
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "(D) 12 VOLTS",
+      "bbox": [
+        170,
+        391,
+        285,
+        407
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "(E) 5 VOLTS",
+      "bbox": [
+        170,
+        423,
+        273,
+        439
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        169,
+        295,
+        285,
+        439
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        612,
+        286,
+        828,
+        398
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "title",
+      "text": "2) QUESTão",
+      "bbox": [
+        137,
+        485,
+        256,
+        502
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        487,
+        809,
+        501
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "EIXO COGNITIVO: III- ENFRENTR SITUACOSES-PROBLEMA. AREA: MATEMÁTICA. DESCRITORES: COMPARAR E ORDENAR COMPREMITOS",
+      "bbox": [
+        167,
+        504,
+        840,
+        535
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "VEJA A FIGURA ABAIXO. QAIAS OS FIOS QUE T E M O M E S M O COMPRIMENTO, OU SEJA, O MESMO TAMANHO?",
+      "bbox": [
+        135,
+        569,
+        853,
+        603
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "image_caption",
+      "text": "A",
+      "bbox": [
+        326,
+        616,
+        361,
+        644
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        287,
+        651,
+        424,
+        727
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "image_caption",
+      "text": "B",
+      "bbox": [
+        481,
+        616,
+        510,
+        644
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        443,
+        652,
+        580,
+        727
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "image_caption",
+      "text": "C",
+      "bbox": [
+        636,
+        616,
+        668,
+        644
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        599,
+        652,
+        735,
+        726
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        287,
+        739,
+        424,
+        814
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        443,
+        738,
+        580,
+        813
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        600,
+        738,
+        736,
+        814
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "image_caption",
+      "text": "D",
+      "bbox": [
+        328,
+        819,
+        361,
+        845
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "image_caption",
+      "text": "E",
+      "bbox": [
+        486,
+        818,
+        514,
+        845
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "image_caption",
+      "text": "F",
+      "bbox": [
+        658,
+        819,
+        683,
+        846
+      ]
+    }
+  ],
+  [
+    {
+      "id": 61,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        336,
+        40,
+        660,
+        57
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        970,
+        55
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "(A) AEB",
+      "bbox": [
+        175,
+        84,
+        253,
+        101
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "(B) BED",
+      "bbox": [
+        171,
+        117,
+        248,
+        133
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "(C)DEF",
+      "bbox": [
+        171,
+        149,
+        247,
+        165
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "(D) AEC",
+      "bbox": [
+        171,
+        181,
+        250,
+        197
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "(E) CEF",
+      "bbox": [
+        171,
+        212,
+        245,
+        228
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        171,
+        84,
+        253,
+        228
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "title",
+      "text": "3) QUESTão",
+      "bbox": [
+        137,
+        274,
+        256,
+        290
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "title",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        275,
+        808,
+        289
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "EKO COUNGITIVO: III- ENFRENTAR SUITUOSE-PROBLEMA. AREA: MATEMÁTÍCA. DESCRITORES: IDENTIFICAR EC RELADIAR CÉLULAS E MOÉDAS",
+      "bbox": [
+        166,
+        293,
+        837,
+        325
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "O ROBO PRECISA RETIRAR RS29.79 DE SEU CAIXA. CAPA ESPA PARA MOEDA ESTA MARCADO COM UMA LETRA, DE AATEL.",
+      "bbox": [
+        166,
+        337,
+        860,
+        372
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        231,
+        400,
+        691,
+        715
+      ]
+    },
+    {
+      "id": 75,
+      "page": 2,
+      "category": "text",
+      "text": "QUAL COMBINAÇÃO E LETRAS ABAIXO É À CORRETA PARA O ROBÓ RETIRAR RS2.79?",
+      "bbox": [
+        165,
+        760,
+        858,
+        794
+      ]
+    },
+    {
+      "id": 76,
+      "page": 2,
+      "category": "text",
+      "text": "(A)A+B+C+D+E+F+G+H",
+      "bbox": [
+        167,
+        802,
+        395,
+        820
+      ]
+    },
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "(B) \\(\\mathrm{J + L + B + E + C + I}\\)",
+      "bbox": [
+        170,
+        826,
+        329,
+        841
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "(C) \\(\\mathrm{J} + \\mathrm{L} + \\mathrm{K} + \\mathrm{I}\\)",
+      "bbox": [
+        170,
+        850,
+        282,
+        865
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "text",
+      "text": "(D) \\( \\mathrm{J} + \\mathrm{L} + \\mathrm{B} + \\mathrm{C} + \\mathrm{A} + \\mathrm{F} + \\mathrm{K} + \\mathrm{H} \\)",
+      "bbox": [
+        170,
+        874,
+        388,
+        889
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "text",
+      "text": "(E)A+E+I+J+F+B+C+G+K",
+      "bbox": [
+        170,
+        897,
+        403,
+        912
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        802,
+        403,
+        912
+      ]
+    }
+  ],
+  [
+    {
+      "id": 82,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        336,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "4) QUESTão",
+      "bbox": [
+        137,
+        107,
+        256,
+        124
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        770,
+        109,
+        845,
+        123
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "text",
+      "text": "EIKO COGNITVO: II-COMPRENDER FENOMENOS. AREA: MATEMÁTICA. DESCRIPTORES: ESPAÇO E FORMA.",
+      "bbox": [
+        166,
+        127,
+        850,
+        158
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "UM ROBO RECONHECE BOJECTOS E FORMAS ATRAVES DE UM CONCEITO CHAMADO \"ENCONTRAR CARACTERISTICAS\", PARA ENCONTRAR UMA CARACTERISTICÀ UM ROBO DESENHA FORMAS GEOMETRÉSOS BSORE AS REGÍOES DE UM BOJECTO. AS REGÍOES ONE LÉE CONSEGU DESENHAR ESSAS FORMAS GEOMETRÉS ACOS ÀS CARACTERISTICAS DO BOJECTO, PARA \"ENCONTRAR CARACTERISTICAS\" DE UM ROSTO UM ROBO PRECISCA ENCAIXAR AS SEQUENTES FORMAS GEOMETRÉS APRESENTADAS NA FIGURA ABAIXO.",
+      "bbox": [
+        165,
+        190,
+        858,
+        321
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        377,
+        353,
+        676,
+        543
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": "DE ACORDO COM A FIGURA UM ROBO PRECISA DESENHAR QUE QUANTIDADES DE FORMAS GEOMETRICAS PARA \"ENCONTRAR CHARACTERISTICAS\" DE UM ROSTO?",
+      "bbox": [
+        165,
+        563,
+        858,
+        613
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "(A)2 TRIANGULOS, I CIRCULO E 5 RETANGULOS",
+      "bbox": [
+        167,
+        642,
+        633,
+        660
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "(B) 1 TRIANGULO, 3 CIRCULOSE 6 RETANGULOS",
+      "bbox": [
+        168,
+        666,
+        631,
+        684
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "(C) 1 TRIANGULO, 2 CIRCULOSE 6 RETANGULOS",
+      "bbox": [
+        168,
+        690,
+        631,
+        708
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "(D)2 TRIANGULOS, 2 CIRCULOS E 5 RETANGULOS",
+      "bbox": [
+        168,
+        714,
+        642,
+        731
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        642,
+        642,
+        731
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "5) QUESTão",
+      "bbox": [
+        137,
+        767,
+        256,
+        783
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        769,
+        807,
+        782
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "EIXO COGNITIVO: I- DOMINAR LINGUAGENS, AREA: PORTUGUES. DESCRIPTORES: RECONHECER SLILABAS.",
+      "bbox": [
+        165,
+        786,
+        832,
+        817
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "COMPLETE AS PALAVRAS ABAIXO:",
+      "bbox": [
+        137,
+        832,
+        398,
+        846
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "text",
+      "text": "-CALO",
+      "bbox": [
+        196,
+        863,
+        294,
+        879
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "-RO-CA",
+      "bbox": [
+        198,
+        893,
+        323,
+        909
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        196,
+        863,
+        323,
+        909
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        100,
+        947,
+        129
+      ]
+    }
+  ],
+  [
+    {
+      "id": 104,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        2,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        659,
+        57
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "-TRA_MI_AO",
+      "bbox": [
+        197,
+        83,
+        367,
+        100
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "text",
+      "text": "A ALTERNATIVA QUE CONTÉM AS LETRAS QUE MELHOR SE ADEQUAMÉ:",
+      "bbox": [
+        137,
+        114,
+        689,
+        130
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "text",
+      "text": "(A) BE-BARA-MA-RR",
+      "bbox": [
+        168,
+        144,
+        389,
+        160
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "text",
+      "text": "(B)VE-DABA-NS-RR",
+      "bbox": [
+        169,
+        163,
+        385,
+        178
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "text",
+      "text": "(C) VA-RRAR-NS-SS",
+      "bbox": [
+        170,
+        182,
+        381,
+        197
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "text",
+      "text": "(D)VA-BOTI-NS-SS",
+      "bbox": [
+        170,
+        199,
+        376,
+        214
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        168,
+        144,
+        389,
+        214
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "text",
+      "text": "6) QUESTAO",
+      "bbox": [
+        137,
+        262,
+        256,
+        279
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        734,
+        264,
+        809,
+        278
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "text",
+      "text": "EIXO COGNITIVO: D. DOMINAR LINGUAGENS, AREA: PORTUGUES. DESCRIPTOS: I-LOCALizar INFORMACION EPLICITA EN TEXTOS",
+      "bbox": [
+        167,
+        281,
+        815,
+        313
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        253,
+        947,
+        285
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "text",
+      "text": "VEJA O CAÇA-PALAVRAS ABAIXO:",
+      "bbox": [
+        137,
+        357,
+        393,
+        372
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "table",
+      "text": "<table><tr><td>Z</td><td>P</td><td>D</td><td>P</td><td>M</td><td>D</td><td>V</td><td>B</td></tr><tr><td>M</td><td>S</td><td>E</td><td>N</td><td>S</td><td>O</td><td>R</td><td>Q</td></tr><tr><td>A</td><td>S</td><td>M</td><td>E</td><td>R</td><td>O</td><td>B</td><td>O</td></tr><tr><td>V</td><td>O</td><td>O</td><td>U</td><td>V</td><td>U</td><td>T</td><td>X</td></tr><tr><td>Y</td><td>H</td><td>T</td><td>N</td><td>I</td><td>G</td><td>H</td><td>H</td></tr><tr><td>Y</td><td>V</td><td>O</td><td>H</td><td>V</td><td>O</td><td>F</td><td>Z</td></tr><tr><td>C</td><td>L</td><td>R</td><td>Q</td><td>U</td><td>L</td><td>J</td><td>V</td></tr></table>",
+      "bbox": [
+        385,
+        385,
+        613,
+        525
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "text",
+      "text": "DAS PALAVRAS LISTADAS ABAIXO, QUAL NÃO ESTÁ NO CAÇA-PALAVRAS?",
+      "bbox": [
+        137,
+        552,
+        692,
+        568
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "text",
+      "text": "(A) CARRO",
+      "bbox": [
+        198,
+        584,
+        287,
+        599
+      ]
+    },
+    {
+      "id": 122,
+      "page": 4,
+      "category": "text",
+      "text": "(B) MOTOR",
+      "bbox": [
+        199,
+        603,
+        294,
+        617
+      ]
+    },
+    {
+      "id": 123,
+      "page": 4,
+      "category": "text",
+      "text": "(C) SENSOR",
+      "bbox": [
+        200,
+        620,
+        295,
+        635
+      ]
+    },
+    {
+      "id": 124,
+      "page": 4,
+      "category": "text",
+      "text": "(D) PNEU",
+      "bbox": [
+        200,
+        639,
+        277,
+        653
+      ]
+    },
+    {
+      "id": 125,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        198,
+        584,
+        294,
+        653
+      ]
+    },
+    {
+      "id": 126,
+      "page": 4,
+      "category": "text",
+      "text": "7) QUESTão",
+      "bbox": [
+        137,
+        732,
+        256,
+        748
+      ]
+    },
+    {
+      "id": 127,
+      "page": 4,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        734,
+        734,
+        809,
+        748
+      ]
+    },
+    {
+      "id": 128,
+      "page": 4,
+      "category": "text",
+      "text": "EIXO COGNITIVO: I- DOMINAR LINGUAGENS. AREA: PORTUGUES. DESCRIPTORES: LER PALAVRAS",
+      "bbox": [
+        167,
+        751,
+        840,
+        766
+      ]
+    },
+    {
+      "id": 129,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        724,
+        947,
+        755
+      ]
+    },
+    {
+      "id": 130,
+      "page": 4,
+      "category": "text",
+      "text": "DE ACORDO COM A FIGURA:",
+      "bbox": [
+        141,
+        800,
+        363,
+        815
+      ]
+    }
+  ],
+  [
+    {
+      "id": 131,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        56
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        40,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        375,
+        82,
+        624,
+        273
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "ASSINALE A ALTERNATIVA QUE CONTÉM OS NOMES CORRETOS DE CADA UMA DAS PARTES DO CORPO DO ROBO:",
+      "bbox": [
+        135,
+        286,
+        856,
+        320
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "(A) A: CABECA, B: BRAÇOS, C:PERNAS",
+      "bbox": [
+        167,
+        335,
+        455,
+        351
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "(B) A: CABESA, B: BRASOS, C:PE",
+      "bbox": [
+        168,
+        354,
+        413,
+        370
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "(C) A: CABESSA, B: BRASSOS, C: PERNAS",
+      "bbox": [
+        169,
+        373,
+        474,
+        388
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "text",
+      "text": "(D) A: CABECA, BRASSOS, C: PERNAS",
+      "bbox": [
+        169,
+        391,
+        448,
+        407
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        167,
+        335,
+        474,
+        407
+      ]
+    },
+    {
+      "id": 141,
+      "page": 5,
+      "category": "title",
+      "text": "8) QUESTão",
+      "bbox": [
+        137,
+        453,
+        256,
+        470
+      ]
+    },
+    {
+      "id": 142,
+      "page": 5,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        770,
+        455,
+        845,
+        469
+      ]
+    },
+    {
+      "id": 143,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        445,
+        945,
+        475
+      ]
+    },
+    {
+      "id": 144,
+      "page": 5,
+      "category": "text",
+      "text": "EIXO COGNITIVO: III- ENFRENTAR SITUATIONS-PROBLEMA, AREA: GEOGRAPHIA, DESCRIPTORES: PRODUÇÃO DE MAPAS O TOTOPIROS SIMULADOS REFERACIONCATICAS DA LINGUAGEM CARTOGRAFICA COM AS RELACÉS DE DISTÂNCIA E DIREÇÃO E O SISTEMA DE CORDES E LEGENDAS.",
+      "bbox": [
+        166,
+        472,
+        821,
+        536
+      ]
+    },
+    {
+      "id": 145,
+      "page": 5,
+      "category": "text",
+      "text": "O RÓBO \"VANT\" É UM TIPO ESPECIAL DE RÓBO CAPAZ DE VOAR DE FORMA AUTONOMA.  \nABAIXO UM MAPA É PRESENTADO COM A REPRESENTAGON DA LOCALIZAGON DO RÓBO \"VANT\" ATRAVES DE UM AVIÁO.",
+      "bbox": [
+        136,
+        551,
+        816,
+        603
+      ]
+    },
+    {
+      "id": 146,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        267,
+        615,
+        722,
+        822
+      ]
+    },
+    {
+      "id": 147,
+      "page": 5,
+      "category": "text",
+      "text": "O VANT DESELACARNA DIRECIONO NORTERE SEM PARIAR ATE QUE SAIA DOS LIMITOS DO BRASIL.A PARTIER DESSA Informacao RESPONDA:",
+      "bbox": [
+        137,
+        835,
+        802,
+        870
+      ]
+    }
+  ],
+  [
+    {
+      "id": 148,
+      "page": 6,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        12,
+        3,
+        77,
+        57
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        336,
+        40,
+        660,
+        56
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        880,
+        18,
+        969,
+        55
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "(A) PARA CHEGAR AO DESTINO FINAL O VANT PASSARÁ PELO ESTADO DA BAHIA.",
+      "bbox": [
+        137,
+        83,
+        807,
+        100
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "(B) PARA CHEGAR AO DESTINO FINAL O VANT PASSARÉ PELO ESTADO D Rio DE JANEIRO.",
+      "bbox": [
+        137,
+        116,
+        808,
+        152
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "text",
+      "text": "(C) PARA CHEGAR AO DESTINO FINAL O VANT PASSARÁ PELO ESTADO DE SÃO PAULO.",
+      "bbox": [
+        137,
+        167,
+        853,
+        186
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "text",
+      "text": "(D) PARA CHEGAR AO DESTINO FINAL O VANT PASSARÁ PELO ESTADO DO MATO GROSSO.",
+      "bbox": [
+        137,
+        200,
+        805,
+        235
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "(E) PARA CHEGAR AO DESTINO FINAL O VANT PASSARÁ PELO ESTADO DO PARANA",
+      "bbox": [
+        137,
+        251,
+        821,
+        268
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        137,
+        83,
+        853,
+        268
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "9) QUESTão",
+      "bbox": [
+        137,
+        315,
+        256,
+        331
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        317,
+        808,
+        331
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "EIXO COGNITIVI: I-DOMINAR LINGUANGS. AREA: GEOGRAFIA. DESCRIPTORES: LEITURA INICIAL DE MAPAS POLITICOs, ATLAS E GLOBO TERRESTRE.",
+      "bbox": [
+        166,
+        335,
+        847,
+        366
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        307,
+        947,
+        337
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "UM ROBO QUE MORA NO BRASIL QUER VISITAR UM AMIGO ROBO NO JAPAO. ELE PRECISA IR PARA ONDE?",
+      "bbox": [
+        137,
+        398,
+        856,
+        435
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        223,
+        448,
+        776,
+        698
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "text",
+      "text": "(A) OUTRO PAIS",
+      "bbox": [
+        150,
+        731,
+        309,
+        749
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "text",
+      "text": "(B) OUTRA CIDADE",
+      "bbox": [
+        151,
+        752,
+        338,
+        768
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "text",
+      "text": "(C) OUTRO ESTADO",
+      "bbox": [
+        152,
+        771,
+        341,
+        787
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "text",
+      "text": "(D) OUTRO PLANETA",
+      "bbox": [
+        152,
+        790,
+        355,
+        806
+      ]
+    },
+    {
+      "id": 167,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        150,
+        731,
+        355,
+        806
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "text",
+      "text": "10) QUESTão",
+      "bbox": [
+        138,
+        852,
+        256,
+        868
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "text",
+      "text": "PONTOS:",
+      "bbox": [
+        733,
+        854,
+        808,
+        868
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "text",
+      "text": "EIXO COGNITIVO: II-COMPRENDER FENÖMENOS. AREA: HISTÖRIA. DESCRIPTORES:",
+      "bbox": [
+        166,
+        872,
+        755,
+        886
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        859,
+        844,
+        947,
+        875
+      ]
+    }
+  ],
+  [
+    {
+      "id": 172,
+      "page": 7,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        13,
+        3,
+        76,
+        55
+      ]
+    },
+    {
+      "id": 173,
+      "page": 7,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica 2012",
+      "bbox": [
+        337,
+        41,
+        658,
+        55
+      ]
+    },
+    {
+      "id": 174,
+      "page": 7,
+      "category": "header",
+      "text": "s8",
+      "bbox": [
+        880,
+        19,
+        968,
+        53
+      ]
+    },
+    {
+      "id": 175,
+      "page": 7,
+      "category": "text",
+      "text": "COMPARACION DE INFORMACES E PERSPECTIVAS DIFERENTES SOBRE UM SEMSO ACONTEMIENTO, FATIO OU TEMA HISTORICO.",
+      "bbox": [
+        167,
+        83,
+        754,
+        114
+      ]
+    },
+    {
+      "id": 176,
+      "page": 7,
+      "category": "text",
+      "text": "DEFINÇÃO DE ESCRAVIDAO NO DICIONÁRIO: “REGIME SOCIAL DE SUJEICÇÃO DO HOMEM E UTILIZACIONA DE SUA FORCA. EXPLORADA PARA FINS ECONOMICOS. COMO PROPRIÉDADE” [NOV O DICIONÁRIO AURÉLIO DA LINGUA PORTUGUESA]",
+      "bbox": [
+        135,
+        128,
+        860,
+        194
+      ]
+    },
+    {
+      "id": 177,
+      "page": 7,
+      "category": "text",
+      "text": "\"ESCOVRA\" É UIM HUMANO QUE E PERTENCE A AUTRO HUMANO E ERIA OBRIGADO A FAZER MUITOS TRABALHOS E NÉ REÇABE NADA POR ISSO. \"OTERMO ROBO TEM ORIGEN A PALVRA\" \"ROBOTA\", USADO PELA PRIMEIRA VEZ NA REPUBLICA CHECA, QUE SIGNIFICIA \"SER OBRIGADO A TRABALHAR.\"",
+      "bbox": [
+        136,
+        201,
+        848,
+        272
+      ]
+    },
+    {
+      "id": 178,
+      "page": 7,
+      "category": "text",
+      "text": "MARQUE AS IAGENS NO QUE MSTROM ILLUSTRACções PARA A DEFINÇÃO DE ESCRAVIDAO APresentADA NESTA QUESTão.",
+      "bbox": [
+        136,
+        286,
+        856,
+        321
+      ]
+    },
+    {
+      "id": 179,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        109,
+        339,
+        264,
+        486
+      ]
+    },
+    {
+      "id": 180,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        271,
+        340,
+        415,
+        487
+      ]
+    },
+    {
+      "id": 181,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        422,
+        340,
+        633,
+        487
+      ]
+    },
+    {
+      "id": 182,
+      "page": 7,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        641,
+        340,
+        874,
+        487
+      ]
+    },
+    {
+      "id": 183,
+      "page": 7,
+      "category": "text",
+      "text": "(A) I E 4",
+      "bbox": [
+        139,
+        498,
+        220,
+        515
+      ]
+    },
+    {
+      "id": 184,
+      "page": 7,
+      "category": "text",
+      "text": "(B) 2 E 4",
+      "bbox": [
+        140,
+        523,
+        218,
+        538
+      ]
+    },
+    {
+      "id": 185,
+      "page": 7,
+      "category": "text",
+      "text": "(C)1E3",
+      "bbox": [
+        140,
+        547,
+        217,
+        562
+      ]
+    },
+    {
+      "id": 186,
+      "page": 7,
+      "category": "text",
+      "text": "(D) 2 E 3",
+      "bbox": [
+        140,
+        570,
+        218,
+        586
+      ]
+    },
+    {
+      "id": 187,
+      "page": 7,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        139,
+        498,
+        220,
+        586
+      ]
+    }
+  ]
+]

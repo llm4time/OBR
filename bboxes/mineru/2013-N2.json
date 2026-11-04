@@ -1,0 +1,1498 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "title",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        77,
+        69,
+        660,
+        96
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "title",
+      "text": "ROBOTICA 2013",
+      "bbox": [
+        79,
+        99,
+        692,
+        153
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        695,
+        60,
+        950,
+        222
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "\\(4^{\\circ}\\) e \\(5^{\\circ}\\) ano do ensino fundamental no regime de 9 anos ou",
+      "bbox": [
+        103,
+        195,
+        629,
+        215
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "\\(3^{\\mathrm{a}}\\) e \\(4^{\\mathrm{a}}\\) série no régime de 8 anos",
+      "bbox": [
+        104,
+        217,
+        404,
+        235
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 2",
+      "bbox": [
+        735,
+        260,
+        915,
+        293
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td>IDENTIFICAZÉO DO ALUNO</td></tr><tr><td>NOME:</td></tr><tr><td>ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td></tr><tr><td>CIDADE:</td></tr><tr><td>ESTADO:</td></tr></table>",
+      "bbox": [
+        45,
+        324,
+        958,
+        536
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES:",
+      "bbox": [
+        296,
+        571,
+        721,
+        595
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        83,
+        620,
+        295,
+        638
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Este prova content 3 páginas",
+      "bbox": [
+        82,
+        648,
+        397,
+        667
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas",
+      "bbox": [
+        82,
+        673,
+        373,
+        691
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "A prova delve ser preenchida a caneta",
+      "bbox": [
+        82,
+        696,
+        485,
+        715
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido ou uso de calculadoras",
+      "bbox": [
+        82,
+        720,
+        493,
+        738
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material",
+      "bbox": [
+        81,
+        744,
+        650,
+        762
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente",
+      "bbox": [
+        82,
+        768,
+        539,
+        786
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        81,
+        648,
+        650,
+        786
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "ORGANIZACAO E APOIO",
+      "bbox": [
+        80,
+        858,
+        114,
+        926
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        134,
+        864,
+        222,
+        910
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image_caption",
+      "text": "",
+      "bbox": [
+        127,
+        909,
+        227,
+        916
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        243,
+        865,
+        294,
+        916
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        348,
+        856,
+        399,
+        890
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image_caption",
+      "text": "附件一：",
+      "bbox": [
+        355,
+        891,
+        399,
+        897
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        316,
+        907,
+        399,
+        924
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        433,
+        863,
+        461,
+        890
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        462,
+        866,
+        525,
+        883
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image_caption",
+      "text": "资料来源：Wind，国信证券经济研究所",
+      "bbox": [
+        462,
+        883,
+        490,
+        889
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        435,
+        904,
+        463,
+        922
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        464,
+        904,
+        521,
+        922
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        572,
+        867,
+        631,
+        892
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        555,
+        902,
+        648,
+        924
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        665,
+        867,
+        737,
+        884
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        664,
+        896,
+        690,
+        926
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        693,
+        896,
+        736,
+        926
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        765,
+        875,
+        826,
+        899
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image_caption",
+      "text": "FAPCOM",
+      "bbox": [
+        764,
+        900,
+        826,
+        913
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        858,
+        877,
+        915,
+        893
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image_caption",
+      "text": "Fondi Recciati  \naOpportunities  \naFunding",
+      "bbox": [
+        858,
+        894,
+        915,
+        909
+      ]
+    },
+    {
+      "id": 37,
+      "page": 0,
+      "category": "footer",
+      "text": "© Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        354,
+        964,
+        643,
+        978
+      ]
+    }
+  ],
+  [
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "1. Pedro was um robò muito brincalhão. Certo dia, ela está jogando futebol com seu amigo e quebrou uma coisa sua. Ao quando elude了些 novae engrengeners, e(before do Accidente el perdeu tres. Com quantas engrengeners o Robò Pedro ficou?",
+      "bbox": [
+        92,
+        65,
+        905,
+        117
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "a. () 7",
+      "bbox": [
+        123,
+        132,
+        207,
+        148
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "b. ()6",
+      "bbox": [
+        126,
+        149,
+        205,
+        165
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "c. ()8",
+      "bbox": [
+        126,
+        166,
+        205,
+        181
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "text",
+      "text": "d. () 9",
+      "bbox": [
+        126,
+        183,
+        205,
+        198
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "e.（）5",
+      "bbox": [
+        126,
+        199,
+        205,
+        214
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        132,
+        207,
+        214
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "2. Um robô gasta 25% de sua bateria para funcionalmente um dia inteiro. Em quantoos dias internos de funcaoamento esse robô gasta metade de sua bateria?",
+      "bbox": [
+        90,
+        264,
+        905,
+        299
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "a.（）2 dias",
+      "bbox": [
+        123,
+        315,
+        242,
+        330
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "b. () 1 dia",
+      "bbox": [
+        126,
+        332,
+        234,
+        347
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "c. () 3 dias",
+      "bbox": [
+        126,
+        349,
+        241,
+        363
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "d. () 4 dias",
+      "bbox": [
+        126,
+        365,
+        241,
+        380
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "e. () 5 dias",
+      "bbox": [
+        126,
+        382,
+        241,
+        397
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        315,
+        242,
+        397
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "text",
+      "text": "3. Quais frases abaixo está no Passado?",
+      "bbox": [
+        90,
+        447,
+        432,
+        464
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "text",
+      "text": "a. () O robê está travaíhando.",
+      "bbox": [
+        123,
+        481,
+        393,
+        497
+      ]
+    },
+    {
+      "id": 54,
+      "page": 1,
+      "category": "text",
+      "text": "b.（）Aquele robó vai Manipular o objeto.",
+      "bbox": [
+        126,
+        498,
+        478,
+        514
+      ]
+    },
+    {
+      "id": 55,
+      "page": 1,
+      "category": "text",
+      "text": "c. () O robò SCARA manipulou cinco objetos.",
+      "bbox": [
+        126,
+        515,
+        515,
+        531
+      ]
+    },
+    {
+      "id": 56,
+      "page": 1,
+      "category": "text",
+      "text": "d. () Os robos ja poder ler na atualidade.",
+      "bbox": [
+        126,
+        532,
+        485,
+        547
+      ]
+    },
+    {
+      "id": 57,
+      "page": 1,
+      "category": "text",
+      "text": "e. () O robô bipede andou 5 metros.",
+      "bbox": [
+        126,
+        548,
+        444,
+        564
+      ]
+    },
+    {
+      "id": 58,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        481,
+        515,
+        564
+      ]
+    },
+    {
+      "id": 59,
+      "page": 1,
+      "category": "text",
+      "text": "4. Um dos grandes desafiros da robôtica é equilibrar um robô bipede (robo que se equilibra em dias pernas). Temo em vista this desafrio, uma competência foi realizada na qual venceria o robô que andasse mais tempo antes de cair. Durante a competência, as segunités velocidades foram medicas:",
+      "bbox": [
+        89,
+        614,
+        905,
+        664
+      ]
+    },
+    {
+      "id": 60,
+      "page": 1,
+      "category": "text",
+      "text": "Robo 1: 10 metros e 10 segundos;",
+      "bbox": [
+        123,
+        681,
+        414,
+        697
+      ]
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "category": "text",
+      "text": "- Robo 2: 20 metros e 10 segundos",
+      "bbox": [
+        126,
+        698,
+        408,
+        714
+      ]
+    },
+    {
+      "id": 62,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        681,
+        414,
+        714
+      ]
+    },
+    {
+      "id": 63,
+      "page": 1,
+      "category": "text",
+      "text": "Considere as seguintes affirmacoes:",
+      "bbox": [
+        123,
+        731,
+        403,
+        747
+      ]
+    },
+    {
+      "id": 64,
+      "page": 1,
+      "category": "text",
+      "text": "I) O Robô 1 andou mais que o Robô 2;",
+      "bbox": [
+        126,
+        748,
+        445,
+        763
+      ]
+    },
+    {
+      "id": 65,
+      "page": 1,
+      "category": "text",
+      "text": "II) O Robô 2 andou mais que o Robô 1;",
+      "bbox": [
+        126,
+        765,
+        445,
+        780
+      ]
+    },
+    {
+      "id": 66,
+      "page": 1,
+      "category": "text",
+      "text": "III) O Robo 1 andou a mesma distancia que o Robo 2.",
+      "bbox": [
+        126,
+        781,
+        551,
+        797
+      ]
+    },
+    {
+      "id": 67,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        748,
+        551,
+        797
+      ]
+    },
+    {
+      "id": 68,
+      "page": 1,
+      "category": "text",
+      "text": "As affirmacoes corretas sao:",
+      "bbox": [
+        123,
+        814,
+        342,
+        830
+      ]
+    },
+    {
+      "id": 69,
+      "page": 1,
+      "category": "text",
+      "text": "a. () Apenas I",
+      "bbox": [
+        126,
+        832,
+        263,
+        847
+      ]
+    },
+    {
+      "id": 70,
+      "page": 1,
+      "category": "text",
+      "text": "b. () Apenas III",
+      "bbox": [
+        126,
+        848,
+        272,
+        863
+      ]
+    },
+    {
+      "id": 71,
+      "page": 1,
+      "category": "text",
+      "text": "c. () Apenas II",
+      "bbox": [
+        126,
+        865,
+        267,
+        879
+      ]
+    },
+    {
+      "id": 72,
+      "page": 1,
+      "category": "text",
+      "text": "d. () Apenas I e II",
+      "bbox": [
+        126,
+        881,
+        293,
+        896
+      ]
+    },
+    {
+      "id": 73,
+      "page": 1,
+      "category": "text",
+      "text": "e. () Apenas II e III",
+      "bbox": [
+        126,
+        898,
+        302,
+        913
+      ]
+    },
+    {
+      "id": 74,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        832,
+        302,
+        913
+      ]
+    },
+    {
+      "id": 75,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 76,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/3",
+      "bbox": [
+        895,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 77,
+      "page": 2,
+      "category": "text",
+      "text": "U. Mrobu entegradar medicamentos travaibaium hospitalite realazumdeslocamente 100 metros para una ronda complete. Se elle porcere 1,4Km no final de sua jodimasa, quando das roda foram feitas?",
+      "bbox": [
+        91,
+        64,
+        906,
+        98
+      ]
+    },
+    {
+      "id": 78,
+      "page": 2,
+      "category": "text",
+      "text": "a. () 7 rondas",
+      "bbox": [
+        123,
+        114,
+        264,
+        129
+      ]
+    },
+    {
+      "id": 79,
+      "page": 2,
+      "category": "text",
+      "text": "b. () 10 rondas",
+      "bbox": [
+        126,
+        132,
+        273,
+        146
+      ]
+    },
+    {
+      "id": 80,
+      "page": 2,
+      "category": "text",
+      "text": "c. ()14 rondas",
+      "bbox": [
+        126,
+        148,
+        274,
+        162
+      ]
+    },
+    {
+      "id": 81,
+      "page": 2,
+      "category": "text",
+      "text": "d.（）28rondas",
+      "bbox": [
+        126,
+        165,
+        274,
+        179
+      ]
+    },
+    {
+      "id": 82,
+      "page": 2,
+      "category": "text",
+      "text": "e.（）20 rondas",
+      "bbox": [
+        126,
+        182,
+        274,
+        196
+      ]
+    },
+    {
+      "id": 83,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        114,
+        274,
+        196
+      ]
+    },
+    {
+      "id": 84,
+      "page": 2,
+      "category": "text",
+      "text": "6. Numrogram of 12 robos que vasculhama una determinada area, \\(\\frac{1}{4}\\) deles se separar e seguer em direc tion oposita. Quantos continuan na什麽 direc tion?",
+      "bbox": [
+        90,
+        264,
+        905,
+        297
+      ]
+    },
+    {
+      "id": 85,
+      "page": 2,
+      "category": "text",
+      "text": "a. () 9 rob8s",
+      "bbox": [
+        123,
+        313,
+        254,
+        329
+      ]
+    },
+    {
+      "id": 86,
+      "page": 2,
+      "category": "text",
+      "text": "b. () 12 rob8s",
+      "bbox": [
+        126,
+        331,
+        264,
+        345
+      ]
+    },
+    {
+      "id": 87,
+      "page": 2,
+      "category": "text",
+      "text": "c.（）8 rob8",
+      "bbox": [
+        126,
+        348,
+        254,
+        362
+      ]
+    },
+    {
+      "id": 88,
+      "page": 2,
+      "category": "text",
+      "text": "d. () 3 robos",
+      "bbox": [
+        126,
+        365,
+        254,
+        378
+      ]
+    },
+    {
+      "id": 89,
+      "page": 2,
+      "category": "text",
+      "text": "e. () 6 robos",
+      "bbox": [
+        126,
+        381,
+        254,
+        395
+      ]
+    },
+    {
+      "id": 90,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        313,
+        264,
+        395
+      ]
+    },
+    {
+      "id": 91,
+      "page": 2,
+      "category": "text",
+      "text": "7. Umampo de futebol de robos tem \\(60\\mathrm{cm}\\) de largura e \\(140\\mathrm{cm}\\) de comprimento. Qual a meda de seu perimetro?",
+      "bbox": [
+        90,
+        463,
+        905,
+        496
+      ]
+    },
+    {
+      "id": 92,
+      "page": 2,
+      "category": "text",
+      "text": "a.（）120cm",
+      "bbox": [
+        123,
+        513,
+        254,
+        528
+      ]
+    },
+    {
+      "id": 93,
+      "page": 2,
+      "category": "text",
+      "text": "b. ( ) 240 cm",
+      "bbox": [
+        126,
+        531,
+        254,
+        544
+      ]
+    },
+    {
+      "id": 94,
+      "page": 2,
+      "category": "text",
+      "text": "c. ( ) 400 cm",
+      "bbox": [
+        126,
+        548,
+        254,
+        561
+      ]
+    },
+    {
+      "id": 95,
+      "page": 2,
+      "category": "text",
+      "text": "d.（）1200mm",
+      "bbox": [
+        126,
+        564,
+        270,
+        578
+      ]
+    },
+    {
+      "id": 96,
+      "page": 2,
+      "category": "text",
+      "text": "e.（）4000mm",
+      "bbox": [
+        126,
+        581,
+        270,
+        595
+      ]
+    },
+    {
+      "id": 97,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        513,
+        270,
+        595
+      ]
+    },
+    {
+      "id": 98,
+      "page": 2,
+      "category": "text",
+      "text": "8. Um robna o Olmiplada Brasileira de Robotica gasta 05 horas e 49 horas para finalizar um determinada tarea. Qu a tempo total em seguros que este robg gastou para realizar a tarea?",
+      "bbox": [
+        90,
+        663,
+        905,
+        697
+      ]
+    },
+    {
+      "id": 99,
+      "page": 2,
+      "category": "text",
+      "text": "a. () 349 segundos",
+      "bbox": [
+        123,
+        713,
+        305,
+        729
+      ]
+    },
+    {
+      "id": 100,
+      "page": 2,
+      "category": "text",
+      "text": "b. () 44 segundos",
+      "bbox": [
+        126,
+        731,
+        294,
+        745
+      ]
+    },
+    {
+      "id": 101,
+      "page": 2,
+      "category": "text",
+      "text": "c.（）54segundos",
+      "bbox": [
+        126,
+        748,
+        294,
+        762
+      ]
+    },
+    {
+      "id": 102,
+      "page": 2,
+      "category": "text",
+      "text": "d.（）99segundos",
+      "bbox": [
+        126,
+        764,
+        294,
+        779
+      ]
+    },
+    {
+      "id": 103,
+      "page": 2,
+      "category": "text",
+      "text": "e. () 245 segundos",
+      "bbox": [
+        126,
+        781,
+        304,
+        795
+      ]
+    },
+    {
+      "id": 104,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        123,
+        713,
+        305,
+        795
+      ]
+    },
+    {
+      "id": 105,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 106,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/3",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ],
+  [
+    {
+      "id": 107,
+      "page": 3,
+      "category": "text",
+      "text": "9. O Kabotum RX-O é um robô besouro construito no Japão, que demoroucter de 11 anos para ser construito. O Kabotum RX-O pesa approximadrenalize 15 toneladas. Tendo em vista que o peso o每人 ELFANTE adulte é de 5 toneladas, quando ELFantes são necessários para obterem o mesmo peso do Kabotum RX-O que quando vale esse mesmo peso emquilogramas?",
+      "bbox": [
+        92,
+        65,
+        909,
+        133
+      ]
+    },
+    {
+      "id": 108,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        148,
+        871,
+        540
+      ]
+    },
+    {
+      "id": 109,
+      "page": 3,
+      "category": "text",
+      "text": "a. () 2 elefantes - 12.000 kg",
+      "bbox": [
+        127,
+        564,
+        382,
+        581
+      ]
+    },
+    {
+      "id": 110,
+      "page": 3,
+      "category": "text",
+      "text": "b. () 2 elefantes - 15.000 kg",
+      "bbox": [
+        126,
+        582,
+        381,
+        597
+      ]
+    },
+    {
+      "id": 111,
+      "page": 3,
+      "category": "text",
+      "text": "c.（）3 elefantes-15.000kg",
+      "bbox": [
+        126,
+        598,
+        386,
+        614
+      ]
+    },
+    {
+      "id": 112,
+      "page": 3,
+      "category": "text",
+      "text": "d. () 3 elefantes - 20.000 kg",
+      "bbox": [
+        126,
+        615,
+        381,
+        631
+      ]
+    },
+    {
+      "id": 113,
+      "page": 3,
+      "category": "text",
+      "text": "e.（）4elefantes-16.000kg",
+      "bbox": [
+        126,
+        632,
+        386,
+        647
+      ]
+    },
+    {
+      "id": 114,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        564,
+        386,
+        647
+      ]
+    },
+    {
+      "id": 115,
+      "page": 3,
+      "category": "text",
+      "text": "10. Em aindustry, um rob, movido a gasolina percorre 8km por dia e emite 600Kg de Co2 (dioxidio de carbono) por ano. A fim de diminuiar a poluicao emdia pela anualia, Quintos implantado um rob que é movido a etanol (alcool) e emite \\(98\\%\\) de \\(\\mathrm{CO}_{2}\\) a menos annually. Quantos Kg o \\(\\mathrm{Co2}\\) o segundo rob emete?",
+      "bbox": [
+        92,
+        713,
+        909,
+        781
+      ]
+    },
+    {
+      "id": 116,
+      "page": 3,
+      "category": "text",
+      "text": "a.（）2kg",
+      "bbox": [
+        126,
+        797,
+        229,
+        814
+      ]
+    },
+    {
+      "id": 117,
+      "page": 3,
+      "category": "text",
+      "text": "b. () 12 kg",
+      "bbox": [
+        126,
+        815,
+        239,
+        831
+      ]
+    },
+    {
+      "id": 118,
+      "page": 3,
+      "category": "text",
+      "text": "c.（）588kg",
+      "bbox": [
+        126,
+        832,
+        250,
+        848
+      ]
+    },
+    {
+      "id": 119,
+      "page": 3,
+      "category": "text",
+      "text": "d.（）502kg",
+      "bbox": [
+        126,
+        848,
+        250,
+        864
+      ]
+    },
+    {
+      "id": 120,
+      "page": 3,
+      "category": "text",
+      "text": "e. ()8kg",
+      "bbox": [
+        126,
+        865,
+        224,
+        880
+      ]
+    },
+    {
+      "id": 121,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        126,
+        797,
+        250,
+        880
+      ]
+    },
+    {
+      "id": 122,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\text{©}\\) Olimpiada Brasileira de Robotica 2013",
+      "bbox": [
+        357,
+        947,
+        639,
+        961
+      ]
+    },
+    {
+      "id": 123,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/3",
+      "bbox": [
+        894,
+        944,
+        923,
+        957
+      ]
+    }
+  ]
+]

@@ -1,0 +1,1756 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "OBR",
+      "bbox": [
+        73,
+        68,
+        207,
+        152
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "MODALIDADE",
+      "bbox": [
+        241,
+        72,
+        660,
+        113
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "TEORICA",
+      "bbox": [
+        312,
+        117,
+        586,
+        162
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "header",
+      "text": "OBR",
+      "bbox": [
+        699,
+        74,
+        892,
+        116
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "header",
+      "text": "2024",
+      "bbox": [
+        771,
+        117,
+        882,
+        139
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL 1-FASE 1-2° e 3° ANO DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        110,
+        196,
+        886,
+        218
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICACION</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA\n(0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        108,
+        266,
+        891,
+        521
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        293,
+        543,
+        706,
+        563
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "title",
+      "text": "Car(a) Professor(a):",
+      "bbox": [
+        117,
+        575,
+        295,
+        592
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- España prova content 7 páginas e 10 questões;",
+      "bbox": [
+        117,
+        601,
+        508,
+        620
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Datura da prova:2 horas;",
+      "bbox": [
+        117,
+        628,
+        361,
+        645
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        117,
+        655,
+        463,
+        672
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido a consulha a qualquer tipo de material;",
+      "bbox": [
+        117,
+        681,
+        596,
+        699
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "- Professor pode auxiliar o aluno na leitura e entendimento da prova",
+      "bbox": [
+        117,
+        707,
+        710,
+        725
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente.",
+      "bbox": [
+        117,
+        734,
+        501,
+        751
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "- Em questions que envolvem liger, circulator ou pintar, ou algo não precisameernhema alternativa na proa. Esão-sellutilizadas apenanpos professor para a correcao de proa.",
+      "bbox": [
+        116,
+        760,
+        875,
+        793
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        116,
+        601,
+        875,
+        793
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "Organizational",
+      "bbox": [
+        140,
+        828,
+        207,
+        840
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        141,
+        844,
+        166,
+        870
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "text",
+      "text": "INSTITUTOFEDERAL Rio Grande do Norte",
+      "bbox": [
+        168,
+        844,
+        263,
+        869
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "text",
+      "text": "QU",
+      "bbox": [
+        85,
+        869,
+        125,
+        899
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        140,
+        892,
+        263,
+        915
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "text",
+      "text": "Apollo",
+      "bbox": [
+        285,
+        828,
+        319,
+        839
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        286,
+        845,
+        346,
+        870
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        368,
+        848,
+        451,
+        869
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        476,
+        848,
+        560,
+        869
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        588,
+        841,
+        627,
+        874
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        654,
+        841,
+        691,
+        874
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        713,
+        843,
+        742,
+        870
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "text",
+      "text": "INSTITUTO FEDERAL  \nParaisa  \nCampevital Cartilage",
+      "bbox": [
+        744,
+        849,
+        848,
+        871
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "text",
+      "text": "Patrocinio",
+      "bbox": [
+        635,
+        882,
+        690,
+        892
+      ]
+    },
+    {
+      "id": 31,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        287,
+        887,
+        351,
+        918
+      ]
+    },
+    {
+      "id": 32,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        366,
+        884,
+        435,
+        919
+      ]
+    },
+    {
+      "id": 33,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        452,
+        891,
+        515,
+        916
+      ]
+    },
+    {
+      "id": 34,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        540,
+        894,
+        594,
+        916
+      ]
+    },
+    {
+      "id": 35,
+      "page": 0,
+      "category": "text",
+      "text": "40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        654,
+        898,
+        726,
+        916
+      ]
+    },
+    {
+      "id": 36,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        733,
+        894,
+        806,
+        919
+      ]
+    }
+  ],
+  [
+    {
+      "id": 37,
+      "page": 1,
+      "category": "header",
+      "text": "Questão 1",
+      "bbox": [
+        86,
+        44,
+        238,
+        69
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "Para participar da Modalidade Prática - Regate da OBR, o Guilherme teve que construi o seu OWNro e programa-lo para percorrer um caminho com obstaculos, encontrar as vitmas e resgata-las.",
+      "bbox": [
+        76,
+        86,
+        919,
+        139
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "Em seu treino, Guilherme estudou sobre: MOTORES, SENSORES, CONTROLADORES, PROGRAMACZA, LOGICA e ALGORIMTO",
+      "bbox": [
+        76,
+        141,
+        918,
+        176
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "text",
+      "text": "Ligue cada uma dessas palavras ao Bloco que diz a quantidade de silabas da palavra.",
+      "bbox": [
+        77,
+        195,
+        893,
+        213
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        101,
+        228,
+        279,
+        386
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        471,
+        228,
+        644,
+        384
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "table",
+      "text": "<table><tr><td>A</td><td>Alternativa A</td></tr><tr><td>B</td><td>Alternativa B</td></tr><tr><td>C</td><td>Alternativa C</td></tr><tr><td>D</td><td>Alternativa D</td></tr><tr><td>E</td><td>Alternativa E</td></tr><tr><td>F</td><td>Alternativa F</td></tr></table>",
+      "bbox": [
+        78,
+        407,
+        262,
+        576
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "title",
+      "text": "Questão 2",
+      "bbox": [
+        85,
+        610,
+        238,
+        634
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        90,
+        656,
+        357,
+        783
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "Os robos podem ser usoas para fazer em various atividades que seriam difices ao ser humano. Em Tocantins, os passos dos alunos de uma escola contrataram um drone para fazer imagens e provar que o telhado da escola estáavy fundando.",
+      "bbox": [
+        360,
+        651,
+        918,
+        741
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "Font: https://gl.globo.com/tocantacos/notice/2023/03/pais-de-aliunas-contrastr墙面-para-facier-emagen-que-prove-a-telidinho-de-escola-sta-afundamento.hgdn3",
+      "bbox": [
+        360,
+        746,
+        918,
+        778
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "O drone tirou varias imagens da escola. Marque a alternativa correta:",
+      "bbox": [
+        77,
+        815,
+        738,
+        832
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "A O punto de vista obliquo nuestra paisagem vista de cima para boa.",
+      "bbox": [
+        78,
+        858,
+        820,
+        881
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "B Esse punto de vista do rob tem uma visao obliqua da escola.",
+      "bbox": [
+        80,
+        891,
+        715,
+        910
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "c Um drone não consuegue tirar uma fotocom um pontode vista obliquo.",
+      "bbox": [
+        80,
+        918,
+        799,
+        937
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        858,
+        820,
+        937
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "page_number",
+      "text": "Pagina 2",
+      "bbox": [
+        454,
+        962,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 54,
+      "page": 2,
+      "category": "text",
+      "text": "O punto de vista verticalonga una paisagem vista de cima e de lado.   \nEsse punto de vista do robot emuna visao vertical da academia.",
+      "bbox": [
+        78,
+        32,
+        806,
+        85
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "title",
+      "text": "Questão 3",
+      "bbox": [
+        85,
+        122,
+        238,
+        146
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "Artemis, um robó humanoide jogador de futebol, estáAGO para entrada em campo Com 1,42 m e 38 kg, o Artemis é um robó pioneiro desenvolvimento por engenheiros mecanicos da Universidade da California em Los Angeles (UCLA) e está preparado para entrada em campo.",
+      "bbox": [
+        76,
+        163,
+        917,
+        234
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "[...]",
+      "bbox": [
+        80,
+        237,
+        112,
+        254
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        91,
+        259,
+        428,
+        419
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "As technologicalasusadasrobosquejogamfutebolamestendosusadasporarualaplicações,comobadcaincendiosesocorroasdesastres Fonte.",
+      "bbox": [
+        433,
+        255,
+        917,
+        325
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "https://epocaneccogios globe.com/tecnologia/noticia/2023/04/artemis-umrobe-humanoide-jogador-de-febodeo-esta-pronto-para-entrar-em:campo.hgtm",
+      "bbox": [
+        434,
+        330,
+        889,
+        380
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "Marque a alternatively que content, respectively, sinônimos das palavras em",
+      "bbox": [
+        433,
+        400,
+        917,
+        435
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "negrito no texto (entrar, jogam, incendios, desastres).",
+      "bbox": [
+        77,
+        437,
+        603,
+        454
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "A sair, praticam, gelos, fatalities",
+      "bbox": [
+        78,
+        461,
+        442,
+        484
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "B adentrar, praticam, queimadas, acidentes",
+      "bbox": [
+        79,
+        491,
+        522,
+        513
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "c ficar, treinam, paixoes, dores",
+      "bbox": [
+        80,
+        518,
+        405,
+        540
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "D ingressar, exercitam, queimadas, robos",
+      "bbox": [
+        80,
+        548,
+        502,
+        569
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "E ingressar, praticam, fogos, quebras",
+      "bbox": [
+        80,
+        576,
+        465,
+        597
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        461,
+        522,
+        597
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "title",
+      "text": "Questão 4",
+      "bbox": [
+        85,
+        635,
+        238,
+        659
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        91,
+        680,
+        304,
+        808
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "O Balie é um robô domestico que auxiliais os人身iros de maneira mais eficientemente as sus rotinas diarias. Ele se move de forma autônoma pela casa e se concentra com eltrodométricos, prometendo auxiliar os人身iros, aprendendo com os padrés e háttos, para fazercer serviços mais inteligentes. Ela não envia atulazações e videos, de pets ou eles queridos para os dispositivos dos人身iros quando eles estao para casa, por exemple.",
+      "bbox": [
+        310,
+        675,
+        917,
+        820
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Fnt: https://cn.bcrainbi.com/nt/enetology/abio-domestic-turbindad-cma-monista-esa-eproje-violas-vjia/  \nque a alterativa que representa aconse cointeres que o Baille para fazer um ea  \ncasa.",
+      "bbox": [
+        76,
+        825,
+        917,
+        874
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "text",
+      "text": "Balie vai lugar a区管委会 de lavarroupa quando o relogiomarcar 03h30 da manhã,antes das pessoas acordarem.",
+      "bbox": [
+        78,
+        883,
+        849,
+        926
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "page_number",
+      "text": "Pagina 3",
+      "bbox": [
+        454,
+        962,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "Ballie vai acender algumas luzes da casa antes que tocar o alarme para acordar as pessoas.",
+      "bbox": [
+        78,
+        33,
+        898,
+        76
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "text",
+      "text": "Balle vai tocar o alarme para acordar as pessoas quando ligar a关停a de lavar o louças do jantar.",
+      "bbox": [
+        78,
+        83,
+        890,
+        125
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "text",
+      "text": "Balle vai fechar as cortinas do quarto antes de tocar o alarme para acordar as pessoas.",
+      "bbox": [
+        78,
+        133,
+        873,
+        175
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "Balle vai lugar todas as luzes da casa ao mesmo tempo que fecha as cortinas as 23h00.",
+      "bbox": [
+        78,
+        183,
+        888,
+        224
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        78,
+        33,
+        898,
+        224
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "title",
+      "text": "Questão 5",
+      "bbox": [
+        86,
+        264,
+        238,
+        287
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        310,
+        356,
+        435
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "Cientistas dos Estados Unidos criaram uma planta-robó que usa senores paraDSLentner como as plantas crescem e se nutrem.",
+      "bbox": [
+        360,
+        306,
+        918,
+        357
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "text",
+      "text": "O robó entende como a planta reage ao receber luz, agua e nutrientes. Para也是如此, os programadores do robó precisavam entender quando são as partes da planta e suasopenhagenas.",
+      "bbox": [
+        360,
+        361,
+        918,
+        432
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "text",
+      "text": "Fonte: https://www.techtudo.com.br/noticias/2018/12/elowan-e-uma-planta-robo-que",
+      "bbox": [
+        360,
+        436,
+        918,
+        450
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "pode-se-movimentar-em-direcao-a-luz.ghtm",
+      "bbox": [
+        78,
+        455,
+        364,
+        467
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "Ligue as partes das plantas as funções que elas desempenham.",
+      "bbox": [
+        78,
+        488,
+        687,
+        506
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        101,
+        522,
+        273,
+        652
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        472,
+        523,
+        641,
+        652
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "A Alternativa A B Alternativa B C Alternativa C D Alternativa D E Alternativa E F Alternativa F",
+      "bbox": [
+        78,
+        677,
+        260,
+        844
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "title",
+      "text": "Questão 6",
+      "bbox": [
+        84,
+        879,
+        238,
+        903
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "O Mobile ALOHA è um robò que está sentido Criado para fazer就是在 ares de ferais de casa. Esse robò tem que ter muito dificuldemente com a segança das pessoas que moram na",
+      "bbox": [
+        76,
+        921,
+        918,
+        956
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "page_number",
+      "text": "Pagina 4",
+      "bbox": [
+        454,
+        963,
+        542,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 93,
+      "page": 4,
+      "category": "header",
+      "text": "casa.",
+      "bbox": [
+        79,
+        38,
+        131,
+        51
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        103,
+        65,
+        645,
+        277
+      ]
+    },
+    {
+      "id": 95,
+      "page": 4,
+      "category": "text",
+      "text": "Fonte: https://www.futuroprossimo.it/wp-content/uploads/2024/01/Mobile-ALOHA-1068x601-1.jpg",
+      "bbox": [
+        77,
+        296,
+        700,
+        310
+      ]
+    },
+    {
+      "id": 96,
+      "page": 4,
+      "category": "text",
+      "text": "O que o robó Mobile ALOHA deve fazer para garantir a segurar de todos na casa?",
+      "bbox": [
+        77,
+        312,
+        886,
+        331
+      ]
+    },
+    {
+      "id": 97,
+      "page": 4,
+      "category": "text",
+      "text": "Cozinho eDEXIAA a panela quente no fogao.",
+      "bbox": [
+        80,
+        336,
+        552,
+        361
+      ]
+    },
+    {
+      "id": 98,
+      "page": 4,
+      "category": "text",
+      "text": "B Deixar os produits de limpeza em cima da mesa de jantar.",
+      "bbox": [
+        80,
+        367,
+        686,
+        387
+      ]
+    },
+    {
+      "id": 99,
+      "page": 4,
+      "category": "text",
+      "text": "Guardar as facas no armario(before de usar.",
+      "bbox": [
+        80,
+        395,
+        547,
+        415
+      ]
+    },
+    {
+      "id": 100,
+      "page": 4,
+      "category": "text",
+      "text": "Deixar a torradeira ligada sem nada dentro enquanto lava a louca.",
+      "bbox": [
+        80,
+        424,
+        758,
+        444
+      ]
+    },
+    {
+      "id": 101,
+      "page": 4,
+      "category": "text",
+      "text": "Guardar os medicamentos jusqu o os produits de limpeza da casa.",
+      "bbox": [
+        80,
+        451,
+        787,
+        471
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        336,
+        787,
+        471
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "title",
+      "text": "Questão 7",
+      "bbox": [
+        85,
+        510,
+        238,
+        534
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        90,
+        555,
+        366,
+        657
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "Robos molestos são usados em fibricas para fazer no transporte de equipamentos e peças.",
+      "bbox": [
+        369,
+        551,
+        918,
+        586
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "O robó foi programado para fazer viagens na fibricula, correstringo sempre a mesma quantidade de peças. A imagem abixo às viagens do robó.",
+      "bbox": [
+        369,
+        588,
+        918,
+        641
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "Fonte: https://avozdaindustria.com.br/invacao/per-que-sua-fabrica-precixa-de-robos-movels",
+      "bbox": [
+        369,
+        645,
+        918,
+        676
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Viagem 1",
+      "bbox": [
+        127,
+        732,
+        183,
+        745
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        107,
+        746,
+        203,
+        805
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Viagem 2",
+      "bbox": [
+        234,
+        732,
+        291,
+        744
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        216,
+        746,
+        311,
+        805
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Viagem 3",
+      "bbox": [
+        342,
+        732,
+        397,
+        744
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        322,
+        746,
+        418,
+        805
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Viagem 4",
+      "bbox": [
+        450,
+        732,
+        506,
+        744
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        429,
+        746,
+        526,
+        805
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "image_caption",
+      "text": "Viagem 5",
+      "bbox": [
+        561,
+        732,
+        617,
+        744
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        542,
+        746,
+        637,
+        805
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "text",
+      "text": "Qual das operações de multiplicacao abaixorepresenta corretemente a quantidade de peçastransportadaspelobé?",
+      "bbox": [
+        77,
+        825,
+        917,
+        861
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "text",
+      "text": "A \\(4\\times 3 = 20\\)",
+      "bbox": [
+        80,
+        867,
+        229,
+        892
+      ]
+    },
+    {
+      "id": 120,
+      "page": 4,
+      "category": "text",
+      "text": "B \\(5\\times 3 = 20\\)",
+      "bbox": [
+        80,
+        896,
+        229,
+        918
+      ]
+    },
+    {
+      "id": 121,
+      "page": 4,
+      "category": "text",
+      "text": "\\(5 \\times 5 = 20\\)",
+      "bbox": [
+        80,
+        923,
+        229,
+        950
+      ]
+    },
+    {
+      "id": 122,
+      "page": 4,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        867,
+        229,
+        950
+      ]
+    },
+    {
+      "id": 123,
+      "page": 4,
+      "category": "page_number",
+      "text": "Páginá 5",
+      "bbox": [
+        454,
+        963,
+        543,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 124,
+      "page": 5,
+      "category": "header",
+      "text": "\\(5\\times 4 = 20\\)",
+      "bbox": [
+        79,
+        32,
+        232,
+        87
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "title",
+      "text": "Questão 8",
+      "bbox": [
+        85,
+        122,
+        238,
+        146
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        92,
+        170,
+        360,
+        410
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "Os religios ao loado marcam o horario em que o robdo da fibraria começo e terminou de carregar as 20 peças. Quanto tempo a bateria do robdo pode durar para que ele faça this transporte de peças sem precisar recarregar?",
+      "bbox": [
+        367,
+        163,
+        918,
+        236
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        369,
+        259,
+        638,
+        402
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "title",
+      "text": "Questão 9",
+      "bbox": [
+        85,
+        435,
+        238,
+        458
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "O robó da fabricula está muito lento, e não está consiguito Transportar todas as peças no dia sem precisar recarregar. O queREADME no robó para que ele se movimente mais rápidó?",
+      "bbox": [
+        76,
+        477,
+        918,
+        529
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        78,
+        538,
+        449,
+        678
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "title",
+      "text": "Questão 10",
+      "bbox": [
+        85,
+        711,
+        258,
+        736
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "Sarah foit contradada para Criar um kit de robotica para a sua或多. O grácfo a seguirmosa a quantidade de cada categoria de peças que Sarah colocou em seu kit.",
+      "bbox": [
+        76,
+        753,
+        917,
+        789
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "page_number",
+      "text": "Página 6",
+      "bbox": [
+        454,
+        962,
+        543,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 135,
+      "page": 6,
+      "category": "image_caption",
+      "text": "Peças do kit de robotica de Sarah",
+      "bbox": [
+        107,
+        51,
+        409,
+        67
+      ]
+    },
+    {
+      "id": 136,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        116,
+        75,
+        641,
+        276
+      ]
+    },
+    {
+      "id": 137,
+      "page": 6,
+      "category": "text",
+      "text": "Resolvemos montar um robó com todas as peças do kit de Sarah.  \nMarque a alternatively corrente.",
+      "bbox": [
+        77,
+        293,
+        701,
+        327
+      ]
+    },
+    {
+      "id": 138,
+      "page": 6,
+      "category": "text",
+      "text": "A O robó tem mais estéiras do que rodas.",
+      "bbox": [
+        80,
+        336,
+        503,
+        359
+      ]
+    },
+    {
+      "id": 139,
+      "page": 6,
+      "category": "text",
+      "text": "B O robo tem mais sensores do que motores.",
+      "bbox": [
+        80,
+        366,
+        538,
+        386
+      ]
+    },
+    {
+      "id": 140,
+      "page": 6,
+      "category": "text",
+      "text": "O robó tem menos sensores de cor do que sensores ultrassónicos.",
+      "bbox": [
+        80,
+        395,
+        757,
+        415
+      ]
+    },
+    {
+      "id": 141,
+      "page": 6,
+      "category": "text",
+      "text": "O robo não tem motores.",
+      "bbox": [
+        80,
+        422,
+        367,
+        443
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "text",
+      "text": "O robó tem mais sensores de toque do que qualquer除外 sensor.",
+      "bbox": [
+        80,
+        451,
+        757,
+        471
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        80,
+        336,
+        757,
+        471
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "page_number",
+      "text": "Pagina 7",
+      "bbox": [
+        454,
+        962,
+        542,
+        980
+      ]
+    }
+  ]
+]

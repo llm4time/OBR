@@ -1,0 +1,2128 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        93,
+        99,
+        172,
+        166
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        258,
+        150,
+        697,
+        174
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "2010",
+      "bbox": [
+        463,
+        177,
+        535,
+        198
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "header",
+      "text": "58",
+      "bbox": [
+        772,
+        117,
+        905,
+        169
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "Modalidade: Teorica Nivel 3 (6° e 7° anos ensino fundamental) Duração: 2 horas",
+      "bbox": [
+        90,
+        215,
+        914,
+        234
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "Nome do Aluno: Matr:",
+      "bbox": [
+        90,
+        234,
+        907,
+        250
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Escola: Cidade: Estado:",
+      "bbox": [
+        90,
+        251,
+        907,
+        267
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "Realização:",
+      "bbox": [
+        91,
+        304,
+        192,
+        321
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        97,
+        340,
+        165,
+        389
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "CNPq",
+      "bbox": [
+        166,
+        350,
+        312,
+        386
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "Censoth Nacional de Desenvolvimento Científico e Tecnológico",
+      "bbox": [
+        107,
+        388,
+        312,
+        408
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "unesp",
+      "bbox": [
+        342,
+        361,
+        515,
+        402
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        515,
+        349,
+        558,
+        377
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        568,
+        336,
+        652,
+        407
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        658,
+        343,
+        830,
+        412
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "Patrocinio:",
+      "bbox": [
+        91,
+        445,
+        185,
+        461
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        94,
+        491,
+        161,
+        542
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "text",
+      "text": "education",
+      "bbox": [
+        172,
+        497,
+        378,
+        527
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "text",
+      "text": "Apoio:",
+      "bbox": [
+        91,
+        574,
+        152,
+        591
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        102,
+        619,
+        222,
+        685
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        235,
+        625,
+        374,
+        683
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        391,
+        621,
+        487,
+        685
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        500,
+        648,
+        626,
+        685
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "title",
+      "text": "Aviso",
+      "bbox": [
+        472,
+        753,
+        525,
+        767
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "text",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        91,
+        769,
+        267,
+        786
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras",
+      "bbox": [
+        91,
+        801,
+        417,
+        818
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta",
+      "bbox": [
+        91,
+        819,
+        325,
+        836
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        91,
+        801,
+        417,
+        836
+      ]
+    }
+  ],
+  [
+    {
+      "id": 28,
+      "page": 1,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        858,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "title",
+      "text": "1-Questao",
+      "bbox": [
+        91,
+        103,
+        217,
+        120
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        103,
+        773,
+        118
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomeno. Area: Matematica. Descritores: Numberos e Operaciones/Algebra e Funcaoes.",
+      "bbox": [
+        92,
+        120,
+        779,
+        133
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "Um robo que tem propulsao a jato percorreu a distancia de 3 quilmotemas com 2 lotos de combustir. O que os quilmotemas deleve percorre con 3 lotos de combustivel? Quejao das as alternativas correirao.",
+      "bbox": [
+        88,
+        154,
+        908,
+        203
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "(a) 2quilometros",
+      "bbox": [
+        90,
+        236,
+        236,
+        253
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "(b) 4,5quilometros",
+      "bbox": [
+        93,
+        254,
+        252,
+        270
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "(c) 18/4 quilometros",
+      "bbox": [
+        93,
+        271,
+        261,
+        286
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "(d) 2.000 metros",
+      "bbox": [
+        93,
+        288,
+        230,
+        303
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "(e) 9/2 metros",
+      "bbox": [
+        93,
+        304,
+        211,
+        320
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        236,
+        261,
+        320
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        451,
+        214,
+        774,
+        317
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "title",
+      "text": "2-Questao",
+      "bbox": [
+        90,
+        367,
+        213,
+        384
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        711,
+        367,
+        774,
+        383
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "text",
+      "text": "Eixo cognitivo: Il-Comprender Fenomenos. Area: Matematica. Descritores: Espaço e Forma.",
+      "bbox": [
+        90,
+        384,
+        636,
+        397
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "En muitos casos, various robos poucoemos podemos se unir para formar robos maioricos. Imagine que uma mesa que tem \\(70~\\mathrm{cm}\\) de alta é como a uma de suas pesnas quebrada. Imagine扩容a que existem muitos robozinho no tipo de cubos de tamanho de fazer differentes: \\(1\\mathrm{cm}\\), \\(2\\mathrm{cm}\\), \\(3\\mathrm{cm}\\), \\(4\\mathrm{cm}\\), \\(5\\mathrm{cm}\\), \\(6\\mathrm{cm}\\) e \\(7\\mathrm{cm}\\). Esses robos-cubinho podemos se encaixar uns aos另外 de forma a construiar uma perna para a mesa. Se um robô-cubinho somente se encaixa a outo de mesmo tamanho, quando他们在 terao Successuarar uma perna de forma que o plano da mesa se Maintainar paralelo ao chão? Marque todos as发展目标 corretas.",
+      "bbox": [
+        88,
+        419,
+        911,
+        538
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        182,
+        558,
+        791,
+        715
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "(a) Robos de 1cm",
+      "bbox": [
+        120,
+        780,
+        273,
+        796
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "(b) Robos de 1cm, 2cm e 7cm",
+      "bbox": [
+        122,
+        798,
+        371,
+        812
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "(c) Robos de 3cm, 5cm e 7cm",
+      "bbox": [
+        122,
+        813,
+        373,
+        828
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "text",
+      "text": "(d) Robos de 1cm, 2cm, 5cm e 7cm",
+      "bbox": [
+        122,
+        829,
+        418,
+        845
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "text",
+      "text": "(e) Robos de 2cm, 3cm, 4cm, 5cm, 6cm e 7cm",
+      "bbox": [
+        120,
+        847,
+        506,
+        862
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        120,
+        780,
+        506,
+        862
+      ]
+    },
+    {
+      "id": 53,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        891,
+        942,
+        907,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 54,
+      "page": 2,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        661,
+        80
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        858,
+        52,
+        915,
+        77
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "title",
+      "text": "3 - Questão",
+      "bbox": [
+        90,
+        101,
+        217,
+        123
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        105,
+        776,
+        121
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfantar situações-problema. Área: Matemática. Descrições: Númos e Operações/Ágebra e Funções.",
+      "bbox": [
+        90,
+        125,
+        812,
+        141
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "Um robó aerovo vaando auna certaaltitude fecza una goto de um Campo de futebol (esquera). Certo tempo停工,voando a una altituda, o robó fecza una vita do甚么 Campo de futebol (direita). Considere que os quadraisinhos vale 1 umião de medicada en amas paravisions. O que é correto afortamar sobre as das altitudes do iaivo? Assinale todos以及其他as corretas.",
+      "bbox": [
+        88,
+        154,
+        908,
+        222
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        199,
+        245,
+        444,
+        386
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        502,
+        245,
+        750,
+        385
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "(a) O avião voava mais baixo da segunda vez",
+      "bbox": [
+        90,
+        399,
+        463,
+        416
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "(b) O avião voava mais alto da segunda vez",
+      "bbox": [
+        93,
+        416,
+        450,
+        432
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "(c) A relacion entre as alturas é de 2",
+      "bbox": [
+        93,
+        433,
+        382,
+        465
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "(d) A relation entre as alturas é de 6",
+      "bbox": [
+        93,
+        466,
+        394,
+        499
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "(e) A relacion entre as alturas é de \\(\\frac{1}{3}\\)",
+      "bbox": [
+        93,
+        500,
+        393,
+        534
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        399,
+        463,
+        534
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "title",
+      "text": "4-Questao",
+      "bbox": [
+        90,
+        559,
+        215,
+        578
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        710,
+        562,
+        774,
+        578
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "text",
+      "text": "Eixo cognitivo: II-Comprender Fenomenos, Avenida: Matemática, Descritóres: Tratamento da informação.",
+      "bbox": [
+        90,
+        583,
+        701,
+        598
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "text",
+      "text": "Um robo com das rodas inicia sua operatione no punto indicado, com suarente voltada para a posicao \\(+90^{\\circ}\\). Deseja-se que o robo se desloque at a regiao marcada com a letra \"A\". Quais dos programas abaxio o levam at l? Assinale todas as alternativas corretas.",
+      "bbox": [
+        88,
+        612,
+        911,
+        663
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        316,
+        664,
+        677,
+        936
+      ]
+    },
+    {
+      "id": 74,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        891,
+        942,
+        907,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 75,
+      "page": 3,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        92,
+        40,
+        135,
+        75
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        658,
+        79
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        857,
+        52,
+        911,
+        77
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(a)",
+      "bbox": [
+        154,
+        166,
+        183,
+        184
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        108,
+        189,
+        231,
+        541
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(b)",
+      "bbox": [
+        319,
+        166,
+        349,
+        183
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        274,
+        188,
+        396,
+        471
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(c)",
+      "bbox": [
+        486,
+        166,
+        513,
+        183
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        434,
+        188,
+        557,
+        470
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(d)",
+      "bbox": [
+        650,
+        166,
+        678,
+        183
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        604,
+        188,
+        725,
+        471
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(e)",
+      "bbox": [
+        816,
+        166,
+        844,
+        183
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        773,
+        188,
+        895,
+        539
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "title",
+      "text": "5-Questao",
+      "bbox": [
+        90,
+        604,
+        214,
+        623
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        708,
+        606,
+        773,
+        621
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        784,
+        600,
+        903,
+        629
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "Eixo cognitivo: V-Elaborar propostas. Area: Matemática Descriptores: Espaço e forma / Grangeza e medidas.",
+      "bbox": [
+        90,
+        629,
+        720,
+        643
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "A figura abiaixo minha braço robóctico de dos段时间. Oprimary passui taminho T1 é maior do que o segundo, quando é dado por T2. Quasi往返 do段时间 P (origem do段时间 T1)veillance um ponto, de forma que a ponto da braço robóctico, indicaça o pesopto A, alcance this mesmo ponto?",
+      "bbox": [
+        88,
+        652,
+        908,
+        718
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "(a) No minimo T1+T2 e no maximo T1-T2",
+      "bbox": [
+        90,
+        772,
+        444,
+        788
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "(b) No minimo T1 e no Tmaxio T1+T2",
+      "bbox": [
+        93,
+        789,
+        415,
+        804
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "(c) No minimo 0 e no Tmaximo T1+T2",
+      "bbox": [
+        93,
+        806,
+        403,
+        821
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "(d) No minimo T1-T2 e no maximo T1+T2",
+      "bbox": [
+        93,
+        822,
+        444,
+        836
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "(e) No minimum T2 e no máximo T2-T1",
+      "bbox": [
+        94,
+        838,
+        408,
+        854
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        90,
+        772,
+        444,
+        854
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        548,
+        722,
+        791,
+        916
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        891,
+        942,
+        905,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 101,
+      "page": 4,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 102,
+      "page": 4,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        661,
+        80
+      ]
+    },
+    {
+      "id": 103,
+      "page": 4,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        858,
+        52,
+        915,
+        77
+      ]
+    },
+    {
+      "id": 104,
+      "page": 4,
+      "category": "title",
+      "text": "6 - Questao",
+      "bbox": [
+        90,
+        118,
+        217,
+        139
+      ]
+    },
+    {
+      "id": 105,
+      "page": 4,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        121,
+        776,
+        138
+      ]
+    },
+    {
+      "id": 106,
+      "page": 4,
+      "category": "text",
+      "text": "Eixo cognitivo: III-Enfrentar situações-problema. Área: Matemática. Descrições: Tratamente da informação.",
+      "bbox": [
+        90,
+        142,
+        731,
+        157
+      ]
+    },
+    {
+      "id": 107,
+      "page": 4,
+      "category": "text",
+      "text": "Seja o besoin abixo parte existe um arranjao de engenagens. Se giramos a primarye engenagem no sentido anti-horário (positivo) com velocidade \\(100\\mathrm{m / s}\\), qual dos graficos melhor representar a velocidade nas 5 engenagens? Marque todos as alternativas corretas.",
+      "bbox": [
+        88,
+        178,
+        911,
+        230
+      ]
+    },
+    {
+      "id": 108,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        280,
+        245,
+        691,
+        368
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "image_caption",
+      "text": "(a)",
+      "bbox": [
+        209,
+        400,
+        238,
+        416
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "image_caption",
+      "text": "(b)",
+      "bbox": [
+        484,
+        399,
+        514,
+        416
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "image_caption",
+      "text": "(c)",
+      "bbox": [
+        751,
+        400,
+        778,
+        416
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        119,
+        443,
+        363,
+        584
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        377,
+        444,
+        622,
+        584
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        636,
+        443,
+        880,
+        584
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "image_caption",
+      "text": "(d)",
+      "bbox": [
+        360,
+        612,
+        390,
+        629
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "image_caption",
+      "text": "(e)",
+      "bbox": [
+        623,
+        613,
+        650,
+        629
+      ]
+    },
+    {
+      "id": 117,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        249,
+        655,
+        493,
+        796
+      ]
+    },
+    {
+      "id": 118,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        506,
+        655,
+        751,
+        796
+      ]
+    },
+    {
+      "id": 119,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        892,
+        942,
+        906,
+        955
+      ]
+    }
+  ],
+  [
+    {
+      "id": 120,
+      "page": 5,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        661,
+        80
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "header",
+      "text": "572",
+      "bbox": [
+        857,
+        52,
+        915,
+        77
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "title",
+      "text": "Lingua Portuguesa",
+      "bbox": [
+        420,
+        132,
+        581,
+        150
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "title",
+      "text": "O jardim dos robos sociais",
+      "bbox": [
+        381,
+        168,
+        618,
+        186
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        205,
+        201,
+        440,
+        360
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        443,
+        199,
+        795,
+        361
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "\"Aquí e o futuro\". Foi also claima que yo juven, de circa de 20 anos, explicó a coquia o que se esperava en達到 enum amonge conteiner cinza identificado como \"Jardim Robólico\", instalança da UNESP/ITA em um evento realizado em janeiro em São Paulo. Donto da misteriosa caixa, elas contemplavam fixamente um conjoito de 20 Flores robocás feitas de acrílico que piscavam e mudavam de cor de acordo com os movimentos das dualas. Outro atrativo das \"flosses\" e a possíbilitad de intergarim com os visitantes de differentes formas. Qualquer um que aponte à lamdape de seu cellular para os senseiros luminosos dos girassões pode brincar de fazão-os movimentar-se de um lugar aoedor, nos outros moldes que a planta vira em direção ao Sol. E caminhar para perto e para longa das tulipas é sufficiente para fazão-as mudar de cor e pescar mais ou menos rápido. \"O ser humano也希望 mt uita dificuldade em se relacionamento com�inais\", affirma um doscriados do jardim. À meda que os automatismos estao chegando ao residências, é precisely dar um salto Tecnológico para melhorar a conviciência dos dois hodos, defente o pesquisador. Para isto,essoando desenvivos robos sociais, capazes de expressar emoções. \"E precisely discurir como sera a inserção deas nas casas das pessoas. Quaisersono os gestos e posturas que eles deviarao desempenhvar para se relacionar conosco. O Jardim Robólico é uma proposita de fazer o ser humano brincar com as flosses\", explicia.",
+      "bbox": [
+        88,
+        391,
+        910,
+        653
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "text",
+      "text": "Trechos extraidos da revista UNESP Ciência,AGO 2010.",
+      "bbox": [
+        554,
+        685,
+        878,
+        699
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "title",
+      "text": "7-Questao",
+      "bbox": [
+        90,
+        730,
+        210,
+        748
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        706,
+        729,
+        771,
+        746
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        781,
+        726,
+        902,
+        755
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. Descrições: Procedimentos de Leitura",
+      "bbox": [
+        90,
+        748,
+        694,
+        761
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "De acordo com o texto, o que se pode affirmar? Marque todas as respostas corretas.",
+      "bbox": [
+        149,
+        792,
+        826,
+        811
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "(a) As plantas roboticas eram feitas de acrilico",
+      "bbox": [
+        148,
+        826,
+        534,
+        841
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "(b) Os girassois-robô giram na direção do Sol, como os girassois de Verdade",
+      "bbox": [
+        148,
+        841,
+        771,
+        858
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "(c) Tulipas-robo mudavam sua forma de piscar de acordo com a proximidade de pessoas",
+      "bbox": [
+        148,
+        858,
+        871,
+        875
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "text",
+      "text": "(d) Todos ostipsode plantas roboticas que existem brincam com as pessoas",
+      "bbox": [
+        149,
+        875,
+        769,
+        891
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "text",
+      "text": "(e) Apontar luzes como a de celulas na direção dos girassóis-robó os fazem girar",
+      "bbox": [
+        149,
+        891,
+        821,
+        908
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        148,
+        826,
+        871,
+        908
+      ]
+    },
+    {
+      "id": 140,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        891,
+        942,
+        908,
+        956
+      ]
+    }
+  ],
+  [
+    {
+      "id": 141,
+      "page": 6,
+      "category": "header",
+      "text": "SBC",
+      "bbox": [
+        91,
+        40,
+        136,
+        76
+      ]
+    },
+    {
+      "id": 142,
+      "page": 6,
+      "category": "header",
+      "text": "Olimpiada Brasileira de Robotica",
+      "bbox": [
+        328,
+        60,
+        660,
+        80
+      ]
+    },
+    {
+      "id": 143,
+      "page": 6,
+      "category": "header",
+      "text": "582",
+      "bbox": [
+        857,
+        52,
+        913,
+        77
+      ]
+    },
+    {
+      "id": 144,
+      "page": 6,
+      "category": "title",
+      "text": "8-Questao",
+      "bbox": [
+        90,
+        135,
+        214,
+        152
+      ]
+    },
+    {
+      "id": 145,
+      "page": 6,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        705,
+        135,
+        770,
+        150
+      ]
+    },
+    {
+      "id": 146,
+      "page": 6,
+      "category": "text",
+      "text": "Eixo cognitivo: IV. Construir argumentação. Area: Lingua Portuguesa. Descrições: Coerência e Coelho no Processamento de Textos",
+      "bbox": [
+        90,
+        153,
+        860,
+        165
+      ]
+    },
+    {
+      "id": 147,
+      "page": 6,
+      "category": "text",
+      "text": "De accordo com o texto, por que esse jardim de plantas robéticas fos produzido? Marque todas as alternativas corretas.",
+      "bbox": [
+        148,
+        181,
+        796,
+        214
+      ]
+    },
+    {
+      "id": 148,
+      "page": 6,
+      "category": "text",
+      "text": "(a) Para pesquisar alternativas viaveis para a substituicao das flores biologicas",
+      "bbox": [
+        148,
+        229,
+        784,
+        245
+      ]
+    },
+    {
+      "id": 149,
+      "page": 6,
+      "category": "text",
+      "text": "(b) Paraaabdarastudarocrobosepessoaspodemserelacionalmelhor",
+      "bbox": [
+        148,
+        246,
+        763,
+        262
+      ]
+    },
+    {
+      "id": 150,
+      "page": 6,
+      "category": "text",
+      "text": "(c) Para que as pessoas expressem mais suas emoções",
+      "bbox": [
+        149,
+        264,
+        590,
+        279
+      ]
+    },
+    {
+      "id": 151,
+      "page": 6,
+      "category": "text",
+      "text": "(d) Para estudio novas formas de aproveitamento da luz solar",
+      "bbox": [
+        149,
+        280,
+        650,
+        295
+      ]
+    },
+    {
+      "id": 152,
+      "page": 6,
+      "category": "text",
+      "text": "(e) Para provar que as plantas de Verdade jamais sido substituidas por robos",
+      "bbox": [
+        149,
+        296,
+        774,
+        313
+      ]
+    },
+    {
+      "id": 153,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        148,
+        229,
+        784,
+        313
+      ]
+    },
+    {
+      "id": 154,
+      "page": 6,
+      "category": "title",
+      "text": "9 - Questão",
+      "bbox": [
+        90,
+        345,
+        214,
+        364
+      ]
+    },
+    {
+      "id": 155,
+      "page": 6,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        711,
+        346,
+        774,
+        361
+      ]
+    },
+    {
+      "id": 156,
+      "page": 6,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Area: Lingua Portuguesa. Descriratores: Coerencia e Coesão no Processamento de Textos",
+      "bbox": [
+        90,
+        364,
+        821,
+        375
+      ]
+    },
+    {
+      "id": 157,
+      "page": 6,
+      "category": "text",
+      "text": "O que é correto affirmar? Marque todas as alternativas corretas.",
+      "bbox": [
+        148,
+        391,
+        662,
+        407
+      ]
+    },
+    {
+      "id": 158,
+      "page": 6,
+      "category": "text",
+      "text": "(a) A phrase \"Quais seront o gestos e posturas que elles dévero desempenhar para se relacion conoso\" possui ellos menos um pronome",
+      "bbox": [
+        148,
+        424,
+        905,
+        456
+      ]
+    },
+    {
+      "id": 159,
+      "page": 6,
+      "category": "text",
+      "text": "(b) A frasse \"O Jardim Robitico é uma proposta de fazer o ser humano brincar com as flores\" encontrar-se na voz passiva",
+      "bbox": [
+        148,
+        457,
+        905,
+        489
+      ]
+    },
+    {
+      "id": 160,
+      "page": 6,
+      "category": "text",
+      "text": "(e) O sujeto da frasse \"Foi assim que uma jovem, de circa de 20 anos, explicou acolega o esqueço?\" é indeterminado",
+      "bbox": [
+        148,
+        490,
+        905,
+        521
+      ]
+    },
+    {
+      "id": 161,
+      "page": 6,
+      "category": "text",
+      "text": "(d) Na frase \"d)'mediade que os automatons estar Eightho asresidencia, e preciseo dar um altoamento, a crase em \"as residencia\" poderia ser suprimida",
+      "bbox": [
+        148,
+        522,
+        905,
+        554
+      ]
+    },
+    {
+      "id": 162,
+      "page": 6,
+      "category": "text",
+      "text": "(e) A frasse \"Quais serao os gestos e posturas que eles deverao desempenhar para se relacionar conosco\" possoj sujeito",
+      "bbox": [
+        148,
+        555,
+        905,
+        588
+      ]
+    },
+    {
+      "id": 163,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        148,
+        424,
+        905,
+        588
+      ]
+    },
+    {
+      "id": 164,
+      "page": 6,
+      "category": "title",
+      "text": "Lingua Inglesia",
+      "bbox": [
+        435,
+        635,
+        563,
+        652
+      ]
+    },
+    {
+      "id": 165,
+      "page": 6,
+      "category": "title",
+      "text": "10 - Questão",
+      "bbox": [
+        91,
+        688,
+        227,
+        706
+      ]
+    },
+    {
+      "id": 166,
+      "page": 6,
+      "category": "text",
+      "text": "pontos:",
+      "bbox": [
+        709,
+        687,
+        774,
+        701
+      ]
+    },
+    {
+      "id": 167,
+      "page": 6,
+      "category": "text",
+      "text": "Eixo cognitivo: I-Dominar linguagens. Lingua Inglesia.",
+      "bbox": [
+        90,
+        706,
+        408,
+        718
+      ]
+    },
+    {
+      "id": 168,
+      "page": 6,
+      "category": "text",
+      "text": "Ao enviar um problema a um robô, um Usuário receiveb eu segmente mensagem: \"unable to connect to robot\". Como a pessoas pode ser traduzida?",
+      "bbox": [
+        88,
+        734,
+        905,
+        767
+      ]
+    },
+    {
+      "id": 169,
+      "page": 6,
+      "category": "text",
+      "text": "(a) Foi possivel conectar ao robô",
+      "bbox": [
+        148,
+        783,
+        421,
+        798
+      ]
+    },
+    {
+      "id": 170,
+      "page": 6,
+      "category": "text",
+      "text": "(b) A mensagem não foi conectada ao robó",
+      "bbox": [
+        148,
+        800,
+        503,
+        815
+      ]
+    },
+    {
+      "id": 171,
+      "page": 6,
+      "category": "text",
+      "text": "(c) O robó não receivebu a conexão",
+      "bbox": [
+        149,
+        817,
+        429,
+        832
+      ]
+    },
+    {
+      "id": 172,
+      "page": 6,
+      "category": "text",
+      "text": "(d) A conexão não foi enviada",
+      "bbox": [
+        150,
+        834,
+        402,
+        848
+      ]
+    },
+    {
+      "id": 173,
+      "page": 6,
+      "category": "text",
+      "text": "(e) Nao foi possivel conectar ao robô",
+      "bbox": [
+        150,
+        849,
+        454,
+        865
+      ]
+    },
+    {
+      "id": 174,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        148,
+        783,
+        503,
+        865
+      ]
+    },
+    {
+      "id": 175,
+      "page": 6,
+      "category": "page_number",
+      "text": "7",
+      "bbox": [
+        892,
+        941,
+        906,
+        955
+      ]
+    }
+  ]
+]

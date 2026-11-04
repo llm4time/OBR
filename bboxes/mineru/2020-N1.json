@@ -1,0 +1,1694 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        43,
+        50,
+        899,
+        280
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "image_caption",
+      "text": "NIVEL 1 - 2° E 3° ANOS DO ENSINO FUNDAMENTAL",
+      "bbox": [
+        115,
+        283,
+        890,
+        306
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICADA</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SERIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        41,
+        312,
+        896,
+        477
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        294,
+        497,
+        650,
+        517
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        52,
+        525,
+        302,
+        543
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "text",
+      "text": "-Estaprovacontém6paginas;",
+      "bbox": [
+        85,
+        547,
+        442,
+        564
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "text",
+      "text": "Duração da prova: 2 horas;",
+      "bbox": [
+        85,
+        565,
+        415,
+        580
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitido o uso de calculadoras;",
+      "bbox": [
+        85,
+        581,
+        543,
+        597
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "- Não é permitida a consulta a qualquer tipo de material;",
+      "bbox": [
+        84,
+        599,
+        714,
+        616
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "- Apenas se necessario, leia a question para o aluno;",
+      "bbox": [
+        84,
+        616,
+        676,
+        633
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "- A prova deve ser realizada individualmente;",
+      "bbox": [
+        85,
+        633,
+        595,
+        649
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "- Oriente o aluno na forma de marca da resposta, caso eles não esteeja habitualao este tipo de prova;",
+      "bbox": [
+        84,
+        649,
+        886,
+        684
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "- Permita que seu-aluno demonstre apenas oproprio��ecimento. Nao ou auxilie na resolucao das quostes.",
+      "bbox": [
+        84,
+        684,
+        885,
+        718
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        84,
+        547,
+        886,
+        718
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        71,
+        861,
+        865,
+        948
+      ]
+    }
+  ],
+  [
+    {
+      "id": 15,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 1",
+      "bbox": [
+        64,
+        71,
+        224,
+        91
+      ]
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "category": "text",
+      "text": "Considere o什么意思 abaxio, do livre \"Meu amigo Robó\", da autora Giselda Laporta, ilustrado por Dika Araujio.",
+      "bbox": [
+        53,
+        128,
+        946,
+        161
+      ]
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "category": "text",
+      "text": "Entiado ou mais perfeito rob que jamais existira en numhum lugar do mundo, porque alem de perfeito era unicno.",
+      "bbox": [
+        227,
+        171,
+        484,
+        223
+      ]
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        218,
+        230,
+        523,
+        487
+      ]
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        535,
+        163,
+        837,
+        422
+      ]
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "category": "text",
+      "text": "Quando a merina voltou, ficou encantada on o robó. O e artesão, feliz da vida, nem cobrou nada. O deu de presente.",
+      "bbox": [
+        544,
+        427,
+        828,
+        480
+      ]
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "category": "text",
+      "text": "(Imagens adaptadas de https://www.eufeioparaumacrianca.com.br/historias/meu-amigo-robo/)",
+      "bbox": [
+        249,
+        493,
+        807,
+        504
+      ]
+    },
+    {
+      "id": 22,
+      "page": 1,
+      "category": "title",
+      "text": "Segundo o texto, é correto fazer que:",
+      "bbox": [
+        55,
+        515,
+        377,
+        529
+      ]
+    },
+    {
+      "id": 23,
+      "page": 1,
+      "category": "text",
+      "text": "a) Amenina ficou triste por não poder pagar pelo robô.",
+      "bbox": [
+        141,
+        530,
+        595,
+        544
+      ]
+    },
+    {
+      "id": 24,
+      "page": 1,
+      "category": "text",
+      "text": "b) O encanto da minha fez com que o artesão não cobrasse pelo robó.",
+      "bbox": [
+        141,
+        545,
+        730,
+        558
+      ]
+    },
+    {
+      "id": 25,
+      "page": 1,
+      "category": "text",
+      "text": "c) Como o robó era perfeito, o artesão fez varías cópias dele.",
+      "bbox": [
+        141,
+        559,
+        645,
+        572
+      ]
+    },
+    {
+      "id": 26,
+      "page": 1,
+      "category": "text",
+      "text": "d) O artesão não ficou satisfeito com o robó que fez.",
+      "bbox": [
+        141,
+        573,
+        574,
+        586
+      ]
+    },
+    {
+      "id": 27,
+      "page": 1,
+      "category": "text",
+      "text": "e) O artesão ficou felizelo quando ganhou vendendo o robô.",
+      "bbox": [
+        141,
+        587,
+        645,
+        601
+      ]
+    },
+    {
+      "id": 28,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        530,
+        730,
+        601
+      ]
+    },
+    {
+      "id": 29,
+      "page": 1,
+      "category": "title",
+      "text": "QUESTão 2",
+      "bbox": [
+        62,
+        631,
+        225,
+        650
+      ]
+    },
+    {
+      "id": 30,
+      "page": 1,
+      "category": "text",
+      "text": "Ainda quando ao robo mostrado na figura da QUESTão 1, algumas partes do robó parecem com partes do corpo humano. Que partes você不认识ica que podem ter tanto no robó da figura quando nos seres humanos?",
+      "bbox": [
+        52,
+        673,
+        945,
+        716
+      ]
+    },
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "a) Rosto e braços.",
+      "bbox": [
+        141,
+        732,
+        303,
+        746
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "text",
+      "text": "b) Cabeça, pesço e pernas.",
+      "bbox": [
+        141,
+        747,
+        395,
+        760
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "text",
+      "text": "c) Farois,esteiras e botoes.",
+      "bbox": [
+        141,
+        761,
+        378,
+        773
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "d) Pés e máos.",
+      "bbox": [
+        142,
+        775,
+        277,
+        787
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "e) Tela e garras.",
+      "bbox": [
+        142,
+        789,
+        287,
+        802
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        732,
+        395,
+        802
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        944,
+        531,
+        994
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "page_number",
+      "text": "2",
+      "bbox": [
+        811,
+        934,
+        831,
+        950
+      ]
+    }
+  ],
+  [
+    {
+      "id": 39,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 3",
+      "bbox": [
+        63,
+        87,
+        224,
+        107
+      ]
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "category": "text",
+      "text": "O robó Adam está travaído como robó domestico. Embora-Sea es un trabajo que não utilize muito das funções de sus peças e bateria, ela é bem feliz. Principamente quando ajudá as criasas en sus taresfas. Uma das半导hes que Adam realiza é separar as bateriais que ele pode usar. Dependço de quando tempo ela é vatimar para fora de casa. Adam uses a maior bateria que dura maior tempo:",
+      "bbox": [
+        53,
+        129,
+        941,
+        185
+      ]
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "category": "text",
+      "text": "Bateria A:20 minutos",
+      "bbox": [
+        143,
+        187,
+        350,
+        199
+      ]
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "category": "text",
+      "text": "Bateria B:5 horas",
+      "bbox": [
+        143,
+        202,
+        321,
+        213
+      ]
+    },
+    {
+      "id": 43,
+      "page": 2,
+      "category": "text",
+      "text": "Bateria C:1 hora",
+      "bbox": [
+        143,
+        216,
+        314,
+        227
+      ]
+    },
+    {
+      "id": 44,
+      "page": 2,
+      "category": "text",
+      "text": "Bateria D:1 dia",
+      "bbox": [
+        143,
+        230,
+        302,
+        241
+      ]
+    },
+    {
+      "id": 45,
+      "page": 2,
+      "category": "text",
+      "text": "Bateria E:30 Minutos",
+      "bbox": [
+        143,
+        244,
+        349,
+        256
+      ]
+    },
+    {
+      "id": 46,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        143,
+        187,
+        350,
+        256
+      ]
+    },
+    {
+      "id": 47,
+      "page": 2,
+      "category": "text",
+      "text": "Para organizar susas bacterias, Adam sempre tenta organizarcomedapo la bateria que dura menos tempo ate a que dura mais tempo. Dessa forma, como Adam poderia organizaras a bacterias corretamente?",
+      "bbox": [
+        53,
+        274,
+        707,
+        315
+      ]
+    },
+    {
+      "id": 48,
+      "page": 2,
+      "category": "text",
+      "text": "a) Bateria A, Bateria B, Bateria C, Bateria D, Bateria E.",
+      "bbox": [
+        139,
+        317,
+        593,
+        329
+      ]
+    },
+    {
+      "id": 49,
+      "page": 2,
+      "category": "text",
+      "text": "b) Bateria D, Bateria C, Bateria A, Bateria E, Bateria B.",
+      "bbox": [
+        140,
+        331,
+        592,
+        343
+      ]
+    },
+    {
+      "id": 50,
+      "page": 2,
+      "category": "text",
+      "text": "c) Bateria E, Bateria B, Bateria D, Bateria A, Bateria C.",
+      "bbox": [
+        140,
+        346,
+        592,
+        358
+      ]
+    },
+    {
+      "id": 51,
+      "page": 2,
+      "category": "text",
+      "text": "d) Bateria A, Bateria E, Bateria C, Bateria B, Bateria D.",
+      "bbox": [
+        140,
+        360,
+        592,
+        373
+      ]
+    },
+    {
+      "id": 52,
+      "page": 2,
+      "category": "text",
+      "text": "e) Bateria C, Bateria D, Bateria E, Bateria C, Bateria A.",
+      "bbox": [
+        140,
+        375,
+        592,
+        387
+      ]
+    },
+    {
+      "id": 53,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        139,
+        317,
+        593,
+        387
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        717,
+        187,
+        936,
+        382
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 4",
+      "bbox": [
+        63,
+        406,
+        224,
+        425
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "Se Adam vai passar 3 dias e 4 horas fora de casa, qual combinação de baterias ele deve levar?",
+      "bbox": [
+        53,
+        446,
+        868,
+        460
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "text",
+      "text": "a) 5 Baterias B e 2 Baterias A",
+      "bbox": [
+        141,
+        462,
+        394,
+        474
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "b) 1 Bateria A e 3 Baterias D",
+      "bbox": [
+        141,
+        476,
+        387,
+        488
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "c) 3 Baterias C e 5 Baterias E",
+      "bbox": [
+        141,
+        490,
+        394,
+        502
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "d) 2 Baterias D e 5 Baterias A",
+      "bbox": [
+        141,
+        504,
+        394,
+        516
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "e) 3 Baterias D e 4 Baterias C",
+      "bbox": [
+        141,
+        518,
+        394,
+        530
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        462,
+        394,
+        530
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "title",
+      "text": "QUESTão 5",
+      "bbox": [
+        63,
+        548,
+        224,
+        566
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "Adam chamou theirs dos amigos robos para passair em sua casa deempo. Por saber que eles gostam muito de preservar a naturezra, Adam resolveu escolher um combustivel que não agrida o meio ambiente para carregar as suas baterias e a dos os amigos. Qual fora eschilda de Adam?",
+      "bbox": [
+        53,
+        591,
+        940,
+        633
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "text",
+      "text": "a) Gás natural",
+      "bbox": [
+        141,
+        649,
+        272,
+        661
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "text",
+      "text": "b) Energia solar",
+      "bbox": [
+        141,
+        663,
+        283,
+        676
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "text",
+      "text": "c) Gasolina",
+      "bbox": [
+        141,
+        678,
+        249,
+        690
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "text",
+      "text": "d)Diesel",
+      "bbox": [
+        141,
+        692,
+        227,
+        704
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "text",
+      "text": "e) Carvalo mineral",
+      "bbox": [
+        141,
+        706,
+        300,
+        718
+      ]
+    },
+    {
+      "id": 70,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        649,
+        300,
+        718
+      ]
+    },
+    {
+      "id": 71,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        283,
+        720,
+        713,
+        827
+      ]
+    },
+    {
+      "id": 72,
+      "page": 2,
+      "category": "page_number",
+      "text": "3",
+      "bbox": [
+        811,
+        884,
+        830,
+        898
+      ]
+    },
+    {
+      "id": 73,
+      "page": 2,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        445,
+        945,
+        530,
+        992
+      ]
+    }
+  ],
+  [
+    {
+      "id": 74,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 6",
+      "bbox": [
+        64,
+        71,
+        224,
+        91
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "text",
+      "text": "As peçamos dos robos do Laboratório da escola onde o robó Adam é assistente quando estápicado de uma organizeação. Para isto, Adam precisá identificar cada pegu e colocar no local correto. Para ajuda-lo esta tarefa, seu programadores devem registrar em seu programa as forma geométricas semel Haitas a cada pegu que deve ser orgânizada. Identifique as forma geométricas dos objetivos abaxiao para fazer Adam e os programadores na organizeação do laboratório.",
+      "bbox": [
+        52,
+        110,
+        946,
+        182
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "table",
+      "text": "<table><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+      "bbox": [
+        115,
+        195,
+        946,
+        322
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "table_footnote",
+      "text": "(Imagens extralidas de http://www.depts.ttu.edu/coe/stem/gear/ev3/documents/EV3-Parts-List.pdf)",
+      "bbox": [
+        241,
+        321,
+        817,
+        332
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "text",
+      "text": "a) A-ciculo, B-retangulo, C-triangulo, D-cilindro",
+      "bbox": [
+        141,
+        352,
+        576,
+        366
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "text",
+      "text": "b) A-retangulo, B-cilindro, C-circulo, D-triangulo",
+      "bbox": [
+        141,
+        367,
+        574,
+        381
+      ]
+    },
+    {
+      "id": 80,
+      "page": 3,
+      "category": "text",
+      "text": "c) A-circulo, B-cilindro, C-triangulo, D-retangulo",
+      "bbox": [
+        141,
+        382,
+        574,
+        395
+      ]
+    },
+    {
+      "id": 81,
+      "page": 3,
+      "category": "text",
+      "text": "d) A-triangulo, B-cilindro, C-circulo, D-retangulo",
+      "bbox": [
+        141,
+        396,
+        579,
+        410
+      ]
+    },
+    {
+      "id": 82,
+      "page": 3,
+      "category": "text",
+      "text": "e) A - cilindro, B - triangulo, C - retangulo, D - circulo",
+      "bbox": [
+        141,
+        411,
+        574,
+        425
+      ]
+    },
+    {
+      "id": 83,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        352,
+        579,
+        425
+      ]
+    },
+    {
+      "id": 84,
+      "page": 3,
+      "category": "title",
+      "text": "QUESTão 7",
+      "bbox": [
+        62,
+        450,
+        224,
+        469
+      ]
+    },
+    {
+      "id": 85,
+      "page": 3,
+      "category": "text",
+      "text": "Asimo 5 é um robô humanoque faz parte da quinta geração de sua familia. Ela adrora brincar e ajudar os robos mais velhos. Certa às Amo 4, que é o pai de Asimo 5, pediu sua ajuda para converter as peças de Asimo 2, da segunda geração da sua familia, que já foram errufadas.",
+      "bbox": [
+        52,
+        489,
+        941,
+        531
+      ]
+    },
+    {
+      "id": 86,
+      "page": 3,
+      "category": "text",
+      "text": "Ja que o Asimo 4 é pai de Asimo 5, o que Asimo 2 é de Asimo 5?",
+      "bbox": [
+        52,
+        533,
+        613,
+        546
+      ]
+    },
+    {
+      "id": 87,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        119,
+        549,
+        858,
+        763
+      ]
+    },
+    {
+      "id": 88,
+      "page": 3,
+      "category": "text",
+      "text": "Geração",
+      "bbox": [
+        143,
+        772,
+        237,
+        788
+      ]
+    },
+    {
+      "id": 89,
+      "page": 3,
+      "category": "text",
+      "text": "1",
+      "bbox": [
+        184,
+        791,
+        200,
+        804
+      ]
+    },
+    {
+      "id": 90,
+      "page": 3,
+      "category": "text",
+      "text": "Geração",
+      "bbox": [
+        270,
+        772,
+        362,
+        788
+      ]
+    },
+    {
+      "id": 91,
+      "page": 3,
+      "category": "text",
+      "text": "2",
+      "bbox": [
+        308,
+        791,
+        325,
+        804
+      ]
+    },
+    {
+      "id": 92,
+      "page": 3,
+      "category": "text",
+      "text": "Geração",
+      "bbox": [
+        417,
+        772,
+        510,
+        788
+      ]
+    },
+    {
+      "id": 93,
+      "page": 3,
+      "category": "text",
+      "text": "3",
+      "bbox": [
+        456,
+        791,
+        474,
+        804
+      ]
+    },
+    {
+      "id": 94,
+      "page": 3,
+      "category": "text",
+      "text": "Geração",
+      "bbox": [
+        571,
+        772,
+        664,
+        788
+      ]
+    },
+    {
+      "id": 95,
+      "page": 3,
+      "category": "text",
+      "text": "4",
+      "bbox": [
+        610,
+        791,
+        626,
+        804
+      ]
+    },
+    {
+      "id": 96,
+      "page": 3,
+      "category": "text",
+      "text": "Geração",
+      "bbox": [
+        725,
+        772,
+        818,
+        788
+      ]
+    },
+    {
+      "id": 97,
+      "page": 3,
+      "category": "text",
+      "text": "5",
+      "bbox": [
+        763,
+        791,
+        780,
+        804
+      ]
+    },
+    {
+      "id": 98,
+      "page": 3,
+      "category": "text",
+      "text": "(Imagem extraida de",
+      "bbox": [
+        53,
+        811,
+        181,
+        822
+      ]
+    },
+    {
+      "id": 99,
+      "page": 3,
+      "category": "text",
+      "text": "https://www.dailymail.co.uk/sciencelech/article-2797864/the-ulimate-robo-pal-asimo-football-playing-disco-dancing-barlending-robot-arrives-uk.html",
+      "bbox": [
+        53,
+        823,
+        922,
+        833
+      ]
+    },
+    {
+      "id": 100,
+      "page": 3,
+      "category": "text",
+      "text": "a) Tio",
+      "bbox": [
+        141,
+        852,
+        203,
+        864
+      ]
+    },
+    {
+      "id": 101,
+      "page": 3,
+      "category": "text",
+      "text": "b) Avô",
+      "bbox": [
+        143,
+        866,
+        209,
+        879
+      ]
+    },
+    {
+      "id": 102,
+      "page": 3,
+      "category": "text",
+      "text": "c) Imao",
+      "bbox": [
+        143,
+        882,
+        223,
+        894
+      ]
+    },
+    {
+      "id": 103,
+      "page": 3,
+      "category": "text",
+      "text": "d) Bisavó",
+      "bbox": [
+        143,
+        895,
+        231,
+        908
+      ]
+    },
+    {
+      "id": 104,
+      "page": 3,
+      "category": "text",
+      "text": "e) Tataravó",
+      "bbox": [
+        143,
+        910,
+        247,
+        922
+      ]
+    },
+    {
+      "id": 105,
+      "page": 3,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        852,
+        247,
+        922
+      ]
+    },
+    {
+      "id": 106,
+      "page": 3,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        442,
+        945,
+        531,
+        994
+      ]
+    },
+    {
+      "id": 107,
+      "page": 3,
+      "category": "page_number",
+      "text": "4",
+      "bbox": [
+        814,
+        947,
+        831,
+        960
+      ]
+    }
+  ],
+  [
+    {
+      "id": 108,
+      "page": 4,
+      "category": "title",
+      "text": "QUESTão 8",
+      "bbox": [
+        64,
+        92,
+        224,
+        110
+      ]
+    },
+    {
+      "id": 109,
+      "page": 4,
+      "category": "text",
+      "text": "A Pepper é uma robo de service com varias Utilities. Ela pode conversar, atender pessoas e levar um objeto de um lugar para Outo. Porém, ela temuma programação muito complicada e para fazer isto quando a nova lingua com os sinaiblos abixo.",
+      "bbox": [
+        52,
+        136,
+        941,
+        178
+      ]
+    },
+    {
+      "id": 110,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        137,
+        187,
+        375,
+        404
+      ]
+    },
+    {
+      "id": 111,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        609,
+        208,
+        730,
+        384
+      ]
+    },
+    {
+      "id": 112,
+      "page": 4,
+      "category": "image_footnote",
+      "text": "(Imagem da Pepper extraida de https://specrum.ieee.org/automaton/robotics/home-robots/pepper-aldebaran-softbank-personal-robot)",
+      "bbox": [
+        65,
+        410,
+        910,
+        422
+      ]
+    },
+    {
+      "id": 113,
+      "page": 4,
+      "category": "text",
+      "text": "Para que a Pepper fixece a entrega de um pacote en uma Empresa, foramＤados os comandos abixo para ea. Qual se o deseno final do percuro que a Pepper fez?",
+      "bbox": [
+        53,
+        431,
+        941,
+        461
+      ]
+    },
+    {
+      "id": 114,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        65,
+        464,
+        801,
+        917
+      ]
+    },
+    {
+      "id": 115,
+      "page": 4,
+      "category": "footer",
+      "text": "OR",
+      "bbox": [
+        442,
+        946,
+        532,
+        994
+      ]
+    },
+    {
+      "id": 116,
+      "page": 4,
+      "category": "page_number",
+      "text": "5",
+      "bbox": [
+        814,
+        941,
+        834,
+        958
+      ]
+    }
+  ],
+  [
+    {
+      "id": 117,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTão 9",
+      "bbox": [
+        63,
+        89,
+        224,
+        108
+      ]
+    },
+    {
+      "id": 118,
+      "page": 5,
+      "category": "text",
+      "text": "Na trinha abaixo a personagem esculcna o robj apitando e vai confirmar o que a况ceutecon o meu robj aspirador. O robj aspirador circula dentro de sua casa e usa um senso para identificar os moleis e eviem",
+      "bbox": [
+        53,
+        140,
+        941,
+        181
+      ]
+    },
+    {
+      "id": 119,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        278,
+        184,
+        720,
+        324
+      ]
+    },
+    {
+      "id": 120,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        278,
+        326,
+        720,
+        452
+      ]
+    },
+    {
+      "id": 121,
+      "page": 5,
+      "category": "image_caption",
+      "text": "Imagem extraia de https://digofreitas.com/characterirobot",
+      "bbox": [
+        348,
+        454,
+        706,
+        465
+      ]
+    },
+    {
+      "id": 122,
+      "page": 5,
+      "category": "text",
+      "text": "Qual das opções abaixo poderia ser utilizes no robó para registrar a colisão com os objetivos da casa?",
+      "bbox": [
+        54,
+        465,
+        911,
+        479
+      ]
+    },
+    {
+      "id": 123,
+      "page": 5,
+      "category": "text",
+      "text": "a) Cärma, que pode ser associada à visão.",
+      "bbox": [
+        141,
+        494,
+        510,
+        508
+      ]
+    },
+    {
+      "id": 124,
+      "page": 5,
+      "category": "text",
+      "text": "b) Botão, que pode ser associado ao tato.",
+      "bbox": [
+        141,
+        510,
+        491,
+        522
+      ]
+    },
+    {
+      "id": 125,
+      "page": 5,
+      "category": "text",
+      "text": "c) Microfone, que pode ser associado à audião.",
+      "bbox": [
+        141,
+        524,
+        543,
+        537
+      ]
+    },
+    {
+      "id": 126,
+      "page": 5,
+      "category": "text",
+      "text": "d) Cämera, que pode ser associada ao paladar.",
+      "bbox": [
+        141,
+        538,
+        537,
+        551
+      ]
+    },
+    {
+      "id": 127,
+      "page": 5,
+      "category": "text",
+      "text": "e) Distância, que pode ser associada ao olfato.",
+      "bbox": [
+        141,
+        553,
+        530,
+        566
+      ]
+    },
+    {
+      "id": 128,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        141,
+        494,
+        543,
+        566
+      ]
+    },
+    {
+      "id": 129,
+      "page": 5,
+      "category": "title",
+      "text": "QUESTAO 10",
+      "bbox": [
+        48,
+        589,
+        224,
+        608
+      ]
+    },
+    {
+      "id": 130,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        202,
+        652,
+        797,
+        771
+      ]
+    },
+    {
+      "id": 131,
+      "page": 5,
+      "category": "text",
+      "text": "Umaracaristica dos robos é que eles tem differentes meios de lococomoção. Pela ordem da imagen, os meios de lococomoção de Adam e os'amigos são, respectively:",
+      "bbox": [
+        53,
+        785,
+        941,
+        813
+      ]
+    },
+    {
+      "id": 132,
+      "page": 5,
+      "category": "text",
+      "text": "a) Esteiras, foguetes, permas e hélices",
+      "bbox": [
+        138,
+        827,
+        461,
+        841
+      ]
+    },
+    {
+      "id": 133,
+      "page": 5,
+      "category": "text",
+      "text": "b) Rodas,esteiras, turbinas e helices.",
+      "bbox": [
+        139,
+        842,
+        453,
+        855
+      ]
+    },
+    {
+      "id": 134,
+      "page": 5,
+      "category": "text",
+      "text": "c) Pemas, asas, foguetes, turbinas",
+      "bbox": [
+        140,
+        858,
+        433,
+        871
+      ]
+    },
+    {
+      "id": 135,
+      "page": 5,
+      "category": "text",
+      "text": "d) Rodas,esteiras,asas,pernas.",
+      "bbox": [
+        140,
+        872,
+        416,
+        884
+      ]
+    },
+    {
+      "id": 136,
+      "page": 5,
+      "category": "text",
+      "text": "e) Pemas, uma bola, foguetes e rodas.",
+      "bbox": [
+        140,
+        887,
+        463,
+        899
+      ]
+    },
+    {
+      "id": 137,
+      "page": 5,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        138,
+        827,
+        463,
+        899
+      ]
+    },
+    {
+      "id": 138,
+      "page": 5,
+      "category": "page_number",
+      "text": "6",
+      "bbox": [
+        813,
+        913,
+        830,
+        927
+      ]
+    },
+    {
+      "id": 139,
+      "page": 5,
+      "category": "footer",
+      "text": "OPR",
+      "bbox": [
+        443,
+        945,
+        530,
+        993
+      ]
+    }
+  ]
+]

@@ -1,0 +1,1384 @@
+[
+  [
+    {
+      "id": 0,
+      "page": 0,
+      "category": "header",
+      "text": "OEBR",
+      "bbox": [
+        117,
+        105,
+        291,
+        205
+      ]
+    },
+    {
+      "id": 1,
+      "page": 0,
+      "category": "header",
+      "text": "OLIMPIADA BRASILEIRA DE",
+      "bbox": [
+        342,
+        105,
+        893,
+        137
+      ]
+    },
+    {
+      "id": 2,
+      "page": 0,
+      "category": "header",
+      "text": "ROBÓTIGA 2017",
+      "bbox": [
+        343,
+        138,
+        889,
+        185
+      ]
+    },
+    {
+      "id": 3,
+      "page": 0,
+      "category": "text",
+      "text": "\\(1^{\\text{号}}\\) ano do ensino fundamental",
+      "bbox": [
+        93,
+        252,
+        341,
+        269
+      ]
+    },
+    {
+      "id": 4,
+      "page": 0,
+      "category": "text",
+      "text": "NIVEL0",
+      "bbox": [
+        759,
+        308,
+        916,
+        341
+      ]
+    },
+    {
+      "id": 5,
+      "page": 0,
+      "category": "table",
+      "text": "<table><tr><td colspan=\"2\">IDENTIFICADA</td></tr><tr><td colspan=\"2\">NOME:</td></tr><tr><td colspan=\"2\">ESCOLA:</td></tr><tr><td>SÉRIE/ANO:</td><td>NOTA DA PROVA (0 A 100 PONTOS)</td></tr><tr><td>CIDADE:</td><td></td></tr><tr><td>ESTADO:</td><td></td></tr></table>",
+      "bbox": [
+        58,
+        369,
+        932,
+        564
+      ]
+    },
+    {
+      "id": 6,
+      "page": 0,
+      "category": "title",
+      "text": "INSTRUÇÉS AOS PROFESSORES",
+      "bbox": [
+        316,
+        592,
+        680,
+        615
+      ]
+    },
+    {
+      "id": 7,
+      "page": 0,
+      "category": "title",
+      "text": "Caro(a) Professor(a):",
+      "bbox": [
+        67,
+        624,
+        270,
+        642
+      ]
+    },
+    {
+      "id": 8,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\)Esta prova contente6 paginas;",
+      "bbox": [
+        98,
+        644,
+        408,
+        663
+      ]
+    },
+    {
+      "id": 9,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Duração da prova: 1 hora;",
+      "bbox": [
+        98,
+        664,
+        381,
+        681
+      ]
+    },
+    {
+      "id": 10,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitido o uso de calculadoras;",
+      "bbox": [
+        98,
+        682,
+        498,
+        699
+      ]
+    },
+    {
+      "id": 11,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Não é permitida a consulta a qualquer tipo de material;",
+      "bbox": [
+        98,
+        700,
+        647,
+        719
+      ]
+    },
+    {
+      "id": 12,
+      "page": 0,
+      "category": "text",
+      "text": "Apenas se necessario, leia a Questions para o aluno;",
+      "bbox": [
+        98,
+        720,
+        599,
+        739
+      ]
+    },
+    {
+      "id": 13,
+      "page": 0,
+      "category": "text",
+      "text": "A prova deve ser realizada individualmente;",
+      "bbox": [
+        98,
+        740,
+        546,
+        757
+      ]
+    },
+    {
+      "id": 14,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Oriente o algo na forma de marca daresponda, caso elnão esseja Habituo a这种方式 de prova;",
+      "bbox": [
+        98,
+        758,
+        929,
+        795
+      ]
+    },
+    {
+      "id": 15,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\nu\\) Permita que seu aluno demonstre apenas oproprio acontecimiento. Não o auxilie na resolução das questions;",
+      "bbox": [
+        98,
+        796,
+        930,
+        834
+      ]
+    },
+    {
+      "id": 16,
+      "page": 0,
+      "category": "text",
+      "text": "\\(\\checkmark\\) Atencion:algumas questoes podem ter mais de una responsta.",
+      "bbox": [
+        98,
+        835,
+        700,
+        854
+      ]
+    },
+    {
+      "id": 17,
+      "page": 0,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        98,
+        644,
+        930,
+        854
+      ]
+    },
+    {
+      "id": 18,
+      "page": 0,
+      "category": "footer",
+      "text": "RRAAAGA",
+      "bbox": [
+        89,
+        885,
+        112,
+        950
+      ]
+    },
+    {
+      "id": 19,
+      "page": 0,
+      "category": "footer",
+      "text": "eepnne",
+      "bbox": [
+        118,
+        885,
+        137,
+        949
+      ]
+    },
+    {
+      "id": 20,
+      "page": 0,
+      "category": "footer",
+      "text": "up://www.SESI.SAO PAULIO",
+      "bbox": [
+        162,
+        885,
+        221,
+        949
+      ]
+    },
+    {
+      "id": 21,
+      "page": 0,
+      "category": "footer",
+      "text": "COTUCA ",
+      "bbox": [
+        266,
+        883,
+        315,
+        950
+      ]
+    },
+    {
+      "id": 22,
+      "page": 0,
+      "category": "footer",
+      "text": "LNTNESP",
+      "bbox": [
+        361,
+        883,
+        408,
+        950
+      ]
+    },
+    {
+      "id": 23,
+      "page": 0,
+      "category": "footer",
+      "text": "Cup LXXF",
+      "bbox": [
+        449,
+        885,
+        510,
+        949
+      ]
+    },
+    {
+      "id": 24,
+      "page": 0,
+      "category": "footer",
+      "text": "SBC",
+      "bbox": [
+        557,
+        883,
+        601,
+        947
+      ]
+    },
+    {
+      "id": 25,
+      "page": 0,
+      "category": "footer",
+      "text": "CNO 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        646,
+        883,
+        701,
+        947
+      ]
+    },
+    {
+      "id": 26,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        731,
+        885,
+        758,
+        942
+      ]
+    },
+    {
+      "id": 27,
+      "page": 0,
+      "category": "footer",
+      "text": "UFSJ CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD. CO. LTD.\n",
+      "bbox": [
+        761,
+        888,
+        807,
+        942
+      ]
+    },
+    {
+      "id": 28,
+      "page": 0,
+      "category": "footer",
+      "text": "#",
+      "bbox": [
+        824,
+        885,
+        852,
+        942
+      ]
+    },
+    {
+      "id": 29,
+      "page": 0,
+      "category": "footer",
+      "text": "MNR",
+      "bbox": [
+        855,
+        888,
+        915,
+        942
+      ]
+    },
+    {
+      "id": 30,
+      "page": 0,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        355,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 31,
+      "page": 1,
+      "category": "text",
+      "text": "1. UM ROBO ESTÁ FAZENDO A LIMPEZA DE UMA LAGOA. CADA PEÇA DE LIXO QUE ELE ENCONTRA TEM UMA ETQUETA. SIGA O CAMINHO QUE O ROBO FEZ E SEPARE AS PEÇAS IDENTIFICIAS POR LETRAS.",
+      "bbox": [
+        92,
+        58,
+        895,
+        109
+      ]
+    },
+    {
+      "id": 32,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        131,
+        120,
+        817,
+        378
+      ]
+    },
+    {
+      "id": 33,
+      "page": 1,
+      "category": "image_caption",
+      "text": "(Fonte:Adaptado de Freepik)",
+      "bbox": [
+        393,
+        378,
+        558,
+        389
+      ]
+    },
+    {
+      "id": 34,
+      "page": 1,
+      "category": "text",
+      "text": "QUAL A PALAVRA QUE SE FORMOU COM AS LETRAS ENCONTRADAS NA SEQUENCE DO CAMINHO?",
+      "bbox": [
+        125,
+        395,
+        827,
+        428
+      ]
+    },
+    {
+      "id": 35,
+      "page": 1,
+      "category": "text",
+      "text": "A. B8ATE4",
+      "bbox": [
+        121,
+        443,
+        231,
+        458
+      ]
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "category": "text",
+      "text": "B. BA6TE42RIA",
+      "bbox": [
+        122,
+        465,
+        274,
+        481
+      ]
+    },
+    {
+      "id": 37,
+      "page": 1,
+      "category": "text",
+      "text": "C. BATERAI",
+      "bbox": [
+        122,
+        489,
+        244,
+        504
+      ]
+    },
+    {
+      "id": 38,
+      "page": 1,
+      "category": "text",
+      "text": "D. BATERIA",
+      "bbox": [
+        122,
+        513,
+        242,
+        528
+      ]
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "category": "text",
+      "text": "E. BARATA",
+      "bbox": [
+        122,
+        537,
+        240,
+        552
+      ]
+    },
+    {
+      "id": 40,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        121,
+        443,
+        274,
+        552
+      ]
+    },
+    {
+      "id": 41,
+      "page": 1,
+      "category": "text",
+      "text": "2. O ROBO JAMES TRADELAMA IN EMU FABRICA DE PIRULITOS, JAMES LEVA 3 SEGUNDOS PARA FAZER UM PIRULITO. QUanto TEMPO JAMES PIRULITO, O ROBO JAMES TRADELAMA IN EMU FABRICA DE PIRULITOS.",
+      "bbox": [
+        90,
+        567,
+        895,
+        614
+      ]
+    },
+    {
+      "id": 42,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        246,
+        619,
+        559,
+        749
+      ]
+    },
+    {
+      "id": 43,
+      "page": 1,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        641,
+        614,
+        832,
+        761
+      ]
+    },
+    {
+      "id": 44,
+      "page": 1,
+      "category": "image_caption",
+      "text": "Font: (Freepi)",
+      "bbox": [
+        711,
+        762,
+        802,
+        774
+      ]
+    },
+    {
+      "id": 45,
+      "page": 1,
+      "category": "text",
+      "text": "A. 14 SEGUNDOS",
+      "bbox": [
+        121,
+        754,
+        291,
+        770
+      ]
+    },
+    {
+      "id": 46,
+      "page": 1,
+      "category": "text",
+      "text": "B. 35 SEGUNDOS",
+      "bbox": [
+        122,
+        778,
+        289,
+        793
+      ]
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "category": "text",
+      "text": "C. 42 SEGUNDOS",
+      "bbox": [
+        122,
+        800,
+        289,
+        816
+      ]
+    },
+    {
+      "id": 48,
+      "page": 1,
+      "category": "text",
+      "text": "D. 40 SEGUNDOS",
+      "bbox": [
+        122,
+        824,
+        289,
+        839
+      ]
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "category": "text",
+      "text": "E. 39 SEGUNDOS",
+      "bbox": [
+        122,
+        848,
+        289,
+        863
+      ]
+    },
+    {
+      "id": 50,
+      "page": 1,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        121,
+        754,
+        291,
+        863
+      ]
+    },
+    {
+      "id": 51,
+      "page": 1,
+      "category": "page_number",
+      "text": "1/6",
+      "bbox": [
+        892,
+        930,
+        917,
+        942
+      ]
+    },
+    {
+      "id": 52,
+      "page": 1,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 53,
+      "page": 2,
+      "category": "text",
+      "text": "3. OS ANIMALS, DE FORMA GRAIL, PODEM OBITER ENERGIA ATRAVES DOS ALIMENTOS. OS ROBOS, POR OUTRO LADO, OBTÉM ENERGIA ATRAVÉS DE PILHAS, BATERIAS OU ATE MEMSO PR TOMADAS. CIRCULE ABAIXO O QUE PODERIA FORNECER ENERGIA PARA UM ROBO.",
+      "bbox": [
+        91,
+        57,
+        895,
+        123
+      ]
+    },
+    {
+      "id": 54,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        157,
+        131,
+        844,
+        405
+      ]
+    },
+    {
+      "id": 55,
+      "page": 2,
+      "category": "image_caption",
+      "text": "(Fonte: Freepik)",
+      "bbox": [
+        425,
+        408,
+        526,
+        423
+      ]
+    },
+    {
+      "id": 56,
+      "page": 2,
+      "category": "text",
+      "text": "4. OROBO ZEA RECEBE COMANDOS EM CÓDIGO:",
+      "bbox": [
+        90,
+        462,
+        586,
+        479
+      ]
+    },
+    {
+      "id": 57,
+      "page": 2,
+      "category": "table",
+      "text": "<table><tr><td>QUEBRAR</td><td>DESLIGAR</td><td>CORRER</td><td>PEGAR</td><td>PULAR</td><td>CANETA</td><td>TELEVISÃO</td><td>MESA</td></tr><tr><td>Θ</td><td>Φ</td><td>Θ</td><td>Ω</td><td>Φ</td><td>Ψ</td><td>⊗</td><td>Ж</td></tr></table>",
+      "bbox": [
+        102,
+        491,
+        896,
+        561
+      ]
+    },
+    {
+      "id": 58,
+      "page": 2,
+      "category": "text",
+      "text": "OLHANDO NA TABELA DE CODIGOS. RESPONDA:",
+      "bbox": [
+        120,
+        574,
+        593,
+        590
+      ]
+    },
+    {
+      "id": 59,
+      "page": 2,
+      "category": "text",
+      "text": "O QUE ZEA DEVE FAZER SE RECEBER O COMANDO: \\(\\mathbb{C}\\otimes\\)",
+      "bbox": [
+        120,
+        605,
+        713,
+        629
+      ]
+    },
+    {
+      "id": 60,
+      "page": 2,
+      "category": "text",
+      "text": "A. DESLIGAR A TELEVISão",
+      "bbox": [
+        121,
+        644,
+        391,
+        660
+      ]
+    },
+    {
+      "id": 61,
+      "page": 2,
+      "category": "text",
+      "text": "B. QUEBRAR AMESA",
+      "bbox": [
+        121,
+        667,
+        333,
+        683
+      ]
+    },
+    {
+      "id": 62,
+      "page": 2,
+      "category": "text",
+      "text": "C. PULAR A MESA",
+      "bbox": [
+        121,
+        691,
+        302,
+        706
+      ]
+    },
+    {
+      "id": 63,
+      "page": 2,
+      "category": "text",
+      "text": "D. CORRER E PULAR",
+      "bbox": [
+        121,
+        715,
+        325,
+        730
+      ]
+    },
+    {
+      "id": 64,
+      "page": 2,
+      "category": "text",
+      "text": "E. PEGAR A TELEVISAO",
+      "bbox": [
+        121,
+        738,
+        357,
+        754
+      ]
+    },
+    {
+      "id": 65,
+      "page": 2,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        121,
+        644,
+        391,
+        754
+      ]
+    },
+    {
+      "id": 66,
+      "page": 2,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        526,
+        655,
+        744,
+        822
+      ]
+    },
+    {
+      "id": 67,
+      "page": 2,
+      "category": "image_caption",
+      "text": "(Fonte: Freepik)",
+      "bbox": [
+        588,
+        849,
+        681,
+        862
+      ]
+    },
+    {
+      "id": 68,
+      "page": 2,
+      "category": "page_number",
+      "text": "2/6",
+      "bbox": [
+        891,
+        942,
+        918,
+        955
+      ]
+    },
+    {
+      "id": 69,
+      "page": 2,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        966,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 70,
+      "page": 3,
+      "category": "text",
+      "text": "5. O ROBO SPIELZEUG ESTAVA BRINCANDO DE PIQUE-ESCONDE. DURANTE A BRINCADEE LE TROPECOU E DEIXOU CAIR ALGUMAS DE SUAS PEÇAS. COMPARE AS FIGURES E CIRCULE NO ROBO DA ESQUERDA AS 7 PEÇAS QUE ELE PERDEU.",
+      "bbox": [
+        91,
+        58,
+        895,
+        123
+      ]
+    },
+    {
+      "id": 71,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        146,
+        149,
+        468,
+        378
+      ]
+    },
+    {
+      "id": 72,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        529,
+        155,
+        851,
+        378
+      ]
+    },
+    {
+      "id": 73,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(Fonte: Freepak)",
+      "bbox": [
+        453,
+        380,
+        545,
+        393
+      ]
+    },
+    {
+      "id": 74,
+      "page": 3,
+      "category": "text",
+      "text": "6. NO CAÇA-PALAVRAS ESTÁO ESCONDIDAS AS TRES PRINCIPAIIS PARTES DE UM ROBO (BASE, ATUADOR E SENSOR). PROCURE ESSAS PARTES NO CAÇA-PALAVRAS E CIRCULE-AS.",
+      "bbox": [
+        90,
+        424,
+        895,
+        474
+      ]
+    },
+    {
+      "id": 75,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        153,
+        516,
+        303,
+        761
+      ]
+    },
+    {
+      "id": 76,
+      "page": 3,
+      "category": "image_caption",
+      "text": "(Font: Freepik)",
+      "bbox": [
+        191,
+        764,
+        284,
+        776
+      ]
+    },
+    {
+      "id": 77,
+      "page": 3,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        417,
+        499,
+        828,
+        778
+      ]
+    },
+    {
+      "id": 78,
+      "page": 3,
+      "category": "page_number",
+      "text": "3/6",
+      "bbox": [
+        891,
+        939,
+        918,
+        951
+      ]
+    },
+    {
+      "id": 79,
+      "page": 3,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 80,
+      "page": 4,
+      "category": "text",
+      "text": "7. QUAIS DAS IMAGENS A SEGUIR NAO FAZEM PARTE DO ROBO?",
+      "bbox": [
+        90,
+        57,
+        725,
+        76
+      ]
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        342,
+        94,
+        662,
+        360
+      ]
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        197,
+        380,
+        331,
+        466
+      ]
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "category": "text",
+      "text": "A.",
+      "bbox": [
+        149,
+        468,
+        174,
+        482
+      ]
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        547,
+        396,
+        654,
+        463
+      ]
+    },
+    {
+      "id": 85,
+      "page": 4,
+      "category": "text",
+      "text": "D.",
+      "bbox": [
+        504,
+        467,
+        528,
+        482
+      ]
+    },
+    {
+      "id": 86,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        229,
+        498,
+        315,
+        564
+      ]
+    },
+    {
+      "id": 87,
+      "page": 4,
+      "category": "text",
+      "text": "B.",
+      "bbox": [
+        149,
+        574,
+        172,
+        588
+      ]
+    },
+    {
+      "id": 88,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        550,
+        489,
+        685,
+        583
+      ]
+    },
+    {
+      "id": 89,
+      "page": 4,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        177,
+        596,
+        298,
+        674
+      ]
+    },
+    {
+      "id": 90,
+      "page": 4,
+      "category": "text",
+      "text": "E.",
+      "bbox": [
+        504,
+        574,
+        526,
+        588
+      ]
+    },
+    {
+      "id": 91,
+      "page": 4,
+      "category": "text",
+      "text": "C.",
+      "bbox": [
+        149,
+        681,
+        173,
+        695
+      ]
+    },
+    {
+      "id": 92,
+      "page": 4,
+      "category": "text",
+      "text": "(Fontes: http://www.supercolouring.com/?p/desenhos para-colorino/roto-de-desenhino-animado http://www.tudodesenhos.com/da.roda-de-leitura)",
+      "bbox": [
+        251,
+        698,
+        748,
+        723
+      ]
+    },
+    {
+      "id": 93,
+      "page": 4,
+      "category": "page_number",
+      "text": "4/6",
+      "bbox": [
+        891,
+        940,
+        918,
+        953
+      ]
+    },
+    {
+      "id": 94,
+      "page": 4,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 95,
+      "page": 5,
+      "category": "text",
+      "text": "8. O ROBO ORION QUER VISITAR SEU AMIGO BLUP. AJUE ORION A CHEGAR AO SEU AMIGO FAZENO AS OPERACONES CORRECTAMENTE.",
+      "bbox": [
+        90,
+        58,
+        895,
+        91
+      ]
+    },
+    {
+      "id": 96,
+      "page": 5,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        115,
+        97,
+        885,
+        852
+      ]
+    },
+    {
+      "id": 97,
+      "page": 5,
+      "category": "page_number",
+      "text": "5/6",
+      "bbox": [
+        891,
+        939,
+        918,
+        951
+      ]
+    },
+    {
+      "id": 98,
+      "page": 5,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        640,
+        980
+      ]
+    }
+  ],
+  [
+    {
+      "id": 99,
+      "page": 6,
+      "category": "text",
+      "text": "9. O ROBO ZIG ESTA MUTO TRISTE POIS ANIDA NAO FOI COLORIDO. ELE FOI MONTADO UTILIZANDOM FORMAS GEOMETRICAS. VAMOS COLORIR 3 TRIANGULOS DE AMARELO E 10 CIRCULOS DE AZUL.",
+      "bbox": [
+        90,
+        58,
+        895,
+        109
+      ]
+    },
+    {
+      "id": 100,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        299,
+        114,
+        652,
+        446
+      ]
+    },
+    {
+      "id": 101,
+      "page": 6,
+      "category": "image_caption",
+      "text": "(Fonte:Adaptado de Freepik)",
+      "bbox": [
+        422,
+        444,
+        585,
+        456
+      ]
+    },
+    {
+      "id": 102,
+      "page": 6,
+      "category": "text",
+      "text": "10. NESTA SEXTA-FEIRA, O ROBO CLOCK TERA UMA CONSULTA NO DENTISTA, NO HORARIO MARCADO NO SEU RELOGIO. CLOCK, É UM ROBO MUITO PONTUAL. ELE CHEGA SEMPRE COM 30 MINUTOS DE ANTECEDÊNÇIA AOS SEUS COMPROMISSOS.",
+      "bbox": [
+        92,
+        476,
+        898,
+        542
+      ]
+    },
+    {
+      "id": 103,
+      "page": 6,
+      "category": "image",
+      "text": "",
+      "bbox": [
+        394,
+        553,
+        603,
+        742
+      ]
+    },
+    {
+      "id": 104,
+      "page": 6,
+      "category": "image_caption",
+      "text": "(Fonte: Freepak)",
+      "bbox": [
+        453,
+        742,
+        545,
+        753
+      ]
+    },
+    {
+      "id": 105,
+      "page": 6,
+      "category": "text",
+      "text": "MARQUE A ALTERNATIVA QUE INDICA O HORÁRIO QUE CLOCK CHEGARÀ AO CONSULTÓRIO DO DENTISTA.",
+      "bbox": [
+        125,
+        767,
+        895,
+        801
+      ]
+    },
+    {
+      "id": 106,
+      "page": 6,
+      "category": "text",
+      "text": "A. 9:10",
+      "bbox": [
+        128,
+        816,
+        195,
+        832
+      ]
+    },
+    {
+      "id": 107,
+      "page": 6,
+      "category": "text",
+      "text": "B. 9:20",
+      "bbox": [
+        129,
+        839,
+        194,
+        855
+      ]
+    },
+    {
+      "id": 108,
+      "page": 6,
+      "category": "text",
+      "text": "C. 9:30",
+      "bbox": [
+        129,
+        863,
+        194,
+        879
+      ]
+    },
+    {
+      "id": 109,
+      "page": 6,
+      "category": "text",
+      "text": "D. 9:40",
+      "bbox": [
+        129,
+        886,
+        194,
+        902
+      ]
+    },
+    {
+      "id": 110,
+      "page": 6,
+      "category": "text",
+      "text": "E. 9:50",
+      "bbox": [
+        129,
+        909,
+        194,
+        925
+      ]
+    },
+    {
+      "id": 111,
+      "page": 6,
+      "category": "list",
+      "text": "",
+      "bbox": [
+        128,
+        816,
+        195,
+        925
+      ]
+    },
+    {
+      "id": 112,
+      "page": 6,
+      "category": "page_number",
+      "text": "6/6",
+      "bbox": [
+        891,
+        933,
+        917,
+        946
+      ]
+    },
+    {
+      "id": 113,
+      "page": 6,
+      "category": "footer",
+      "text": "\\(\\odot\\) Olimpiada Brasileira de Robotica 2017",
+      "bbox": [
+        356,
+        965,
+        642,
+        980
+      ]
+    }
+  ]
+]
