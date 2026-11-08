@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":34,"end":44,"pieces":[{"page":1,"bbox":[137,177,846,439],"images":[[612,286,828,398]]}]},
+{"type":"question","number":2,"start":45,"end":60,"pieces":[{"page":1,"bbox":[135,485,853,846],"images":[[287,651,424,727],[443,652,580,727],[599,652,735,726],[287,739,424,814],[443,738,580,813],[600,738,736,814]]}]},
+{"type":"continuation","start":64,"end":69,"pieces":[{"page":2,"bbox":[171,84,253,228],"images":[]}]},
+{"type":"question","number":3,"start":70,"end":81,"pieces":[{"page":2,"bbox":[137,274,860,912],"images":[[231,400,691,715]]}]},
+{"type":"question","number":4,"start":85,"end":96,"pieces":[{"page":3,"bbox":[137,100,947,731],"images":[[859,100,947,129],[377,353,676,543]]}]},
+{"type":"question","number":5,"start":97,"end":102,"pieces":[{"page":3,"bbox":[137,767,832,909],"images":[]}]},
+{"type":"continuation","start":107,"end":113,"pieces":[{"page":4,"bbox":[137,83,689,214],"images":[]}]},
+{"type":"question","number":6,"start":114,"end":125,"pieces":[{"page":4,"bbox":[137,253,947,653],"images":[[859,253,947,285]]}]},
+{"type":"question","number":7,"start":126,"end":130,"pieces":[{"page":4,"bbox":[137,724,947,815],"images":[[859,724,947,755]]}]},
+{"type":"continuation","start":134,"end":140,"pieces":[{"page":5,"bbox":[135,82,856,407],"images":[[375,82,624,273]]}]},
+{"type":"question","number":8,"start":141,"end":147,"pieces":[{"page":5,"bbox":[136,445,945,870],"images":[[859,445,945,475],[267,615,722,822]]}]},
+{"type":"continuation","start":151,"end":156,"pieces":[{"page":6,"bbox":[137,83,853,268],"images":[]}]},
+{"type":"question","number":9,"start":157,"end":167,"pieces":[{"page":6,"bbox":[137,307,947,806],"images":[[859,307,947,337],[223,448,776,698]]}]},
+{"type":"question","number":10,"start":168,"end":171,"pieces":[{"page":6,"bbox":[138,844,947,886],"images":[[859,844,947,875]]}]},
+{"type":"continuation","start":175,"end":187,"pieces":[{"page":7,"bbox":[109,83,874,586],"images":[[109,339,264,486],[271,340,415,487],[422,340,633,487],[641,340,874,487]]}]}
+]

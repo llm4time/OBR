@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":35,"end":45,"pieces":[{"page":1,"bbox":[92,65,909,685],"images":[[396,158,600,354]]}]},
+{"type":"question","number":2,"start":48,"end":57,"pieces":[{"page":2,"bbox":[88,65,908,586],"images":[[414,128,599,325]]}]},
+{"type":"question","number":3,"start":58,"end":66,"pieces":[{"page":2,"bbox":[89,650,907,925],"images":[[437,771,571,925]]}]},
+{"type":"question","number":4,"start":69,"end":85,"pieces":[{"page":3,"bbox":[88,65,907,913],"images":[[580,173,752,397],[96,234,255,384],[289,253,567,365],[770,246,902,370],[300,536,487,662],[511,545,698,631]]}]},
+{"type":"question","number":5,"start":88,"end":111,"pieces":[{"page":4,"bbox":[90,65,906,555],"images":[[97,116,223,209],[264,116,392,209],[435,116,561,208],[607,117,732,207],[775,117,901,208],[107,329,204,400],[277,329,374,399],[445,329,543,399],[615,329,712,399],[785,329,881,399]]}]},
+{"type":"question","number":6,"start":112,"end":120,"pieces":[{"page":4,"bbox":[90,623,909,922],"images":[]}]},
+{"type":"question","number":7,"start":123,"end":138,"pieces":[{"page":5,"bbox":[91,65,909,847],"images":[[248,158,752,445]]}]},
+{"type":"question","number":8,"start":141,"end":147,"pieces":[{"page":6,"bbox":[92,65,906,280],"images":[]}]},
+{"type":"question","number":9,"start":148,"end":156,"pieces":[{"page":6,"bbox":[92,364,906,895],"images":[[250,425,745,671]]}]},
+{"type":"question","number":10,"start":159,"end":168,"pieces":[{"page":7,"bbox":[91,65,907,724],"images":[]}]},
+{"type":"question","number":11,"start":171,"end":177,"pieces":[{"page":8,"bbox":[88,64,905,459],"images":[[262,96,735,310]]}]},
+{"type":"question","number":12,"start":178,"end":185,"pieces":[{"page":8,"bbox":[91,507,907,912],"images":[[108,650,895,912]]}]},
+{"type":"question","number":13,"start":188,"end":196,"pieces":[{"page":9,"bbox":[91,65,909,573],"images":[[105,109,895,393]]}]},
+{"type":"question","number":14,"start":197,"end":204,"pieces":[{"page":9,"bbox":[91,622,909,929],"images":[[389,704,641,929]]}]},
+{"type":"question","number":15,"start":207,"end":220,"pieces":[{"page":10,"bbox":[91,65,908,931],"images":[[101,104,543,328],[626,233,877,327],[92,532,361,721],[379,532,638,717],[647,532,904,716],[185,747,441,931],[569,747,822,931]]}]}
+]

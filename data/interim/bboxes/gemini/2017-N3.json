@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":41,"end":50,"pieces":[{"page":1,"bbox":[80,59,897,435],"images":[[189,153,483,312],[560,153,870,428]]}]},
+{"type":"question","number":2,"start":51,"end":67,"pieces":[{"page":1,"bbox":[80,459,897,901],"images":[[552,764,776,866]]}]},
+{"type":"question","number":3,"start":70,"end":84,"pieces":[{"page":2,"bbox":[80,59,895,775],"images":[[388,445,625,615]]}]},
+{"type":"question","number":4,"start":87,"end":96,"pieces":[{"page":3,"bbox":[79,59,896,419],"images":[[663,276,824,396]]}]},
+{"type":"question","number":5,"start":97,"end":106,"pieces":[{"page":3,"bbox":[79,441,895,882],"images":[[570,470,793,624]]}]},
+{"type":"question","number":6,"start":109,"end":117,"pieces":[{"page":4,"bbox":[83,59,896,408],"images":[[487,280,741,408]]}]},
+{"type":"question","number":7,"start":118,"end":128,"pieces":[{"page":4,"bbox":[83,433,896,905],"images":[[165,562,593,774],[636,560,876,748]]}]},
+{"type":"question","number":8,"start":131,"end":140,"pieces":[{"page":5,"bbox":[82,59,895,344],"images":[[668,209,821,329]]}]},
+{"type":"question","number":9,"start":141,"end":151,"pieces":[{"page":5,"bbox":[82,395,895,825],"images":[[165,472,401,687],[495,500,765,609]]}]},
+{"type":"question","number":10,"start":154,"end":162,"pieces":[{"page":6,"bbox":[80,59,906,325],"images":[[606,147,906,280]]}]},
+{"type":"question","number":11,"start":163,"end":172,"pieces":[{"page":6,"bbox":[80,381,896,736],"images":[[662,517,871,666]]}]},
+{"type":"question","number":12,"start":175,"end":183,"pieces":[{"page":7,"bbox":[80,59,897,368],"images":[[564,127,883,368],[362,198,510,280]]}]},
+{"type":"question","number":13,"start":184,"end":198,"pieces":[{"page":7,"bbox":[91,381,897,890],"images":[[297,628,758,890]]}]},
+{"type":"question","number":14,"start":201,"end":206,"pieces":[{"page":8,"bbox":[86,59,896,840],"images":[[408,79,589,224],[122,263,789,504],[151,592,495,840]]}]},
+{"type":"question","number":15,"start":209,"end":223,"pieces":[{"page":9,"bbox":[86,59,897,542],"images":[[536,422,671,542]]}]}
+]

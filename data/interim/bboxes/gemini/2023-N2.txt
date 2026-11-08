@@ -1,1 +1,0 @@
-[['question', 52, 63], ['question', 64, 77], ['question', 78, 89], ['question', 92, 105], ['question', 106, 119], ['question', 122, 131], ['question', 132, 144], ['question', 145, 154], ['question', 157, 170], ['question', 171, 183], ['question', 184, 194], ['question', 197, 208], ['question', 209, 221], ['question', 222, 227], ['continuation', 230, 237], ['question', 238, 249]]

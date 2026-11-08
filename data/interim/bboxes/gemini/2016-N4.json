@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":35,"end":44,"pieces":[{"page":1,"bbox":[91,65,909,730],"images":[[224,167,775,321],[291,323,701,543]]}]},
+{"type":"question","number":2,"start":47,"end":59,"pieces":[{"page":2,"bbox":[90,65,908,898],"images":[[197,114,455,340],[568,128,904,325],[215,389,456,655],[578,416,854,636]]}]},
+{"type":"question","number":3,"start":62,"end":76,"pieces":[{"page":3,"bbox":[91,65,905,493],"images":[[124,182,365,266],[258,301,843,381]]}]},
+{"type":"question","number":4,"start":77,"end":90,"pieces":[{"page":3,"bbox":[87,543,905,931],"images":[[689,563,815,650],[182,647,280,709],[334,648,432,709],[487,648,585,709],[639,649,738,709]]}]},
+{"type":"question","number":5,"start":93,"end":105,"pieces":[{"page":4,"bbox":[91,64,907,846],"images":[]}]},
+{"type":"question","number":6,"start":108,"end":116,"pieces":[{"page":5,"bbox":[90,65,912,874],"images":[[289,106,720,372],[129,480,378,650],[446,477,634,655],[698,475,912,656],[241,720,457,874],[572,719,778,874]]}]},
+{"type":"question","number":7,"start":119,"end":132,"pieces":[{"page":6,"bbox":[91,65,908,548],"images":[[95,150,499,270],[559,150,902,294]]}]},
+{"type":"question","number":8,"start":133,"end":144,"pieces":[{"page":6,"bbox":[90,575,907,929],"images":[]}]},
+{"type":"question","number":9,"start":147,"end":164,"pieces":[{"page":7,"bbox":[92,65,909,719],"images":[[166,355,367,497],[405,355,605,497],[643,355,843,497]]}]},
+{"type":"question","number":10,"start":167,"end":184,"pieces":[{"page":8,"bbox":[91,65,907,770],"images":[[399,108,650,335]]}]},
+{"type":"question","number":11,"start":187,"end":196,"pieces":[{"page":9,"bbox":[91,65,907,539],"images":[]}]},
+{"type":"question","number":12,"start":197,"end":208,"pieces":[{"page":9,"bbox":[90,591,905,912],"images":[]}]},
+{"type":"question","number":13,"start":211,"end":222,"pieces":[{"page":10,"bbox":[92,65,907,640],"images":[[195,99,825,265]]}]},
+{"type":"question","number":14,"start":223,"end":229,"pieces":[{"page":10,"bbox":[92,723,907,922],"images":[]}]},
+{"type":"question","number":15,"start":232,"end":236,"pieces":[{"page":11,"bbox":[91,65,907,616],"images":[[228,146,784,364]]}]}
+]

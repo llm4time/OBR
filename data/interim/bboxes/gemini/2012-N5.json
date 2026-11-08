@@ -1,0 +1,16 @@
+[
+{"type":"question","number":1,"start":32,"end":43,"pieces":[{"page":1,"bbox":[139,85,856,414],"images":[[437,261,830,414]]}]},
+{"type":"question","number":2,"start":44,"end":48,"pieces":[{"page":1,"bbox":[139,465,857,846],"images":[[281,651,716,846]]}]},
+{"type":"continuation","start":52,"end":55,"pieces":[{"page":2,"bbox":[135,84,856,215],"images":[]}]},
+{"type":"question","number":3,"start":56,"end":67,"pieces":[{"page":2,"bbox":[135,249,856,722],"images":[[224,400,771,636]]}]},
+{"type":"question","number":4,"start":68,"end":72,"pieces":[{"page":2,"bbox":[135,768,856,877],"images":[]}]},
+{"type":"continuation","start":76,"end":89,"pieces":[{"page":3,"bbox":[135,84,858,781],"images":[]}]},
+{"type":"question","number":5,"start":93,"end":110,"pieces":[{"page":4,"bbox":[135,85,858,827],"images":[[350,140,650,322]]}]},
+{"type":"question","number":6,"start":114,"end":125,"pieces":[{"page":5,"bbox":[135,115,868,424],"images":[[578,235,868,424]]}]},
+{"type":"question","number":7,"start":126,"end":135,"pieces":[{"page":5,"bbox":[135,451,856,664],"images":[]}]},
+{"type":"question","number":8,"start":136,"end":139,"pieces":[{"page":5,"bbox":[135,695,856,820],"images":[]}]},
+{"type":"continuation","start":143,"end":149,"pieces":[{"page":6,"bbox":[171,95,691,418],"images":[[342,95,691,282]]}]},
+{"type":"question","number":9,"start":150,"end":156,"pieces":[{"page":6,"bbox":[135,446,945,881],"images":[[860,446,945,476],[291,695,702,834]]}]},
+{"type":"continuation","start":160,"end":164,"pieces":[{"page":7,"bbox":[167,83,855,233],"images":[]}]},
+{"type":"question","number":10,"start":165,"end":175,"pieces":[{"page":7,"bbox":[135,277,858,892],"images":[[273,431,725,683]]}]}
+]

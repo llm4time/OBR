@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":23,"end":34,"pieces":[{"page":1,"bbox":[80,59,862,512],"images":[[84,86,451,339]]}]},
+{"type":"question","number":2,"start":35,"end":45,"pieces":[{"page":1,"bbox":[79,552,904,888],"images":[[687,588,904,811]]}]},
+{"type":"question","number":3,"start":48,"end":59,"pieces":[{"page":2,"bbox":[82,59,895,657],"images":[[371,117,624,238]]}]},
+{"type":"question","number":4,"start":60,"end":67,"pieces":[{"page":2,"bbox":[82,698,895,871],"images":[[435,758,637,868]]}]},
+{"type":"question","number":5,"start":70,"end":80,"pieces":[{"page":3,"bbox":[80,59,897,567],"images":[[273,131,677,282]]}]},
+{"type":"question","number":6,"start":81,"end":92,"pieces":[{"page":3,"bbox":[79,589,897,933],"images":[[161,657,270,766]]}]},
+{"type":"question","number":7,"start":95,"end":104,"pieces":[{"page":4,"bbox":[80,59,895,853],"images":[[139,144,860,716]]}]},
+{"type":"question","number":8,"start":107,"end":115,"pieces":[{"page":5,"bbox":[79,59,906,325],"images":[[605,147,906,280]]}]},
+{"type":"question","number":9,"start":116,"end":144,"pieces":[{"page":5,"bbox":[79,364,896,805],"images":[[632,637,873,778]]}]},
+{"type":"question","number":10,"start":147,"end":156,"pieces":[{"page":6,"bbox":[80,59,895,508],"images":[[354,87,717,295],[361,328,821,508]]}]},
+{"type":"question","number":11,"start":157,"end":165,"pieces":[{"page":6,"bbox":[80,559,895,833],"images":[[157,625,385,789]]}]},
+{"type":"question","number":12,"start":168,"end":181,"pieces":[{"page":7,"bbox":[80,59,909,388],"images":[[556,97,909,253]]}]},
+{"type":"question","number":13,"start":182,"end":192,"pieces":[{"page":7,"bbox":[80,429,896,782],"images":[[664,631,822,744]]}]},
+{"type":"question","number":14,"start":195,"end":202,"pieces":[{"page":8,"bbox":[80,59,897,283],"images":[[409,147,661,283]]}]},
+{"type":"question","number":15,"start":203,"end":216,"pieces":[{"page":8,"bbox":[80,328,897,862],"images":[[185,520,286,588],[468,538,876,794],[188,590,284,655],[188,657,285,721],[188,723,285,790],[188,791,285,860]]}]}
+]

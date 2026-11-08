@@ -1,0 +1,17 @@
+[
+{"type":"question","number":1,"start":48,"end":65,"pieces":[{"page":1,"bbox":[76,44,917,473],"images":[[564,139,634,232]]}]},
+{"type":"question","number":2,"start":66,"end":75,"pieces":[{"page":1,"bbox":[76,507,918,894],"images":[[105,600,207,667],[214,600,315,667],[320,600,422,667],[431,600,531,667],[539,600,640,667],[167,748,834,793],[365,848,636,894]]}]},
+{"type":"continuation","start":77,"end":83,"pieces":[{"page":2,"bbox":[79,33,261,194],"images":[]}]},
+{"type":"question","number":3,"start":84,"end":89,"pieces":[{"page":2,"bbox":[75,235,917,946],"images":[[245,474,752,880]]}]},
+{"type":"continuation","start":91,"end":97,"pieces":[{"page":3,"bbox":[78,32,262,193],"images":[]}]},
+{"type":"question","number":4,"start":98,"end":106,"pieces":[{"page":3,"bbox":[75,235,918,513],"images":[]}]},
+{"type":"question","number":5,"start":107,"end":115,"pieces":[{"page":3,"bbox":[75,547,916,804],"images":[]}]},
+{"type":"question","number":6,"start":116,"end":117,"pieces":[{"page":3,"bbox":[75,841,918,947],"images":[]}]},
+{"type":"continuation","start":119,"end":127,"pieces":[{"page":4,"bbox":[77,52,871,474],"images":[[112,76,642,293]]}]},
+{"type":"question","number":7,"start":128,"end":136,"pieces":[{"page":4,"bbox":[75,509,915,824],"images":[]}]},
+{"type":"question","number":8,"start":137,"end":138,"pieces":[{"page":4,"bbox":[75,859,918,937],"images":[]}]},
+{"type":"continuation","start":140,"end":144,"pieces":[{"page":5,"bbox":[78,35,725,494],"images":[[103,66,642,415]]}]},
+{"type":"question","number":9,"start":145,"end":152,"pieces":[{"page":5,"bbox":[76,528,918,771],"images":[]}]},
+{"type":"question","number":10,"start":153,"end":154,"pieces":[{"page":5,"bbox":[76,805,905,883],"images":[]}]},
+{"type":"continuation","start":156,"end":186,"pieces":[{"page":6,"bbox":[80,53,873,867],"images":[[145,56,206,122],[291,61,323,118],[419,53,461,126],[531,54,615,126],[97,255,246,315],[262,255,411,315],[96,370,240,429],[253,370,396,428],[409,370,553,429],[96,482,240,540],[253,482,397,540],[409,482,554,540],[582,495,625,527],[95,596,270,658]]}]}
+]

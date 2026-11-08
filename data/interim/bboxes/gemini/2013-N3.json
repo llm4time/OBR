@@ -1,0 +1,12 @@
+[
+{"type":"question","number":1,"start":37,"end":43,"pieces":[{"page":1,"bbox":[91,65,906,198],"images":[]}]},
+{"type":"question","number":2,"start":44,"end":51,"pieces":[{"page":1,"bbox":[89,248,907,663],"images":[[129,386,906,555]]}]},
+{"type":"question","number":3,"start":52,"end":58,"pieces":[{"page":1,"bbox":[89,714,627,831],"images":[]}]},
+{"type":"question","number":4,"start":61,"end":69,"pieces":[{"page":2,"bbox":[92,65,909,429],"images":[]}]},
+{"type":"question","number":5,"start":70,"end":85,"pieces":[{"page":2,"bbox":[92,463,905,926],"images":[]}]},
+{"type":"question","number":6,"start":88,"end":95,"pieces":[{"page":3,"bbox":[91,65,629,198],"images":[]}]},
+{"type":"question","number":7,"start":96,"end":104,"pieces":[{"page":3,"bbox":[88,248,905,446],"images":[]}]},
+{"type":"question","number":8,"start":105,"end":113,"pieces":[{"page":3,"bbox":[88,497,905,695],"images":[]}]},
+{"type":"question","number":9,"start":114,"end":120,"pieces":[{"page":3,"bbox":[88,747,905,911],"images":[]}]},
+{"type":"question","number":10,"start":123,"end":129,"pieces":[{"page":4,"bbox":[92,64,905,212],"images":[]}]}
+]

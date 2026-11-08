@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import bisect
 import json
 import re
 from pathlib import Path
@@ -12,24 +11,22 @@ DATA_DIR = PROJECT_DIR / "data"
 
 # Inputs
 PDF_DIR = DATA_DIR / "raw" / "provas"
-MINERU_DIR = DATA_DIR / "interim" / "bboxes" / "mineru"
 GEMINI_DIR = DATA_DIR / "interim" / "bboxes" / "gemini"
 PNGS_DIR = DATA_DIR / "processed" / "screenshots"
 CSV_FILE = PROJECT_DIR / "metadata" / "questions.csv"
 
 # Outputs
 OUT_DIR = DATA_DIR / "processed" / "images"
-REVIEW_FILE = PROJECT_DIR / "annotations" / "review.json"
+REVIEW_FILE = PROJECT_DIR / "annotations" / "images_review.json"
 
-for d in (MINERU_DIR, GEMINI_DIR, PNGS_DIR, OUT_DIR, REVIEW_FILE.parent):
+for d in (GEMINI_DIR, PNGS_DIR, OUT_DIR, REVIEW_FILE.parent):
     d.mkdir(parents=True, exist_ok=True)
 
 SCALE = 6.0
 REEXPORT = False
 
-IMAGE_TYPES = {"image", "figure"}
 MARGIN_PX = 0
-NORM, Y_TOL = 1000, 20
+NORM = 1000
 A4 = (595.0, 842.0)
 QUESTION_RE = re.compile(r"_q(\d+)", re.I)
 
@@ -95,8 +92,6 @@ def render_from_pdf(sources, layout, b, scale):
 
 
 def save_crops(path, boxes, out_dir, layout=None, sources=None, scale=6):
-    out_dir = out_dir / path.parent.name  # images/2009-N1/, mirrors screenshots/2009-N1/
-    out_dir.mkdir(parents=True, exist_ok=True)
     stem = path.stem
     for old in out_dir.glob(f"{stem}_img*.png"):
         old.unlink()
@@ -123,37 +118,15 @@ def save_crops(path, boxes, out_dir, layout=None, sources=None, scale=6):
     return n
 
 
-def reading_order(pages, tol=Y_TOL):
-    out = []
-    for blocks in pages:
-        rows = []
-        for b in sorted(blocks or [], key=lambda b: b["bbox"][1]):
-            r = next((r for r in rows if abs(b["bbox"][1] - r[0]) <= tol), None)
-            if r:
-                r[1].append(b)
-            else:
-                rows.append([b["bbox"][1], [b]])
-        out.append([b for _, r in sorted(rows, key=lambda x: x[0]) for b in sorted(r, key=lambda b: b["bbox"][0])])
-    for i, b in enumerate(b for p in out for b in p):
-        b["id"] = i
-    return out
-
-
 class Sources:
     def __init__(self):
         self.cache, self.docs, self.warned = {}, {}, False
-        self.stems = [p.stem for p in MINERU_DIR.glob("*.json")]
+        self.stems = [p.stem for p in GEMINI_DIR.glob("*.json")]
 
-    def exam(self, stem):
+    def blocks(self, stem):
         if stem not in self.cache:
-            jp, tp = MINERU_DIR / f"{stem}.json", GEMINI_DIR / f"{stem}.json"
-            if not jp.exists() or not tp.exists():
-                self.cache[stem] = None
-            else:
-                pages = reading_order(json.loads(jp.read_text(encoding="utf-8")))
-                blocks = json.loads(tp.read_text(encoding="utf-8"))
-                els = sorted((e for p in pages for e in p), key=lambda e: e["id"])
-                self.cache[stem] = (els, [e["id"] for e in els], blocks)
+            path = GEMINI_DIR / f"{stem}.json"
+            self.cache[stem] = json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
         return self.cache[stem]
 
     def doc(self, stem):
@@ -187,30 +160,23 @@ def identify(name, sources):
     return max(stems, key=len), int(q.group(1))
 
 
-def question_strips(blocks, qnum):
-    ctx_of = {c: i for i, b in enumerate(blocks) if b[0] == "context" for c in b[3]}
-    n = 0
-    for i, q in enumerate(blocks):
-        if q[0] != "question":
-            continue
-        n += 1
-        if n != qnum:
-            continue
-        strips = []
-        if q[1] in ctx_of:
-            ci = ctx_of[q[1]]
-            strips.append((blocks[ci][1], blocks[ci][2]))
-            j = ci + 1
-            while j < i and blocks[j][0] == "continuation":
-                strips.append((blocks[j][1], blocks[j][2]))
-                j += 1
-        strips.append((q[1], q[2]))
-        j = i + 1
-        while j < len(blocks) and blocks[j][0] == "continuation":
-            strips.append((blocks[j][1], blocks[j][2]))
-            j += 1
-        return strips
-    return []
+def question_blocks(blocks, number):
+    qi = next((i for i, b in enumerate(blocks) if b["type"] == "question" and b["number"] == number), None)
+    if qi is None:
+        return []
+
+    def continuations(i, stop):
+        out = []
+        for b in blocks[i + 1:stop]:
+            if b["type"] != "continuation":
+                break
+            out.append(b)
+        return out
+
+    ctx_of = {c: i for i, b in enumerate(blocks) if b["type"] == "context" for c in b["questions"]}
+    ci = ctx_of.get(blocks[qi]["start"])
+    before = [blocks[ci], *continuations(ci, qi)] if ci is not None else []
+    return before + [blocks[qi]] + continuations(qi, len(blocks))
 
 
 def screenshot_layout(name, sources):
@@ -218,26 +184,21 @@ def screenshot_layout(name, sources):
     if not ident:
         return None
     stem, qnum = ident
-    exam = sources.exam(stem)
-    if exam is None:
+    blocks = sources.blocks(stem)
+    if blocks is None:
         return None
-    els, ids, blocks = exam
     pieces, y_off = [], 0.0
-    for a, z in question_strips(blocks, qnum):
-        qs = els[bisect.bisect_left(ids, a):bisect.bisect_right(ids, z)]
-        for p in sorted({e["page"] for e in qs}):
-            es = [e for e in qs if e["page"] == p]
-            pw, ph = sources.page_size(stem, p)
-            x0, y0 = min(e["bbox"][0] for e in es), min(e["bbox"][1] for e in es)
-            x1, y1 = max(e["bbox"][2] for e in es), max(e["bbox"][3] for e in es)
+    for blk in question_blocks(blocks, qnum):
+        for pc in blk["pieces"]:
+            x0, y0, x1, y1 = pc["bbox"]
             if x1 <= x0 or y1 <= y0:
                 continue
+            pw, ph = sources.page_size(stem, pc["page"])
             kx, ky = pw / NORM, ph / NORM
             w, h = (x1 - x0) * kx, (y1 - y0) * ky
-            imgs = [((e["bbox"][0] - x0) * kx, (e["bbox"][1] - y0) * ky,
-                     (e["bbox"][2] - x0) * kx, (e["bbox"][3] - y0) * ky)
-                    for e in es if e["category"] in IMAGE_TYPES]
-            pieces.append({"page": p, "x0n": x0, "y0n": y0, "kx": kx, "ky": ky,
+            imgs = [((ix0 - x0) * kx, (iy0 - y0) * ky, (ix1 - x0) * kx, (iy1 - y0) * ky)
+                    for ix0, iy0, ix1, iy1 in pc["images"]]
+            pieces.append({"page": pc["page"], "x0n": x0, "y0n": y0, "kx": kx, "ky": ky,
                            "w": w, "h": h, "y_off": y_off, "imgs": imgs})
             y_off += h
     if not pieces:
@@ -252,21 +213,21 @@ def detect_from_layout(layout):
     for p in layout["pieces"]:
         for ix0, iy0, ix1, iy1 in p["imgs"]:
             box = [ix0 / W, (p["y_off"] + iy0) / H, ix1 / W, (p["y_off"] + iy1) / H]
-            out.append({"type": "image", "bbox": [round(min(max(v, 0.0), 1.0), 4) for v in box]})
+            out.append([round(min(max(v, 0.0), 1.0), 4) for v in box])
     return out
 
 
 def empty_reason(name, sources):
     ident = identify(name, sources)
     if not ident:
-        return f"name does not start with a json stem in '{MINERU_DIR}' or lacks '_q<n>'"
+        return f"name does not start with a json stem in '{GEMINI_DIR}' or lacks '_q<n>'"
     stem, q = ident
-    exam = sources.exam(stem)
-    if exam is None:
-        return f"missing mineru/gemini json for {stem}"
-    if not question_strips(exam[2], q):
+    blocks = sources.blocks(stem)
+    if blocks is None:
+        return f"missing gemini json for {stem}"
+    if not question_blocks(blocks, q):
         return f"question q{q} not found in gemini json of {stem}"
-    return "no image/figure block inside the question bbox"
+    return "no image/figure box inside the question"
 
 
 def build_detections(names, paths, sources):
@@ -328,7 +289,7 @@ def review(names, paths, out_dir, det, layouts, sources, scale):
             self.i = i
             name = names[i]
             self.img = Image.open(paths[name]).convert("RGB")
-            self.orig = [list(b["bbox"]) for b in det.get(name, []) if b["type"] in IMAGE_TYPES]
+            self.orig = [list(b) for b in det.get(name, [])]
             self.boxes = sort_boxes([list(b) for b in (rev[name]["boxes"] if name in rev else self.orig)])
             self.sel, self.hist = set(), []
             self.draw()
